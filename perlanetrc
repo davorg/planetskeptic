@@ -1,0 +1,50 @@
+title: Planet Skeptic
+description: Question Everything
+url: http://skeptic.theplanetarium.org/
+author:
+  name: Dave Cross
+  email: dave@dave.org.uk
+entries: 50
+opml: opml.xml
+page:
+  file: index.html
+  template: index.tt
+feed:
+  file: atom.xml
+  format: Atom
+cache_dir: /tmp/skeptic
+feeds:
+  - url: https://www.badscience.net/feed/
+    title: bad science
+    web: https://www.badscience.net/
+  - url: https://teenatheist.wordpress.com/feed/
+    title: diary of a teenage atheist
+    web: https://teenatheist.wordpress.com
+  - url: https://www.mediawatchwatch.org.uk/wp-rss.php
+    title: media watch watch
+    web: https://www.mediawatchwatch.org.uk/
+  - url: https://blog.newhumanist.org.uk/feeds/posts/default
+    title: new humanist blog
+    web: https://blog.newhumanist.org.uk/
+  - url: https://freethoughtblogs.com/pharyngula/feed/
+    title: pharyngula
+    web: https://freethoughtblogs.com/pharyngula
+  - url: https://feeds.feedburner.com/richarddawkins
+    title: richard dawkins foundation
+    web: https://richarddawkins.net/
+  - url: https://feeds.feedburner.com/SamHarris
+    title: sam harris
+    web: https://www.samharris.org/
+  - url: https://feeds.feedburner.com/Skepchick
+    title: skepchick
+    web: https://skepchick.org/blog/
+  - url: https://www.cockbucket.com/feed/atom/
+    title: cockbucket
+    web: https://www.cockbucket.com/
+  - url: https://richardwiseman.wordpress.com/feed/
+    title: richard wiseman
+    web: https://richardwiseman.wordpress.com/
+  - url: https://schoolofdoubt.com/feed/
+    title: school of doubt
+    web: https://schoolofdoubt.com/
+
