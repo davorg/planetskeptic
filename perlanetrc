@@ -20,27 +20,24 @@ feeds:
   - url: https://teenatheist.wordpress.com/feed/
     title: diary of a teenage atheist
     web: https://teenatheist.wordpress.com
-  - url: https://www.mediawatchwatch.org.uk/wp-rss.php
+  - url: https://www.mediawatchwatch.org.uk/feed/
     title: media watch watch
     web: https://www.mediawatchwatch.org.uk/
-  - url: https://blog.newhumanist.org.uk/feeds/posts/default
+  - url: https://feeds.feedburner.com/RaBlogFull
     title: new humanist blog
-    web: https://blog.newhumanist.org.uk/
+    web: https://newhumanist.org.uk/
   - url: https://freethoughtblogs.com/pharyngula/feed/
     title: pharyngula
     web: https://freethoughtblogs.com/pharyngula
-  - url: https://feeds.feedburner.com/richarddawkins
+  - url: https://www.richarddawkins.net/feed/
     title: richard dawkins foundation
     web: https://richarddawkins.net/
-  - url: https://feeds.feedburner.com/SamHarris
+  - url: https://samharris.org/feed/
     title: sam harris
     web: https://www.samharris.org/
   - url: https://feeds.feedburner.com/Skepchick
     title: skepchick
-    web: https://skepchick.org/blog/
-  - url: https://www.cockbucket.com/feed/atom/
-    title: cockbucket
-    web: https://www.cockbucket.com/
+    web: https://skepchick.org/
   - url: https://richardwiseman.wordpress.com/feed/
     title: richard wiseman
     web: https://richardwiseman.wordpress.com/
