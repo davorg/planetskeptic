@@ -63,7 +63,6 @@ body {
 [% FOREACH entry IN feed.entries -%]
           <div class="panel panel-default">
 [% feedname = entry.feed.title -%]
-[% END -%]
             <div class="panel-heading">
               <h2><a href="[% entry.link %]">[% entry.title | html %]</a></h2>
             </div><!-- panel-heading -->
