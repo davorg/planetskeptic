@@ -7,9 +7,29 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2020-11-30T14:36:01Z</updated>
+  <updated>2020-11-30T15:38:53Z</updated>
   <link rel="self" href="http://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Incomplete subset, phrase not appropriate</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2020/11/30/incomplete-subset-phrase-not-appropriate/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p class="lead">Dang it. I sympathize with the sentiment here.</p>
+<p><a href="https://freethoughtblogs.com/pharyngula/files/2020/11/avoidcontact.jpg"><img src="https://freethoughtblogs.com/pharyngula/files/2020/11/avoidcontact-500x334.jpg" alt="" width="500" height="334" class="aligncenter size-large wp-image-61125" srcset="https://freethoughtblogs.com/pharyngula/files/2020/11/avoidcontact-500x334.jpg 500w, https://freethoughtblogs.com/pharyngula/files/2020/11/avoidcontact-150x100.jpg 150w, https://freethoughtblogs.com/pharyngula/files/2020/11/avoidcontact-300x200.jpg 300w, https://freethoughtblogs.com/pharyngula/files/2020/11/avoidcontact.jpg 640w" sizes="(max-width: 500px) 100vw, 500px"/></a></p>
+<p>But now it’s ruined, because to be fair you should stop right after “AVOID CONTACT WITH ANYONE”, period.</p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Dang it. I sympathize with the sentiment here. But now it’s ruined, because to be fair you should stop right after “AVOID CONTACT WITH ANYONE”, period.</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=61124</id>
+    <published>2020-11-30T14:49:47Z</published>
+    <updated>2020-11-30T14:49:47Z</updated>
+    <category term="Religion and Government"/>
+  </entry>
   <entry>
     <title>Three religions at once</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2020/11/30/three-religions-at-once/" type="text/html"/>
@@ -139,25 +159,6 @@ This is a big one: you need a specific model of how heredity works to understand
     <updated>2020-11-29T00:39:02Z</updated>
     <category term="Bad science"/>
     <category term="Science"/>
-  </entry>
-  <entry>
-    <title>The true cop flag revealed</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2020/11/28/the-true-cop-flag-revealed/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p class="lead">Shoddy workmanship.</p>
-<p><a href="https://freethoughtblogs.com/pharyngula/files/2020/11/trueflag.jpg"><img src="https://freethoughtblogs.com/pharyngula/files/2020/11/trueflag-500x263.jpg" alt="" width="500" height="263" class="aligncenter size-large wp-image-61102" srcset="https://freethoughtblogs.com/pharyngula/files/2020/11/trueflag-500x263.jpg 500w, https://freethoughtblogs.com/pharyngula/files/2020/11/trueflag-150x79.jpg 150w, https://freethoughtblogs.com/pharyngula/files/2020/11/trueflag-300x158.jpg 300w, https://freethoughtblogs.com/pharyngula/files/2020/11/trueflag-768x403.jpg 768w, https://freethoughtblogs.com/pharyngula/files/2020/11/trueflag.jpg 960w" sizes="(max-width: 500px) 100vw, 500px"/></a></p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Shoddy workmanship.</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=61101</id>
-    <published>2020-11-28T14:57:52Z</published>
-    <updated>2020-11-28T14:57:52Z</updated>
-    <category term="Politics, History, and Law"/>
   </entry>
   <entry>
     <title>The COVID-19 Vaccine is 95% Effective. What Does That Mean? And Why is Herd Immunity via the Vaccine Better than Just Getting the Virus?</title>
