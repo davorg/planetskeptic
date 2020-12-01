@@ -7,9 +7,33 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2020-12-01T15:41:33Z</updated>
+  <updated>2020-12-01T16:58:02Z</updated>
   <link rel="self" href="http://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Sean Bean did it</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2020/12/01/sean-bean-did-it/" type="text/html"/>
+    <content type="html">&lt;p class="lead"&gt;Those catastrophic hijinks atop the telescope, and the explosions, couldn&amp;#8217;t have been good for the structure.&lt;/p&gt;
+&lt;div class="center"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/jp9tENRDVzA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;p&gt;Seriously, and sadly, the &lt;a href="https://www.theguardian.com/world/2020/dec/01/arecibo-radio-telescope-collapses-puerto-rico"&gt;Arecibo radio telescope has collapsed&lt;/a&gt;. It&amp;#8217;s done.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://freethoughtblogs.com/pharyngula/files/2020/12/arecibo.jpg"&gt;&lt;img src="https://freethoughtblogs.com/pharyngula/files/2020/12/arecibo-500x300.jpg" alt="" width="500" height="300" class="aligncenter size-large wp-image-61145" srcset="https://freethoughtblogs.com/pharyngula/files/2020/12/arecibo-500x300.jpg 500w, https://freethoughtblogs.com/pharyngula/files/2020/12/arecibo-150x90.jpg 150w, https://freethoughtblogs.com/pharyngula/files/2020/12/arecibo-300x180.jpg 300w, https://freethoughtblogs.com/pharyngula/files/2020/12/arecibo.jpg 620w" sizes="(max-width: 500px) 100vw, 500px" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;A huge radio telescope in Puerto Rico that has played a key role in astronomical discoveries for more than half a century collapsed on Tuesday, officials said.&lt;/p&gt;
+&lt;p&gt;The telescope’s 900-ton receiver platform fell onto the reflector dish more than 400 feet below.&lt;/p&gt;
+&lt;p&gt;The US National Science Foundation had earlier announced that the Arecibo Observatory would be closed. An auxiliary cable snapped in August, causing a 100ft gash on the 1,000ft-wide (305m) reflector dish and damaged the receiver platform that hung above it. Then a main cable broke in early November.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Rather than blaming Sean Bean, though, I should note that this is another example of the decay of our scientific infrastructure on Donald Trump&amp;#8217;s watch. You don&amp;#8217;t he really cares about a radio telescope, or Puerto Rico, do you?&lt;/p&gt;
+</content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Those catastrophic hijinks atop the telescope, and the explosions, couldn’t have been good for the structure. Seriously, and sadly, the Arecibo radio telescope has collapsed. It’s done. A huge radio telescope in Puerto Rico that has played a key role in astronomical discoveries for more than half a century collapsed on Tuesday, officials said. The […]</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=61144</id>
+    <published>2020-12-01T16:25:34Z</published>
+    <updated>2020-12-01T16:25:34Z</updated>
+    <category term="Politics, History, and Law"/>
+    <category term="Science"/>
+  </entry>
   <entry>
     <title>Wow. Kevin Sorbo is an idiot</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2020/12/01/wow-kevin-sorbo-is-an-idiot/" type="text/html"/>
@@ -166,24 +190,6 @@
     <updated>2020-11-30T20:32:08Z</updated>
     <category term="Academics"/>
     <category term="Miscellaneous and Meta"/>
-  </entry>
-  <entry>
-    <title>Send your winter art photos to us for glory and fame!</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2020/11/30/send-your-winter-art-photos-to-us-for-glory-and-fame/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p class="lead">A reminder: we’ve got a <a href="https://freethoughtblogs.com/fundraising/">fundraiser</a> coming up, and one of the things we’re doing is collecting winter art.  Send your beautiful photos with a winter them to <a href="mailto:affinitysubmissions@gmail.com">affinitysubmissions@gmail.com</a>, and maybe they’ll appear in the <a href="https://freethoughtblogs.com/affinity/tag/WinterFest2020/"><strong>Winter Photo Gallery</strong></a>!</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">A reminder: we’ve got a fundraiser coming up, and one of the things we’re doing is collecting winter art. Send your beautiful photos with a winter them to affinitysubmissions@gmail.com, and maybe they’ll appear in the Winter Photo Gallery!</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=61131</id>
-    <published>2020-11-30T18:12:15Z</published>
-    <updated>2020-11-30T18:12:15Z</updated>
-    <category term="Art"/>
   </entry>
   <entry>
     <title>Bolsonaro's war on abortion</title>
