@@ -7,9 +7,26 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2020-12-04T19:42:39Z</updated>
+  <updated>2020-12-04T20:43:44Z</updated>
   <link rel="self" href="http://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Victory celebration!</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2020/12/04/victory-celebration/" type="text/html"/>
+    <content type="html">&lt;p class="lead"&gt;It&amp;#8217;s been one year since we sunk our foe in a triumphant legal victory, so we happy defendants are going to have an orgy of back-patting and self-congratulation tomorrow evening at 6:30pm Central. It&amp;#8217;s public! Come join us!&lt;/p&gt;
+&lt;div class="center"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/NzbTXTvMpaA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+</content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">It’s been one year since we sunk our foe in a triumphant legal victory, so we happy defendants are going to have an orgy of back-patting and self-congratulation tomorrow evening at 6:30pm Central. It’s public! Come join us!</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=61199</id>
+    <published>2020-12-04T20:30:50Z</published>
+    <updated>2020-12-04T20:30:50Z</updated>
+    <category term="Miscellaneous and Meta"/>
+  </entry>
   <entry>
     <title>This exists</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2020/12/04/this-exists/" type="text/html"/>
@@ -108,23 +125,6 @@
     <published>2020-12-04T01:31:56Z</published>
     <updated>2020-12-04T01:31:56Z</updated>
     <category term="Science"/>
-  </entry>
-  <entry>
-    <title>Let’s all pile on Dawkins!</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2020/12/03/lets-all-pile-on-dawkins/" type="text/html"/>
-    <content type="html">&lt;p class="lead"&gt;Rebecca Watson gives him a &lt;a href="https://skepchick.org/2020/12/richard-dawkins-doesnt-know-what-a-woman-is/"&gt;rebuke in her latest video&lt;/a&gt;, and you know she&amp;#8217;s got to be right because she quotes me.&lt;/p&gt;
-&lt;div class="center"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/3jlTw05dtmM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-</content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Rebecca Watson gives him a rebuke in her latest video, and you know she’s got to be right because she quotes me.</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=61186</id>
-    <published>2020-12-03T20:15:08Z</published>
-    <updated>2020-12-03T20:15:08Z</updated>
-    <category term="Feminism, Gender, and Equality"/>
   </entry>
   <entry>
     <title>Richard Dawkins Doesn’t Know What a Woman Is</title>
