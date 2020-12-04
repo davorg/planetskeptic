@@ -7,9 +7,34 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2020-12-04T01:23:08Z</updated>
+  <updated>2020-12-04T02:02:27Z</updated>
   <link rel="self" href="http://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>A quick announcement of a new YouTube series</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2020/12/03/a-quick-announcement-of-a-new-youtube-series/" type="text/html"/>
+    <content type="html">&lt;p class="lead"&gt;Let&amp;#8217;s talk about evo-devo!&lt;/p&gt;
+&lt;div class="center"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/vB7f_9gPazU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;p&gt;&lt;span id="more-61188"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;I&amp;#8217;m making an announcement and an invitation. I&amp;#8217;m starting a shiny new series here on YouTube in which I&amp;#8217;l be discussing some of my favorite science topics in the whole world. That is, I&amp;#8217;ll be talking about GOOD SCIENCE, and nothing but good science.&lt;/p&gt;
+&lt;p&gt;I am by training a developmental biologist, which incorporates a lot of the disciplines I teach here at the University of Minnesota Morris, such as cell biology, genetics, and molecular biology, and in addition I&amp;#8217;ve studied evolutionary biology and neuroscience. I&amp;#8217;m an interdisciplinary kind of guy! One of the more exciting innovations of the last 40 years is the science of evo-devo, and that&amp;#8217;s what I&amp;#8217;m going to talk about.&lt;/p&gt;
+&lt;p&gt;If you&amp;#8217;re wondering what evo-devo is, that&amp;#8217;s going to be the subject of my first video, which I&amp;#8217;m planning to present next week. I&amp;#8217;ll be giving a general introduction to the evo-devo for the first few videos, and then we&amp;#8217;ll dive into some fun papers. It&amp;#8217;ll be great, I promise! Although I also warn you, I&amp;#8217;ll be cutting away some of the hype &amp;#8212; for instance, I don&amp;#8217;t think the value of evo-devo lies so much in newness, as it does in the integration of old sciences into a coherent whole.&lt;/p&gt;
+&lt;p&gt;I&amp;#8217;m calling this series &amp;#8220;Evo-Devo Diary&amp;#8221; because, first of all, it&amp;#8217;s going to be entirely from my personal perspective, and secondly, I want to keep it casual and approachable. I hope you&amp;#8217;ll like it and learn something, too.&lt;/p&gt;
+&lt;p&gt;So I&amp;#8217;m just saying, if you want to find out more about evo-devo, this would be a good time to subscribe to this channel, and hey, click that notification bell. I&amp;#8217;ve got a whole month and a half between semesters, so I&amp;#8217;m hoping I can make this a regular, weekly event for at least a while.&lt;/p&gt;
+&lt;p&gt;I&amp;#8217;ll see you all next week with some cool science!&lt;/p&gt;
+</content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Let’s talk about evo-devo! I’m making an announcement and an invitation. I’m starting a shiny new series here on YouTube in which I’l be discussing some of my favorite science topics in the whole world. That is, I’ll be talking about GOOD SCIENCE, and nothing but good science. I am by training a developmental biologist, […]</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=61188</id>
+    <published>2020-12-04T01:31:56Z</published>
+    <updated>2020-12-04T01:31:56Z</updated>
+    <category term="Science"/>
+  </entry>
   <entry>
     <title>Let’s all pile on Dawkins!</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2020/12/03/lets-all-pile-on-dawkins/" type="text/html"/>
@@ -100,24 +125,6 @@
     <published>2020-12-03T15:30:26Z</published>
     <updated>2020-12-03T15:30:26Z</updated>
     <category term="Miscellaneous and Meta"/>
-  </entry>
-  <entry>
-    <title>Chang’e-5 lands on the Moon</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2020/12/03/change-5-lands-on-the-moon/" type="text/html"/>
-    <content type="html">&lt;p class="lead"&gt;The China National Space Administration has landed a probe on the Moon, and released video from the on-board camera.&lt;/p&gt;
-&lt;div class="center"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/VS9zr6MrCiM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-&lt;p&gt;The music sounds familiar, but for some reason I think the probe ought to be spinning more.&lt;/p&gt;
-</content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">The China National Space Administration has landed a probe on the Moon, and released video from the on-board camera. The music sounds familiar, but for some reason I think the probe ought to be spinning more.</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=61176</id>
-    <published>2020-12-03T15:08:23Z</published>
-    <updated>2020-12-03T15:08:23Z</updated>
-    <category term="Science"/>
   </entry>
   <entry>
     <title>Supreme Court Allows Churches to Kill Worshippers</title>
