@@ -7,9 +7,26 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2020-12-05T23:43:20Z</updated>
+  <updated>2020-12-06T01:27:18Z</updated>
   <link rel="self" href="http://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Our victory celebration will be starting soon</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2020/12/05/our-victory-celebration-will-be-starting-soon/" type="text/html"/>
+    <content type="html">&lt;p class="lead"&gt;Stop by and say hello!&lt;/p&gt;
+&lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/NzbTXTvMpaA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+</content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Stop by and say hello!</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=61208</id>
+    <published>2020-12-06T00:18:21Z</published>
+    <updated>2020-12-06T00:18:21Z</updated>
+    <category term="Miscellaneous and Meta"/>
+  </entry>
   <entry>
     <title>Creativity without the woo</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2020/12/05/creativity-without-the-woo/" type="text/html"/>
@@ -108,34 +125,6 @@
     <published>2020-12-04T17:32:17Z</published>
     <updated>2020-12-04T17:32:17Z</updated>
     <category term="Atheism and Skepticism"/>
-  </entry>
-  <entry>
-    <title>Syracuse, you still there?</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2020/12/04/syracuse-you-still-there/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p class="lead">Of course you are, but maybe you didn’t notice the meteor that tried to kill you. I have to say, though, that the <a href="https://www.syracuse.com/news/2020/12/after-a-million-year-journey-a-meteor-explodes-above-syracuse-in-2020.html">news report is full of admirable scientific detail</a>.</p>
-<blockquote><p>This meteor was so bright that it was captured by a NASA satellite that monitors lightning. The bits of debris scattered after the meteor exploded could likely be seen on National Weather Service radar. And the sonic boom was detected in Ontario by a seismograph, the instrument that records earthquakes.</p>
-<p>When the meteor finally got hot enough to explode, Cooke said, it released as much energy as 66 tons of dynamite.</p>
-<p>“When it broke apart it produced a shock wave that produced the sonic boom that people heard,” he said.</p>
-<p>The meteor was just under 3 feet across and weighed about 1,800 pounds, NASA estimated. That’s hefty as meteors go: The shooting stars seen in annual meteor showers are not bigger than small pebbles or golf balls.</p>
-<p>Wednesday’s meteor crashed into the atmosphere at 56,000 mph.</p>
-<p>“That’s slow for a meteor, actually,” Cooke said. “Some, like the Leonids, move at 150,000 mph.”</p>
-<p>The relatively sluggish speed indicates that the meteor probably broke loose from the asteroid belt that lies between Mars and Jupiter, about 92 million miles from Earth. That’s as far from Earth as the sun is.</p>
-<p>As the meteor pushed through Earth’s increasingly thickening atmosphere, it reached an estimated temperature of 5,000 degrees Fahrenheit. For comparison, the surface of the sun is a little less than 10,000 degrees.</p>
-<p>Cooke said the rock – technically called a meteoroid before it hits the Earth’s atmosphere and becomes a meteor — was the color of pencil lead. As it burst into a fireball, it emitted light 100 times brighter than a full moon.</p></blockquote>
-<p>So, Syracuse, how’s it feel to have not been destroyed by an 1800 pound rock traveling at 56,000 mph, exploding with the force of 66 tons of dynamite, that has been traveling for millions of years to get you? You should feel special.</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Of course you are, but maybe you didn’t notice the meteor that tried to kill you. I have to say, though, that the news report is full of admirable scientific detail. This meteor was so bright that it was captured by a NASA satellite that monitors lightning. The bits of debris scattered after the meteor […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=61193</id>
-    <published>2020-12-04T17:03:40Z</published>
-    <updated>2020-12-04T17:03:40Z</updated>
-    <category term="Science"/>
   </entry>
   <entry>
     <title>Richard Dawkins Doesn’t Know What a Woman Is</title>
