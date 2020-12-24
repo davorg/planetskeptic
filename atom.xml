@@ -7,9 +7,30 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2020-12-24T03:52:37Z</updated>
+  <updated>2020-12-24T04:57:16Z</updated>
   <link rel="self" href="http://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Tsk, tsk, tsk, Mr Richards</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2020/12/23/tsk-tsk-tsk-mr-richards/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p class="lead">In a <a href="https://freethoughtblogs.com/pharyngula/2020/12/23/you-didnt-think-atheist-alliance-international-was-a-respectable-organization-did-you/">previous post</a>, I quoted John Richards, who said of Lawrence Krauss:</p>
+<blockquote class="creationist"><p>He was a personal friend of Christopher Hitchens, who sadly died nine years and three days ago (there’s been talk about designating December 15th “Hitchmas”) and he was an expert witness at the Kitzmiller vs Dover Area School District trial of Intelligent Design*.</p></blockquote>
+<p>I pointed out the “Hitchmas” nonsense, but I should have also mentioned that no, Krauss was not <q>an expert witness at the Kitzmiller vs Dover Area School District trial of Intelligent Design</q>. In fact, he had nothing to do with the Kitzmiller trial.</p>
+<p>What a curious little claim. Why would Richards just make that up?</p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">In a previous post, I quoted John Richards, who said of Lawrence Krauss: He was a personal friend of Christopher Hitchens, who sadly died nine years and three days ago (there’s been talk about designating December 15th “Hitchmas”) and he was an expert witness at the Kitzmiller vs Dover Area School District trial of Intelligent […]</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=61405</id>
+    <published>2020-12-24T04:14:30Z</published>
+    <updated>2020-12-24T04:14:30Z</updated>
+    <category term="Atheism and Skepticism"/>
+  </entry>
   <entry>
     <title>Who doesn’t love the Heidelberg Screen?</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2020/12/23/who-doesnt-love-the-heidelberg-screen/" type="text/html"/>
@@ -265,32 +286,6 @@ And this is where we start to get into the real evo of evo devo. Once Nusslein-V
     <published>2020-12-22T17:40:31Z</published>
     <updated>2020-12-22T17:40:31Z</updated>
     <category term="Miscellaneous and Meta"/>
-  </entry>
-  <entry>
-    <title>Moscow Mitch is lying again</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2020/12/22/moscow-mitch-is-lying-again/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p class="lead">The Republicans are trying to spin <em>everything</em>. Now they’re <a href="https://www.washingtonpost.com/opinions/2020/12/22/mcconnell-covid-relief-spin-senate-control/">trying to claim the tepid relief bill that made it out the door recently is all their doing</a>, and the Democrats only agreed to prop up the incoming Democratic president-elect.</p>
-<blockquote><p>As Congress passed a new $900 billion economic rescue package on Monday night, Senate Majority Leader Mitch McConnell (R-Ky.) offered a choice bit of spin on how we got to this moment:</p>
-<blockquote class="creationist"><p>“A few days ago, with a new president-elect of their own party, everything changed,” Mr. McConnell said on Monday. “Democrats suddenly came around to our position that we should find consensus, make law where we agree, and get urgent help out the door.”</p></blockquote>
-<p>Getting the story right here is highly consequential. It will shape the arguments that determine the outcome of the Georgia runoffs — and control of the Senate — and should leave little doubt that continued GOP control means McConnell will strive to sabotage the recovery to cripple Joe Biden’s presidency.</p>
-<p>This is what McConnell wants to obscure. Because as he has privately admitted, the failure of Congress to deliver a robust aid package to people is putting his Georgia Sens. Kelly Loeffler (R) and David Perdue (R) at risk.</p>
-<p>So McConnell wants voters — especially those in Georgia — to believe Republicans supported generous aid all along, particularly the stimulus checks in the new deal, and that Democrats refused to act, to harm President Trump’s reelection campaign.</p></blockquote>
-<p>It’s an astonishing bit of political theater. He opposed any relief bill, fought against any proposals for months and months, and only now when when he’s trying to provide good news for Republicans in Georgia does he come around.</p>
-<blockquote><p>McConnell even acknowledged that a vote would disrupt plans to confirm Amy Coney Barrett to the Supreme Court, and refused to commit to a vote before Election Day. That wrecks the story McConnell is telling: He opposed a vote before the election, despite his revisionism that Pelosi did not want compromise to hurt Trump.</p></blockquote>
-<p>It’s projection all around. He accuses Democrats of obstructing relief efforts; it was the Republicans all along. He accuses Democrats of only coming around when they saw political gain for their party; the truth is he’s only supporting it because Loeffler (who opposed all relief!) and Perdue need the help.</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">The Republicans are trying to spin everything. Now they’re trying to claim the tepid relief bill that made it out the door recently is all their doing, and the Democrats only agreed to prop up the incoming Democratic president-elect. As Congress passed a new $900 billion economic rescue package on Monday night, Senate Majority Leader […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=61393</id>
-    <published>2020-12-22T17:17:50Z</published>
-    <updated>2020-12-22T17:17:50Z</updated>
-    <category term="Politics, History, and Law"/>
   </entry>
   <entry>
     <title>Covid-19 Vaccine Questions: Are mRNA Vaccines Safe? Will They Alter my DNA? How Do They Work?</title>
@@ -1203,7 +1198,7 @@ F: 618/453-3253</p></blockquote>
   </entry>
   <entry>
     <title>Catholic Church “Opus Dei” decision due Friday</title>
-    <link rel="alternate" href="http://www.mediawatchwatch.org.uk/2013/03/12/catholic-church-opus-dei-decision-due-friday/" type="text/html"/>
+    <link rel="alternate" href="http://feedproxy.google.com/~r/Mediawatchwatch/~3/h543nuGAi7k/" type="text/html"/>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml"><p>Remember <a href="http://www.mediawatchwatch.org.uk/2009/06/25/opus-dei-sets-its-lawyers-on-atheist-game-makers/">this story</a> about the Danish games maker taken to court for calling one of their products “Opus-Dei”? There is a press release today.</p>
 <div id="attachment_2087" style="width: 210px" class="wp-caption aligncenter"><a href="http://www.mediawatchwatch.org.uk/wp-content/uploads/2009/06/opusdeigame.jpg"><img class="size-full wp-image-2087" src="http://www.mediawatchwatch.org.uk/wp-content/uploads/2009/06/opusdeigame.jpg" alt="Opus Dei: The game, not the sinister, secretive cult" width="200" height="381" srcset="http://www.mediawatchwatch.org.uk/wp-content/uploads/2009/06/opusdeigame.jpg 200w, http://www.mediawatchwatch.org.uk/wp-content/uploads/2009/06/opusdeigame-78x150.jpg 78w, http://www.mediawatchwatch.org.uk/wp-content/uploads/2009/06/opusdeigame-157x300.jpg 157w" sizes="(max-width: 200px) 100vw, 200px"/></a><p class="wp-caption-text"><b>Opus Dei</b>: The game, not the sinister, secretive cult</p></div>
@@ -1253,7 +1248,7 @@ Managing Director,</p>
   </entry>
   <entry>
     <title>Does this thing still work?</title>
-    <link rel="alternate" href="http://www.mediawatchwatch.org.uk/2012/07/13/does-this-thing-still-work/" type="text/html"/>
+    <link rel="alternate" href="http://feedproxy.google.com/~r/Mediawatchwatch/~3/MfDvvRydzaM/" type="text/html"/>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml"><p>I don’t know. Let’s see if <a href="http://www.london2012.com/">meretricious corporate fuckwads</a> has any effect.</p>
 <p>Amazingly, <em>vile hypocrite</em> still seems to work a treat after all these years. (Do a g-search on it. That was us. We did that!)</p>
@@ -1273,7 +1268,7 @@ Managing Director,</p>
   </entry>
   <entry>
     <title>Tim Minchin “fucking disappointed” as Xmas song is censored by ITV</title>
-    <link rel="alternate" href="http://www.mediawatchwatch.org.uk/2011/12/22/tim-minchin-fucking-disappointed-as-xmas-song-is-censored/" type="text/html"/>
+    <link rel="alternate" href="http://feedproxy.google.com/~r/Mediawatchwatch/~3/su3Y9JrFSw4/" type="text/html"/>
     <content type="html">&lt;p&gt;Atheist Aussie songwriter Tim Minchin wrote a Christmas song especially for the Jonathan Ross show, due to be aired tomorrow (Friday 23rd December). It&amp;#8217;s a typically witty, off-the-wall composition which compares Jesus to Woody Allen, and several other things.&lt;/p&gt;
 &lt;p&gt;&lt;iframe width="500" height="375" src="http://www.youtube.com/embed/_SFdUJLebzU?fs=1&amp;#038;feature=oembed" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;p&gt;Everyone was happy with it, until someone got worried and sent the tape to the director of programming, Peter Fincham, who demanded that it be cut from the show.&lt;/p&gt;
@@ -1295,7 +1290,7 @@ He did this because he’s scared of the ranty, shit-stirring, right-wing press,
   </entry>
   <entry>
     <title>The latest Charlie Hebdo cover</title>
-    <link rel="alternate" href="http://www.mediawatchwatch.org.uk/2011/11/08/the-latest-charlie-hebdo-cover/" type="text/html"/>
+    <link rel="alternate" href="http://feedproxy.google.com/~r/Mediawatchwatch/~3/Vbef--cVCuo/" type="text/html"/>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml"><p><a href="http://www.theweek.co.uk/europe/satire/42173/charlie-hebdo-risks-further-muslim-wrath-gay-kiss">Hats off</a> to Charlie Hebdo. This is tomorrow’s cover:<br/>
 <div id="attachment_2854" style="width: 506px" class="wp-caption aligncenter"><a href="http://www.mediawatchwatch.org.uk/wp-content/uploads/2011/11/hebdocover2.png"><img src="http://www.mediawatchwatch.org.uk/wp-content/uploads/2011/11/hebdocover2.png" alt="" title="hebdocover2" width="496" height="625" class="size-full wp-image-2854" srcset="http://www.mediawatchwatch.org.uk/wp-content/uploads/2011/11/hebdocover2.png 496w, http://www.mediawatchwatch.org.uk/wp-content/uploads/2011/11/hebdocover2-119x150.png 119w, http://www.mediawatchwatch.org.uk/wp-content/uploads/2011/11/hebdocover2-238x300.png 238w" sizes="(max-width: 496px) 100vw, 496px"/></a><p class="wp-caption-text"><strong>Love is stronger than hate</strong>: A Muslim and a cartoonist snog sloppily in front of the smouldering remains of an office</p></div></p>
@@ -1314,7 +1309,7 @@ He did this because he’s scared of the ranty, shit-stirring, right-wing press,
   </entry>
   <entry>
     <title>Charlie Hebdo to publish “as if nothing happened”</title>
-    <link rel="alternate" href="http://www.mediawatchwatch.org.uk/2011/11/08/charlie-hebdo-to-publish-as-if-nothing-happened/" type="text/html"/>
+    <link rel="alternate" href="http://feedproxy.google.com/~r/Mediawatchwatch/~3/_MOR2RTM3vU/" type="text/html"/>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml"><p>Housed in its temporary offices at <em>Liberation</em>, <em>Charlie Hebdo</em> <a href="http://www.liberation.fr/societe/01012369905-rassemblement-a-paris-pour-soutenir-charlie">looks set to publish on schedule</a> tomorrow, uninterrupted by last week’s devastating firebomb.</p>
 <p>Hundreds of people demonstrated in support of the satirical weekly on Sunday.<br/>
