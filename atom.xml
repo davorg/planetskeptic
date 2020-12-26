@@ -7,9 +7,26 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2020-12-26T01:37:07Z</updated>
+  <updated>2020-12-26T02:56:25Z</updated>
   <link rel="self" href="http://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>What’s on my bookshelf?</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2020/12/25/whats-on-my-bookshelf/" type="text/html"/>
+    <content type="html">&lt;p class="lead"&gt;I was asked to say what books are on my bookshelf, so sure, I gave a quick tour of one shelf.&lt;/p&gt;
+&lt;div class="center"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/nuQrkeSC1VA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+</content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">I was asked to say what books are on my bookshelf, so sure, I gave a quick tour of one shelf.</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=61415</id>
+    <published>2020-12-26T02:21:03Z</published>
+    <updated>2020-12-26T02:21:03Z</updated>
+    <category term="Miscellaneous and Meta"/>
+  </entry>
   <entry>
     <title>What are you doing the day after Christmas?</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2020/12/25/what-are-you-doing-the-day-after-christmas/" type="text/html"/>
@@ -89,66 +106,6 @@
     <published>2020-12-24T04:14:30Z</published>
     <updated>2020-12-24T04:14:30Z</updated>
     <category term="Atheism and Skepticism"/>
-  </entry>
-  <entry>
-    <title>Who doesn’t love the Heidelberg Screen?</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2020/12/23/who-doesnt-love-the-heidelberg-screen/" type="text/html"/>
-    <content type="html">&lt;p class="lead"&gt;Despite ongoing concerns about power outages from this blizzard, I raced through to get another episode of my Evo Devo Diary up. And here it is!&lt;/p&gt;
-&lt;div class="center"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/RKem9pc9McQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-&lt;p&gt;Of course there is a script below the fold. Also recommended, this paper:&lt;br /&gt;
-The Heidelberg Screen for Pattern Mutants of Drosophila: A Personal Account&lt;br /&gt;
-Eric Wieschaus and Christiane Nüsslein-Volhard&lt;/p&gt;
-&lt;p&gt;Annual Review of Cell and Developmental Biology&lt;br /&gt;
-Vol. 32:1-46 (Volume publication date October 2016)&lt;br /&gt;
-First published online as a Review in Advance on August 3, 2016&lt;br /&gt;
-https://doi.org/10.1146/annurev-cellbio-113015-023138&lt;br /&gt;
-&lt;a href="https://www.annualreviews.org/doi/10.1146/annurev-cellbio-113015-023138"&gt;https://www.annualreviews.org/doi/10.1146/annurev-cellbio-113015-023138&lt;br /&gt;
-&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Also recommended:&lt;br /&gt;
-&lt;a href="https://amzn.to/2KShBex"&gt;&lt;i&gt;The Making of a Fly: The Genetics of Animal Design&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span id="more-61402"&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;Let’s continue with my little YouTube series on Evo Devo. Last week I gave some general background, and today I want to jump right in to some of the literature. But first I have to present a few more general insights.&lt;/p&gt;
-&lt;p&gt;The first thing I want to mention is the myth of THE scientific method. You’ve probably encountered this simplified version of the hypothetic-deductive method, which some people treat as dogma. I’m not particularly impressed with it.  In particular, some people, usually the people who don’t do science, treat it as the one true way to do science, which it isn’t, and like to throw up diagrams like this one to lecture us on how we should be doing science, and hector others for how they aren’t doing TRUE SCIENCE.&lt;/p&gt;
-&lt;p&gt;But also the emphasis is all wrong. Number one, first and foremost, ought to be OBSERVATION. The key skill you need to be a good scientist is being able to do good, precise, reliable observations: there are plenty of papers out there that are just documenting really cool stuff that were seen, no hypothesis really required.  They’re good science, even if they don’t fit well into this cartoon.&lt;/p&gt;
-&lt;p&gt;There is one other ingredient, but it’s magic. I’ll tell you what it is after I introduce today’s paper.&lt;/p&gt;
-&lt;p&gt;So, today what I want to talk about is the Heidelberg screen by Eric Wieschaus and Christiane Nüsslein-Volhard. It’s an amazing work. Although some of you might complain, that this is supposed to be a series about evodevo, and this is research in developmental genetics. It hardly talks about evolution at all! Have I already drifted off-topic?&lt;/p&gt;
-&lt;p&gt;No. You should be aware from last week’s video that I consider discipline boundaries to be bogus already, so what do I care? Good science integrates multiple ideas. Also, much evo devo uses the tools of developmental genetics, so this kind of work is foundational. You need to know developmental genetics to do developmental biology and evo devo any more!&lt;/p&gt;
-&lt;p&gt;So let’s talk about this excellent paper. It’s a retroactive review, written in 2016, of the work on early fly development done in the 1980s, eventually winning the Nobel Prize in 1995. This is the work that set the stage for the emergence of a set of ideas that we actually call evo devo now. I’ll link to it down below; it’s open access, but I should warn you that it’s almost 50 pages long. It’s good reading, though! The abstract say…&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;In large-scale mutagenesis screens performed in 1979-1980 at the EMBL in Heidelberg, we isolated mutations affecting the pattern or structure of the larval cuticle in Drosophila. The 600 mutants we characterized could be assigned to 120 genes and represent the majority of such genes in the genome. These mutants subsequently provided a rich resource for understanding many fundamental developmental processes, such as the transcriptional hierarchies controlling segmentation, the establishment of cell states by signaling pathways, and the differentiation of epithelial cells. Most of the Heidelberg genes are now molecularly known, and many of them are conserved in other animals, including humans. Although the screens were initially driven entirely by curiosity, the mutants now serve as models for many human diseases. In this review, we describe the rationale of the screening procedures and provide a classification of the genes on the basis of their initial phenotypes and the subsequent molecular analyses.&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;Remember I mentioned that there was another important ingredient to the scientific method? There it is: CURIOSITY. I love that the abstract admits that the primary motivation for this work was just simple curiosity. Don’t be ashamed of it because it isn’t in the Popperian model for science. We do this stuff just because we want to know, and that’s enough.&lt;/p&gt;
-&lt;p&gt;So what is this study? I remember when this first came out: what impressed me then was that it was a saturation mutagenesis study. They sat down and decided to do a massive genetic screen in which they treated flies with a mutagen to such a degree that they would mutate every gene that affects early development in the fly, and then examine all the resultant mutants. I read about this work as a graduate student, fully aware of how much work was involved, and terrified that this was going to be the new level of expectation in this field.  It was that impressive an accomplishment.&lt;/p&gt;
-&lt;p&gt;There was a method to their madness, though. The first thing they did was pick a good subject and an interesting question to answer.&lt;/p&gt;
-&lt;p&gt;This is the experimental organism, the larva of the fruit fly Drosophila melanogaster. What ought to be obvious is that there is a specific pattern here. This isn’t a featureless bland tube of a maggot — there are bristles and bumps organised in bands, with variation from band to band. In addition, there is patterning within each band — they have a specific orientation. They also vary from ventral to dorsal, so there is a whole lot of organisation here.&lt;/p&gt;
-&lt;p&gt;So what they did was look for significant variations to that pattern in their mutants. They had a set of criteria to constrain their search. First there is a set of mutants they didn’t want to waste time on.&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;    Do not keep: embryonic viable, lethal normal looking, lethal BFP (brown, faint, or pimples) &lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;Notice that one thing they were looking for is variations that were viable, or looked normal, or  had minor variations. This was key: they wanted genes that had major structural effects on the construction of the organism. There is a place for studying mutations that, for instance, wreck metabolism and kill the animal, but be aware that they are looking specifically for strong mutations that disrupt morphology — they aren’t going to waste time here on genes that affect pigment spots (again, there is definitely a place for that, just not in this study.)&lt;/p&gt;
-&lt;p&gt;The mutations they wanted met these criteria:&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt; Keep: cuticle differentiation, cuticle integrity, DV pattern, AP pattern, homeotic, other. &lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;That is, they effected the shape and form of the animal — they messed up the pattern you see in the larva. So anything that disrupted the pattern was good, anything, like a homeotic mutation, that transformed one part of the pattern into a different part of the animal was golden.&lt;/p&gt;
-&lt;p&gt;So, as the abstract says, they found 600 mutations that affected 120 different genes, which was great — it meant they had multiple alleles of each of these genes. If they’d only gone that far, this would have been a significant accomplishment, but the other part of their work that was just as impressive was the analysis. Once they had the genes, they could figure out the relationships between them, and they could also categorise them into groups — genes that affected dorsal-ventral polarity, for instance, or genes that regulated anterior-posterior patterning.&lt;/p&gt;
-&lt;p&gt;Further, we could look at relationships within an axis, and get an idea of the timing of development. For example, they identified 5 classes of anterior-posterior genes and when they were active (there is considerable overlap in timing, because flies have an accelerated and compressed pattern of development).&lt;br /&gt;
-The first class are the maternal genes. These are genes that needed to be active in the mother’s ovaries; the embryo doesn’t need to transcribe them. For instance, the mother fly packs the egg with RNA of a gene called bicoid, which specifies which end of the egg is anterior.&lt;/p&gt;
-&lt;p&gt;The second class are the gap genes. If any of these genes are knocked out, broad regions of the embryo fail to develop an appropriate pattern — they essentially demarcate the position of sets of bands in the embryo.&lt;/p&gt;
-&lt;p&gt;The third class, and a rather surprising one, are the pair rule genes. There are genes that are expressed only in the odd numbered segments, and others only in the even numbered segments. These are the genes that are essential for defining individual segments of the segmented larva.&lt;/p&gt;
-&lt;p&gt;Fourth are the segment polarity genes. Once you’ve defined a segment, these genes define what end of the segment is front, and which is back.&lt;/p&gt;
-&lt;p&gt;If you stain the embryo for one of the segment polarity genes, you get a beautiful pattern of horizontal stripes, one stripe for every segment. If you stain for a pair rule genes, you get horizontal stripes, but half as many, with a stripe in every other segment.&lt;br /&gt;
-Finally, we get the selector genes, also called the Hox genes. What they do is confer a specific segmental identity on each stripe — is it head or thorax or abdomen, and further, which segment of each region of the animal is it. These are the genes responsible for the familiar homeotic transformations, like putting a leg where an antenna should be.&lt;br /&gt;
-And this is where we start to get into the real evo of evo devo. Once Nusslein-Volhard and Wieschaus had cracked the code and identified the genes responsible for these crucial events in early fly development, other people could get into the act and search for those genes in other organisms, enabling evolutionary comparisons. And oh boy, did they.  Once you’ve got the code for a pair-rule gene, you could ask whether mice or nematodes or zebrafish or spiders or snakes have the same genes, and they do! Then we could go further and use those genes as probes to ask what mechanisms mice and nematodes and zebrafish and spiders and snakes use to assemble their body plans, and that’s where the fun begins. There are similarities — they all have some of the same pair-rule genes, for instance — and there are enlightening differences — vertebrates use the pair-rule gene hairy in segmentation, but it’s expressed in every segment, not every other segment.&lt;/p&gt;
-&lt;p&gt;Once you start trying to figure out how those differences evolved, then you’re right there in the heart of evo devo. (By the way, the genes that specify the heart are homologous in vertebrates and fruit flies. You see where this takes you? Suddenly you are seeing common descent made manifest, and you’re also studying the differences that make descent with variations so interesting.)&lt;/p&gt;
-&lt;p&gt;I hope that gets you all started on some foundational science for evo devo. I highly recommend Wieschaus &amp;amp; Nusslein-Volhard’s paper — don’t be intimidated by the length, it’s not as technical as I feared, and going through it will teach you some useful genetics. I’m planning to do a livestream to talk through it with you on Saturday at noon. I guess Friday was taken with some holy day or something, and besides, I’d rather take the opportunity to talk with my kids and grandkids on that day.&lt;/p&gt;
-&lt;p&gt;Also, if you’re really interested, an excellent book on the subject came out in the early 90s, The Making of a Fly by Peter Lawrence. There was a time when I taught a course in invertebrate developmental biology — just invertebrate work, which is kind of weird since the principles are the same across the animal kingdom — and this was the principle text. Also, every year I’d announce to my students that this work was going to win a Nobel Prize any day now, until the year they actually did win a Nobel and I could retire my gift of prophecy.&lt;/p&gt;
-&lt;p&gt;Right now, look at my list of patrons. You may have noticed the slightly different backdrop on this video. We’re having a blizzard outside, so I turned the camera to the other side of my office so you can see the hullabaloo going on out there. I’ve also got a clip of a sparrow that took refuge in a lamp housing out there, and a woodpecker that put up with some high winds to gobble down some suet. Poor things. It’s miserable out there.&lt;/p&gt;
-</content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Despite ongoing concerns about power outages from this blizzard, I raced through to get another episode of my Evo Devo Diary up. And here it is! Of course there is a script below the fold. Also recommended, this paper: The Heidelberg Screen for Pattern Mutants of Drosophila: A Personal Account Eric Wieschaus and Christiane Nüsslein-Volhard […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=61402</id>
-    <published>2020-12-23T22:59:43Z</published>
-    <updated>2020-12-23T22:59:43Z</updated>
-    <category term="Science"/>
   </entry>
   <entry>
     <title>VIDEO: The Translations Project on CFI Insider</title>
