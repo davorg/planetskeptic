@@ -7,9 +7,51 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2020-12-31T19:55:03Z</updated>
+  <updated>2020-12-31T20:47:14Z</updated>
   <link rel="self" href="http://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Salamander stories</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2020/12/31/salamander-stories/" type="text/html"/>
+    <content type="html">&lt;p class="lead"&gt;The subject today is variation in limb development in salamanders.&lt;/p&gt;
+&lt;div class="center"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/l2t1s9k5XvM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;hr /&gt;
+&lt;p&gt;Today I’m going to talk about salamanders and comparative anatomy. Comparative anatomy has been the gateway to evolutionary thinking for about two centuries — once you start counting up the similarities in different groups of animals and how the underlying pattern is reused over and over within a phylum, it’s inevitable that you start wondering what the source of the template might be (big hint: in the 19th century, it was proposed that the basis of the similarities was common descent, and that just keeps getting confirmed.)&lt;/p&gt;
+&lt;p&gt;In addition, salamanders, and amphibians in general, have been a major focus of embryology as well. They have the virtue of having numerous large eggs, often with recognisable spatial markings, and are amenable to all kinds of surgical manipulations.  The first time I did embryo surgeries on a frog embryo, it was a revelation — it was like slicing into a sponge cake, while cutting into a zebrafish embryo was like operating on a soap bubble. It’s no wonder that amphibian work inspired Roux’s Entwicklungsmechanik, or developmental mechanics, over a hundred years ago, or that Mangold and Spemann’s classic work on the organiser was in a salamander.  Developmental biology in the middle of the last century was tightly focused on amphibian work, until new tools in genetic manipulation opened up other organisms for experimentation.&lt;/p&gt;
+&lt;p&gt;Some of my happiest days as an undergraduate were spent in comparative anatomy labs, dissecting salamanders and cats and sharks and every dead thing I could get my hands on — I wasn’t above scooping up road kill. Tracing the intricacies of the skeletal and muscular system, finding homologies to little obscure muscles between a cat and a salamander, seeing how they varied…it was heavenly. I still have my vertebrate dissection texts, which had been periodically soaked in the fluids of the beasts, fresh or fixed, that I took apart in those days. I can pull them down off the shelf, open them, and still get a faint whiff of those fluids, and be instantly transported back to a dark basement lab and stainless steel benches, armed with dental picks and scalpels and fine forceps.  Oh, the good old days.&lt;/p&gt;
+&lt;p&gt;By the way, the reason I have so many books is that I can’t bear to be parted from them. I never sold back my used textbooks — well, this one was probably unsellable — but kept them until they wore out.&lt;/p&gt;
+&lt;p&gt;Then in graduate school, a yearly event every fall was going up into the Oregon Cascades and collecting rough-skinned newts with the gentleman scholar Jim Kezer. We’d use them in a histology course, because they were an easy source of fresh tissue…and again we’d see all the wonderful similarities and interesting differences between amphibians and people at a different level of organisation. It’s not just genes that are related, but also tissues and organs and overall anatomy.&lt;/p&gt;
+&lt;p&gt;So let’s dive into an evo-devo paper from 1995 that doesn’t discuss genes at all, but just looks at the bones. It’s titled “Morphological Variation in the Limbs of Taricha granulosa: Evolutionary and Phylogenetic Implications”.  I really like this paper for several reasons.&lt;/p&gt;
+&lt;p&gt;One: Taricha granulosa is the rough-skinned newt, the object of my excursions into the lovely Oregon mountains. &lt;/p&gt;
+&lt;p&gt;Two: It’s by Neil Shubin, David Wake, and Andrew Crawford. This is before Shubin became a famous celebrity scientist with the discovery of Tiktaalik, and one of the things it shows is that Shubin really put the work in. This is not a glamorous paper. When you read it, though, you learn exactly how important the background work is in science — he was prepared for Tiktaalik because he had a deep knowledge of anatomy and amphibian relationships.&lt;/p&gt;
+&lt;p&gt;Three: What first made me excited about this work was that it was a step away from the idealisation of our research animals. That is, we tend to develop a canonical image of how an organism is built, whether it’s a newt or a fish or a spider. When I was studying comparative anatomy, what we were comparing was THE cat to THE salamander to THE shark. This paper is comparing the anatomy of individuals within a single population to measure the extent of variation.&lt;/p&gt;
+&lt;p&gt;Four: Another factor in science in general is serendipity. Sometimes you get lucky, and you have to be prepared to jump on an opportunity.&lt;/p&gt;
+&lt;p&gt;The backstory of this study is that there was an abrupt freeze in December in California that froze a small pond solid, killing every large animal caught in it. In particular, an entire population of newts was killed overnight by a non-selective force, and when the pond thawed — I presume that happened shortly afterwards, it was in California, after all — the investigators could wade out and scoop up all the dead urodeles and throw them into fixative.&lt;/p&gt;
+&lt;p&gt;They collected over 500 animals, threw out the ones that were too decayed, and had 452 newts where they could examine the structure of the limbs (this paper focuses just on limb anatomy). This is cool: we can do comparative anatomy within a population, and ask questions about extant variation.&lt;/p&gt;
+&lt;p&gt;We’ll start with the standard anatomy of the limbs of Taricha. This is what you’d expect to see. It was also my least favourite part of vertebrate anatomy, all these tiny little odd-shaped wrist bones, like the scaphoid, the lunate, the capitate. I’m afraid I struggled with this stuff 45 years ago, and I’m sorry, it has completely evaporated from my brain since.  I wonder if one reason I gravitated towards fish is that most of this complexity is gone in a teleost fin.&lt;/p&gt;
+&lt;p&gt;Fortunately, Shubin and his colleagues had a better awareness of the details than I ever did.  &lt;/p&gt;
+&lt;p&gt;One approach you can take with this knowledge is to compare Taricha with other urodele species,  and common theme in evolutionary biology, there are overall similarities, but also profound differences, often a consequence of some lineages having reduced and simplified their limbs. This would be the traditional approach.&lt;/p&gt;
+&lt;p&gt;But, as I said, Shubin and company are looking at variation within a single population of  a single species.  And that’s where it gets interesting. About 70% of the newts showed the canonical pattern — a clear majority! However, the 30% that are different are also important, since that variation is what evolution can work on. Those tiny wrist bones wobble in an interesting way.&lt;/p&gt;
+&lt;p&gt;We can also look at the details of specific variants. For instance, the hand of the animal has a specific pattern of 1 finger bone, then 2, then 3, then 2, or a 1-2-3-2 pattern. &lt;/p&gt;
+&lt;p&gt;Just looking at that attribute, 96.5% have the 1-2-3-2 pattern. But look, 1.5% lose the 3rd bone in the 3rd digit, and 0.5% add an extra bone to the second digit.  This is awesome information, to get an idea of the actual variation in morphology in a population.&lt;/p&gt;
+&lt;p&gt;Then, further, to compare that variation to other species and determine that there might be deep rules that can shape the paths of least resistance for evolutionary variation. So Shubin writes in the discussion:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;Bilateral patterns of variation in Taricha both restore ancient structures and “anticipate” derived conditions that arise in parallel within highly nested taxa. These regularities suggest that the same processes that underlie the expression of atavistic characters are involved in the origin of evolutionary novelties.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;This little piece of the story reflects an ongoing interest in evo-devo: we often talk of “constraints” on development that limit the direction evolution can take, but the flip side of that is that these variations can also generate unexpected innovations in combination.  I think of it as a kind of kaleidoscope effect — there are only a limited number of pieces of coloured glass in a kaleidoscope, but vast numbers of combinations and relationships that can be generated.&lt;/p&gt;
+&lt;p&gt;One more thing I want to mention. Last week I talked about work that was all genetics. This week, no genetics at all — we have no idea what the source of the variation in these animals is. Is it explicitly genetic, or is it environmental? It doesn’t matter in this paper — it’s a measure of the plasticity of the amphibian limb, and it’s almost certainly both genes and environment. It’s going to take deeper work on the genetics of Taricha, which doesn’t seem to be going on much, although there is some work on genomics. Maybe you can go on to become an amphibian evo-devo person and fill in that information!&lt;/p&gt;
+&lt;p&gt;Hey, if you want to talk about this paper some more, read it — it’s not freely accessible, although maybe you can find it on sci-hub, or for a limited time, &lt;a href="https://drive.google.com/file/d/11IIl7MC5bIqHnfSqZlN4IW468bsgmFAJ/view?usp=sharing"&gt;I’ll make it available&lt;/a&gt;.  I’ll have a livestream on Saturday at noon Central time to say more about it, come on by! You’ll be recovered from your New Year celebrations by then, I hope.&lt;/p&gt;
+&lt;p&gt;Meanwhile, here are a bunch of my lovely patrons. You can join them patreon dot com slash pzmyers for as little as a dollar a month, or you can help me out by clicking on the like or subscribe buttons down below. I’ll have another evo-devo video next week!&lt;/p&gt;
+</content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">The subject today is variation in limb development in salamanders. Today I’m going to talk about salamanders and comparative anatomy. Comparative anatomy has been the gateway to evolutionary thinking for about two centuries — once you start counting up the similarities in different groups of animals and how the underlying pattern is reused over and […]</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=61467</id>
+    <published>2020-12-31T20:19:21Z</published>
+    <updated>2020-12-31T20:19:21Z</updated>
+    <category term="Science"/>
+  </entry>
   <entry>
     <title>My Psychic Predictions for 2021!</title>
     <link rel="alternate" href="http://feedproxy.google.com/~r/Skepchick/~3/bPVxEH5iWY0/" type="text/html"/>
@@ -128,30 +170,6 @@
     <published>2020-12-30T15:05:22Z</published>
     <updated>2020-12-30T15:05:22Z</updated>
     <category term="Uncategorized"/>
-  </entry>
-  <entry>
-    <title>Stupid politics → stupid, pointless death</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2020/12/30/stupid-politics-stupid-pointless-death/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p class="lead">Luke Letlow was described as a “mainstream Republican”, whatever that means any more. It used to be I’d picture an Eisenhower Republican when I heard those words — a cautious conservative. Now the words say to me “someone not quite as openly racist as Louie Gohmert”. Anyway, Letlow got elected to congress in Louisiana, where <a href="https://www.washingtonpost.com/nation/2020/12/29/luke-letlow-covid-louisiana-congress/">he did things like this</a>:</p>
-<blockquote><p>As the coronavirus ravaged Louisiana, Letlow urged residents to follow social distancing guidelines and to listen to doctors, noting that Abraham, a physician, had returned to Louisiana to help treat covid-19 patients.</p>
-<p>But photos on his Twitter page show he had an inconsistent record of wearing masks while campaigning, sometimes covering his face at meet-and-greets but also speaking indoors without a mask on to rooms of mask-free residents. At a candidate forum in October, Letlow urged the state to ease pandemic restrictions, saying, “We’re now at a place if we do not open our economy, we’re in real danger.”</p></blockquote>
-<p>You know where this is going. He’s dead of COVID.</p>
-<blockquote><p>After his symptoms worsened earlier this month, Letlow was first taken to St. Francis Medical Center in Monroe, where he sounded a hopeful note on Dec. 21, tweeting that he was “confident” in his recovery. Two days later, he was taken to a Shreveport hospital and placed in an intensive care unit, where he was treated with remdesivir and steroids, according to a statement from his office.</p>
-<p>This week, he was in critical condition but showing signs of recovery, G.E. Ghali, the chancellor of LSU Health Shreveport, told the Advocate. But on Tuesday, he suffered a “cardiac event” and died, Ghali said. Asked whether any underlying conditions might have contributed to his death, Ghali said, “None. All covid related,” the Advocate reported.</p></blockquote>
-<p>He was only 41, with two kids, and that’s a hard death. I have sympathy for the man, but not his politics, and it’s his politics that killed him.</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Luke Letlow was described as a “mainstream Republican”, whatever that means any more. It used to be I’d picture an Eisenhower Republican when I heard those words — a cautious conservative. Now the words say to me “someone not quite as openly racist as Louie Gohmert”. Anyway, Letlow got elected to congress in Louisiana, where […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=61454</id>
-    <published>2020-12-30T14:59:00Z</published>
-    <updated>2020-12-30T14:59:00Z</updated>
-    <category term="Politics, History, and Law"/>
   </entry>
   <entry>
     <title>Religious Org Adds Rape-Apologist to Board of Directors</title>
