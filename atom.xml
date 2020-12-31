@@ -7,9 +7,29 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2020-12-31T13:02:39Z</updated>
+  <updated>2020-12-31T13:55:00Z</updated>
   <link rel="self" href="http://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Last day of 2020!</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2020/12/31/last-day-of-2020/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p class="lead">Let’s get it over with already.</p>
+<p>I don’t have party plans for tonight, other than breathing a sigh of relief.</p>
+<p><a href="https://freethoughtblogs.com/pharyngula/files/2020/12/Best-2021-Yearly-Calendar.png"><img src="https://freethoughtblogs.com/pharyngula/files/2020/12/Best-2021-Yearly-Calendar-500x500.png" alt="" width="500" height="500" class="aligncenter size-large wp-image-61465" srcset="https://freethoughtblogs.com/pharyngula/files/2020/12/Best-2021-Yearly-Calendar-500x500.png 500w, https://freethoughtblogs.com/pharyngula/files/2020/12/Best-2021-Yearly-Calendar-150x150.png 150w, https://freethoughtblogs.com/pharyngula/files/2020/12/Best-2021-Yearly-Calendar-300x300.png 300w, https://freethoughtblogs.com/pharyngula/files/2020/12/Best-2021-Yearly-Calendar-768x768.png 768w, https://freethoughtblogs.com/pharyngula/files/2020/12/Best-2021-Yearly-Calendar.png 1200w" sizes="(max-width: 500px) 100vw, 500px"/></a></p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Let’s get it over with already. I don’t have party plans for tonight, other than breathing a sigh of relief.</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=61464</id>
+    <published>2020-12-31T13:42:13Z</published>
+    <updated>2020-12-31T13:42:13Z</updated>
+    <category term="Miscellaneous and Meta"/>
+  </entry>
   <entry>
     <title>Now I want a car microscope</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2020/12/31/now-i-want-a-car-microscope/" type="text/html"/>
@@ -115,36 +135,6 @@
     <id>https://freethoughtblogs.com/pharyngula/?p=61454</id>
     <published>2020-12-30T14:59:00Z</published>
     <updated>2020-12-30T14:59:00Z</updated>
-    <category term="Politics, History, and Law"/>
-  </entry>
-  <entry>
-    <title>Republicans aren’t very good at numbers</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2020/12/30/republicans-arent-very-good-at-numbers/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p><a href="https://freethoughtblogs.com/pharyngula/files/2020/12/modernavaccine.jpg"><img src="https://freethoughtblogs.com/pharyngula/files/2020/12/modernavaccine-150x100.jpg" alt="" width="150" height="100" class="alignright size-thumbnail wp-image-61450" srcset="https://freethoughtblogs.com/pharyngula/files/2020/12/modernavaccine-150x100.jpg 150w, https://freethoughtblogs.com/pharyngula/files/2020/12/modernavaccine-300x200.jpg 300w, https://freethoughtblogs.com/pharyngula/files/2020/12/modernavaccine-768x512.jpg 768w, https://freethoughtblogs.com/pharyngula/files/2020/12/modernavaccine-500x333.jpg 500w" sizes="(max-width: 150px) 100vw, 150px"/></a></p>
-<p class="lead">We’ve got this vaccine, right? The only problem is getting it to the people. In order to reach that desired state of herd immunity by this summer, a promise the Trump administration has been dangling in front of us, we need to get 3.5 million people vaccinated <em>per day</em>. This isn’t happening. Just the fact that a nurse getting the shot is front page photo op material ought to tell you that. But look at the actual numbers — they’re pathetic. This is a massive job that will require a massive investment in medical infrastructure, and the <a href="https://www.washingtonpost.com/opinions/2020/12/29/covid-19-vaccine-distribution-slow-testing/">Republicans can’t do it</a>.</p>
-<blockquote><p>There’s reason to believe the administration won’t be able to ramp up vaccination rates anywhere close to those levels. Yes, as vaccine production increases, more will be available to the states. And Brett Giroir, assistant secretary for health at HHS, argued on Sunday that the 2.1 million administered vaccines figure was an underestimate due to delayed reporting. So let’s be generous and say the administration actually administered 4 million doses over the first two weeks.</p>
-<p>But even that would still fall far short of the 3.5 million vaccinations needed per day. In fact, it falls far short of what the administration had promised to accomplish by the end of 2020 — enough doses for 20 million people. And remember, the first group of vaccinations was supposed to be the easiest: It’s hospitals and nursing homes inoculating their own workers and residents. If we can’t get this right, it doesn’t bode well for the rest of the country.</p>
-<p>Here’s what concerns me most: Instead of identifying barriers to meeting the goal, officials are backtracking on their promises. When states learned they would receive fewer doses than they had been told, the administration said its end-of-year goal was not for vaccinations but vaccine distribution. It also halved the number of doses that would be available to people, from 40 million to 20 million. (Perhaps they hoped no one would notice that their initial pledge was to vaccinate 20 million people, which is 40 million doses, or that President Trump had at one point vowed to have 100 million doses by the end of the year.) And there’s more fancy wordplay that’s cause for concern: Instead of vaccine distribution, the administration promises “allocation” in December. Actual delivery for millions of doses wouldn’t take place until January, to say nothing of the logistics of vaccine administration.</p>
-<p>The vaccine rollout is giving me flashbacks to the administration’s testing debacle. Think back to all the times Trump pledged that “everyone who wants a test can get one.” Every time this was fact-checked, it came up false. Instead of admitting that there wasn’t enough testing, administration officials followed a playbook to confuse and obfuscate: They first attempted to play up the number of tests done. Just like 2 million vaccines in two weeks, 1 million tests a week looked good on paper — until they were compared to the 30 million a day that some experts say are needed. The administration then tried to justify why more tests weren’t needed. Remember Trump saying that “tests create cases” or the CDC issuing nonsensical testing guidance?</p></blockquote>
-<p>Contrast that with <a href="https://www.dw.com/en/germany-to-set-up-hundreds-of-vaccination-centers-from-december-report/a-55605652">what Germany is doing</a>.</p>
-<blockquote><p>German states plan to set up hundreds of vaccination centers across the country starting in December, the newspaper Welt am Sonntag reported on Sunday.</p>
-<p>It said the health ministers of the 16 federal states have drawn up plans to create one to two centers per administrative district — totaling hundreds of centers — as well as employing mobile vaccination teams.</p>
-<p>The capital, Berlin, alone is allegedly planning to set up six such centers, Welt am Sonntag said.</p></blockquote>
-<p>Germany realizes that delivering all those doses is a gigantic logistical problem, and is preparing the pipeline. It’s all well and good to have a source for the life-giving vaccine, but if you don’t have a mechanism for delivery, it’s just going to sit in pharmaceutical company warehouses. Or it’s going to dribble out haphazardly to rich greedy people, like some of our members of Congress, before it is delivered efficiently.</p>
-<p>I don’t even want to think about what it’s going to take to get through to the hordes of anti-maskers/anti-vaxxers out there, who have found validation in the words and actions of Trump.</p>
-<p>Heckuva job, Donny. Worst disaster in American history since the 1918 flu epidemic, and you flopped badly at coping with it. You made it worse.</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">We’ve got this vaccine, right? The only problem is getting it to the people. In order to reach that desired state of herd immunity by this summer, a promise the Trump administration has been dangling in front of us, we need to get 3.5 million people vaccinated per day. This isn’t happening. Just the fact […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=61449</id>
-    <published>2020-12-30T13:37:23Z</published>
-    <updated>2020-12-30T13:37:23Z</updated>
     <category term="Politics, History, and Law"/>
   </entry>
   <entry>
