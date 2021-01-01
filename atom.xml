@@ -7,9 +7,24 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2021-01-01T17:28:21Z</updated>
+  <updated>2021-01-01T19:08:16Z</updated>
   <link rel="self" href="http://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>OPEN DISCUSSION JANUARY 2021</title>
+    <link rel="alternate" href="https://www.richarddawkins.net/2021/01/open-discussion-january-2021/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">This thread has been created for discussion on themes relevant to Reason and Science for which there are not currently any dedicated threads. Please note that our Comment Policy applies as usual. There is a link to this at the foot of the page. If you would like to refer back to previous open discussion …</div>
+    </content>
+    <author>
+      <name>Moderator</name>
+    </author>
+    <id>https://www.richarddawkins.net/?p=970118</id>
+    <published>2021-01-01T18:11:27Z</published>
+    <updated>2021-01-01T18:11:27Z</updated>
+    <category term="Discussion"/>
+    <category term="Featured"/>
+  </entry>
   <entry>
     <title>If You Only Care About the Covid-19 Death Rate, You Are Missing the Big Picture</title>
     <link rel="alternate" href="http://feedproxy.google.com/~r/Skepchick/~3/Bwxu7LXNsEc/" type="text/html"/>
@@ -277,21 +292,6 @@
     <updated>2020-12-23T18:00:29Z</updated>
     <category term="Education"/>
     <category term="News Article"/>
-    <category term="Science"/>
-  </entry>
-  <entry>
-    <title>Thinking Like an Atheist</title>
-    <link rel="alternate" href="https://www.richarddawkins.net/2020/12/thinking-like-an-atheist/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">For Seth Andrews, host of The Thinking Atheist podcast and author of the upcoming book Confessions of a Former Fox News Christian, atheism is just one step in a longer journey of discovery. “The Thinking Atheist is not me; it’s an idea,” he tells Rob Palmer in a special interview for CFI, where he discusses his skeptical coverage …</div>
-    </content>
-    <author>
-      <name>Paul Fidalgo</name>
-    </author>
-    <id>https://www.richarddawkins.net/?p=970078</id>
-    <published>2020-12-23T17:59:01Z</published>
-    <updated>2020-12-23T17:59:01Z</updated>
-    <category term="Atheism"/>
     <category term="Science"/>
   </entry>
   <entry>
