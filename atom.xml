@@ -7,9 +7,26 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2021-01-02T11:46:09Z</updated>
+  <updated>2021-01-02T12:58:57Z</updated>
   <link rel="self" href="http://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Who wants to chat about salamanders and limbs and variation?</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/01/02/who-wants-to-chat-about-salamanders-and-limbs-and-variation/" type="text/html"/>
+    <content type="html">&lt;p class="lead"&gt;Today at noon Central, a Q&amp;amp;A livestream appears!&lt;/p&gt;
+&lt;div class="center"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Ics1gFPy_xA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+</content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Today at noon Central, a Q&amp;A livestream appears!</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=61479</id>
+    <published>2021-01-02T12:34:38Z</published>
+    <updated>2021-01-02T12:34:38Z</updated>
+    <category term="Science"/>
+  </entry>
   <entry>
     <title>New Year, New Quickies</title>
     <link rel="alternate" href="http://feedproxy.google.com/~r/Skepchick/~3/0mYvykr5qeg/" type="text/html"/>
@@ -209,26 +226,6 @@
     <published>2020-12-31T14:00:00Z</published>
     <updated>2020-12-31T14:00:00Z</updated>
     <category term="Anti-Science"/>
-  </entry>
-  <entry>
-    <title>Last day of 2020!</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2020/12/31/last-day-of-2020/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p class="lead">Let’s get it over with already.</p>
-<p>I don’t have party plans for tonight, other than breathing a sigh of relief.</p>
-<p><a href="https://freethoughtblogs.com/pharyngula/files/2020/12/Best-2021-Yearly-Calendar.png"><img src="https://freethoughtblogs.com/pharyngula/files/2020/12/Best-2021-Yearly-Calendar-500x500.png" alt="" width="500" height="500" class="aligncenter size-large wp-image-61465" srcset="https://freethoughtblogs.com/pharyngula/files/2020/12/Best-2021-Yearly-Calendar-500x500.png 500w, https://freethoughtblogs.com/pharyngula/files/2020/12/Best-2021-Yearly-Calendar-150x150.png 150w, https://freethoughtblogs.com/pharyngula/files/2020/12/Best-2021-Yearly-Calendar-300x300.png 300w, https://freethoughtblogs.com/pharyngula/files/2020/12/Best-2021-Yearly-Calendar-768x768.png 768w, https://freethoughtblogs.com/pharyngula/files/2020/12/Best-2021-Yearly-Calendar.png 1200w" sizes="(max-width: 500px) 100vw, 500px"/></a></p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Let’s get it over with already. I don’t have party plans for tonight, other than breathing a sigh of relief.</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=61464</id>
-    <published>2020-12-31T13:42:13Z</published>
-    <updated>2020-12-31T13:42:13Z</updated>
-    <category term="Miscellaneous and Meta"/>
   </entry>
   <entry>
     <title>Andy Mills, Audio Producer and Noted Harasser of Women, Keeps Failing Upwards</title>
