@@ -7,9 +7,31 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2021-01-04T13:02:45Z</updated>
+  <updated>2021-01-04T13:55:38Z</updated>
   <link rel="self" href="http://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Why are we dawdling?</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/01/04/why-are-we-dawdling/" type="text/html"/>
+    <content type="html">&lt;p class="lead"&gt;This fellow is talking about containing the Ebola virus, but the basic lesson are applicable to all epidemics.&lt;/p&gt;
+&lt;blockquote class="twitter-tweet" data-width="500" data-dnt="true"&gt;
+&lt;p lang="en" dir="ltr"&gt;Most of us have seen this video by now. But worth watching again. The advice is just as relevant as we hit new peaks in many countries as it was at the beginning. &lt;a href="https://t.co/qDtAzW2jCE"&gt;pic.twitter.com/qDtAzW2jCE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;mdash; Irfan Dhalla (@IrfanDhalla) &lt;a href="https://twitter.com/IrfanDhalla/status/1340398016562409477?ref_src=twsrc%5Etfw"&gt;December 19, 2020&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;One thing he doesn&amp;#8217;t address is another emerging problem: the longer you wait, the more you let the virus proliferate, the more &lt;em&gt;evolution&lt;/em&gt; you get &amp;#8212; the more opportunities for the virus to mutate and act as a shifting target. We&amp;#8217;re already seeing &lt;a href="https://www.healthline.com/health-news/what-to-know-about-mutation-and-covid-19#What-this-means-for-a-vaccine"&gt;COVID-19 variants&lt;/a&gt;. It&amp;#8217;s nothing to panic over yet, but the longer you wait, the greater the opportunity for the virus to hit the jackpot.&lt;/p&gt;
+&lt;p&gt;When the virus wins, we lose, you know.&lt;/p&gt;
+</content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">This fellow is talking about containing the Ebola virus, but the basic lesson are applicable to all epidemics. Most of us have seen this video by now. But worth watching again. The advice is just as relevant as we hit new peaks in many countries as it was at the beginning. pic.twitter.com/qDtAzW2jCE — Irfan Dhalla […]</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=61497</id>
+    <published>2021-01-04T13:22:29Z</published>
+    <updated>2021-01-04T13:22:29Z</updated>
+    <category term="Miscellaneous and Meta"/>
+  </entry>
   <entry>
     <title>I presume he’ll be arrested and tried for treason and extortion now?</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/01/04/i-presume-hell-be-arrested-and-tried-for-treason-and-extortion-now/" type="text/html"/>
@@ -158,23 +180,6 @@
     <category term="covid 19 vaccine"/>
     <category term="immunity"/>
     <category term="wearing masks"/>
-  </entry>
-  <entry>
-    <title>Who wants to chat about salamanders and limbs and variation?</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/01/02/who-wants-to-chat-about-salamanders-and-limbs-and-variation/" type="text/html"/>
-    <content type="html">&lt;p class="lead"&gt;Today at noon Central, a Q&amp;amp;A livestream appears!&lt;/p&gt;
-&lt;div class="center"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Ics1gFPy_xA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-</content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Today at noon Central, a Q&amp;A livestream appears!</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=61479</id>
-    <published>2021-01-02T12:34:38Z</published>
-    <updated>2021-01-02T12:34:38Z</updated>
-    <category term="Science"/>
   </entry>
   <entry>
     <title>New Year, New Quickies</title>
