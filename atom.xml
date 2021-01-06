@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2021-01-06T14:50:50Z</updated>
+  <updated>2021-01-06T15:51:19Z</updated>
   <link rel="self" href="http://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://skeptic.theplanetarium.org/</id>
   <entry>
@@ -283,6 +283,21 @@ PZ you defend Antifa’s assault on Andy Ngo, you misrepresent Hitchens, Dawkins
     <category term="covid-19 mortality"/>
   </entry>
   <entry>
+    <title>FILM CLUB</title>
+    <link rel="alternate" href="https://www.richarddawkins.net/2020/12/film-club/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">We have created this thread to provide a dedicated space for the discussion of films. All we ask is that, whatever the topic or genre, the films are stimulating, intelligent and thoughtful, so that they are actually worth discussing, and that you post any recommendations along with a commentary giving a bit of background and …</div>
+    </content>
+    <author>
+      <name>Moderator</name>
+    </author>
+    <id>https://www.richarddawkins.net/?p=969570</id>
+    <published>2020-12-31T17:00:59Z</published>
+    <updated>2020-12-31T17:00:59Z</updated>
+    <category term="Discussion"/>
+    <category term="Featured"/>
+  </entry>
+  <entry>
     <title>My Psychic Predictions for 2021!</title>
     <link rel="alternate" href="http://feedproxy.google.com/~r/Skepchick/~3/bPVxEH5iWY0/" type="text/html"/>
     <content type="xhtml">
@@ -297,6 +312,21 @@ PZ you defend Antifa’s assault on Andy Ngo, you misrepresent Hitchens, Dawkins
     <published>2020-12-31T14:00:00Z</published>
     <updated>2020-12-31T14:00:00Z</updated>
     <category term="Anti-Science"/>
+  </entry>
+  <entry>
+    <title>BOOK CLUB</title>
+    <link rel="alternate" href="https://www.richarddawkins.net/2020/12/book-club/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">We have created this thread to provide a dedicated space for the discussion of books. Pretty much any kind of book – it doesn’t have to be about atheism or religion or science or politics. It doesn’t even have to be non-fiction. All we ask is that, whatever the topic or genre, the books are …</div>
+    </content>
+    <author>
+      <name>Moderator</name>
+    </author>
+    <id>https://www.richarddawkins.net/?p=964642</id>
+    <published>2020-12-30T16:00:28Z</published>
+    <updated>2020-12-30T16:00:28Z</updated>
+    <category term="Discussion"/>
+    <category term="Featured"/>
   </entry>
   <entry>
     <title>What can we learn from ancient cynicism?</title>
@@ -334,36 +364,6 @@ PZ you defend Antifa’s assault on Andy Ngo, you misrepresent Hitchens, Dawkins
     <published>2020-12-23T18:02:34Z</published>
     <updated>2020-12-23T18:02:34Z</updated>
     <category term="Politics"/>
-    <category term="Science"/>
-  </entry>
-  <entry>
-    <title>Lowering the Barr</title>
-    <link rel="alternate" href="https://www.richarddawkins.net/2020/12/lowering-the-barr/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Last week, President Trump announced in a tweet (of course) the departure of Attorney General William Barr, reportedly because the president felt that Barr was insufficiently committed to overturning the results of the presidential election. While reticence about subverting democracy is a good thing, we can’t say we’re sad to see him go, for Barr made …</div>
-    </content>
-    <author>
-      <name>Paul Fidalgo</name>
-    </author>
-    <id>https://www.richarddawkins.net/?p=970082</id>
-    <published>2020-12-23T18:01:36Z</published>
-    <updated>2020-12-23T18:01:36Z</updated>
-    <category term="Uncategorized"/>
-  </entry>
-  <entry>
-    <title>A Terrific 2020 for TIES</title>
-    <link rel="alternate" href="https://www.richarddawkins.net/2020/12/a-terrific-2020-for-ties/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">The Teacher Institute for Evolutionary Science (TIES) is a program of the Richard Dawkins Foundation that gives middle school teachers the tools they need to effectively teach evolution and answer its critics. Having put on free in-person workshops in all fifty states before the pandemic, TIES has fully embraced its new role as an online source …</div>
-    </content>
-    <author>
-      <name>Paul Fidalgo</name>
-    </author>
-    <id>https://www.richarddawkins.net/?p=970080</id>
-    <published>2020-12-23T18:00:29Z</published>
-    <updated>2020-12-23T18:00:29Z</updated>
-    <category term="Education"/>
-    <category term="News Article"/>
     <category term="Science"/>
   </entry>
   <entry>
