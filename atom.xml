@@ -7,9 +7,23 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2021-01-08T15:53:34Z</updated>
+  <updated>2021-01-08T17:40:48Z</updated>
   <link rel="self" href="http://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>I was never exposed to true science</title>
+    <link rel="alternate" href="https://www.richarddawkins.net/2021/01/i-was-never-exposed-to-true-science/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">I was raised in a Christian home and attended Christian school. In this environment I was never exposed to true science. In fact, it was not until recently that I began to have a clear understanding of the Big Bang and Evolution which I learned by reading books by Stephen Hawking and Richard Dawkins. With …</div>
+    </content>
+    <author>
+      <name>Marc Kreidler</name>
+    </author>
+    <id>https://www.richarddawkins.net/?p=970150</id>
+    <published>2021-01-08T17:18:32Z</published>
+    <updated>2021-01-08T17:18:32Z</updated>
+    <category term="Converts Corner"/>
+  </entry>
   <entry>
     <title>Not a recommended spider story</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/01/08/not-a-recommended-spider-story/" type="text/html"/>
@@ -213,20 +227,6 @@
     <category term="Education"/>
     <category term="News Article"/>
     <category term="Science"/>
-  </entry>
-  <entry>
-    <title>The Monoliths Come Full Circle</title>
-    <link rel="alternate" href="https://www.richarddawkins.net/2021/01/the-monoliths-come-full-circle/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Remember the monoliths? Those mysterious obelisks that kept appearing in seemingly arbitrary locations, such as a desert in Utah, near a fortress in Romania, and even one on a mountain in California that some folks tore down because they felt it was insufficiently deferential to Jesus. Of course now they’re so last year, but for a moment …</div>
-    </content>
-    <author>
-      <name>Paul Fidalgo</name>
-    </author>
-    <id>https://www.richarddawkins.net/?p=970134</id>
-    <published>2021-01-06T16:23:30Z</published>
-    <updated>2021-01-06T16:23:30Z</updated>
-    <category term="News Article"/>
   </entry>
   <entry>
     <title>Book review: Doing Philosophy</title>
