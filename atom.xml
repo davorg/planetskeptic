@@ -7,9 +7,28 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2021-01-09T11:54:44Z</updated>
+  <updated>2021-01-09T13:05:45Z</updated>
   <link rel="self" href="http://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Fun times</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/01/09/fun-times/" type="text/html"/>
+    <content type="html">&lt;p&gt;&lt;a href="https://freethoughtblogs.com/pharyngula/files/2021/01/spine.jpg"&gt;&lt;img src="https://freethoughtblogs.com/pharyngula/files/2021/01/spine-121x300.jpg" alt="" width="121" height="300" class="alignright size-medium wp-image-61564" srcset="https://freethoughtblogs.com/pharyngula/files/2021/01/spine-121x300.jpg 121w, https://freethoughtblogs.com/pharyngula/files/2021/01/spine-61x150.jpg 61w, https://freethoughtblogs.com/pharyngula/files/2021/01/spine-414x1024.jpg 414w, https://freethoughtblogs.com/pharyngula/files/2021/01/spine.jpg 669w" sizes="(max-width: 121px) 100vw, 121px" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p class="lead"&gt;I did something yesterday to throw my back out &amp;#8212; I&amp;#8217;m 63, which means I probably did something radical like sneeze. Anyway, I&amp;#8217;m sitting here trying not to move a millimeter &lt;em&gt;that&lt;/em&gt; way or twist this other way, which would send spasms rippling up my spine, and I think I&amp;#8217;ll be immobile most of the day&amp;hellip;except that I&amp;#8217;m about to get up and walk to the medicine cabinet for some painkillers, trying not to scream or die, and then come back to my chair and just stop for a while.&lt;/p&gt;
+&lt;p&gt;Fortunately, my self-imposed agenda for the day is to hammer out a couple of syllabi and get them posted to our CMS, Canvas. It&amp;#8217;s just fingers that need to work, and so far they seem OK. Classes start up again in 9 days.&lt;/p&gt;
+&lt;p&gt;Time to gently ease myself out of this chair and gingerly shuffle to the next room. If you hear a shrieking howl out of the upper midwest, I didn&amp;#8217;t make it.&lt;/p&gt;
+</content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">I did something yesterday to throw my back out — I’m 63, which means I probably did something radical like sneeze. Anyway, I’m sitting here trying not to move a millimeter that way or twist this other way, which would send spasms rippling up my spine, and I think I’ll be immobile most of the […]</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=61563</id>
+    <published>2021-01-09T12:54:54Z</published>
+    <updated>2021-01-09T12:54:54Z</updated>
+    <category term="Miscellaneous and Meta"/>
+  </entry>
   <entry>
     <title>And a hush fell over the land…</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/01/08/and-a-hush-fell-over-the-land/" type="text/html"/>
@@ -124,24 +143,6 @@
     <published>2021-01-08T17:18:32Z</published>
     <updated>2021-01-08T17:18:32Z</updated>
     <category term="Converts Corner"/>
-  </entry>
-  <entry>
-    <title>Not a recommended spider story</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/01/08/not-a-recommended-spider-story/" type="text/html"/>
-    <content type="html">&lt;p class="lead"&gt;This is the opening sequence for an anime. Let me know if the theme music sounds familiar &amp;#8212; is this music not copyrighted?&lt;/p&gt;
-&lt;div class="center"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/llOoPEk4nZY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-&lt;p&gt;The series is based on a manga, &lt;a href="https://amzn.to/2MCMa8I"&gt;&lt;i&gt;So I&amp;#8217;m a spider, so what?&lt;/i&gt;&lt;/a&gt;, which I own and have read. I had hopes that it would be something like &lt;a href="https://amzn.to/2Xq8mF6"&gt;Jay Hosler&lt;/a&gt;&amp;#8216;s work, which is excellent and informative, and that it would be useful for teaching about how wonderful spiders are. It&amp;#8217;s not. It&amp;#8217;s this bizarre fusion of spider biology with video game dogma, and most of the emphasis is on how this person transported into a spider body can go up in levels and acquire new spider powers. Maybe you&amp;#8217;d enjoy it if you&amp;#8217;re more into video games than arachnids, but I&amp;#8217;m the reverse of that.&lt;/p&gt;
-</content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">This is the opening sequence for an anime. Let me know if the theme music sounds familiar — is this music not copyrighted? The series is based on a manga, So I’m a spider, so what?, which I own and have read. I had hopes that it would be something like Jay Hosler‘s work, which […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=61547</id>
-    <published>2021-01-08T13:44:06Z</published>
-    <updated>2021-01-08T13:44:06Z</updated>
-    <category term="Miscellaneous and Meta"/>
   </entry>
   <entry>
     <title>Science magic</title>
