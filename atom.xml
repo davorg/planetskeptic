@@ -7,9 +7,26 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2021-01-10T19:58:27Z</updated>
+  <updated>2021-01-10T20:53:17Z</updated>
   <link rel="self" href="http://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Hungry hungry spiders</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/01/10/hungry-hungry-spiders-2/" type="text/html"/>
+    <content type="html">&lt;p class="lead"&gt;I spent a pleasant morning with the spiders. Look how quickly they snap up flies!&lt;/p&gt;
+&lt;div class="center"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/WmBwEhrhCQc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+</content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">I spent a pleasant morning with the spiders. Look how quickly they snap up flies!</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=61581</id>
+    <published>2021-01-10T20:29:12Z</published>
+    <updated>2021-01-10T20:29:12Z</updated>
+    <category term="Spiders"/>
+  </entry>
   <entry>
     <title>How to wipe a cocky grin off a Trumpkin’s face</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/01/10/how-to-wipe-a-cocky-grin-off-a-trumpkins-face/" type="text/html"/>
@@ -121,27 +138,6 @@
     <published>2021-01-09T12:54:54Z</published>
     <updated>2021-01-09T12:54:54Z</updated>
     <category term="Miscellaneous and Meta"/>
-  </entry>
-  <entry>
-    <title>And a hush fell over the land…</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/01/08/and-a-hush-fell-over-the-land/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p class="lead">At long last the braying bloviator has been silenced.</p>
-<p><a href="https://freethoughtblogs.com/pharyngula/files/2021/01/suspended.png"><img src="https://freethoughtblogs.com/pharyngula/files/2021/01/suspended-500x436.png" alt="" width="500" height="436" class="aligncenter size-large wp-image-61561" srcset="https://freethoughtblogs.com/pharyngula/files/2021/01/suspended-500x436.png 500w, https://freethoughtblogs.com/pharyngula/files/2021/01/suspended-150x131.png 150w, https://freethoughtblogs.com/pharyngula/files/2021/01/suspended-300x262.png 300w, https://freethoughtblogs.com/pharyngula/files/2021/01/suspended.png 742w" sizes="(max-width: 500px) 100vw, 500px"/></a></p>
-<p>I am not impressed that Twitter took this long and only found the courage to tell him to shut up in the waning weeks of his presidency.</p>
-<p>I wonder if he’s going to get a Parler account now?</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">At long last the braying bloviator has been silenced. I am not impressed that Twitter took this long and only found the courage to tell him to shut up in the waning weeks of his presidency. I wonder if he’s going to get a Parler account now?</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=61560</id>
-    <published>2021-01-08T23:55:28Z</published>
-    <updated>2021-01-08T23:55:28Z</updated>
-    <category term="Politics, History, and Law"/>
   </entry>
   <entry>
     <title>Don’t Worry About COVID-19 Vaccine Frauds</title>
