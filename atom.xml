@@ -7,9 +7,27 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2021-01-15T00:15:11Z</updated>
+  <updated>2021-01-15T02:13:44Z</updated>
   <link rel="self" href="http://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Making my grand-nephew famous</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/01/14/making-my-grand-nephew-famous/" type="text/html"/>
+    <content type="html">&lt;p class="lead"&gt;The son of my niece has made a stop-motion Lego Batman movie, so I&amp;#8217;m doing my part to make him slightly famous.&lt;/p&gt;
+&lt;div class="center"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/dLYpiSQpqSs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;p&gt;The goal: let&amp;#8217;s seem him get more traffic than my YouTube channel does (I believe in setting achievable goals here).&lt;/p&gt;
+</content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">The son of my niece has made a stop-motion Lego Batman movie, so I’m doing my part to make him slightly famous. The goal: let’s seem him get more traffic than my YouTube channel does (I believe in setting achievable goals here).</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=61627</id>
+    <published>2021-01-15T00:28:53Z</published>
+    <updated>2021-01-15T00:28:53Z</updated>
+    <category term="Miscellaneous and Meta"/>
+  </entry>
   <entry>
     <title>Have you ever seen a spider’s heart beat?</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/01/14/have-you-ever-seen-a-spiders-heart-beat/" type="text/html"/>
@@ -121,24 +139,6 @@
     <published>2021-01-13T22:31:02Z</published>
     <updated>2021-01-13T22:31:02Z</updated>
     <category term="Politics"/>
-  </entry>
-  <entry>
-    <title>We’re talkin’ evo-devo here</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/01/13/were-talkin-evo-devo-here/" type="text/html"/>
-    <content type="html">&lt;p class="lead"&gt;Reminder: we&amp;#8217;re going to talk about color patterns today at noon Central time.&lt;/p&gt;
-&lt;div class="center"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/lEc6TxSydJU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-&lt;p&gt;I encourage you to feel free to interrupt with questions/comments in the chat, and also if you&amp;#8217;ve read the paper you can request a Zoom link by email.&lt;/p&gt;
-</content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Reminder: we’re going to talk about color patterns today at noon Central time. I encourage you to feel free to interrupt with questions/comments in the chat, and also if you’ve read the paper you can request a Zoom link by email.</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=61614</id>
-    <published>2021-01-13T16:50:06Z</published>
-    <updated>2021-01-13T16:50:06Z</updated>
-    <category term="Science"/>
   </entry>
   <entry>
     <title>Is It Wrong to Think Your Political Opponents are Stupid and Evil?</title>
