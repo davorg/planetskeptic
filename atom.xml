@@ -7,9 +7,26 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2021-01-15T23:14:51Z</updated>
+  <updated>2021-01-16T00:16:46Z</updated>
   <link rel="self" href="http://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Friday night fun &amp; games</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/01/15/friday-night-fun-games/" type="text/html"/>
+    <content type="html">&lt;p class="lead"&gt;It&amp;#8217;s been a long day, I&amp;#8217;ve made significant progress on my classes, so now I get to play a game, in about an hour. &lt;/p&gt;
+&lt;div class="center"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/LXYP27kyQBI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+</content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">It’s been a long day, I’ve made significant progress on my classes, so now I get to play a game, in about an hour.</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=61638</id>
+    <published>2021-01-16T00:01:56Z</published>
+    <updated>2021-01-16T00:01:56Z</updated>
+    <category term="Miscellaneous and Meta"/>
+  </entry>
   <entry>
     <title>Quickies: Can you process an insurrection and still make time for science?</title>
     <link rel="alternate" href="http://feedproxy.google.com/~r/Skepchick/~3/nwus_KCPBCA/" type="text/html"/>
@@ -139,25 +156,6 @@
     <published>2021-01-15T00:28:53Z</published>
     <updated>2021-01-15T00:28:53Z</updated>
     <category term="Miscellaneous and Meta"/>
-  </entry>
-  <entry>
-    <title>Have you ever seen a spider’s heart beat?</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/01/14/have-you-ever-seen-a-spiders-heart-beat/" type="text/html"/>
-    <content type="html">&lt;p class="lead"&gt;Now you can! I saw that I can easily visualize the hearts beating in my baby spiders.&lt;/p&gt;
-&lt;div class="center"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/DT3WN3Mul-M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-&lt;p&gt;It made me think of those Pro-Life Across America billboards that show a picture of a cute baby and declare &amp;#8220;My heart began to beat at 18 days!&amp;#8221;, as if that was a significant event. So I take it anti-choicers who see this video will forever after be kind to spiders?&lt;/p&gt;
-</content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Now you can! I saw that I can easily visualize the hearts beating in my baby spiders. It made me think of those Pro-Life Across America billboards that show a picture of a cute baby and declare “My heart began to beat at 18 days!”, as if that was a significant event. So I take […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=61624</id>
-    <published>2021-01-14T19:54:37Z</published>
-    <updated>2021-01-14T19:54:37Z</updated>
-    <category term="Science"/>
-    <category term="Spiders"/>
   </entry>
   <entry>
     <title>Book review: Reaganland</title>
