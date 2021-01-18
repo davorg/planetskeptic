@@ -7,9 +7,28 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2021-01-18T13:24:05Z</updated>
+  <updated>2021-01-18T14:17:47Z</updated>
   <link rel="self" href="http://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Probably a bad idea</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/01/18/probably-a-bad-idea/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p class="lead">Classes start tomorrow, so I’ve got a great big calendar filling the screen on my second monitor. This is causing me some anxiety — as of Tuesday, it turns into a solid wad of appointments until May. The one bright spot is that I arranged my schedule so that I have no classes on Friday. Three day weekends every week! Except of course that free day is going to be used to catch up on everything that I’m falling behind on.</p>
+<p>Today is Martin Luther King Day with no obligations, except I’m going in to do some preliminary work for next week’s genetics lab. There will be no rest for a while.</p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Classes start tomorrow, so I’ve got a great big calendar filling the screen on my second monitor. This is causing me some anxiety — as of Tuesday, it turns into a solid wad of appointments until May. The one bright spot is that I arranged my schedule so that I have no classes on Friday. […]</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=61651</id>
+    <published>2021-01-18T13:44:54Z</published>
+    <updated>2021-01-18T13:44:54Z</updated>
+    <category term="Miscellaneous and Meta"/>
+  </entry>
   <entry>
     <title>$cience gets a seat at the table</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/01/18/cience-gets-a-seat-at-the-table/" type="text/html"/>
@@ -125,23 +144,6 @@
     <published>2021-01-16T12:20:25Z</published>
     <updated>2021-01-16T12:20:25Z</updated>
     <category term="Politics, History, and Law"/>
-  </entry>
-  <entry>
-    <title>Friday night fun &amp; games</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/01/15/friday-night-fun-games/" type="text/html"/>
-    <content type="html">&lt;p class="lead"&gt;It&amp;#8217;s been a long day, I&amp;#8217;ve made significant progress on my classes, so now I get to play a game, in about an hour. &lt;/p&gt;
-&lt;div class="center"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/LXYP27kyQBI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-</content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">It’s been a long day, I’ve made significant progress on my classes, so now I get to play a game, in about an hour.</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=61638</id>
-    <published>2021-01-16T00:01:56Z</published>
-    <updated>2021-01-16T00:01:56Z</updated>
-    <category term="Miscellaneous and Meta"/>
   </entry>
   <entry>
     <title>Quickies: Can you process an insurrection and still make time for science?</title>
