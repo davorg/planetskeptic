@@ -7,9 +7,29 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2021-01-24T17:52:21Z</updated>
+  <updated>2021-01-24T19:20:32Z</updated>
   <link rel="self" href="http://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Who needs camouflage?</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/01/24/who-needs-camouflage/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p class="lead">Not a bright red cardinal on new-fallen snow, that’s for sure.</p>
+<p><a href="https://freethoughtblogs.com/pharyngula/files/2021/01/cardinal.jpg"><img src="https://freethoughtblogs.com/pharyngula/files/2021/01/cardinal-500x336.jpg" alt="" width="500" height="336" class="aligncenter size-large wp-image-61726" srcset="https://freethoughtblogs.com/pharyngula/files/2021/01/cardinal-500x336.jpg 500w, https://freethoughtblogs.com/pharyngula/files/2021/01/cardinal-150x101.jpg 150w, https://freethoughtblogs.com/pharyngula/files/2021/01/cardinal-300x202.jpg 300w, https://freethoughtblogs.com/pharyngula/files/2021/01/cardinal-768x516.jpg 768w" sizes="(max-width: 500px) 100vw, 500px"/></a></p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Not a bright red cardinal on new-fallen snow, that’s for sure.</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=61725</id>
+    <published>2021-01-24T18:21:39Z</published>
+    <updated>2021-01-24T18:21:39Z</updated>
+    <category term="Organisms"/>
+    <category term="Science"/>
+  </entry>
   <entry>
     <title>Revisiting Islamic embryology</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/01/23/revisiting-islamic-embryology/" type="text/html"/>
@@ -133,33 +153,6 @@
     <category term="pro-vaccine"/>
     <category term="science policy"/>
     <category term="vaccines"/>
-  </entry>
-  <entry>
-    <title>I’m not the only person with reservations about Eric Lander</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/01/22/im-not-the-only-person-with-reservations-about-eric-lander/" type="text/html"/>
-    <content type="html">&lt;p class="lead"&gt;&lt;a href="https://www.scientificamerican.com/article/eric-lander-is-not-the-ideal-choice-for-presidential-science-adviser/"&gt;500 women scientists feel the same way&lt;/a&gt;.&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;&amp;#8230;we can’t help but notice that the recently announced nomination of presidential science adviser Eric Lander fails to meet the moment. His nomination does not fill us with hope that he will shepherd the kind of transformation in science we need if we are to ensure science delivers equity and justice for all. We had high hopes that the Biden administration would continue its pattern of bold nominations when envisioning a newly elevated cabinet position of science adviser. There was certainly no shortage of options, with a deep bench of qualified women and Black, Indigenous and people of color (BIPOC) whose expertise and experience can transform the place of science as a tool for justice.&lt;/p&gt;
-&lt;p&gt;Lander, an MIT geneticist and former co-chair of the President’s Council of Advisors on Science and Technology (PCAST)—exemplifies the status quo. With this nomination, the opportunity to finally break the long lineage of white male science advisers has been missed. This was a chance to substantively address historical inequalities and transform harmful stereotypes by appointing someone with new perspectives into the top science adviser role. Despite a long list of supremely qualified people that could have held this position and inspired a whole new generation of scientists, the glass ceiling in American science remains intact.&lt;/p&gt;
-&lt;p&gt;While we can celebrate the Biden-Harris administration’s commitment to science, we must recognize that Lander has a reputation among some scientists for being controversial, and colleagues have criticized him for his “ego without end.” We cannot forget that in 2016, Lander wrote a widely criticized history of the revolutionary technology CRISPR, dubbed the “Heroes of CRISPR,” that erased the contributions of two women colleagues. This conspicuous exclusion is emblematic of the forces in science that hold back women and scientists of color from attaining the level of prominence he enjoys.&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;They also reminded me of that time &lt;a href=https://www.statnews.com/2018/05/14/apology-eric-lander-james-watson/"&gt;Lander toasted James Watson&lt;/a&gt;.&lt;/p&gt;
-&lt;blockquote class="twitter-tweet" data-width="500" data-dnt="true"&gt;
-&lt;p lang="en" dir="ltr"&gt;Since not everyone is aware of how awful a human Jim Watson is, and therefore doesn&amp;#39;t appreciate how utterly revolting it is that Eric Lander, for entirely self-serving reasons, chose to celebrate him, read this account of his 2000 talk at &lt;a href="https://twitter.com/UCBerkeley?ref_src=twsrc%5Etfw"&gt;@UCBerkeley&lt;/a&gt; &lt;a href="https://t.co/VOdMWfz0O9"&gt;https://t.co/VOdMWfz0O9&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&amp;mdash; Michael Eisen (@mbeisen) &lt;a href="https://twitter.com/mbeisen/status/995740605165682688?ref_src=twsrc%5Etfw"&gt;May 13, 2018&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;&lt;/p&gt;
-&lt;p&gt;Whoops.&lt;/p&gt;
-&lt;p&gt;The article also has suggestions for how Lander could improve his role as a science advisor.&lt;/p&gt;
-</content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">500 women scientists feel the same way. …we can’t help but notice that the recently announced nomination of presidential science adviser Eric Lander fails to meet the moment. His nomination does not fill us with hope that he will shepherd the kind of transformation in science we need if we are to ensure science delivers […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=61713</id>
-    <published>2021-01-22T14:30:33Z</published>
-    <updated>2021-01-22T14:30:33Z</updated>
-    <category term="Politics, History, and Law"/>
-    <category term="Science"/>
   </entry>
   <entry>
     <title>Because God Says So</title>
