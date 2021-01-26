@@ -7,9 +7,43 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2021-01-26T22:47:39Z</updated>
+  <updated>2021-01-26T23:45:57Z</updated>
   <link rel="self" href="http://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Well, that was a day</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/01/26/well-that-was-a-day/" type="text/html"/>
+    <content type="html">&lt;p class='lead'&gt;The first day of in-person lab was as &lt;a href="https://freethoughtblogs.com/pharyngula/2021/01/26/adjusting-to-pandemic-rules-is-going-to-wreck-me-this-term/"&gt;difficult as expected&lt;/a&gt;. Add to my earlier complaints: I forgot about the strain of standing for 5 hours, and most annoyingly, there was a problem with the building&amp;#8217;s heating, and the lab was at 13&amp;deg;C all afternoon. I was shivering the whole time.&lt;/p&gt;
+&lt;p&gt;But I made it. Now collapsing into a chair, turning off my brain, trying to get warm.&lt;/p&gt;
+</content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">The first day of in-person lab was as difficult as expected. Add to my earlier complaints: I forgot about the strain of standing for 5 hours, and most annoyingly, there was a problem with the building’s heating, and the lab was at 13°C all afternoon. I was shivering the whole time. But I made it. […]</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=61747</id>
+    <published>2021-01-26T23:33:19Z</published>
+    <updated>2021-01-26T23:33:19Z</updated>
+    <category term="Miscellaneous and Meta"/>
+  </entry>
+  <entry>
+    <title>New Study: Twitter Predicted COVID-19 Outbreaks</title>
+    <link rel="alternate" href="http://feedproxy.google.com/~r/Skepchick/~3/EdVx1ABmHaI/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">This post contains a video, which you can also view here. To support more videos like this, head to patreon.com/rebecca! I often talk about the dangers of social media, particularly how easy it is for misinformation to spread on outlets like Twitter and Facebook, and how easy it is to push someone into a bigoted …<div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/Skepchick?a=EdVx1ABmHaI:FQfXO6S1o2M:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/Skepchick?d=yIl2AUoC8zA" border="0"/></a> <a href="http://feeds.feedburner.com/~ff/Skepchick?a=EdVx1ABmHaI:FQfXO6S1o2M:dnMXMwOfBR0"><img src="http://feeds.feedburner.com/~ff/Skepchick?d=dnMXMwOfBR0" border="0"/></a> <a href="http://feeds.feedburner.com/~ff/Skepchick?a=EdVx1ABmHaI:FQfXO6S1o2M:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/Skepchick?i=EdVx1ABmHaI:FQfXO6S1o2M:F7zBnMyn0Lo" border="0"/></a> <a href="http://feeds.feedburner.com/~ff/Skepchick?a=EdVx1ABmHaI:FQfXO6S1o2M:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/Skepchick?d=7Q72WNTAKBA" border="0"/></a> <a href="http://feeds.feedburner.com/~ff/Skepchick?a=EdVx1ABmHaI:FQfXO6S1o2M:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/Skepchick?i=EdVx1ABmHaI:FQfXO6S1o2M:V_sGLiPBpWU" border="0"/></a> <a href="http://feeds.feedburner.com/~ff/Skepchick?a=EdVx1ABmHaI:FQfXO6S1o2M:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/Skepchick?d=qj6IDK7rITs" border="0"/></a> <a href="http://feeds.feedburner.com/~ff/Skepchick?a=EdVx1ABmHaI:FQfXO6S1o2M:gIN9vFwOqvQ"><img src="http://feeds.feedburner.com/~ff/Skepchick?i=EdVx1ABmHaI:FQfXO6S1o2M:gIN9vFwOqvQ" border="0"/></a> <a href="http://feeds.feedburner.com/~ff/Skepchick?a=EdVx1ABmHaI:FQfXO6S1o2M:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/Skepchick?i=EdVx1ABmHaI:FQfXO6S1o2M:D7DqB2pKExk" border="0"/></a>
+</div><img src="http://feeds.feedburner.com/~r/Skepchick/~4/EdVx1ABmHaI" height="1" width="1" alt=""/></div>
+    </content>
+    <author>
+      <name>Rebecca Watson</name>
+    </author>
+    <id>http://skepchick.org/?p=130764</id>
+    <published>2021-01-26T23:04:29Z</published>
+    <updated>2021-01-26T23:04:29Z</updated>
+    <category term="Science"/>
+    <category term="covid-19"/>
+  </entry>
   <entry>
     <title>We have been invited to visit Wisconsin this weekend</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/01/26/we-have-been-invited-to-visit-wisconsin-this-weekend/" type="text/html"/>
@@ -91,33 +125,6 @@
     <published>2021-01-25T16:43:06Z</published>
     <updated>2021-01-25T16:43:06Z</updated>
     <category term="Miscellaneous and Meta"/>
-  </entry>
-  <entry>
-    <title>The Oumuamua ‘controversy’</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/01/25/the-oumuamua-controversy/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p><a href="https://freethoughtblogs.com/pharyngula/files/2021/01/Oumuamua.jpeg"><img src="https://freethoughtblogs.com/pharyngula/files/2021/01/Oumuamua-150x81.jpeg" alt="" width="150" height="81" class="alignright size-thumbnail wp-image-61735" srcset="https://freethoughtblogs.com/pharyngula/files/2021/01/Oumuamua-150x81.jpeg 150w, https://freethoughtblogs.com/pharyngula/files/2021/01/Oumuamua-300x163.jpeg 300w, https://freethoughtblogs.com/pharyngula/files/2021/01/Oumuamua-768x416.jpeg 768w, https://freethoughtblogs.com/pharyngula/files/2021/01/Oumuamua-500x271.jpeg 500w, https://freethoughtblogs.com/pharyngula/files/2021/01/Oumuamua.jpeg 935w" sizes="(max-width: 150px) 100vw, 150px"/></a></p>
-<p class="lead">A few years ago, an unusual object zipped through the solar system. It flew through on a straight trajectory at high speed and vanished into the depths of space; it was also unusual in shape, flickering in intensity as it tumbled through. It was named Oumuamua, and astronomers had a great time trying to figure out what it was, where it came from, and how it came to be moving so fast.</p>
-<p>And then one guy, a Harvard astrophysicist named Avi Loeb, came up with the Intelligent Design explanation: aliens built it and launched it at our solar system. It was a perfect example of Intelligent Design thinking. He had no evidence for his hypothesis, he automatically rejected all other explanations, and spends most of his time complaining about other people’s hypotheses while not proposing observations or experiments to support his claim. The reaction by everyone else was typical, in that Loeb got all the attention in the tabloids and newspapers and television, while the scientists were left to do the unheralded real work, as reported in <a href="https://www.newyorker.com/magazine/2021/01/25/have-we-already-been-visited-by-aliens">a maybe too even-handed New Yorker essay</a>.</p>
-<blockquote><p>“No, ‘Oumuamua is not an alien spaceship, and the authors of the paper insult honest scientific inquiry to even suggest it,” Paul M. Sutter, an astrophysicist at Ohio State University, wrote.</p>
-<p>“Can we talk about how annoying it is that Avi Loeb promotes speculative theories about alien origins of ‘Oumuamua, forcing [the] rest of us to do the scientific gruntwork of walking back these rumors?” Benjamin Weiner, an astronomer at the University of Arizona, tweeted.</p></blockquote>
-<p>By the way, the essay title is a question, “<a href="https://www.newyorker.com/magazine/2021/01/25/have-we-already-been-visited-by-aliens">Have we already been visited by aliens?</a>. You know the answer. No.</p>
-<p>You will not be surprised to learn that Loeb has now written a book that asserts that Oumuamua <em>is</em> an intelligently designed object. Ho hum. Maybe double the ho-hums, because <em>of course</em> he also compares himself to Galileo, one of the most common symptoms of terminal crackpottery.</p>
-<blockquote><p>Loeb has now dispensed with the scientific notation and written “Extraterrestrial: The First Sign of Intelligent Life Beyond Earth” (Houghton Mifflin Harcourt). In it, he recounts the oft-told story of how Galileo was charged with heresy for asserting that Earth circled the sun. At his trial in Rome, in 1633, Galileo recanted and then, legend has it, muttered, sotto voce, “Eppur si muove” (“And yet it moves”). Loeb acknowledges that the quote is probably apocryphal; still, he maintains, it’s relevant. The astronomical establishment may wish to silence him, but it can’t explain why ‘Oumuamua strayed from the expected path. “And yet it deviated,” he observes.</p></blockquote>
-<p>One of the better parts of the essay, though, is that it concludes by comparing the book to “<i>Chariots of the Gods?</i>,” by Erich von Däniken, and predicts that he will most likely end up ranked with von Däniken, not Galileo. Unfortunately, that means that while it ends up as pseudoscientific trash, it will also be profitable and spawn all kinds of pseudodocumentaries, and that Loeb will be very popular on the space alien lecture circuit.</p>
-<p>Can we have another sigh of despair, everyone?</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">A few years ago, an unusual object zipped through the solar system. It flew through on a straight trajectory at high speed and vanished into the depths of space; it was also unusual in shape, flickering in intensity as it tumbled through. It was named Oumuamua, and astronomers had a great time trying to figure […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=61734</id>
-    <published>2021-01-25T15:36:25Z</published>
-    <updated>2021-01-25T15:36:25Z</updated>
-    <category term="Atheism and Skepticism"/>
   </entry>
   <entry>
     <title>Good Magic Award</title>
@@ -314,35 +321,6 @@
     <id>https://newhumanist.org.uk/articles/5744/book-review-justice-on-trial#utm_source=rss</id>
     <published>2021-01-18T10:49:47Z</published>
     <updated>2021-01-18T10:49:47Z</updated>
-  </entry>
-  <entry>
-    <title>Quickies: Can you process an insurrection and still make time for science?</title>
-    <link rel="alternate" href="http://feedproxy.google.com/~r/Skepchick/~3/nwus_KCPBCA/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Welcome to another rushed Friday Quickies! Two virtual conferences at the same time seemed like such a great idea to past-Nicole… present-Nicole is TIRED. I’m still processing last week’s insurrection at the Capitol even as I fear future attacks. One way to do so is to learn about insurrections that we’ve had before in the …<div class="feedflare">
-<a href="http://feeds.feedburner.com/~ff/Skepchick?a=nwus_KCPBCA:9Smpg5Ug_WQ:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/Skepchick?d=yIl2AUoC8zA" border="0"/></a> <a href="http://feeds.feedburner.com/~ff/Skepchick?a=nwus_KCPBCA:9Smpg5Ug_WQ:dnMXMwOfBR0"><img src="http://feeds.feedburner.com/~ff/Skepchick?d=dnMXMwOfBR0" border="0"/></a> <a href="http://feeds.feedburner.com/~ff/Skepchick?a=nwus_KCPBCA:9Smpg5Ug_WQ:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/Skepchick?i=nwus_KCPBCA:9Smpg5Ug_WQ:F7zBnMyn0Lo" border="0"/></a> <a href="http://feeds.feedburner.com/~ff/Skepchick?a=nwus_KCPBCA:9Smpg5Ug_WQ:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/Skepchick?d=7Q72WNTAKBA" border="0"/></a> <a href="http://feeds.feedburner.com/~ff/Skepchick?a=nwus_KCPBCA:9Smpg5Ug_WQ:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/Skepchick?i=nwus_KCPBCA:9Smpg5Ug_WQ:V_sGLiPBpWU" border="0"/></a> <a href="http://feeds.feedburner.com/~ff/Skepchick?a=nwus_KCPBCA:9Smpg5Ug_WQ:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/Skepchick?d=qj6IDK7rITs" border="0"/></a> <a href="http://feeds.feedburner.com/~ff/Skepchick?a=nwus_KCPBCA:9Smpg5Ug_WQ:gIN9vFwOqvQ"><img src="http://feeds.feedburner.com/~ff/Skepchick?i=nwus_KCPBCA:9Smpg5Ug_WQ:gIN9vFwOqvQ" border="0"/></a> <a href="http://feeds.feedburner.com/~ff/Skepchick?a=nwus_KCPBCA:9Smpg5Ug_WQ:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/Skepchick?i=nwus_KCPBCA:9Smpg5Ug_WQ:D7DqB2pKExk" border="0"/></a>
-</div><img src="http://feeds.feedburner.com/~r/Skepchick/~4/nwus_KCPBCA" height="1" width="1" alt=""/></div>
-    </content>
-    <author>
-      <name>Noisy</name>
-    </author>
-    <id>http://skepchick.org/?p=130745</id>
-    <published>2021-01-15T20:07:59Z</published>
-    <updated>2021-01-15T20:07:59Z</updated>
-    <category term="Quickies"/>
-    <category term="anthropology"/>
-    <category term="birds"/>
-    <category term="coup"/>
-    <category term="disinformation"/>
-    <category term="fake science"/>
-    <category term="fish"/>
-    <category term="gender"/>
-    <category term="indigenous"/>
-    <category term="race"/>
-    <category term="Science"/>
-    <category term="science outreach"/>
-    <category term="sound"/>
-    <category term="telescope"/>
   </entry>
   <entry>
     <title>Book review: Reaganland</title>
