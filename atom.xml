@@ -7,9 +7,28 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2021-02-14T03:38:11Z</updated>
+  <updated>2021-02-14T04:42:18Z</updated>
   <link rel="self" href="http://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Time to give up and go to bed</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/02/13/time-to-give-up-and-go-to-bed/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p class="lead">It’s been a long day of grading and paperwork. I’ll finish the rest tomorrow, sometime.</p>
+<p>I am so looking forward to the long weekend coming up.</p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">It’s been a long day of grading and paperwork. I’ll finish the rest tomorrow, sometime. I am so looking forward to the long weekend coming up.</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=61910</id>
+    <published>2021-02-14T03:53:46Z</published>
+    <updated>2021-02-14T03:53:46Z</updated>
+    <category term="Miscellaneous and Meta"/>
+  </entry>
   <entry>
     <title>Go count birds!</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/02/12/go-count-birds/" type="text/html"/>
@@ -113,24 +132,6 @@ Dear PZ Meyers,</p>
     <published>2021-02-11T20:21:16Z</published>
     <updated>2021-02-11T20:21:16Z</updated>
     <category term="Feminism, Gender, and Equality"/>
-  </entry>
-  <entry>
-    <title>Venting!</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/02/11/venting/" type="text/html"/>
-    <content type="html">&lt;p class="lead"&gt;This year is trying to kill my interest in teaching. My work load has basically doubled, since I&amp;#8217;m splitting up all my labs into multiple sub-sections to meet the isolation guidelines, and I&amp;#8217;m also struggling to provide accommodations to all the students in difficult circumstances (which I need to do, and is part of the job), and my reward is that a) teaching involves trying to engage mute little black squares on a computer screen, and b) the administration occasionally mumbles about trying to find a way to cut my pay, while telling me gosh, what a wonderful job I&amp;#8217;m doing. And then telling me we should prepare to continue the pandemic protocols next fall, and that we don&amp;#8217;t have any access to a vaccine, and aren&amp;#8217;t even remotely in the queue. Right now I&amp;#8217;m staring into a growing bleak darkness that is my future. I don&amp;#8217;t even have the joy of spidering right now &amp;#8212; it&amp;#8217;s -35 degrees C out there!&lt;/p&gt;
-&lt;p&gt;If my first year as a full time teaching professor (1990, but who is counting) had been like this, I&amp;#8217;d be working in a software company right now, coding. I coulda been, but I liked students&amp;hellip;you know, those entities who are now little black squares on a screen.&lt;/p&gt;
-&lt;p&gt;At least I can still scream into the glowing pixels of the void before me.&lt;/p&gt;
-</content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">This year is trying to kill my interest in teaching. My work load has basically doubled, since I’m splitting up all my labs into multiple sub-sections to meet the isolation guidelines, and I’m also struggling to provide accommodations to all the students in difficult circumstances (which I need to do, and is part of the […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=61898</id>
-    <published>2021-02-11T14:55:40Z</published>
-    <updated>2021-02-11T14:55:40Z</updated>
-    <category term="Miscellaneous and Meta"/>
   </entry>
   <entry>
     <title>"Many of us will experience disability in our lives"</title>
