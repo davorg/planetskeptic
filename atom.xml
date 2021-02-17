@@ -7,9 +7,26 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2021-02-17T21:35:49Z</updated>
+  <updated>2021-02-17T22:36:20Z</updated>
   <link rel="self" href="http://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Grocery shopping in Minnesota is exactly like this thumbnail</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/02/17/grocery-shopping-in-minnesota-is-exactly-like-this-thumbnail/" type="text/html"/>
+    <content type="html">&lt;p class="lead"&gt;Would I exaggerate?&lt;/p&gt;
+&lt;div class="center"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/H4M508fRx8M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+</content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Would I exaggerate?</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=61937</id>
+    <published>2021-02-17T22:28:44Z</published>
+    <updated>2021-02-17T22:28:44Z</updated>
+    <category term="Miscellaneous and Meta"/>
+  </entry>
   <entry>
     <title>Would it be unseemly to dance on his grave?</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/02/17/would-it-be-unseemly-to-dance-on-his-grave/" type="text/html"/>
@@ -203,26 +220,6 @@ I mean, there is no shortage of thoughtful articles on the ethics of bioengineer
     <published>2021-02-17T02:15:53Z</published>
     <updated>2021-02-17T02:15:53Z</updated>
     <category term="Science"/>
-  </entry>
-  <entry>
-    <title>I don’t know whether I’m mad or stupid</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/02/16/i-dont-know-whether-im-mad-or-stupid/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p><a href="https://freethoughtblogs.com/pharyngula/files/2021/02/flagellant.jpg"><img src="https://freethoughtblogs.com/pharyngula/files/2021/02/flagellant-300x241.jpg" alt="" width="300" height="241" class="alignright size-medium wp-image-61923" srcset="https://freethoughtblogs.com/pharyngula/files/2021/02/flagellant-300x241.jpg 300w, https://freethoughtblogs.com/pharyngula/files/2021/02/flagellant-150x120.jpg 150w, https://freethoughtblogs.com/pharyngula/files/2021/02/flagellant-768x617.jpg 768w, https://freethoughtblogs.com/pharyngula/files/2021/02/flagellant-500x402.jpg 500w, https://freethoughtblogs.com/pharyngula/files/2021/02/flagellant.jpg 1600w" sizes="(max-width: 300px) 100vw, 300px"/></a></p>
-<p class="lead">A while back, I volunteered to participate in a university forum on <a href="https://library.morris.umn.edu/events/asking-big-questions-designer-babies">designer babies</a>. It’s happening tonight via Zoom. So I teach a class this morning, have a student doing her capstone experience, a senior seminar, at 1, go in to teach an in-person lab at 2, come home at 5 to have dinner, and then hop online at 7 to experience two philosophers ganging up on one biologist, and when that’s over, prepare for tomorrow’s class.</p>
-<p>I’m at least one of those two things in the title, but maybe you can think of a third. Yeah, I’m inviting you to diagnose me and call me names. I need the flagellation.</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">A while back, I volunteered to participate in a university forum on designer babies. It’s happening tonight via Zoom. So I teach a class this morning, have a student doing her capstone experience, a senior seminar, at 1, go in to teach an in-person lab at 2, come home at 5 to have dinner, and […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=61922</id>
-    <published>2021-02-16T15:00:10Z</published>
-    <updated>2021-02-16T15:00:10Z</updated>
-    <category term="Miscellaneous and Meta"/>
   </entry>
   <entry>
     <title>Quickies: Science Twitter doing its thing…</title>
