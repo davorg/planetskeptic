@@ -7,9 +7,72 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2021-02-17T16:59:41Z</updated>
+  <updated>2021-02-17T17:34:48Z</updated>
   <link rel="self" href="http://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>VIDEO: What QAnon Believes</title>
+    <link rel="alternate" href="https://richarddawkins.net/2021/02/video-what-qanon-believes/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">The most recent Skeptical Inquirer Presents live online event was the series’ best-attended so far, perhaps because it directly addressed a question that is probably on a lot of people’s minds: What the heck is going on with this QAnon thing? The conspiracy theory movement known as QAnon has quickly gone from inhabiting the darkest …</div>
+    </content>
+    <author>
+      <name>Paul Fidalgo</name>
+    </author>
+    <id>https://richarddawkins.net/?p=975962</id>
+    <published>2021-02-17T17:14:58Z</published>
+    <updated>2021-02-17T17:14:58Z</updated>
+    <category term="Skepticism"/>
+    <category term="Video"/>
+  </entry>
+  <entry>
+    <title>Mars or Bust</title>
+    <link rel="alternate" href="https://richarddawkins.net/2021/02/mars-or-bust/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">For a planet without any known lifeforms, there sure is a lot of activity on Mars these days. Tomorrow (Thursday), just days after China and the United Arab Emirates have put their own spacecraft into Martian orbit, the United States will add its own rover, Perseverance, to the party, trying to land an object hurtling …</div>
+    </content>
+    <author>
+      <name>Paul Fidalgo</name>
+    </author>
+    <id>https://richarddawkins.net/?p=975957</id>
+    <published>2021-02-17T17:11:08Z</published>
+    <updated>2021-02-17T17:11:08Z</updated>
+    <category term="News Article"/>
+    <category term="Science"/>
+  </entry>
+  <entry>
+    <title>SCOTUS v. Science</title>
+    <link rel="alternate" href="https://richarddawkins.net/2021/02/news-scotus-v-science/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">It is no surprise that a Supreme Court dominated by religious conservatives has produced yet another ruling that privileges religion over all else, as is the case with their recent decision striking down California’s pandemic restrictions on in-person worship services. But as CFI Legal Director Nick Little points out, the privileging of religion is only …</div>
+    </content>
+    <author>
+      <name>Paul Fidalgo</name>
+    </author>
+    <id>https://richarddawkins.net/?p=975952</id>
+    <published>2021-02-17T17:05:42Z</published>
+    <updated>2021-02-17T17:05:42Z</updated>
+    <category term="Atheism"/>
+    <category term="News Article"/>
+    <category term="Politics"/>
+    <category term="Religion"/>
+  </entry>
+  <entry>
+    <title>Hitting Homeopathy Where It Lives</title>
+    <link rel="alternate" href="https://richarddawkins.net/2021/02/hitting-homeopathy-where-it-lives/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Homeopathic fake medicine continues to be sold and marketed by retailers despite the fact that it has no effect whatsoever on any condition or ailment, save for relieving oneself of excess cash. As the Center for Inquiry presses ahead with major lawsuits against retailers Walmart and CVS, we are also tackling the issue of the …</div>
+    </content>
+    <author>
+      <name>Paul Fidalgo</name>
+    </author>
+    <id>https://richarddawkins.net/?p=975947</id>
+    <published>2021-02-17T17:02:51Z</published>
+    <updated>2021-02-17T17:02:51Z</updated>
+    <category term="News Article"/>
+    <category term="Science"/>
+    <category term="Skepticism"/>
+  </entry>
   <entry>
     <title>Avijit Roy’s Killers Sentenced</title>
     <link rel="alternate" href="https://richarddawkins.net/2021/02/avijit-roys-killers-sentenced/" type="text/html"/>
@@ -24,23 +87,6 @@
     <updated>2021-02-17T16:58:18Z</updated>
     <category term="Atheism"/>
     <category term="News Article"/>
-  </entry>
-  <entry>
-    <title>Fraught with Faith-Based Initiatives</title>
-    <link rel="alternate" href="https://richarddawkins.net/2021/02/fraught-with-faith-based-initiatives/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">The Biden administration has re-established the White House Office of Faith-Based and Neighborhood Partnerships, which, on its face, is not exactly thrilling news to the nonreligious community. But at the very least, it is being headed once again by its director under President Obama, Melissa Rogers, who worked very well with secular organizations such as …</div>
-    </content>
-    <author>
-      <name>Paul Fidalgo</name>
-    </author>
-    <id>https://richarddawkins.net/?p=975939</id>
-    <published>2021-02-17T16:54:54Z</published>
-    <updated>2021-02-17T16:54:54Z</updated>
-    <category term="Atheism"/>
-    <category term="News Article"/>
-    <category term="Politics"/>
-    <category term="Religion"/>
   </entry>
   <entry>
     <title>That reminds me…</title>
@@ -316,35 +362,6 @@ I mean, there is no shortage of thoughtful articles on the ethics of bioengineer
     <category term="Skepticism"/>
   </entry>
   <entry>
-    <title>OPEN DISCUSSION FEBRUARY 2021</title>
-    <link rel="alternate" href="https://richarddawkins.net/2021/02/open-discussion-february-2021/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">This thread has been created for discussion on themes relevant to Reason and Science for which there are not currently any dedicated threads. Please note that our Comment Policy applies as usual. There is a link to this at the foot of the page. If you would like to refer back to previous open discussion …</div>
-    </content>
-    <author>
-      <name>Marc Kreidler</name>
-    </author>
-    <id>https://richarddawkins.net/?p=975866</id>
-    <published>2021-02-02T23:12:18Z</published>
-    <updated>2021-02-02T23:12:18Z</updated>
-    <category term="Discussion"/>
-    <category term="Featured"/>
-  </entry>
-  <entry>
-    <title>I had been indoctrinated</title>
-    <link rel="alternate" href="https://richarddawkins.net/2021/02/i-had-been-indoctrinated/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Sometimes, the simplest of things can go unnoticed until an unexpected occurrence reveals the obvious. In my case it was an examination of what was generating my anger after being asked a simple question regarding my beliefs. I found my anger came from frustration, the frustration of repeating belief as fact and never given the …</div>
-    </content>
-    <author>
-      <name>Marc Kreidler</name>
-    </author>
-    <id>https://centerforinquiry.org/richard-dawkins/?p=975864</id>
-    <published>2021-02-02T15:58:55Z</published>
-    <updated>2021-02-02T15:58:55Z</updated>
-    <category term="Converts Corner"/>
-  </entry>
-  <entry>
     <title>Good Magic Award</title>
     <link rel="alternate" href="https://richardwiseman.wordpress.com/2021/01/25/good-magic-award-2/" type="text/html"/>
     <content type="html">
@@ -364,20 +381,6 @@ I mean, there is no shortage of thoughtful articles on the ethics of bioengineer
     <published>2021-01-25T12:47:42Z</published>
     <updated>2021-01-25T12:47:42Z</updated>
     <category term="Quirky stuff"/>
-  </entry>
-  <entry>
-    <title>Because God Says So</title>
-    <link rel="alternate" href="https://richarddawkins.net/2021/01/because-god-says-so/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">I was raised Catholic, strict Catholic on both sides of my family. Nobody could answer why we believed what we believed, everything was because God says so or something along those lines. I always had doubts, but my faith didn’t take a hit until 2005. I was going to a non-denominational Christian Church that my …</div>
-    </content>
-    <author>
-      <name>Marc Kreidler</name>
-    </author>
-    <id>https://www.richarddawkins.net/?p=970189</id>
-    <published>2021-01-22T14:14:11Z</published>
-    <updated>2021-01-22T14:14:11Z</updated>
-    <category term="Converts Corner"/>
   </entry>
   <entry>
     <title>Science magic</title>
