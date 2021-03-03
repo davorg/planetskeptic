@@ -7,9 +7,24 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2021-03-03T17:15:04Z</updated>
+  <updated>2021-03-03T17:56:51Z</updated>
   <link rel="self" href="http://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>The Flattened Earth Society</title>
+    <link rel="alternate" href="https://richarddawkins.net/2021/03/the-flattened-earth-society/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Planet Earth is not flat, despite what you may have heard on the internet. But maps of Earth are flat, and it turns out it’s very difficult to accurately represent all the features on the surface of a sphere on a two-dimensional plane. Many novel approaches have been taken to make sure, for example, Greenland …</div>
+    </content>
+    <author>
+      <name>Paul Fidalgo</name>
+    </author>
+    <id>https://richarddawkins.net/?p=976048</id>
+    <published>2021-03-03T17:32:45Z</published>
+    <updated>2021-03-03T17:32:45Z</updated>
+    <category term="News Article"/>
+    <category term="Science"/>
+  </entry>
   <entry>
     <title>Atheism is dead. Atheists killed it.</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/03/03/atheism-is-dead-atheists-killed-it/" type="text/html"/>
@@ -325,21 +340,6 @@
     <id>https://newhumanist.org.uk/articles/5751/can-we-escape-our-national-myths-the-spring-2021-new-humanist#utm_source=rss</id>
     <published>2021-02-18T10:09:47Z</published>
     <updated>2021-02-18T10:09:47Z</updated>
-  </entry>
-  <entry>
-    <title>VIDEO: What QAnon Believes</title>
-    <link rel="alternate" href="https://richarddawkins.net/2021/02/video-what-qanon-believes/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">The most recent Skeptical Inquirer Presents live online event was the series’ best-attended so far, perhaps because it directly addressed a question that is probably on a lot of people’s minds: What the heck is going on with this QAnon thing? The conspiracy theory movement known as QAnon has quickly gone from inhabiting the darkest …</div>
-    </content>
-    <author>
-      <name>Paul Fidalgo</name>
-    </author>
-    <id>https://richarddawkins.net/?p=975962</id>
-    <published>2021-02-17T17:14:58Z</published>
-    <updated>2021-02-17T17:14:58Z</updated>
-    <category term="Skepticism"/>
-    <category term="Video"/>
   </entry>
   <entry>
     <title>Good Magic Award</title>
