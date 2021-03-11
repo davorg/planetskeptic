@@ -7,9 +7,54 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2021-03-11T12:51:55Z</updated>
+  <updated>2021-03-11T13:39:20Z</updated>
   <link rel="self" href="http://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Wanking over the Drake Equation, again</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/03/11/wanking-over-the-drake-equation-again/" type="text/html"/>
+    <content type="html">&lt;p&gt;&lt;a href="https://freethoughtblogs.com/pharyngula/files/2021/03/galaxy.jpg"&gt;&lt;img src="https://freethoughtblogs.com/pharyngula/files/2021/03/galaxy-150x113.jpg" alt="" width="150" height="113" class="alignright size-thumbnail wp-image-62148" srcset="https://freethoughtblogs.com/pharyngula/files/2021/03/galaxy-150x113.jpg 150w, https://freethoughtblogs.com/pharyngula/files/2021/03/galaxy-300x225.jpg 300w, https://freethoughtblogs.com/pharyngula/files/2021/03/galaxy-768x576.jpg 768w, https://freethoughtblogs.com/pharyngula/files/2021/03/galaxy-500x375.jpg 500w, https://freethoughtblogs.com/pharyngula/files/2021/03/galaxy.jpg 777w" sizes="(max-width: 150px) 100vw, 150px" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p class="lead"&gt;Oh, this is so silly. It&amp;#8217;s a paper titled &lt;a href="https://arxiv.org/pdf/2012.07902.pdf"&gt;A Statistical Estimation of the Occurrence of Extraterrestrial Intelligence in the Milky Way Galaxy&lt;/a&gt;. All it is is an exercise in modeling the hypothetical distribution of hypothetical intelligent life in the galaxy, taking into account the age distribution of stars.&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;In the field of Astrobiology, the precise location, prevalence and age of potential&lt;br /&gt;
+extraterrestrial intelligence (ETI) have not been explicitly explored. Here, we address these&lt;br /&gt;
+inquiries using an empirical galactic simulation model to analyze the spatial-temporal variations&lt;br /&gt;
+and the prevalence of potential ETI within the Galaxy. This model estimates the occurrence of ETI,&lt;br /&gt;
+providing guidance on where to look for intelligent life in the Search for ETI (SETI) with a set of&lt;br /&gt;
+criteria, including well-established astrophysical properties of the Milky Way. Further, typically&lt;br /&gt;
+overlooked factors such as the process of abiogenesis, different evolutionary timescales and&lt;br /&gt;
+potential self-annihilation are incorporated to explore the growth propensity of ETI. We examine&lt;br /&gt;
+three major parameters: 1) the likelihood rate of abiogenesis (λA); 2) evolutionary timescales (Tevo);&lt;br /&gt;
+and 3) probability of self-annihilation of complex life (Pann). We found Pann to be the most&lt;br /&gt;
+influential parameter determining the quantity and age of galactic intelligent life. Our model&lt;br /&gt;
+simulation also identified a peak location for ETI at an annular region approximately 4 kpc from&lt;br /&gt;
+the Galactic center around 8 billion years (Gyrs), with complex life decreasing temporally and&lt;br /&gt;
+spatially from the peak point, asserting a high likelihood of intelligent life in the galactic inner&lt;br /&gt;
+disk. The simulated age distributions also suggest that most of the intelligent life in our galaxy are&lt;br /&gt;
+young, thus making observation or detection difficult.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;&amp;lt;sigh&amp;gt;. Why? I sympathize with the idea of having fun with math, but the Drake equation is simple-minded algebra, not particularly interesting, and isn&amp;#8217;t going to produce testable results.The authors seem to have confused their model with reality. This makes no sense:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;We also concluded that at the current time of the study, most intelligent life in the Galaxy is&lt;br /&gt;
+younger than 0.5 Gyr, with values of probability parameter for self-annihilation between 0 &amp;#8211; 0.01;&lt;br /&gt;
+with a relatively higher value of the annihilation parameter (≥ 0.1), most intelligent life is younger&lt;br /&gt;
+than 0.01 Gyr. As we cannot assume a low probability of annihilation, it is possible that intelligent&lt;br /&gt;
+life elsewhere in the Galaxy is still too young to be observed by us. Therefore, our findings can&lt;br /&gt;
+imply that intelligent life may be common in the Galaxy but is still young, supporting the optimistic&lt;br /&gt;
+aspect for the practice of SETI. Our results also suggest that our location on Earth is not within the&lt;br /&gt;
+region where most intelligent life is settled, and SETI practices need to be closer to the inner&lt;br /&gt;
+Galaxy, preferably at the annulus 4 kpc from the Galactic Center.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;But&amp;hellip;but&amp;hellip;they&amp;#8217;re talking about the parameters of their simulation! Their &amp;#8220;probability parameter for self-annihilation&amp;#8221; is something &lt;em&gt;they&lt;/em&gt; set. &lt;em&gt;All&lt;/em&gt; of the numbers they plug in are guesstimates, with varying degrees of reasonable justification. Of course they make an optimistic conclusion about SETI! But why should anyone accept their conclusions about an appropriate region for searching for intelligent life? Fudge their parameters a little more and you could shift the zone of likelihood where ever you want. They&amp;#8217;ve added nothing to our understanding of the universe, unless you think that multiplying a bunch of numbers by a different bunch of numbers giving you a new result is earthshaking.&lt;/p&gt;
+&lt;p&gt;I really have to ask&amp;hellip;why don&amp;#8217;t reviewers simply stamp papers that are all about manipulating the Drake equation with a big red &lt;span style="color: red; font-family: Impact"&gt;REJECT&lt;/span&gt; label? It would save them time and reduce the clutter in the scientific literature. Is there any value in YAWOD (Yet Another Wank Over Drake)? Who finds these informative?&lt;/p&gt;
+</content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Oh, this is so silly. It’s a paper titled A Statistical Estimation of the Occurrence of Extraterrestrial Intelligence in the Milky Way Galaxy. All it is is an exercise in modeling the hypothetical distribution of hypothetical intelligent life in the galaxy, taking into account the age distribution of stars. In the field of Astrobiology, the […]</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=62147</id>
+    <published>2021-03-11T13:33:53Z</published>
+    <updated>2021-03-11T13:33:53Z</updated>
+    <category term="Bad science"/>
+  </entry>
   <entry>
     <title>You will know they are Christians by their flexible morality</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/03/11/you-will-know-they-are-christians-by-their-flexible-morality/" type="text/html"/>
@@ -148,26 +193,6 @@
     <published>2021-03-10T14:31:32Z</published>
     <updated>2021-03-10T14:31:32Z</updated>
     <category term="Politics, History, and Law"/>
-  </entry>
-  <entry>
-    <title>How far will Milo go?</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/03/10/how-far-will-milo-go/" type="text/html"/>
-    <content type="html">&lt;p&gt;&lt;a href="https://freethoughtblogs.com/pharyngula/files/2021/03/milo.jpg"&gt;&lt;img src="https://freethoughtblogs.com/pharyngula/files/2021/03/milo-150x99.jpg" alt="" width="150" height="99" class="alignright size-thumbnail wp-image-62131" srcset="https://freethoughtblogs.com/pharyngula/files/2021/03/milo-150x99.jpg 150w, https://freethoughtblogs.com/pharyngula/files/2021/03/milo-300x198.jpg 300w, https://freethoughtblogs.com/pharyngula/files/2021/03/milo-768x508.jpg 768w, https://freethoughtblogs.com/pharyngula/files/2021/03/milo-500x331.jpg 500w, https://freethoughtblogs.com/pharyngula/files/2021/03/milo.jpg 1024w" sizes="(max-width: 150px) 100vw, 150px" /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p class="lead"&gt;Failed scandal-mongerer and outrage-generator Milo Yiannopoulos (remember him? He used to be in the news all the time) is in the midst of a major rebranding effort, but it&amp;#8217;s really just more of the same: embracing the worst possible takes on everything, following along behind any fleeting trend and straining to amplify it even more. So what is &lt;a href="https://www.thedailybeast.com/milo-yiannopoulos-desperately-declares-himself-ex-gay-says-his-new-mission-is-conversion-therapy"&gt;he up to now&lt;/a&gt;?&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;Professional right-wing troll Milo Yiannopoulos has declared himself no longer homosexual. In an interview with the right-wing LifeSite, Yiannopoulos claims he is “ex-gay” and will direct his future endeavors to St. Joseph: “I treat it like an addiction. You never stop being an alcoholic&amp;#8230; I hope people will support and pray for me, if for no other reason than they share my delight at the prospect of Milo Yiannopoulos furiously and indignantly railing against homosexuals for sins of the flesh.” He announced a new vocation as well, a dedication to the discredited and widely banned practice of forcibly subduing homosexuality: “Over the next decade, I would like to help rehabilitate what the media calls ‘conversion therapy.’” It is unclear whether Yiannopoulos remains legally married: “The guy I live with has been demoted to housemate.” And he took some time during the interview to indulge in transphobia as well, claiming “trannies are demonic.”&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;The key phrase in that statement is the hope that people will &amp;#8220;support&amp;#8221; him&amp;hellip;he&amp;#8217;s always on the grift, this is just his newest angle.&lt;/p&gt;
-&lt;p&gt;Man, he is &lt;em&gt;desperate&lt;/em&gt; to recover some relevance, yet all he knows how to do is this clown-like capering for the most hateful audience he can find. What a sad pathetic wreck of a life he has &amp;#8212; I guess if he really wants attention, he is going to get some pity out of this latest maneuver.&lt;/p&gt;
-</content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Failed scandal-mongerer and outrage-generator Milo Yiannopoulos (remember him? He used to be in the news all the time) is in the midst of a major rebranding effort, but it’s really just more of the same: embracing the worst possible takes on everything, following along behind any fleeting trend and straining to amplify it even more. […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=62130</id>
-    <published>2021-03-10T12:53:38Z</published>
-    <updated>2021-03-10T12:53:38Z</updated>
-    <category term="Miscellaneous and Meta"/>
   </entry>
   <entry>
     <title>Working with the enemy</title>
