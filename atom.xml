@@ -7,9 +7,30 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2021-03-16T11:37:39Z</updated>
+  <updated>2021-03-16T12:52:04Z</updated>
   <link rel="self" href="http://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>It’s not too late to shower us with rubies</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/03/16/its-not-too-late-to-shower-us-with-rubies/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p><a href="https://freethoughtblogs.com/pharyngula/files/2021/03/ruby.png"><img src="https://freethoughtblogs.com/pharyngula/files/2021/03/ruby-150x95.png" alt="" width="150" height="95" class="alignright size-thumbnail wp-image-62204" srcset="https://freethoughtblogs.com/pharyngula/files/2021/03/ruby-150x95.png 150w, https://freethoughtblogs.com/pharyngula/files/2021/03/ruby-300x191.png 300w, https://freethoughtblogs.com/pharyngula/files/2021/03/ruby-768x488.png 768w, https://freethoughtblogs.com/pharyngula/files/2021/03/ruby-500x318.png 500w, https://freethoughtblogs.com/pharyngula/files/2021/03/ruby.png 1141w" sizes="(max-width: 150px) 100vw, 150px"/></a></p>
+<p class="lead">Last year was our 40th wedding anniversary, which we had to spend apart because Mary got caught by the lockdown in Colorado. This year, Tuesdays are my heaviest teaching days, so I’m just spending the whole day on zoom and in lab.</p>
+<p>We’re such a glamorous couple.</p>
+<p>I note that the traditional 40th anniversary wedding gift is rubies. If you’ve got a few you can spare, drop them in an envelope and send them here. You all forgot to send them last year; to be honest, I didn’t even notice then.</p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Last year was our 40th wedding anniversary, which we had to spend apart because Mary got caught by the lockdown in Colorado. This year, Tuesdays are my heaviest teaching days, so I’m just spending the whole day on zoom and in lab. We’re such a glamorous couple. I note that the traditional 40th anniversary wedding […]</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=62203</id>
+    <published>2021-03-16T12:45:35Z</published>
+    <updated>2021-03-16T12:45:35Z</updated>
+    <category term="Personal"/>
+  </entry>
   <entry>
     <title>I think there’s something wrong with this place</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/03/16/i-think-theres-something-wrong-with-this-place/" type="text/html"/>
@@ -124,26 +145,6 @@
     <published>2021-03-15T16:04:21Z</published>
     <updated>2021-03-15T16:04:21Z</updated>
     <category term="Atheism and Skepticism"/>
-  </entry>
-  <entry>
-    <title>Dread teaching</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/03/15/dread-teaching/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p class="lead">I’m caught up on a lot of grading, but today I now have to explain while they got so much wrong. The mean on the last exam was 75, which isn’t bad, but a lot of students are certain they deserve an A on everything, so I have to tell them today that the grade they got was the grade they deserve, and then explain how to solve the problems correctly. Many of the errors were due to invalid assumptions. For example, some people were confused by the term “wild type” — they had it in their heads, largely from their introductory population genetics course, that wild type was simply the most common phenotype <em>in the cross</em>, so for instance, whatever the phenotype of the heterozygotes was in a simple hybrid cross, that was “wild type”. Yikes. So now I also have to reset <em>my</em> brain and stop assuming they know all the basic conventions.</p>
-<p>Next bit of fun: we’re wrapping up a standard complementation assay in the lab, so I have to talk to them about writing up a lab report, which means that, while I’ve finished a painful backlog of grading, I’m about to tell them to create a lot more work for me. </p>
-<p>Somehow, in all that, I also have to teach them about deletions, duplications, and translocations this week, and then next week we plunge into the happy world of recombination and gene mapping, and <em>more math</em>. Sometimes I wonder how I can keep going, since I’m pretty sure that by the end of the semester all of my students hate me.</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">I’m caught up on a lot of grading, but today I now have to explain while they got so much wrong. The mean on the last exam was 75, which isn’t bad, but a lot of students are certain they deserve an A on everything, so I have to tell them today that the grade […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=62190</id>
-    <published>2021-03-15T15:22:49Z</published>
-    <updated>2021-03-15T15:22:49Z</updated>
-    <category term="My classes"/>
   </entry>
   <entry>
     <title>In Kenya, the pandemic has shown that church leaders are out of control</title>
