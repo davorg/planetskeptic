@@ -7,9 +7,29 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2021-04-10T11:34:22Z</updated>
+  <updated>2021-04-10T12:41:13Z</updated>
   <link rel="self" href="http://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Day Two starts off well</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/04/10/day-two-starts-off-well/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p class="lead">I got my second Pfizer shot yesterday, and I had had a mild reaction (lethargy, general weakness) to the first shot, so I was a little worried about this one.  And so far, it’s a little worse! Just a little, though.</p>
+<p>I woke up at 3am feeling mildly achey, but managed to fall back asleep. And then I slept in until 7am! I never sleep that late. I’m still feeling a few more aches, and my arm is definitely feeling much more sore, but it’s not bad. I have no excuse to shirk going through that massive pile of lab reports that came in last night.</p>
+<p>I do have that strange urge to reformat the hard drive on my Linux machine and install Windows, and also upgrade my phone to 5G. I hope I get over those soon.</p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">I got my second Pfizer shot yesterday, and I had had a mild reaction (lethargy, general weakness) to the first shot, so I was a little worried about this one. And so far, it’s a little worse! Just a little, though. I woke up at 3am feeling mildly achey, but managed to fall back asleep. […]</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=62443</id>
+    <published>2021-04-10T12:21:51Z</published>
+    <updated>2021-04-10T12:21:51Z</updated>
+    <category term="Miscellaneous and Meta"/>
+  </entry>
   <entry>
     <title>I’ve been shot!</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/04/09/ive-been-shot/" type="text/html"/>
@@ -105,25 +125,6 @@
     <id>https://freethoughtblogs.com/pharyngula/?p=62432</id>
     <published>2021-04-09T12:24:46Z</published>
     <updated>2021-04-09T12:24:46Z</updated>
-    <category term="Miscellaneous and Meta"/>
-  </entry>
-  <entry>
-    <title>Down one racist prince</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/04/09/down-one-racist-prince/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p><a href="https://freethoughtblogs.com/pharyngula/files/2021/04/princephilip.jpg"><img src="https://freethoughtblogs.com/pharyngula/files/2021/04/princephilip-150x84.jpg" alt="" width="150" height="84" class="alignright size-thumbnail wp-image-62430" srcset="https://freethoughtblogs.com/pharyngula/files/2021/04/princephilip-150x84.jpg 150w, https://freethoughtblogs.com/pharyngula/files/2021/04/princephilip-300x169.jpg 300w, https://freethoughtblogs.com/pharyngula/files/2021/04/princephilip.jpg 384w" sizes="(max-width: 150px) 100vw, 150px"/></a></p>
-<p class="lead"><a href="https://www.theguardian.com/uk-news/2021/apr/09/prince-philip-duke-of-edinburgh-dies">Prince Philip is dead</a>. I’m sure someone somewhere is sad about it, is the best thing I can say right now.</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Prince Philip is dead. I’m sure someone somewhere is sad about it, is the best thing I can say right now.</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=62429</id>
-    <published>2021-04-09T12:08:25Z</published>
-    <updated>2021-04-09T12:08:25Z</updated>
     <category term="Miscellaneous and Meta"/>
   </entry>
   <entry>
