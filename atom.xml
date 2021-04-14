@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2021-04-14T02:46:35Z</updated>
+  <updated>2021-04-14T03:38:25Z</updated>
   <link rel="self" href="http://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://skeptic.theplanetarium.org/</id>
   <entry>
@@ -197,6 +197,84 @@
     <published>2021-04-02T17:28:02Z</published>
     <updated>2021-04-02T17:28:02Z</updated>
     <category term="Anti-Science"/>
+  </entry>
+  <entry>
+    <title>OPEN DISCUSSION APRIL 2021</title>
+    <link rel="alternate" href="https://richarddawkins.net/2021/04/open-discussion-april-2021/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">This thread has been created for discussion on themes relevant to Reason and Science for which there are not currently any dedicated threads. Please note that our Comment Policy applies as usual. There is a link to this at the foot of the page. If you would like to refer back to previous open discussion …</div>
+    </content>
+    <author>
+      <name>Moderator</name>
+    </author>
+    <id>https://richarddawkins.net/?p=976277</id>
+    <published>2021-04-01T09:12:18Z</published>
+    <updated>2021-04-01T09:12:18Z</updated>
+    <category term="Discussion"/>
+    <category term="Featured"/>
+  </entry>
+  <entry>
+    <title>Happy Birthday Richard, from a Few Close Friends</title>
+    <link rel="alternate" href="https://richarddawkins.net/2021/03/happy-birthday-richard-from-a-few-close-friends/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Richard Dawkins turned 80 years old on March 26, 2021, an occasion celebrated by fans and admirers around the world through their well-wishes on social media and gifts of support to the foundation that bears his name. A collection of Richard’s friends sent him video messages as a birthday surprise, and they (and Richard) have …</div>
+    </content>
+    <author>
+      <name>Paul Fidalgo</name>
+    </author>
+    <id>https://richarddawkins.net/?p=976271</id>
+    <published>2021-03-31T17:18:30Z</published>
+    <updated>2021-03-31T17:18:30Z</updated>
+    <category term="Uncategorized"/>
+  </entry>
+  <entry>
+    <title>Nick Little on the Tough New Legal Landscape</title>
+    <link rel="alternate" href="https://richarddawkins.net/2021/03/nick-little-on-the-tough-new-legal-landscape/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">When he’s not going after snake oil salesmen on social media, Nick Little is the driving force behind the Center for Inquiry’s bold and pioneering legal efforts, working to defend the separation of church and state, fight for the equal status of the nonreligious, and protect consumers from being swindled by pseudoscience. On the CFI …</div>
+    </content>
+    <author>
+      <name>Paul Fidalgo</name>
+    </author>
+    <id>https://richarddawkins.net/?p=976267</id>
+    <published>2021-03-31T17:13:43Z</published>
+    <updated>2021-03-31T17:13:43Z</updated>
+    <category term="Atheism"/>
+    <category term="News Article"/>
+    <category term="Politics"/>
+    <category term="Religion"/>
+    <category term="Science"/>
+  </entry>
+  <entry>
+    <title>Intolerance for Pseudoscience</title>
+    <link rel="alternate" href="https://richarddawkins.net/2021/03/intolerance-for-pseudoscience/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Facebook is riddled with ads for various health and wellness products, and too often they make promises that range from dubious to outright ridiculous. CFI Legal Director Nick Little stumbled upon one such ad on his own Facebook feed from a company advertising its ability to determine one’s intolerances to various foods and substances by …</div>
+    </content>
+    <author>
+      <name>Paul Fidalgo</name>
+    </author>
+    <id>https://richarddawkins.net/?p=976263</id>
+    <published>2021-03-31T17:12:01Z</published>
+    <updated>2021-03-31T17:12:01Z</updated>
+    <category term="News Article"/>
+    <category term="Science"/>
+    <category term="Skepticism"/>
+  </entry>
+  <entry>
+    <title>The Antiscience Menace</title>
+    <link rel="alternate" href="https://richarddawkins.net/2021/03/the-antiscience-menace/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">COVID-19 has claimed nearly three million lives around the world, but the virus didn’t do it alone. Peter Hotez, Baylor College professor of pediatrics and molecular virology, writes at Scientific American that responsibility for the mass death of the pandemic can be pinned on antiscience, the movement that rejects mainstream science in favor of “unproven …</div>
+    </content>
+    <author>
+      <name>Paul Fidalgo</name>
+    </author>
+    <id>https://richarddawkins.net/?p=976255</id>
+    <published>2021-03-31T15:39:17Z</published>
+    <updated>2021-03-31T15:39:17Z</updated>
+    <category term="News Article"/>
+    <category term="Science"/>
   </entry>
   <entry>
     <title>Quickies: Getting back on a positive note</title>
