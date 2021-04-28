@@ -7,9 +7,41 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2021-04-28T15:37:52Z</updated>
+  <updated>2021-04-28T16:43:10Z</updated>
   <link rel="self" href="http://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Video: Richard Dawkins on Outgrowing God</title>
+    <link rel="alternate" href="https://richarddawkins.net/2021/04/video-richard-dawkins-on-outgrowing-god/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">As a special treat to celebrate the 80th birthday of Richard Dawkins, the arts-and-sciences nonprofit Pioneer Works released a short clip of a 2019 interview with Richard in which he reads, to everyone’s great amusement, selections from the hate mail he regularly receives. Much to our delight, a couple of weeks later, Pioneer Works posted …</div>
+    </content>
+    <author>
+      <name>Paul Fidalgo</name>
+    </author>
+    <id>https://richarddawkins.net/?p=976390</id>
+    <published>2021-04-28T16:23:07Z</published>
+    <updated>2021-04-28T16:23:07Z</updated>
+    <category term="Atheism"/>
+    <category term="Religion"/>
+    <category term="Science"/>
+  </entry>
+  <entry>
+    <title>The Wall of Separation May Be About to Buckle</title>
+    <link rel="alternate" href="https://richarddawkins.net/2021/04/the-wall-of-separation-may-be-about-to-buckle/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Any day now, perhaps just as you’re reading this, the U.S. Supreme Court is set to rule on the case of Fulton v. City of Philadelphia, in which a Christian foster agency that received government funding is suing to be allowed to discriminate against LGBTQ clients, claiming that their religious beliefs exempt them from having …</div>
+    </content>
+    <author>
+      <name>Paul Fidalgo</name>
+    </author>
+    <id>https://richarddawkins.net/?p=976382</id>
+    <published>2021-04-28T16:17:51Z</published>
+    <updated>2021-04-28T16:17:51Z</updated>
+    <category term="News Article"/>
+    <category term="Politics"/>
+    <category term="Religion"/>
+  </entry>
   <entry>
     <title>Pakistan Roils over French Cartoons</title>
     <link rel="alternate" href="https://richarddawkins.net/2021/04/pakistan-roils-over-french-cartoons/" type="text/html"/>
@@ -299,39 +331,6 @@
     <updated>2021-04-14T18:07:10Z</updated>
     <category term="Science"/>
     <category term="Skepticism"/>
-  </entry>
-  <entry>
-    <title>Religious Exemptions for Everything</title>
-    <link rel="alternate" href="https://richarddawkins.net/2021/04/religious-exemptions-for-everything/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">On Friday, the U.S. Supreme Court struck another blow to secularism when it struck down California’s pandemic restrictions on gatherings in homes of more than three households, ruling that the restriction treats in-home Bible study and prayer sessions unequally as compared to commercial gatherings in places such as hair salons and retail stores. If this …</div>
-    </content>
-    <author>
-      <name>Paul Fidalgo</name>
-    </author>
-    <id>https://richarddawkins.net/?p=976328</id>
-    <published>2021-04-14T18:05:01Z</published>
-    <updated>2021-04-14T18:05:01Z</updated>
-    <category term="News Article"/>
-    <category term="Politics"/>
-    <category term="Religion"/>
-  </entry>
-  <entry>
-    <title>The Year’s Best Humanist Writing</title>
-    <link rel="alternate" href="https://richarddawkins.net/2021/04/the-years-best-humanist-writing/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">The Council for Secular Humanism, the arm of the Center for Inquiry that publishes Free Inquiry magazine and operates the Freethought Trail and Robert Ingersoll Birthplace Museum, honors the best in humanist writing every year with the Morris D. and Selma V. Forkosch Awards. For calendar year 2020, the Forkosch Awards go to a trailblazing …</div>
-    </content>
-    <author>
-      <name>Paul Fidalgo</name>
-    </author>
-    <id>https://richarddawkins.net/?p=976325</id>
-    <published>2021-04-14T18:01:50Z</published>
-    <updated>2021-04-14T18:01:50Z</updated>
-    <category term="Atheism"/>
-    <category term="News Article"/>
-    <category term="Politics"/>
-    <category term="Religion"/>
   </entry>
   <entry>
     <title>Good Magic Award</title>
