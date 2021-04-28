@@ -7,9 +7,58 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2021-04-28T16:43:10Z</updated>
+  <updated>2021-04-28T17:43:48Z</updated>
   <link rel="self" href="http://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>How Your Brain Understands (and Misunderstands) the World</title>
+    <link rel="alternate" href="https://richarddawkins.net/2021/04/how-your-brain-understands-and-misunderstands-the-world/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Reality is not what it seems! This is not just a weak attempt at sounding vaguely profound (or what Daniel Dennett might call a “deepity”), but an honest-to-goodness truth about how our brains interpret the world around us. This was the lesson from the most recent presentation by Jeff Hawkins, founder of Palm Computing and …</div>
+    </content>
+    <author>
+      <name>Paul Fidalgo</name>
+    </author>
+    <id>https://richarddawkins.net/?p=976408</id>
+    <published>2021-04-28T17:39:29Z</published>
+    <updated>2021-04-28T17:39:29Z</updated>
+    <category term="Science"/>
+  </entry>
+  <entry>
+    <title>Atheists’ Rights Are Human Rights</title>
+    <link rel="alternate" href="https://richarddawkins.net/2021/04/atheists-rights-are-human-rights/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">The plight of persecuted nonbelievers has the attention of the United States Commission on International Religious Freedom (USCIRF). Their most recent annual report on the global state of the freedom of belief highlights several instances and examples in which governments and non-state entities strip basic civil rights from nontheists, forcing them to live in fear …</div>
+    </content>
+    <author>
+      <name>Paul Fidalgo</name>
+    </author>
+    <id>https://richarddawkins.net/?p=976405</id>
+    <published>2021-04-28T17:35:54Z</published>
+    <updated>2021-04-28T17:35:54Z</updated>
+    <category term="Atheism"/>
+    <category term="News Article"/>
+    <category term="Politics"/>
+    <category term="Religion"/>
+  </entry>
+  <entry>
+    <title>Unbelievable Change</title>
+    <link rel="alternate" href="https://richarddawkins.net/2021/04/unbelievable-change/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">From the Richard Dawkins Foundation Newsletter. Subscribe here. It wasn’t so long ago, that when a newly inaugurated President of the United States, Barack Obama, mentioned “nonbelievers” in a wholly inclusive way, the minds of said nonbelievers were blown. We had become so accustomed to atheism being entirely taboo in political discourse and to the …</div>
+    </content>
+    <author>
+      <name>Paul Fidalgo</name>
+    </author>
+    <id>https://richarddawkins.net/?p=976381</id>
+    <published>2021-04-28T17:01:13Z</published>
+    <updated>2021-04-28T17:01:13Z</updated>
+    <category term="Atheism"/>
+    <category term="Original"/>
+    <category term="Politics"/>
+    <category term="Religion"/>
+    <category term="Science"/>
+  </entry>
   <entry>
     <title>Video: Richard Dawkins on Outgrowing God</title>
     <link rel="alternate" href="https://richarddawkins.net/2021/04/video-richard-dawkins-on-outgrowing-god/" type="text/html"/>
@@ -38,38 +87,6 @@
     <id>https://richarddawkins.net/?p=976382</id>
     <published>2021-04-28T16:17:51Z</published>
     <updated>2021-04-28T16:17:51Z</updated>
-    <category term="News Article"/>
-    <category term="Politics"/>
-    <category term="Religion"/>
-  </entry>
-  <entry>
-    <title>Pakistan Roils over French Cartoons</title>
-    <link rel="alternate" href="https://richarddawkins.net/2021/04/pakistan-roils-over-french-cartoons/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Hardline Islamists in Pakistan are, as The Economist recently said, holding their country hostage. After sparking violent riots in protest over cartoons in France that hurt their religious feelings, the extremist party Tehreek-e-Labaik Pakistan was banned and declared a terrorist organization by the country’s Parliament. But still feeling the pressure from Islamists, the Parliament then debated expelling France’s ambassador. Meanwhile, …</div>
-    </content>
-    <author>
-      <name>Paul Fidalgo</name>
-    </author>
-    <id>https://richarddawkins.net/?p=976369</id>
-    <published>2021-04-28T15:27:42Z</published>
-    <updated>2021-04-28T15:27:42Z</updated>
-    <category term="News Article"/>
-    <category term="Religion"/>
-  </entry>
-  <entry>
-    <title>The Tapestry of Nones</title>
-    <link rel="alternate" href="https://richarddawkins.net/2021/04/the-tapestry-of-nones/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">The “rise of the Nones” is now a well-documented demographic phenomenon, as surveys show that America’s religiously unaffiliated make up anywhere from a fifth to a third of the population. What’s still difficult to pin down is who exactly all these Nones are. At FiveThirtyEight, political scientist Ryan Burge and reporter Perry Bacon Jr. dig …</div>
-    </content>
-    <author>
-      <name>Paul Fidalgo</name>
-    </author>
-    <id>https://richarddawkins.net/?p=976365</id>
-    <published>2021-04-28T15:14:58Z</published>
-    <updated>2021-04-28T15:14:58Z</updated>
-    <category term="Atheism"/>
     <category term="News Article"/>
     <category term="Politics"/>
     <category term="Religion"/>
@@ -316,21 +333,6 @@
     <category term="mutual aid"/>
     <category term="Science"/>
     <category term="transphobia"/>
-  </entry>
-  <entry>
-    <title>Gamification for Misinformation Inoculation</title>
-    <link rel="alternate" href="https://richarddawkins.net/2021/04/gamification-for-misinformation-inoculation/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Are we doomed to infection in the infodemic? Not according to “inoculation theory.” As we learn from cognitive scientist John Cook on the latest Skeptical Inquirer Presents, we can build up our mental immunity to misinformation and fortify our critical thinking skills with exposure to facts and the elements of false claims. It can even …</div>
-    </content>
-    <author>
-      <name>Paul Fidalgo</name>
-    </author>
-    <id>https://richarddawkins.net/?p=976331</id>
-    <published>2021-04-14T18:07:10Z</published>
-    <updated>2021-04-14T18:07:10Z</updated>
-    <category term="Science"/>
-    <category term="Skepticism"/>
   </entry>
   <entry>
     <title>Good Magic Award</title>
