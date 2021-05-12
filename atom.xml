@@ -7,9 +7,56 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2021-05-12T15:38:55Z</updated>
+  <updated>2021-05-12T16:43:17Z</updated>
   <link rel="self" href="http://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Will Someone Think of the Children?</title>
+    <link rel="alternate" href="https://richarddawkins.net/2021/05/will-someone-think-of-the-children/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">This week saw a new milestone in the long journey out of the COVID-19 pandemic, as the FDA approved Pfizer’s vaccine for kids between the ages of twelve and fifteen. But for these young people to be protected from the virus, their parents have to actually let them get vaccinated. The Center for Inquiry believes …</div>
+    </content>
+    <author>
+      <name>Paul Fidalgo</name>
+    </author>
+    <id>https://richarddawkins.net/?p=976507</id>
+    <published>2021-05-12T15:47:27Z</published>
+    <updated>2021-05-12T15:47:27Z</updated>
+    <category term="News Article"/>
+    <category term="Science"/>
+    <category term="Skepticism"/>
+  </entry>
+  <entry>
+    <title>Anti-Vaxxers Seek Freedom from Responsibility</title>
+    <link rel="alternate" href="https://richarddawkins.net/2021/05/anti-vaxxers-seek-freedom-from-responsibility/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Opponents of vaccines, fueled by pseudoscience and misinformation, have some funny ideas about what they’re fighting for. They claim that vaccine requirements infringe on their freedoms, forgetting that vaccines are the key to freeing us from a highly-infectious, life-threatening virus. They claim that businesses requiring proof of vaccination from their employees or customers is a …</div>
+    </content>
+    <author>
+      <name>Paul Fidalgo</name>
+    </author>
+    <id>https://richarddawkins.net/?p=976504</id>
+    <published>2021-05-12T15:46:22Z</published>
+    <updated>2021-05-12T15:46:22Z</updated>
+    <category term="News Article"/>
+    <category term="Science"/>
+    <category term="Skepticism"/>
+  </entry>
+  <entry>
+    <title>A Good Turn for the Great Agnostic</title>
+    <link rel="alternate" href="https://richarddawkins.net/2021/05/a-good-turn-for-the-great-agnostic/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Robert Green Ingersoll, the nineteenth-century orator known as “The Great Agnostic,” was perhaps the most significant “founding father” of American secularism and freethought, and CFI’s Council for Secular Humanism preserves and celebrates Ingersoll’s legacy with the Robert Green Ingersoll Birthplace Museum in Dresden, New York. Though, sadly, most Americans have probably never heard of him, …</div>
+    </content>
+    <author>
+      <name>Paul Fidalgo</name>
+    </author>
+    <id>https://richarddawkins.net/?p=976501</id>
+    <published>2021-05-12T15:44:52Z</published>
+    <updated>2021-05-12T15:44:52Z</updated>
+    <category term="Atheism"/>
+    <category term="News Article"/>
+  </entry>
   <entry>
     <title>The Hands That Help</title>
     <link rel="alternate" href="https://richarddawkins.net/2021/05/the-hands-that-help/" type="text/html"/>
@@ -45,37 +92,6 @@
     <category term="Religion"/>
     <category term="Skepticism"/>
     <category term="Video"/>
-  </entry>
-  <entry>
-    <title>Livin’ That Vax Life</title>
-    <link rel="alternate" href="https://richarddawkins.net/2021/05/livin-that-vax-life/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Let’s say you’ve been fully vaccinated against COVID-19. Enough time has passed, and you’re now “officially” immunized. Now what? Can you go back to living life as it was in 2019? Should you still be wearing a mask? Can you still infect someone even if you don’t get sick yourself? Is it okay to hug? …</div>
-    </content>
-    <author>
-      <name>Paul Fidalgo</name>
-    </author>
-    <id>https://richarddawkins.net/?p=976482</id>
-    <published>2021-05-12T15:04:09Z</published>
-    <updated>2021-05-12T15:04:09Z</updated>
-    <category term="News Article"/>
-    <category term="Science"/>
-  </entry>
-  <entry>
-    <title>Biden Cancels God!</title>
-    <link rel="alternate" href="https://richarddawkins.net/2021/05/biden-cancels-god/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">It really should go without saying, but a secular government based upon the separation of church and state should not be issuing proclamations declaring a National Day of Prayer, sending the message that, as Americans, we are all expected to seek favor from a supernatural overseer. But the religious Right, as usual, is not satisfied. …</div>
-    </content>
-    <author>
-      <name>Paul Fidalgo</name>
-    </author>
-    <id>https://richarddawkins.net/?p=976473</id>
-    <published>2021-05-12T14:54:58Z</published>
-    <updated>2021-05-12T14:54:58Z</updated>
-    <category term="News Article"/>
-    <category term="Politics"/>
-    <category term="Religion"/>
   </entry>
   <entry>
     <title>Agreed, it’s not just a Southern thing</title>
@@ -359,21 +375,6 @@
     <published>2021-05-02T20:54:01Z</published>
     <updated>2021-05-02T20:54:01Z</updated>
     <category term="Quirky stuff"/>
-  </entry>
-  <entry>
-    <title>OPEN DISCUSSION MAY 2021</title>
-    <link rel="alternate" href="https://richarddawkins.net/2021/05/open-discussion-may-2021/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">This thread has been created for discussion on themes relevant to Reason and Science for which there are not currently any dedicated threads. Please note that our Comment Policy applies as usual. There is a link to this at the foot of the page. If you would like to refer back to previous open discussion …</div>
-    </content>
-    <author>
-      <name>Moderator</name>
-    </author>
-    <id>https://richarddawkins.net/?p=976445</id>
-    <published>2021-05-01T08:01:39Z</published>
-    <updated>2021-05-01T08:01:39Z</updated>
-    <category term="Discussion"/>
-    <category term="Featured"/>
   </entry>
   <entry>
     <title>The forgotten women of humanist history</title>
