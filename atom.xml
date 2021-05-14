@@ -7,9 +7,29 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2021-05-14T00:44:10Z</updated>
+  <updated>2021-05-14T01:58:32Z</updated>
   <link rel="self" href="http://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Sigh of relief</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/05/13/sigh-of-relief/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p class="lead">I shackled myself to the computer today, and I can now report that every assignment, lab report, exam, and term paper for all three of my courses have been read and evaluated and scores entered into my Canvas class page.</p>
+<p>I have a few more trivial things to do: I have to download everything into my laptop spreadsheet, because Canvas is too stupid to do normalization and important things like dropping the lowest exam score, as I told my genetics students I would do. I am, however, too brain-dead to do that right now, especially since the Evil Cat decided to deny me many hours of sleep last night. So I’ll do the finicky grade massaging tomorrow morning, and then submit all the grades to the registrar, and be <em>done</em> with this hellish academic year.</p>
+<p>OK, so tonight I plan to veg out to something stupid on Netflix or whatever. I’ll have to see what’s available, and it better be really stupid, because I may pass out in the middle of it.</p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">I shackled myself to the computer today, and I can now report that every assignment, lab report, exam, and term paper for all three of my courses have been read and evaluated and scores entered into my Canvas class page. I have a few more trivial things to do: I have to download everything into […]</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=62745</id>
+    <published>2021-05-14T00:46:49Z</published>
+    <updated>2021-05-14T00:46:49Z</updated>
+    <category term="Miscellaneous and Meta"/>
+  </entry>
   <entry>
     <title>Study: Gender-Affirming Surgery Improves Trans Lives</title>
     <link rel="alternate" href="http://feedproxy.google.com/~r/Skepchick/~3/pkWqCcTY7jw/" type="text/html"/>
@@ -205,29 +225,6 @@
     <published>2021-05-12T14:52:25Z</published>
     <updated>2021-05-12T14:52:25Z</updated>
     <category term="Race, Society, and Social Justice"/>
-  </entry>
-  <entry>
-    <title>The students are all done!</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/05/12/the-students-are-all-done/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p class="lead">My final exams were due yesterday, and the students worked hard and got them all done and submitted online. I imported them all into Google Docs so I could mark them up electronically, and there they all are, lined up in nice tidy rows and columns on my drive, pristine and clean and organized. Lookin’ good! Pages and pages and pages of neatly typed essays and answers to problems! I give the computer an A+ for holding and organizing all that data. I admire the students for getting so much done.</p>
-<p>Wait, what do mean, <em>I’m</em> not done?</p>
-<p>I have to <em>read</em> all these things? And <em>grade</em> them?</p>
-<p>Holy hell, that’s insane. Look at all of them! And I’m so damn tired.</p>
-<p>OK, here’s the deal. I’m going to flee the house on a morning walk, but I’ll come back and then buckle down to methodically plowing through all this stuff, with the goal of maybe getting it all done by Friday, because I have things to do. I’m not going to enjoy myself, though. But I know I’ve got 58 students waiting anxiously on my final judgment, so I guess I’m going to have to do it.</p>
-<p>But then, this weekend, I intend to be completely free.</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">My final exams were due yesterday, and the students worked hard and got them all done and submitted online. I imported them all into Google Docs so I could mark them up electronically, and there they all are, lined up in nice tidy rows and columns on my drive, pristine and clean and organized. Lookin’ […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=62729</id>
-    <published>2021-05-12T12:18:23Z</published>
-    <updated>2021-05-12T12:18:23Z</updated>
-    <category term="Miscellaneous and Meta"/>
   </entry>
   <entry>
     <title>The right to die</title>
