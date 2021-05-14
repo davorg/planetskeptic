@@ -7,9 +7,26 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2021-05-14T17:44:29Z</updated>
+  <updated>2021-05-14T18:43:13Z</updated>
   <link rel="self" href="http://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Effusive gratitude to be expressed on YouTube on Sunday</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/05/14/effusive-gratitude-to-be-expressed-on-youtube-on-sunday/" type="text/html"/>
+    <content type="html">&lt;p class="lead"&gt;We had a great fundraiser this week, and we&amp;#8217;re going to talk about it and thank you all on Sunday.&lt;/p&gt;
+&lt;div class="lead"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/bH_zmXx386k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+</content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">We had a great fundraiser this week, and we’re going to talk about it and thank you all on Sunday.</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=62761</id>
+    <published>2021-05-14T18:07:18Z</published>
+    <updated>2021-05-14T18:07:18Z</updated>
+    <category term="Miscellaneous and Meta"/>
+  </entry>
   <entry>
     <title>You can guess how I spent my first free morning</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/05/14/you-can-guess-how-i-spent-my-first-free-morning/" type="text/html"/>
@@ -99,26 +116,6 @@
     <published>2021-05-14T10:56:09Z</published>
     <updated>2021-05-14T10:56:09Z</updated>
     <category term="Spiders"/>
-  </entry>
-  <entry>
-    <title>Sigh of relief</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/05/13/sigh-of-relief/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p class="lead">I shackled myself to the computer today, and I can now report that every assignment, lab report, exam, and term paper for all three of my courses have been read and evaluated and scores entered into my Canvas class page.</p>
-<p>I have a few more trivial things to do: I have to download everything into my laptop spreadsheet, because Canvas is too stupid to do normalization and important things like dropping the lowest exam score, as I told my genetics students I would do. I am, however, too brain-dead to do that right now, especially since the Evil Cat decided to deny me many hours of sleep last night. So I’ll do the finicky grade massaging tomorrow morning, and then submit all the grades to the registrar, and be <em>done</em> with this hellish academic year.</p>
-<p>OK, so tonight I plan to veg out to something stupid on Netflix or whatever. I’ll have to see what’s available, and it better be really stupid, because I may pass out in the middle of it.</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">I shackled myself to the computer today, and I can now report that every assignment, lab report, exam, and term paper for all three of my courses have been read and evaluated and scores entered into my Canvas class page. I have a few more trivial things to do: I have to download everything into […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=62745</id>
-    <published>2021-05-14T00:46:49Z</published>
-    <updated>2021-05-14T00:46:49Z</updated>
-    <category term="Miscellaneous and Meta"/>
   </entry>
   <entry>
     <title>Study: Gender-Affirming Surgery Improves Trans Lives</title>
