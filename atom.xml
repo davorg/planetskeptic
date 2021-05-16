@@ -7,9 +7,22 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2021-05-16T14:35:11Z</updated>
+  <updated>2021-05-16T16:43:05Z</updated>
   <link rel="self" href="http://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Reminder: Tune in this afternoon!</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/05/16/reminder-tune-in-this-afternoon/" type="text/html"/>
+    <content type="html">&lt;div class="center"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/bH_zmXx386k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+</content>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=62775</id>
+    <published>2021-05-16T15:38:28Z</published>
+    <updated>2021-05-16T15:38:28Z</updated>
+    <category term="Miscellaneous and Meta"/>
+  </entry>
   <entry>
     <title>Love the Bride of Christ, or else</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/05/16/love-the-bride-of-christ-or-else/" type="text/html"/>
@@ -125,23 +138,6 @@
     <published>2021-05-15T12:09:53Z</published>
     <updated>2021-05-15T12:09:53Z</updated>
     <category term="Atheism and Skepticism"/>
-  </entry>
-  <entry>
-    <title>Effusive gratitude to be expressed on YouTube on Sunday</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/05/14/effusive-gratitude-to-be-expressed-on-youtube-on-sunday/" type="text/html"/>
-    <content type="html">&lt;p class="lead"&gt;We had a great fundraiser this week, and we&amp;#8217;re going to talk about it and thank you all on Sunday.&lt;/p&gt;
-&lt;div class="lead"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/bH_zmXx386k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-</content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">We had a great fundraiser this week, and we’re going to talk about it and thank you all on Sunday.</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=62761</id>
-    <published>2021-05-14T18:07:18Z</published>
-    <updated>2021-05-14T18:07:18Z</updated>
-    <category term="Miscellaneous and Meta"/>
   </entry>
   <entry>
     <title>Study: Gender-Affirming Surgery Improves Trans Lives</title>
