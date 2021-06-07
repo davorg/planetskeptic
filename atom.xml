@@ -7,9 +7,25 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2021-06-07T20:57:08Z</updated>
+  <updated>2021-06-07T21:49:06Z</updated>
   <link rel="self" href="http://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Yes, you must keep them around</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/06/07/yes-you-must-keep-them-around/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p><a href="https://freethoughtblogs.com/pharyngula/files/2021/06/butajape.jpg"><img src="https://freethoughtblogs.com/pharyngula/files/2021/06/butajape-500x500.jpg" alt="" width="500" height="500" class="aligncenter size-large wp-image-62975" srcset="https://freethoughtblogs.com/pharyngula/files/2021/06/butajape-500x500.jpg 500w, https://freethoughtblogs.com/pharyngula/files/2021/06/butajape-150x150.jpg 150w, https://freethoughtblogs.com/pharyngula/files/2021/06/butajape-300x300.jpg 300w, https://freethoughtblogs.com/pharyngula/files/2021/06/butajape.jpg 526w" sizes="(max-width: 500px) 100vw, 500px"/></a></p>
+</div>
+    </content>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=62974</id>
+    <published>2021-06-07T21:17:00Z</published>
+    <updated>2021-06-07T21:17:00Z</updated>
+    <category term="Humor"/>
+    <category term="Spiders"/>
+  </entry>
   <entry>
     <title>A last minute scramble</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/06/07/a-last-minute-scramble/" type="text/html"/>
@@ -138,27 +154,6 @@ The Delta variant has multiple mutations that appear to give it an advantage ove
     <id>https://newhumanist.org.uk/articles/5809/book-review-between-light-and-storm#utm_source=rss</id>
     <published>2021-06-07T10:25:54Z</published>
     <updated>2021-06-07T10:25:54Z</updated>
-  </entry>
-  <entry>
-    <title>Goodbye, Naomi Wolf</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/06/06/goodbye-naomi-wolf/" type="text/html"/>
-    <content type="html">&lt;p class="lead"&gt;Naomi Wolf first appeared on my radar with the presidential campaigns of Clinton and Gore, where she was, incomprehensibly, a presidential advisor. She has just been kicked off Twitter. In case you were wondering why&amp;hellip;&lt;/p&gt;
-&lt;blockquote class="twitter-tweet" data-width="500" data-dnt="true"&gt;
-&lt;p lang="en" dir="ltr"&gt;Twitter suspended Naomi Wolf yesterday so I put together a tribute &lt;a href="https://t.co/uI4Wg4Ijno"&gt;pic.twitter.com/uI4Wg4Ijno&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&amp;mdash; The Real Truther (@thereal_truther) &lt;a href="https://twitter.com/thereal_truther/status/1401212458786713602?ref_src=twsrc%5Etfw"&gt;June 5, 2021&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;&lt;/p&gt;
-&lt;p&gt;OH NO &amp;#8212; &lt;em&gt;CANCEL CULTURE!!1!&lt;/em&gt;.&lt;/p&gt;
-</content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Naomi Wolf first appeared on my radar with the presidential campaigns of Clinton and Gore, where she was, incomprehensibly, a presidential advisor. She has just been kicked off Twitter. In case you were wondering why… Twitter suspended Naomi Wolf yesterday so I put together a tribute pic.twitter.com/uI4Wg4Ijno — The Real Truther (@thereal_truther) June 5, 2021 […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=62962</id>
-    <published>2021-06-06T12:42:03Z</published>
-    <updated>2021-06-06T12:42:03Z</updated>
-    <category term="Fools, Tools, Kooks, and Goons"/>
   </entry>
   <entry>
     <title>Facebook Paid for a “Study” that Says Apple’s Privacy Updates are BAD</title>
