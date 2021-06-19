@@ -7,9 +7,26 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2021-06-19T00:43:24Z</updated>
+  <updated>2021-06-19T01:53:03Z</updated>
   <link rel="self" href="http://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Ever wonder what a research lab at a small public liberal arts university was like?</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/06/18/ever-wonder-what-a-research-lab-at-a-small-public-liberal-arts-university-was-like/" type="text/html"/>
+    <content type="html">&lt;p class="lead"&gt;All the Dutch angles just tell you that a spider lab is kind of creepy so you should be feeling uneasy&amp;hellip;even though no spiders are shown in this video.&lt;/p&gt;
+&lt;div class="center"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/v8oz5snUG5k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+</content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">All the Dutch angles just tell you that a spider lab is kind of creepy so you should be feeling uneasy…even though no spiders are shown in this video.</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=63059</id>
+    <published>2021-06-19T01:02:46Z</published>
+    <updated>2021-06-19T01:02:46Z</updated>
+    <category term="Academics"/>
+  </entry>
   <entry>
     <title>I’m not on the side of Boghossian and Lindsay, OK?</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/06/18/im-not-on-the-side-of-boghossian-and-lindsay-ok/" type="text/html"/>
@@ -135,29 +152,6 @@ malicious and nefarious interpretation being imposed upon the text. And you will
     <published>2021-06-17T15:36:49Z</published>
     <updated>2021-06-17T15:36:49Z</updated>
     <category term="Science"/>
-  </entry>
-  <entry>
-    <title>Yeah, yeah, Australians are always bragging about their spiders</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/06/17/yeah-yeah-australians-are-always-bragging-about-their-spiders/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p class="lead">I know — everyone is sending me this <a href="https://www.abc.net.au/news/2021-06-16/flood-spider-webs/100218850">story about the vast billowing waves of spider silk in Australia</a>. It’s always Australia, they get all the attention because of the magnitude of the spider webs, but really, it’s fairly common behavior. I’ve seen smaller scale examples right here in the good ol’ USA.</p>
-<p>For example, last weekend I was poking around my brother Jim’s yard down near Ocean Shores, Washington, and I opened up a small shed, and behold: the entire ceiling was one vast fluffy blanket of cobweb, dotted with little spiders everywhere. It was beautiful. It looked a lot like those Australian seas of spider silk, only smaller and less transient.</p>
-<p>I took a picture of one of the multitude of inhabitants. I think it’s probably some species of <i>Theridion</i>.</p>
-<p><span id="more-63040"/></p>
-<p><a href="https://freethoughtblogs.com/pharyngula/files/2021/06/jimspider.jpeg"><img src="https://freethoughtblogs.com/pharyngula/files/2021/06/jimspider-500x334.jpeg" alt="" width="500" height="334" class="aligncenter size-large wp-image-63041" srcset="https://freethoughtblogs.com/pharyngula/files/2021/06/jimspider-500x334.jpeg 500w, https://freethoughtblogs.com/pharyngula/files/2021/06/jimspider-150x100.jpeg 150w, https://freethoughtblogs.com/pharyngula/files/2021/06/jimspider-300x200.jpeg 300w, https://freethoughtblogs.com/pharyngula/files/2021/06/jimspider-768x512.jpeg 768w, https://freethoughtblogs.com/pharyngula/files/2021/06/jimspider.jpeg 1000w" sizes="(max-width: 500px) 100vw, 500px"/></a></p>
-<p>Don’t think those flashy loud Australian spiders are unique to that continent — those lovely little guys are <em>everywhere</em>, you just have to look. Check your attic, your basement, crawlspaces in your house, your garage or toolshed. You are surrounded. The only thing special about that Australian event is that a flood forced them all into the limelight.</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">I know — everyone is sending me this story about the vast billowing waves of spider silk in Australia. It’s always Australia, they get all the attention because of the magnitude of the spider webs, but really, it’s fairly common behavior. I’ve seen smaller scale examples right here in the good ol’ USA. For example, […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=63040</id>
-    <published>2021-06-17T12:37:48Z</published>
-    <updated>2021-06-17T12:37:48Z</updated>
-    <category term="Spiders"/>
   </entry>
   <entry>
     <title>"The tentacles of the law reach deep into Hong Kong society"</title>
@@ -1148,7 +1142,7 @@ F: 618/453-3253</p></blockquote>
   </entry>
   <entry>
     <title>Catholic Church “Opus Dei” decision due Friday</title>
-    <link rel="alternate" href="http://www.mediawatchwatch.org.uk/2013/03/12/catholic-church-opus-dei-decision-due-friday/" type="text/html"/>
+    <link rel="alternate" href="http://feedproxy.google.com/~r/Mediawatchwatch/~3/h543nuGAi7k/" type="text/html"/>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml"><p>Remember <a href="http://www.mediawatchwatch.org.uk/2009/06/25/opus-dei-sets-its-lawyers-on-atheist-game-makers/">this story</a> about the Danish games maker taken to court for calling one of their products “Opus-Dei”? There is a press release today.</p>
 <div id="attachment_2087" style="width: 210px" class="wp-caption aligncenter"><a href="http://www.mediawatchwatch.org.uk/wp-content/uploads/2009/06/opusdeigame.jpg"><img class="size-full wp-image-2087" src="http://www.mediawatchwatch.org.uk/wp-content/uploads/2009/06/opusdeigame.jpg" alt="Opus Dei: The game, not the sinister, secretive cult" width="200" height="381" srcset="http://www.mediawatchwatch.org.uk/wp-content/uploads/2009/06/opusdeigame.jpg 200w, http://www.mediawatchwatch.org.uk/wp-content/uploads/2009/06/opusdeigame-78x150.jpg 78w, http://www.mediawatchwatch.org.uk/wp-content/uploads/2009/06/opusdeigame-157x300.jpg 157w" sizes="(max-width: 200px) 100vw, 200px"/></a><p class="wp-caption-text"><b>Opus Dei</b>: The game, not the sinister, secretive cult</p></div>
@@ -1198,7 +1192,7 @@ Managing Director,</p>
   </entry>
   <entry>
     <title>Does this thing still work?</title>
-    <link rel="alternate" href="http://www.mediawatchwatch.org.uk/2012/07/13/does-this-thing-still-work/" type="text/html"/>
+    <link rel="alternate" href="http://feedproxy.google.com/~r/Mediawatchwatch/~3/MfDvvRydzaM/" type="text/html"/>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml"><p>I don’t know. Let’s see if <a href="http://www.london2012.com/">meretricious corporate fuckwads</a> has any effect.</p>
 <p>Amazingly, <em>vile hypocrite</em> still seems to work a treat after all these years. (Do a g-search on it. That was us. We did that!)</p>
@@ -1218,7 +1212,7 @@ Managing Director,</p>
   </entry>
   <entry>
     <title>Tim Minchin “fucking disappointed” as Xmas song is censored by ITV</title>
-    <link rel="alternate" href="http://www.mediawatchwatch.org.uk/2011/12/22/tim-minchin-fucking-disappointed-as-xmas-song-is-censored/" type="text/html"/>
+    <link rel="alternate" href="http://feedproxy.google.com/~r/Mediawatchwatch/~3/su3Y9JrFSw4/" type="text/html"/>
     <content type="html">&lt;p&gt;Atheist Aussie songwriter Tim Minchin wrote a Christmas song especially for the Jonathan Ross show, due to be aired tomorrow (Friday 23rd December). It&amp;#8217;s a typically witty, off-the-wall composition which compares Jesus to Woody Allen, and several other things.&lt;/p&gt;
 &lt;p&gt;&lt;iframe width="500" height="375" src="http://www.youtube.com/embed/_SFdUJLebzU?fs=1&amp;#038;feature=oembed" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;p&gt;Everyone was happy with it, until someone got worried and sent the tape to the director of programming, Peter Fincham, who demanded that it be cut from the show.&lt;/p&gt;
@@ -1240,7 +1234,7 @@ He did this because he’s scared of the ranty, shit-stirring, right-wing press,
   </entry>
   <entry>
     <title>The latest Charlie Hebdo cover</title>
-    <link rel="alternate" href="http://www.mediawatchwatch.org.uk/2011/11/08/the-latest-charlie-hebdo-cover/" type="text/html"/>
+    <link rel="alternate" href="http://feedproxy.google.com/~r/Mediawatchwatch/~3/Vbef--cVCuo/" type="text/html"/>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml"><p><a href="http://www.theweek.co.uk/europe/satire/42173/charlie-hebdo-risks-further-muslim-wrath-gay-kiss">Hats off</a> to Charlie Hebdo. This is tomorrow’s cover:<br/>
 <div id="attachment_2854" style="width: 506px" class="wp-caption aligncenter"><a href="http://www.mediawatchwatch.org.uk/wp-content/uploads/2011/11/hebdocover2.png"><img src="http://www.mediawatchwatch.org.uk/wp-content/uploads/2011/11/hebdocover2.png" alt="" title="hebdocover2" width="496" height="625" class="size-full wp-image-2854" srcset="http://www.mediawatchwatch.org.uk/wp-content/uploads/2011/11/hebdocover2.png 496w, http://www.mediawatchwatch.org.uk/wp-content/uploads/2011/11/hebdocover2-119x150.png 119w, http://www.mediawatchwatch.org.uk/wp-content/uploads/2011/11/hebdocover2-238x300.png 238w" sizes="(max-width: 496px) 100vw, 496px"/></a><p class="wp-caption-text"><strong>Love is stronger than hate</strong>: A Muslim and a cartoonist snog sloppily in front of the smouldering remains of an office</p></div></p>
@@ -1259,7 +1253,7 @@ He did this because he’s scared of the ranty, shit-stirring, right-wing press,
   </entry>
   <entry>
     <title>Charlie Hebdo to publish “as if nothing happened”</title>
-    <link rel="alternate" href="http://www.mediawatchwatch.org.uk/2011/11/08/charlie-hebdo-to-publish-as-if-nothing-happened/" type="text/html"/>
+    <link rel="alternate" href="http://feedproxy.google.com/~r/Mediawatchwatch/~3/_MOR2RTM3vU/" type="text/html"/>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml"><p>Housed in its temporary offices at <em>Liberation</em>, <em>Charlie Hebdo</em> <a href="http://www.liberation.fr/societe/01012369905-rassemblement-a-paris-pour-soutenir-charlie">looks set to publish on schedule</a> tomorrow, uninterrupted by last week’s devastating firebomb.</p>
 <p>Hundreds of people demonstrated in support of the satirical weekly on Sunday.<br/>
