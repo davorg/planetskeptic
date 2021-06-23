@@ -7,9 +7,24 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2021-06-23T15:37:07Z</updated>
+  <updated>2021-06-23T16:38:54Z</updated>
   <link rel="self" href="http://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>What We Know about Immunity</title>
+    <link rel="alternate" href="https://richarddawkins.net/2021/06/what-we-know-about-immunity/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Some fact-checks are easier than others. For example, ridiculous claims about magnets or 5G chips in vaccines are easily debunked. But not all questions about vaccine efficacy are based on conspiracy theories and pseudoscience. One argument being pushed by anti-vaxxers is the idea that COVID-19 immunity gained from actual infection is stronger than the immunity …</div>
+    </content>
+    <author>
+      <name>Paul Fidalgo</name>
+    </author>
+    <id>https://richarddawkins.net/?p=976819</id>
+    <published>2021-06-23T15:41:49Z</published>
+    <updated>2021-06-23T15:41:49Z</updated>
+    <category term="News Article"/>
+    <category term="Science"/>
+  </entry>
   <entry>
     <title>Are you on Team Snake, or Team Spider?</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/06/23/are-you-on-team-snake-or-team-spider/" type="text/html"/>
@@ -360,20 +375,6 @@
     <category term="News Article"/>
     <category term="Politics"/>
     <category term="Religion"/>
-  </entry>
-  <entry>
-    <title>A History of Humanism</title>
-    <link rel="alternate" href="https://richarddawkins.net/2021/06/a-history-of-humanism/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">The evolution of the American freethought movement, the story of humanism’s coming-of-age in the twentieth and twenty-first centuries, is now the subject of a major independent scholarly history by Stephen P. Weldon, The Scientific Spirit of American Humanism. In the latest issue of Free Inquiry magazine, Editor Tom Flynn brings his own deep knowledge of …</div>
-    </content>
-    <author>
-      <name>Paul Fidalgo</name>
-    </author>
-    <id>https://richarddawkins.net/?p=976683</id>
-    <published>2021-06-09T15:49:20Z</published>
-    <updated>2021-06-09T15:49:20Z</updated>
-    <category term="Atheism"/>
   </entry>
   <entry>
     <title>NEW PAPER ON CREATIVITY</title>
