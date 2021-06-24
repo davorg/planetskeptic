@@ -7,9 +7,34 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2021-06-24T11:31:49Z</updated>
+  <updated>2021-06-24T12:39:24Z</updated>
   <link rel="self" href="http://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Nicholas Wade is the Andrew Wakefield of molecular virology</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/06/24/nicholas-wade-is-the-andrew-wakefield-of-molecular-virology/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p><a href="https://freethoughtblogs.com/pharyngula/files/2021/06/sars-cov-2_spike.jpeg"><img src="https://freethoughtblogs.com/pharyngula/files/2021/06/sars-cov-2_spike-237x300.jpeg" alt="" width="237" height="300" class="alignright size-medium wp-image-63107" srcset="https://freethoughtblogs.com/pharyngula/files/2021/06/sars-cov-2_spike-237x300.jpeg 237w, https://freethoughtblogs.com/pharyngula/files/2021/06/sars-cov-2_spike-118x150.jpeg 118w, https://freethoughtblogs.com/pharyngula/files/2021/06/sars-cov-2_spike.jpeg 344w" sizes="(max-width: 237px) 100vw, 237px"/></a></p>
+<p class="lead">For the past month or so, my inbox has been inundated with letters insisting that they have proof of the lab leak hypothesis for the origin of SARS-CoV-2. Their insistent missives are full of jargon, like arginine codons and furin cleavage sites, and insistence that the particular sequence found in the virus could not possibly have arisen naturally. I am not an expert in viral genomics by any means, so my usually reply is a shrug that I don’t know the details, but I find their claim that the viral sequence could not have appeared by natural causes to be naive and unlikely, and that their probability argument is not a clincher. I’ve usually refrained from pointing out that they sound exactly like a few generations of creationists I’ve had to put up with.</p>
+<p>A lot of that jargon and argument can be traced back to an article by Nicholas Wade in which he made those very same claims. I tend to veer away from anything by Wade — his embarrassingly bad book that advocated for “race realism” convinced me he’s not a trustworthy source — so I didn’t dig deeply into it. He seems to have persuaded some people, including David Baltimore(!), who has since retracted his endorsement of Wade’s “smoking gun”.</p>
+<p>A science writer I trust far more, <a href="https://nautil.us/issue/102/hidden-truths/when-a-good-scientist-is-the-wrong-source">Thomas Levenson, explains what’s wrong with Wade’s claim</a>.</p>
+<blockquote><p>Wade asserted that a particular arrangement of a specific sequence in the viral genome, called a codon, was unlikely to have gotten there naturally. There are actually six different codons for arginine, and the one found in a particular region of the SARS-CoV-2 genome called the furin cleavage site does occur less frequently in viruses than it does in the human genome. An even more telling detail to Wade is that this uncommon arginine codon shows up twice in that small segment of the virus’s genome. For that to occur naturally, Wade wrote, “a chain of events has to happen, each of which is quite unlikely.”</p>
+<p>That’s what Baltimore assented to. But scientists say Wade misdescribed critical links in his chain. Scripps Research virologist Kristian Andersen led an early inquiry into the possible role of a lab escape in the origin of the virus, which concluded that it “is not a laboratory construct,” a finding that Wade termed “poor science” in his article. After Baltimore’s quote became public, Andersen re-entered the argument, and became one of a number of researchers to challenge many of the details Wade relied on. Andersen told Nature that Wade’s claim that steps in the emergence of the virus were too improbable to have occurred is not true. Rather, the pandemic virus uses that codon about 3 percent of the time that its genome calls for arginine—not common, but not impossibly scarce either—and, importantly, that other coronaviruses make use of it too, at similar or greater frequency.</p>
+<p>Columbia University virologist Vincent Racaniello says the unusual pairing of a particular codon that Wade saw as decisive actually points away from laboratory manipulation. “We have some idea why this codon is rare in RNA viruses,” Racaniello says. Selection pressures have been identified that would discourage its use in viral genomes. But, he says, “We don’t know why it’s not zero. The fact that it is conserved in many viruses means that it’s beneficial in some way we don’t understand.” This is the kind of mystery that evolution throws at researchers all the time. Racaniello adds that if a lab researcher was trying to modify a virus to measure its effect, the researcher wouldn’t use the codon pairing identified by Wade because its effect would be too unpredictable.</p></blockquote>
+<p>I’d had an uncomfortable feeling with any argument that claims a low probability makes something impossible, because improbable things happen all the time. But 3%! That’s not low, especially not when you’ve got a virus with a population of trillions.</p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">For the past month or so, my inbox has been inundated with letters insisting that they have proof of the lab leak hypothesis for the origin of SARS-CoV-2. Their insistent missives are full of jargon, like arginine codons and furin cleavage sites, and insistence that the particular sequence found in the virus could not possibly […]</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=63106</id>
+    <published>2021-06-24T11:32:48Z</published>
+    <updated>2021-06-24T11:32:48Z</updated>
+    <category term="Science"/>
+  </entry>
   <entry>
     <title>I’m calling it the Chris Rufo Theory from now one</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/06/24/im-calling-it-the-chris-rufo-theory-from-now-one/" type="text/html"/>
@@ -228,41 +253,6 @@ Research Background</p>
     <published>2021-06-23T12:16:34Z</published>
     <updated>2021-06-23T12:16:34Z</updated>
     <category term="Spiders"/>
-  </entry>
-  <entry>
-    <title>Hucksters hear the blunt facts about the Serpent Mound</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/06/23/hucksters-hear-the-blunt-facts-about-the-serpent-mound/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p class="lead">The Serpent Mound in Ohio is an amazing artifact of a past culture — earthworks over 400m long in the shape of a snake.</p>
-<p><a href="https://freethoughtblogs.com/pharyngula/files/2021/06/great-serpent-mound.jpeg"><img src="https://freethoughtblogs.com/pharyngula/files/2021/06/great-serpent-mound-500x263.jpeg" alt="" width="500" height="263" class="aligncenter size-large wp-image-63094" srcset="https://freethoughtblogs.com/pharyngula/files/2021/06/great-serpent-mound-500x263.jpeg 500w, https://freethoughtblogs.com/pharyngula/files/2021/06/great-serpent-mound-150x79.jpeg 150w, https://freethoughtblogs.com/pharyngula/files/2021/06/great-serpent-mound-300x158.jpeg 300w, https://freethoughtblogs.com/pharyngula/files/2021/06/great-serpent-mound-768x404.jpeg 768w" sizes="(max-width: 500px) 100vw, 500px"/></a></p>
-<p>You can imagine how the European colonizers of the area regarded this immense communal work of architecture…or don’t imagine, just see what a mess they made of the story.</p>
-<blockquote><p>“Unfortunately the Serpent Mound has become the epicenter of efforts to appropriate sacred American Indian sites and replace the Indigenous story with all sorts of fantastic, absurd stories,” said during his solstice presentation.</p>
-<p>“Let’s be absolutely clear. At the heart of these myths and fantastic stories is the racist notion that American Indians were too stupid to have built something so wonderful,” he added.</p></blockquote>
-<p><a href="https://www.topsecretwriters.com/2014/05/crazy-new-age-theories-threaten-ancient-ohio-serpent-mound/">Right</a>. There’s Graham Hancock, of course, babbling about “The Ancients” and a world-spanning civilization of New Age stargazers, or various people on the History Channel claiming that it’s evidence of a race of giants, because, after all, American Indians were too short to build large structures, so there had to be a population of 9 or 10 foot tall giants to build these mounds. It’s disrespectful and nonsensical.</p>
-<blockquote><p>In recent years, activities at the mound have taken on the quality of what Barnes describes as a minstrel show disrespecting and appropriating Native cultures.</p>
-<p>Since the 1987 Harmonic Convergence, the mound has become a mecca for followers of New Age spirituality. The idea of the Convergence was created by author and art historian Jose Arguelles who claimed August 16-17, 1987, were significant dates in the Maya calendar and represented an especially auspicious time to meditate for global peace.</p>
-<p>Some New Age activities such as digging and burying items in the mound, forwarding information purporting that the effigy was built by aliens from space or prehistoric giants and misrepresenting Native connections to the site has been of growing concern to tribal leaders like Wallace and Barnes. Of even greater concern was the way that past managers of the Serpent Mound site often turned a blind eye to these activities, sometimes allowing such practitioners to manage and stage events at the mound. This sent a message to the public that these wild theories were part of the official history of the site according to Wallace and Barnes.</p></blockquote>
-<p>It was supposed to be a kind of cosmic bomb shelter for people at the end of the world predicted by the Mayan calendar to occur in 2012, for instance. You may have noticed we didn’t achieve world peace in 1987, and the world is still here in 2021, and that whole Mayan calendar thing was nothing more than the end of a calendar cycle. That reminds me — I’ll have to get a new calendar in January. Either that, or the world is ending at midnight on 31 December. Hey, what do the Maya have to do with the native people of Ohio, anyway?</p>
-<p>Jason Colavito has a <a href="https://www.jasoncolavito.com/blog/review-of-america-unearthed-s02e09-mystery-of-the-serpents">thorough dissection of the absurdist pseudo-history of Serpent Mound</a>. Would you believe that some claim it is a cathedral for a global penis-worshipping cult? Of course you would. There are loonies everywhere, and they tend to get rewarded with a “documentary” series on the History Channel.</p>
-<p>The summer solstice was just this past weekend, so I took a look at the <a href="https://www.serpentmound.org/fullschedule/">calendar of events for Serpent Mound</a>. There was some good stuff about the history of the area and the archaeology of the mound, but also…Bigfoot? Nephilim? New Age quacks peddling crystals and herbs? Whoever runs this event has no integrity at all and willfully misrepresents the truth to make a buck.</p>
-<p>The good news though, is that at least this time the organizers invited some of the <a href="https://indiancountrytoday.com/news/shawnee-relcaim-great-serpent-mound">descendants of the people who actually built the mound to come speak</a>. That’s a little progress.</p>
-<blockquote><p>The Shawnee tribe returned home to the Serpent Mound on the longest day of the year.</p>
-<p>The Summer Solstice, June 20, the longest day of the year, marks the first time that the Shawnee tribe has officially returned to the Serpent Mound located in Ohio to present their history and connection to this place that they called home so many years ago.</p>
-<p>Although it was certainly ancestors of the Shawnee people who built the magnificent serpent shaped mound, the largest earthwork effigy in the world, Ohio failed to involve the tribe in conveying its meaning to the public until now.</p>
-<p>Glenna Wallace, chief of the Eastern Shawnee Tribe of Oklahoma and Ben Barnes, chief of the Shawnee Tribe, also located in Oklahoma, spent the weekend telling visitors to the Serpent Mound historical site about their peoples’ and ancestors’ connection to Ohio and the mound.</p></blockquote>
-<p>I also like the title of the article: “Shawnee reclaim the great Serpent Mound: Ancestors of Native Americans, not prehistoric giants or space aliens, built the mound in Ohio”. The white people who run the solstice event ought to be embarrassed that they had to invite Indians, who had been dispossessed from the land and treated as primitives who couldn’t have built the structure, to come back and tell them the simple truth.</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">The Serpent Mound in Ohio is an amazing artifact of a past culture — earthworks over 400m long in the shape of a snake. You can imagine how the European colonizers of the area regarded this immense communal work of architecture…or don’t imagine, just see what a mess they made of the story. “Unfortunately the […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=63093</id>
-    <published>2021-06-23T11:43:37Z</published>
-    <updated>2021-06-23T11:43:37Z</updated>
-    <category term="Atheism and Skepticism"/>
   </entry>
   <entry>
     <title>The FDA Chooses Big Pharma Over Dying Seniors</title>
