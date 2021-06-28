@@ -7,9 +7,28 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2021-06-28T16:40:53Z</updated>
+  <updated>2021-06-28T17:43:29Z</updated>
   <link rel="self" href="http://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Lots and lots of videos of spider science</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/06/28/lots-and-lots-of-videos-of-spider-science/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p class="lead">Since people are asking, yes, the <a href="https://www.youtube.com/channel/UCJGFIn_r-2j6VRVREamUgKQ">American Arachnology Society meetings are recorded</a>. You can watch them all! Even the workshops!</p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Since people are asking, yes, the American Arachnology Society meetings are recorded. You can watch them all! Even the workshops!</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=63141</id>
+    <published>2021-06-28T17:07:43Z</published>
+    <updated>2021-06-28T17:07:43Z</updated>
+    <category term="Science"/>
+    <category term="Spiders"/>
+  </entry>
   <entry>
     <title>The rise of the truth industry</title>
     <link rel="alternate" href="https://newhumanist.org.uk/articles/5818/the-rise-of-the-truth-industry#utm_source=rss" type="text/html"/>
@@ -103,30 +122,6 @@
     <published>2021-06-26T13:11:09Z</published>
     <updated>2021-06-26T13:11:09Z</updated>
     <category term="Spiders"/>
-  </entry>
-  <entry>
-    <title>Why was Chauvin sentenced to 22 years?</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/06/26/why-was-chauvin-sentenced-to-22-years/" type="text/html"/>
-    <content type="html">&lt;p class="lead"&gt;I found an informative thread on Twitter that explains how the judge arrived at that number. It was a reasonable sentence at the high end of the allowed sentencing guidelines. The judge was not generous.&lt;/p&gt;
-&lt;blockquote class="twitter-tweet" data-width="500" data-dnt="true"&gt;
-&lt;p lang="en" dir="ltr"&gt;in sentencing someone, you add up the various &amp;quot;factors&amp;quot; involved in the crime, and then consult the table that tells you what the presumptive sentence is. A judge needs &amp;quot;substantial and compelling&amp;quot; reasons to depart from the presumptive sentence, in either direction.&lt;/p&gt;
-&lt;p&gt;&amp;mdash; rahaeli (@rahaeli) &lt;a href="https://twitter.com/rahaeli/status/1408556470061371394?ref_src=twsrc%5Etfw"&gt;June 25, 2021&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;&lt;/p&gt;
-&lt;p&gt;To summarize, there is a precedent of prior court decisions with establish an allowed range of sentencing, and if a judge were to step way outside the bounds of that range, they&amp;#8217;d be providing grounds for overturning their decision. So the judge&amp;#8217;s hands are tied to a certain degree.&lt;/p&gt;
-&lt;p&gt;That doesn&amp;#8217;t mean the guidelines are free of bias, however. For example, one factor they&amp;#8217;re supposed to take into account is your prior convictions &amp;#8212; you&amp;#8217;re guilty of lots of crimes in the past, so therefore you&amp;#8217;re justified in increasing the allowed range of punishments. If you&amp;#8217;re a first offender, the judge has to bump the range down.&lt;/p&gt;
-&lt;p&gt;Derek Chauvin had zero prior convictions.&lt;/p&gt;
-&lt;p&gt;Where that is unfair and biased is that we&amp;#8217;ve had this idiotic &amp;#8220;war&amp;#8221; on drugs going on for decades which is unfairly applied by the police, which means that if you&amp;#8217;re a black person, you&amp;#8217;re much more likely to stack up a record of offenses which will then automatically be used to increase the severity of sentencing against you. Being a white cop means you get to start with a clean slate, making it easier to skate when you do commit a serious crime. &amp;#8220;Repeat offender&amp;#8221; laws seem superficially just, but are also ways to selectively target oppressed minorities.&lt;/p&gt;
-</content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">I found an informative thread on Twitter that explains how the judge arrived at that number. It was a reasonable sentence at the high end of the allowed sentencing guidelines. The judge was not generous. in sentencing someone, you add up the various "factors" involved in the crime, and then consult the table that tells […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=63128</id>
-    <published>2021-06-26T12:37:11Z</published>
-    <updated>2021-06-26T12:37:11Z</updated>
-    <category term="Race, Society, and Social Justice"/>
   </entry>
   <entry>
     <title>LGBTQ Rights vs Christian Schools: Who Does Biden Support?</title>
