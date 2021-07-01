@@ -7,9 +7,24 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2021-07-01T17:36:37Z</updated>
+  <updated>2021-07-01T18:37:47Z</updated>
   <link rel="self" href="http://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>It’s the first of July? How did that happen?</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/07/01/its-the-first-of-july-how-did-that-happen/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p><a href="https://freethoughtblogs.com/pharyngula/files/2021/07/june.jpeg"><img src="https://freethoughtblogs.com/pharyngula/files/2021/07/june-500x658.jpeg" alt="" width="500" height="658" class="aligncenter size-large wp-image-63178" srcset="https://freethoughtblogs.com/pharyngula/files/2021/07/june-500x658.jpeg 500w, https://freethoughtblogs.com/pharyngula/files/2021/07/june-114x150.jpeg 114w, https://freethoughtblogs.com/pharyngula/files/2021/07/june-228x300.jpeg 228w, https://freethoughtblogs.com/pharyngula/files/2021/07/june.jpeg 730w" sizes="(max-width: 500px) 100vw, 500px"/></a></p>
+</div>
+    </content>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=63177</id>
+    <published>2021-07-01T18:06:49Z</published>
+    <updated>2021-07-01T18:06:49Z</updated>
+    <category term="Miscellaneous and Meta"/>
+  </entry>
   <entry>
     <title>It’s like reading the letters section of my local newspaper!</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/07/01/its-like-reading-the-letters-section-of-my-local-newspaper/" type="text/html"/>
@@ -170,24 +185,6 @@
     <updated>2021-07-01T07:49:13Z</updated>
     <category term="Discussion"/>
     <category term="Featured"/>
-  </entry>
-  <entry>
-    <title>We’re all dancing here!</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/06/30/were-all-dancing-here/" type="text/html"/>
-    <content type="html">&lt;p class="lead"&gt;&lt;a href="https://freethoughtblogs.com/iris/2021/06/30/happy-grave-dancing-donald-rumsfeld-is-dead/"&gt;Donald Rumsfeld is dead&lt;/a&gt;!&lt;/p&gt;
-&lt;div class="center"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/ZywVV0T5DcA?start=68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-&lt;p&gt;I can think of a few other scumbags from that era whose demise would prompt me to break out the Macarena, too.&lt;/p&gt;
-</content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Donald Rumsfeld is dead! I can think of a few other scumbags from that era whose demise would prompt me to break out the Macarena, too.</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=63166</id>
-    <published>2021-06-30T20:28:16Z</published>
-    <updated>2021-06-30T20:28:16Z</updated>
-    <category term="Miscellaneous and Meta"/>
   </entry>
   <entry>
     <title>The rise of the truth industry</title>
