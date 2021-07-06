@@ -7,9 +7,29 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2021-07-06T09:34:14Z</updated>
+  <updated>2021-07-06T10:34:14Z</updated>
   <link rel="self" href="http://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Too hot to sleep</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/07/06/too-hot-to-sleep/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p class="lead">Come back, winter. It’s been a rough night, waking up at 4:30am uncomfortably drenched in sweat, so I got up in time to hear the rains begin and the temperature to drop below 20°C.</p>
+<p>OK, I’ll be satisfied when fall comes back. Anything but this midsummer kiln we’re living in.</p>
+<p>It’s going to heat up again tomorrow, but the good news is that the combination of rain and warm temperatures means the bugs will be thriving, and that means the spiders will be getting plump.</p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Come back, winter. It’s been a rough night, waking up at 4:30am uncomfortably drenched in sweat, so I got up in time to hear the rains begin and the temperature to drop below 20°C. OK, I’ll be satisfied when fall comes back. Anything but this midsummer kiln we’re living in. It’s going to heat up […]</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=63227</id>
+    <published>2021-07-06T10:15:03Z</published>
+    <updated>2021-07-06T10:15:03Z</updated>
+    <category term="Miscellaneous and Meta"/>
+  </entry>
   <entry>
     <title>“No” is less than “Why?”</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/07/05/no-is-less-than-why/" type="text/html"/>
@@ -124,28 +144,6 @@ Nothing else should be attached to this definition, by either the right or the l
     <published>2021-07-05T12:43:38Z</published>
     <updated>2021-07-05T12:43:38Z</updated>
     <category term="Local"/>
-  </entry>
-  <entry>
-    <title>Some holiday</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/07/04/some-holiday/" type="text/html"/>
-    <content type="html">&lt;p class="lead"&gt;Here&amp;#8217;s how some people might think of today.&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://freethoughtblogs.com/pharyngula/files/2021/07/happytreasonday.jpeg"&gt;&lt;img src="https://freethoughtblogs.com/pharyngula/files/2021/07/happytreasonday-500x291.jpeg" alt="" width="500" height="291" class="aligncenter size-large wp-image-63210" srcset="https://freethoughtblogs.com/pharyngula/files/2021/07/happytreasonday-500x291.jpeg 500w, https://freethoughtblogs.com/pharyngula/files/2021/07/happytreasonday-150x87.jpeg 150w, https://freethoughtblogs.com/pharyngula/files/2021/07/happytreasonday-300x175.jpeg 300w, https://freethoughtblogs.com/pharyngula/files/2021/07/happytreasonday.jpeg 512w" sizes="(max-width: 500px) 100vw, 500px" /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Here&amp;#8217;s another legitimate perspective.&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://freethoughtblogs.com/pharyngula/files/2021/07/4thofyoulie.jpeg"&gt;&lt;img src="https://freethoughtblogs.com/pharyngula/files/2021/07/4thofyoulie-500x612.jpeg" alt="" width="500" height="612" class="aligncenter size-large wp-image-63211" srcset="https://freethoughtblogs.com/pharyngula/files/2021/07/4thofyoulie-500x612.jpeg 500w, https://freethoughtblogs.com/pharyngula/files/2021/07/4thofyoulie-123x150.jpeg 123w, https://freethoughtblogs.com/pharyngula/files/2021/07/4thofyoulie-245x300.jpeg 245w, https://freethoughtblogs.com/pharyngula/files/2021/07/4thofyoulie.jpeg 523w" sizes="(max-width: 500px) 100vw, 500px" /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;All true. But this is where my head is at.&lt;/p&gt;
-&lt;div class="center"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/5wMijqk2cPw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-&lt;p&gt;Peace out, everyone. No fireworks please.&lt;/p&gt;
-</content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Here’s how some people might think of today. Here’s another legitimate perspective. All true. But this is where my head is at. Peace out, everyone. No fireworks please.</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=63209</id>
-    <published>2021-07-04T15:09:13Z</published>
-    <updated>2021-07-04T15:09:13Z</updated>
-    <category term="Miscellaneous and Meta"/>
   </entry>
   <entry>
     <title>Another Garbage Study Says Diet Soda is Bad For You</title>
