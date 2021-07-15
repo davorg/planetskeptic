@@ -7,9 +7,54 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2021-07-15T13:34:08Z</updated>
+  <updated>2021-07-15T14:31:21Z</updated>
   <link rel="self" href="http://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Another silly scientific claim from Islam</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/07/15/another-silly-scientific-claim-from-islam/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p class="lead">The magic fly wings are back. I got this email yesterday:</p>
+<blockquote><p>Dear doctor Myers,<br/>
+I’ve read your old article on the study about a saying of Muhammad that advised people to dip a fly if it landed on their drinks. Recently I’ve found an article (https://www.jstage.jst.go.jp/article/jnsv/66/Supplement/66_S283/_pdf) which honestly seems to me even more unscientific, but there is one thing that I don’t understand that I hope you may clarify. The fact is that this study doesn’t seem to have been published in a predatory journal, I’ve searched the journal and the publisher but I haven’t find them on the predatory publishing list. Maybe it is because the journal is Japanese(I’ve read articles about how many Indonesian studies were published in predatory journal but nothing about this specific publisher). By the way I’ve done a bit of research on this study and I found something which convinces me even more of my first thoughts, but I don’t have enough knowledge to debunk the study itself.</p>
+<p> In the paper they quote 4 studies to support their claims:<br/>
+-Reference number 9 was published on a predatory journal (called IDOSI).<br/>
+-Reference number 7 is the experiment at Qassim University which you have talked about.<br/>
+-References number 10 come from a book about miracles of the Quran, that was originally in Arabic and was later translated in Indonesian. It supposedly quotes a study from this book but since I don’t know the languages I don’t know how to search. But the fact that it quotes just the book and not the supposed study is very suspicious.<br/>
+-Reference number 11 is from something in Indonesian language about “miracles” of the hadiths, I couldn’t find anything like this and the only other source where this is cited is from a larger paper (also in Indonesian)of the same author of this study, which basically talks about the same things.<br/>
+All the sources are islamic, the study itself was done in a islamic university in Indonesia specialized in islamic teachings, probably by undergrad students of the nutrition faculty.</p>
+<p>As I’ve said the only thing that I don’t understand is why this study was published on a non predatory journal, and I can’t refute it by myself. I hope you may give your opinion on this paper. </p></blockquote>
+<p>Here’s <a href="https://freethoughtblogs.com/pharyngula/2012/01/29/islamic-science-has-come-to-this-pitiful-end/">my article that they reference</a>. The point being made on the basis of an Islamic hadith, <q>If a housefly falls in the drink of anyone of you, he should dip it (in the drink), for the one of its wings has a disease and the other has the cure of the disease, is that the left wings of flies are dirty and full of bacteria, but the right wings have strong antibiotic properties. Only the right wing, mind you! This is from a book compiled in the 9th century, so it’s a remarkable assertion that was made without any application of scientific observation or empirical data collection — just poof, the idea came out of the mouth of some sage. </q></p>
+<p>This, unfortunately, is the abstract for the new paper in question:</p>
+<p><a href="https://freethoughtblogs.com/pharyngula/files/2021/07/flydippaper.png"><img src="https://freethoughtblogs.com/pharyngula/files/2021/07/flydippaper-500x421.png" alt="" width="500" height="421" class="aligncenter size-large wp-image-63336" srcset="https://freethoughtblogs.com/pharyngula/files/2021/07/flydippaper-500x421.png 500w, https://freethoughtblogs.com/pharyngula/files/2021/07/flydippaper-150x126.png 150w, https://freethoughtblogs.com/pharyngula/files/2021/07/flydippaper-300x253.png 300w, https://freethoughtblogs.com/pharyngula/files/2021/07/flydippaper.png 597w" sizes="(max-width: 500px) 100vw, 500px"/></a></p>
+<p>It’s a very badly written paper, like the work of a lazy undergraduate; of course, we also have to consider that this was written by an Indonesian student in English, not their native language. Still, it’s a naive bit of work that was done with little effort in the course of a few days that were somehow stretched out over 6 months.</p>
+<p>It’s a simple experiment. Snip the wings off flies, dip them in water…wait, the protocol is weird. They have a negative control, water contaminated with E. coli, and a positive control, sterile water, (I feel like they labeled those backwards) but then they <em>only</em> test the right wings of flies dipped in contaminated water. This is peculiar, because they never test the left wings, despite the fact that this is a five-minute experiment that is then cultured on a petri dish for two days, with the assay consisting of simply counting colonies on the dish, and they only did it twice, with the only variable being the number (1, 2, or 3) of right wings they used. That’s it! And they published it!</p>
+<p>You want to see the results? OK, here they are in all their glory.</p>
+<p><a href="https://freethoughtblogs.com/pharyngula/files/2021/07/flywingresults.png"><img src="https://freethoughtblogs.com/pharyngula/files/2021/07/flywingresults.png" alt="" width="335" height="215" class="aligncenter size-full wp-image-63337" srcset="https://freethoughtblogs.com/pharyngula/files/2021/07/flywingresults.png 335w, https://freethoughtblogs.com/pharyngula/files/2021/07/flywingresults-150x96.png 150w, https://freethoughtblogs.com/pharyngula/files/2021/07/flywingresults-300x193.png 300w" sizes="(max-width: 335px) 100vw, 335px"/></a></p>
+<p>I spent way too much time puzzling over this for such a garbage paper. There are five sets of data, but only two lines on the chart; the blue line goes up over time, but the legend says blue is either one right wing or the negative control (which is the water contaminated with E. coli), the orange is the positive control (the sterile water), which is flatlined as you might expect. There is no observable data for the different numbers of wings. In the text they state that the number of wings didn’t matter — all two of the measurements for one, two, or three wings showed no colony growth. They don’t even do a comparison of left and right wings, which is the heart of their claim about the accuracy of Islam.</p>
+<p>It’s remarkably trivial and bad, and it’s little more than a grade school science fair experiment. And it got published.</p>
+<p>To address my correspondent’s questions:</p>
+<ul>
+<li>I don’t know how you’re going to define “predatory journal”. This looks like a journal with extremely low standards for publication, is that predatory? It’s more of a waste-of-time journal.</li>
+<li>That the journal is Japanese or the authors Indonesian is irrelevant. There is extremely good research coming out of both countries, and there is extremely bad research published in American journals by American authors.</li>
+<li>Lists of predatory journals are never complete. This particular journal has been around since 1954, has a low impact factor, and who knows what changes have occurred in the editorial board? It’s just flying under the radar.</li>
+<li>Every science article needs to be evaluated on the basis of its content. It doesn’t matter if it’s published in <i>Nature</i> or the <i>Journal of Nutritional Science and Vitaminology</i></li>
+<p> (although, really, that title would make me question it), you have to consider each paper’s ideas. A journal like <i>Nature</i> has a rather more demanding filter than <i>J Sci Nutr Vitaminol</i>, obviously; that latter seems to be more of a wide open sphincter than any kind of filter.</p>
+</ul>
+<p>Also, an article that in its introduction mentions that the idea they’re testing is <q>contrary to the facts in the field</q>, but that <q>Muslims <em>must</em> still believe and be sure of the truth of the hadith</q> is setting up a bias which demands a significantly more robust set of observations than this half-assed lazy casual “experiment”. If they are making a radical claim that defies all the observations and theories current in the field, they damn well better put in the work!</p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">The magic fly wings are back. I got this email yesterday: Dear doctor Myers, I’ve read your old article on the study about a saying of Muhammad that advised people to dip a fly if it landed on their drinks. Recently I’ve found an article (https://www.jstage.jst.go.jp/article/jnsv/66/Supplement/66_S283/_pdf) which honestly seems to me even more unscientific, but […]</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=63334</id>
+    <published>2021-07-15T14:02:13Z</published>
+    <updated>2021-07-15T14:02:13Z</updated>
+    <category term="Atheism and Skepticism"/>
+  </entry>
   <entry>
     <title>Does Planet Nine exist?</title>
     <link rel="alternate" href="https://newhumanist.org.uk/articles/5823/does-planet-nine-exist#utm_source=rss" type="text/html"/>
@@ -137,31 +182,6 @@
     <published>2021-07-14T10:56:29Z</published>
     <updated>2021-07-14T10:56:29Z</updated>
     <category term="Politics, History, and Law"/>
-  </entry>
-  <entry>
-    <title>This cannot end well, Tennessee</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/07/13/this-cannot-end-well-tennessee/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p class="lead">The insanity is going too far. <a href="https://www.tennessean.com/story/news/health/2021/07/13/tennessee-halts-all-vaccine-outreach-minors-not-just-covid-19/7928701002/">Tennessee (or rather, Republicans in Tennessee) want to shut down access to vaccines</a>. All vaccines.</p>
-<blockquote><p>The Tennessee Department of Health will halt all adolescent vaccine outreach – not just for coronavirus, <strong><em>but all diseases</em></strong> – amid pressure from Republican state lawmakers, according to an internal report and agency emails obtained by the Tennessean. If the health department must issue any information about vaccines, staff are instructed to strip the agency logo off the documents.</p>
-<p>The health department will also stop all COVID-19 vaccine events on school property, despite holding at least one such event this month. The decisions to end vaccine outreach and school events come directly from Health Commissioner Dr. Lisa Piercey, the internal report states.</p>
-<p>Additionally, the health department will take steps to ensure it no longer sends postcards or other notices reminding teenagers to get their second dose of the coronavirus vaccines. Postcards will still be sent to adults, but teens will be excluded from the mailing list so the postcards are not “potentially interpreted as solicitation to minors,” the report states.</p></blockquote>
-<p>That’s amazing. I’m used to Republicans opposing fundamental ideas in science, but now the prion disease that rots their brains has progressed so far that they want to silence information about basic health care. There will be dead teenagers as a result of this policy, and this will lead to another spike in coronavirus infections.</p>
-<blockquote><p>And these changes will take effect just as the coronavirus pandemic shows new signs of spread in Tennessee. After months of declining infections, the average number of new cases per day has more than doubled in the past two weeks – from 177 to 418. The average test positivity rate has jumped from 2.2% to 5.4% in the same time period.</p></blockquote>
-<p>Oh, it already has.</p>
-<p>Republicans are a menace to society.</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">The insanity is going too far. Tennessee (or rather, Republicans in Tennessee) want to shut down access to vaccines. All vaccines. The Tennessee Department of Health will halt all adolescent vaccine outreach – not just for coronavirus, but all diseases – amid pressure from Republican state lawmakers, according to an internal report and agency emails […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=63320</id>
-    <published>2021-07-13T22:36:57Z</published>
-    <updated>2021-07-13T22:36:57Z</updated>
-    <category term="Medicine"/>
   </entry>
   <entry>
     <title>Book review: Dreamland</title>
