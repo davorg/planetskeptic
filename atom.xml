@@ -7,9 +7,29 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2021-07-21T16:40:20Z</updated>
+  <updated>2021-07-21T17:36:02Z</updated>
   <link rel="self" href="http://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Those Glorious Small Victories</title>
+    <link rel="alternate" href="https://richarddawkins.net/2021/07/those-glorious-small-victories/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">From the Richard Dawkins Foundation Newsletter. Subscribe here. Hello! The goals of the Richard Dawkins Foundation—and its sibling organizations within the Center for Inquiry—are lofty, to say the least. Fostering a secular society that embraces science and humanism is an audacious undertaking. It’s helpful to remember that the path toward that better world is paved with …</div>
+    </content>
+    <author>
+      <name>Paul Fidalgo</name>
+    </author>
+    <id>https://richarddawkins.net/?p=977021</id>
+    <published>2021-07-21T16:47:03Z</published>
+    <updated>2021-07-21T16:47:03Z</updated>
+    <category term="Atheism"/>
+    <category term="Education"/>
+    <category term="Original"/>
+    <category term="Politics"/>
+    <category term="Religion"/>
+    <category term="Science"/>
+    <category term="Skepticism"/>
+  </entry>
   <entry>
     <title>If It Quacks Like a Duck…</title>
     <link rel="alternate" href="https://richarddawkins.net/2021/07/if-it-quacks-like-a-duck/" type="text/html"/>
@@ -62,7 +82,7 @@
     <title>Vape Company BUYS a Science Journal</title>
     <link rel="alternate" href="http://feedproxy.google.com/~r/Skepchick/~3/Jt6-A_2dMJE/" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">This post contains a video, which you can also view here. To support more videos like this, head to patreon.com/rebecca!<div class="feedflare">
+      <div xmlns="http://www.w3.org/1999/xhtml">This post contains a video, which you can also view here. To support more videos like this, head to patreon.com/rebecca! Back in the beforetimes, I talked about a dangerous problem with vaping: people were experiencing lung problems that were likely caused by bootleg vapes (usually the kind with THC) that were cut with vitamin E …<div class="feedflare">
 <a href="http://feeds.feedburner.com/~ff/Skepchick?a=Jt6-A_2dMJE:R4HLTWj1fj0:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/Skepchick?d=yIl2AUoC8zA" border="0"/></a> <a href="http://feeds.feedburner.com/~ff/Skepchick?a=Jt6-A_2dMJE:R4HLTWj1fj0:dnMXMwOfBR0"><img src="http://feeds.feedburner.com/~ff/Skepchick?d=dnMXMwOfBR0" border="0"/></a> <a href="http://feeds.feedburner.com/~ff/Skepchick?a=Jt6-A_2dMJE:R4HLTWj1fj0:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/Skepchick?i=Jt6-A_2dMJE:R4HLTWj1fj0:F7zBnMyn0Lo" border="0"/></a> <a href="http://feeds.feedburner.com/~ff/Skepchick?a=Jt6-A_2dMJE:R4HLTWj1fj0:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/Skepchick?d=7Q72WNTAKBA" border="0"/></a> <a href="http://feeds.feedburner.com/~ff/Skepchick?a=Jt6-A_2dMJE:R4HLTWj1fj0:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/Skepchick?i=Jt6-A_2dMJE:R4HLTWj1fj0:V_sGLiPBpWU" border="0"/></a> <a href="http://feeds.feedburner.com/~ff/Skepchick?a=Jt6-A_2dMJE:R4HLTWj1fj0:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/Skepchick?d=qj6IDK7rITs" border="0"/></a> <a href="http://feeds.feedburner.com/~ff/Skepchick?a=Jt6-A_2dMJE:R4HLTWj1fj0:gIN9vFwOqvQ"><img src="http://feeds.feedburner.com/~ff/Skepchick?i=Jt6-A_2dMJE:R4HLTWj1fj0:gIN9vFwOqvQ" border="0"/></a> <a href="http://feeds.feedburner.com/~ff/Skepchick?a=Jt6-A_2dMJE:R4HLTWj1fj0:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/Skepchick?i=Jt6-A_2dMJE:R4HLTWj1fj0:D7DqB2pKExk" border="0"/></a>
 </div><img src="http://feeds.feedburner.com/~r/Skepchick/~4/Jt6-A_2dMJE" height="1" width="1" alt=""/></div>
     </content>
@@ -92,23 +112,6 @@
     <category term="Politics"/>
     <category term="Religion"/>
     <category term="Skepticism"/>
-  </entry>
-  <entry>
-    <title>TIES Takes Evolution Education to Mississippi</title>
-    <link rel="alternate" href="https://richarddawkins.net/2021/07/ties-takes-evolution-education-to-mississippi/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">One of the things that makes the Teacher Institute for Evolutionary Science (TIES) such an effective program is that it meets teachers where they are, both literally and figuratively. TIES is a program of the Richard Dawkins Foundation that helps educators teach evolution and answer its critics. With the careful return of in-person events, TIES …</div>
-    </content>
-    <author>
-      <name>Paul Fidalgo</name>
-    </author>
-    <id>https://richarddawkins.net/?p=976995</id>
-    <published>2021-07-21T15:38:28Z</published>
-    <updated>2021-07-21T15:38:28Z</updated>
-    <category term="Education"/>
-    <category term="News Article"/>
-    <category term="Original"/>
-    <category term="Science"/>
   </entry>
   <entry>
     <title>Creeping Christianism everywhere</title>
