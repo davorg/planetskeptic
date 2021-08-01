@@ -7,9 +7,28 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2021-08-01T20:33:32Z</updated>
+  <updated>2021-08-01T21:33:16Z</updated>
   <link rel="self" href="http://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Freethoughtblogs is ten years old!</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/08/01/freethoughtblogs-is-ten-years-old/" type="text/html"/>
+    <content type="html">&lt;p class="lead"&gt;And we&amp;#8217;re going to celebrate next week!&lt;/p&gt;
+&lt;div class="center"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/gkeIKO6GAyQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;p&gt;Come on by and join the conversation!&lt;/p&gt;
+&lt;p&gt;By the way, we&amp;#8217;ve also setup a &lt;a href="https://www.youtube.com/channel/UCrqcduHLy9_xksyuiUxg5kg"&gt;Freethoughtblogs YouTube channel&lt;/a&gt;. Subscribe!&lt;/p&gt;
+</content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">And we’re going to celebrate next week! Come on by and join the conversation! By the way, we’ve also setup a Freethoughtblogs YouTube channel. Subscribe!</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=63478</id>
+    <published>2021-08-01T21:31:14Z</published>
+    <updated>2021-08-01T21:31:14Z</updated>
+    <category term="Miscellaneous and Meta"/>
+  </entry>
   <entry>
     <title>One day’s doting to do today</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/08/01/one-days-doting-to-do-today/" type="text/html"/>
@@ -153,25 +172,6 @@
     <published>2021-07-30T12:33:16Z</published>
     <updated>2021-07-30T12:33:16Z</updated>
     <category term="Feminism, Gender, and Equality"/>
-  </entry>
-  <entry>
-    <title>“Phil brings humanity and empathy to every character he creates”</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/07/30/phil-brings-humanity-and-empathy-to-every-character-he-creates/" type="text/html"/>
-    <content type="html">&lt;p class="lead"&gt;That&amp;#8217;s the blurb for Phil Tippett&amp;#8217;s &lt;i&gt;Mad God&lt;/i&gt; anyway, and then you start the trailer and it&amp;#8217;s all darkness and slimy nightmare monsters and mushroom clouds and stop-motion things that look like they crawled out of a clogged drain.&lt;/p&gt;
-&lt;div class="center"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/ZGdrlVShkmg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-&lt;p&gt;If the recommendation is not wrong, that does say something about humanity, I guess.&lt;/p&gt;
-&lt;p&gt;I still want to see it.&lt;/p&gt;
-</content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">That’s the blurb for Phil Tippett’s Mad God anyway, and then you start the trailer and it’s all darkness and slimy nightmare monsters and mushroom clouds and stop-motion things that look like they crawled out of a clogged drain. If the recommendation is not wrong, that does say something about humanity, I guess. I still […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=63465</id>
-    <published>2021-07-30T11:57:47Z</published>
-    <updated>2021-07-30T11:57:47Z</updated>
-    <category term="Miscellaneous and Meta"/>
   </entry>
   <entry>
     <title>Dowsing in genealogy</title>
