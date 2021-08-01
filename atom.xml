@@ -7,9 +7,24 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2021-08-01T09:34:08Z</updated>
+  <updated>2021-08-01T10:34:18Z</updated>
   <link rel="self" href="http://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>OPEN DISCUSSION AUGUST 2021</title>
+    <link rel="alternate" href="https://richarddawkins.net/2021/08/open-discussion-august-2021/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">This thread has been created for discussion on themes relevant to Reason and Science for which there are not currently any dedicated threads. Please note that our Comment Policy applies as usual. There is a link to this at the foot of the page. If you would like to refer back to previous open discussion …</div>
+    </content>
+    <author>
+      <name>Moderator</name>
+    </author>
+    <id>https://richarddawkins.net/?p=977059</id>
+    <published>2021-08-01T09:38:53Z</published>
+    <updated>2021-08-01T09:38:53Z</updated>
+    <category term="Discussion"/>
+    <category term="Featured"/>
+  </entry>
   <entry>
     <title>Walmart is smarter and more responsible than my university</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/07/31/walmart-is-smarter-and-more-responsible-than-my-university/" type="text/html"/>
@@ -304,22 +319,6 @@
     <category term="News Article"/>
     <category term="Politics"/>
     <category term="Science"/>
-  </entry>
-  <entry>
-    <title>“Danish Cartoon” Artist Kurt Westergaard Dies at 86</title>
-    <link rel="alternate" href="https://richarddawkins.net/2021/07/danish-cartoon-artist-kurt-westergaard-dies-at-86/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">In 2005, violent protests erupted in Denmark and throughout the Muslim world in response to cartoons published in the Danish publication Jyllands-Posten, the most famous of which was a caricature of what appeared to be the Prophet Muhammad with a bomb in his turban, drawn by cartoonist Kurt Westergaard, who died this week at the age …</div>
-    </content>
-    <author>
-      <name>Paul Fidalgo</name>
-    </author>
-    <id>https://richarddawkins.net/?p=977006</id>
-    <published>2021-07-21T16:05:36Z</published>
-    <updated>2021-07-21T16:05:36Z</updated>
-    <category term="News Article"/>
-    <category term="Original"/>
-    <category term="Religion"/>
   </entry>
   <entry>
     <title>Vape Company BUYS a Science Journal</title>
