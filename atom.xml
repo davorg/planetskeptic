@@ -7,9 +7,89 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2021-08-04T15:36:48Z</updated>
+  <updated>2021-08-04T16:40:45Z</updated>
   <link rel="self" href="http://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Abracadabra!</title>
+    <link rel="alternate" href="https://richarddawkins.net/2021/08/abracadabra/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">From the Richard Dawkins Foundation Newsletter. Subscribe here. Hello! Words can have incredible power. If we didn’t think so, we wouldn’t produce magazines, podcasts, or this newsletter! But their power comes from how they transmit information, how they make us feel, and how they move us to act.  What words cannot do is cause things to …</div>
+    </content>
+    <author>
+      <name>Paul Fidalgo</name>
+    </author>
+    <id>https://richarddawkins.net/?p=977071</id>
+    <published>2021-08-04T16:18:17Z</published>
+    <updated>2021-08-04T16:18:17Z</updated>
+    <category term="Atheism"/>
+    <category term="Original"/>
+    <category term="Politics"/>
+    <category term="Religion"/>
+    <category term="Science"/>
+    <category term="Skepticism"/>
+  </entry>
+  <entry>
+    <title>Stuart Vyse on Superstitions: Good Luck with That</title>
+    <link rel="alternate" href="https://richarddawkins.net/2021/08/stuart-vyse-on-superstitions-good-luck-with-that/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Triskaidekaphobia, rabbits’ feet, horseshoes, throwing salt over your shoulder, and fear of black cats. Old and silly superstitions are remarkably common, with even some of the most skeptical among us feeling beholden to some ritual, trinket, or omen to determine our fortunes. On the latest Skeptical Inquirer Presents online event, psychologist Stuart Vyse explored the …</div>
+    </content>
+    <author>
+      <name>Paul Fidalgo</name>
+    </author>
+    <id>https://richarddawkins.net/?p=977095</id>
+    <published>2021-08-04T16:05:45Z</published>
+    <updated>2021-08-04T16:05:45Z</updated>
+    <category term="Skepticism"/>
+  </entry>
+  <entry>
+    <title>Water Witches? Seriously?</title>
+    <link rel="alternate" href="https://richarddawkins.net/2021/08/water-witches-seriously/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">You probably don’t need the Richard Dawkins Foundation for Reason &amp; Science to tell you that underground water can not be detected by channeling psychic energy through a couple of sticks. While obvious to you, it is anathema to those who believe in the power of “dowsing,” in which a person holding two rods can …</div>
+    </content>
+    <author>
+      <name>Paul Fidalgo</name>
+    </author>
+    <id>https://richarddawkins.net/?p=977092</id>
+    <published>2021-08-04T16:03:43Z</published>
+    <updated>2021-08-04T16:03:43Z</updated>
+    <category term="News Article"/>
+    <category term="Science"/>
+    <category term="Skepticism"/>
+  </entry>
+  <entry>
+    <title>The Return of Project Blitz</title>
+    <link rel="alternate" href="https://richarddawkins.net/2021/08/the-return-of-project-blitz/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">You might have noticed that when a discriminatory, religion-privileging, science-denying bill gets introduced in one state’s legislature, the same kind of bill tends to start popping up in other legislatures as well. This is no accident. While Christian nationalists and religious-Right zealots have coordinated state-level lobbying for decades, in 2018 that coordination reached new levels …</div>
+    </content>
+    <author>
+      <name>Paul Fidalgo</name>
+    </author>
+    <id>https://richarddawkins.net/?p=977089</id>
+    <published>2021-08-04T16:01:24Z</published>
+    <updated>2021-08-04T16:01:24Z</updated>
+    <category term="News Article"/>
+    <category term="Politics"/>
+    <category term="Religion"/>
+  </entry>
+  <entry>
+    <title>The Devil’s in Your Cell Phone</title>
+    <link rel="alternate" href="https://richarddawkins.net/2021/08/the-devils-in-your-cell-phone/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">We would like to think of exorcisms as an ugly chapter in human history, from a time when backward, helplessly ignorant people, frightened by things they couldn’t understand, came to believe that literal demons could inhabit the bodies of victims, causing all manner of damage, sickness, and outrageous behavior.  And then we remember that it …</div>
+    </content>
+    <author>
+      <name>Paul Fidalgo</name>
+    </author>
+    <id>https://richarddawkins.net/?p=977086</id>
+    <published>2021-08-04T15:59:45Z</published>
+    <updated>2021-08-04T15:59:45Z</updated>
+    <category term="Religion"/>
+    <category term="Skepticism"/>
+  </entry>
   <entry>
     <title>Cuomo put in charge of the Department of Not Getting It</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/08/04/cuomo-put-in-charge-of-the-department-of-not-getting-it/" type="text/html"/>
@@ -138,35 +218,6 @@
     <updated>2021-08-02T10:29:06Z</updated>
   </entry>
   <entry>
-    <title>OPEN DISCUSSION AUGUST 2021</title>
-    <link rel="alternate" href="https://richarddawkins.net/2021/08/open-discussion-august-2021/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">This thread has been created for discussion on themes relevant to Reason and Science for which there are not currently any dedicated threads. Please note that our Comment Policy applies as usual. There is a link to this at the foot of the page. If you would like to refer back to previous open discussion …</div>
-    </content>
-    <author>
-      <name>Moderator</name>
-    </author>
-    <id>https://richarddawkins.net/?p=977059</id>
-    <published>2021-08-01T09:38:53Z</published>
-    <updated>2021-08-01T09:38:53Z</updated>
-    <category term="Discussion"/>
-    <category term="Featured"/>
-  </entry>
-  <entry>
-    <title>After 3 minutes I was completely convinced God didn’t exist</title>
-    <link rel="alternate" href="https://richarddawkins.net/2021/07/after-3-minutes-i-was-completely-convinced-god-didnt-exist/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">I was all my life a bit doubtful about the existence of God. However, for my Catholic background, I pushed myself and my family to attend church and follow the religion. One night I decided to watch on TV the Richard Dawkins series The Enemy of Reason. I can honestly say that after exactly 3 …</div>
-    </content>
-    <author>
-      <name>Marc Kreidler</name>
-    </author>
-    <id>https://richarddawkins.net/?p=977056</id>
-    <published>2021-07-31T13:22:03Z</published>
-    <updated>2021-07-31T13:22:03Z</updated>
-    <category term="Converts Corner"/>
-  </entry>
-  <entry>
     <title>Dowsing in genealogy</title>
     <link rel="alternate" href="http://feedproxy.google.com/~r/Skepchick/~3/l2YwqLwwT0w/" type="text/html"/>
     <content type="xhtml">
@@ -256,58 +307,6 @@
     <id>https://newhumanist.org.uk/articles/5825/deconstructing-derrida#utm_source=rss</id>
     <published>2021-07-23T10:27:58Z</published>
     <updated>2021-07-23T10:27:58Z</updated>
-  </entry>
-  <entry>
-    <title>Those Glorious Small Victories</title>
-    <link rel="alternate" href="https://richarddawkins.net/2021/07/those-glorious-small-victories/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">From the Richard Dawkins Foundation Newsletter. Subscribe here. Hello! The goals of the Richard Dawkins Foundation—and its sibling organizations within the Center for Inquiry—are lofty, to say the least. Fostering a secular society that embraces science and humanism is an audacious undertaking. It’s helpful to remember that the path toward that better world is paved with …</div>
-    </content>
-    <author>
-      <name>Paul Fidalgo</name>
-    </author>
-    <id>https://richarddawkins.net/?p=977021</id>
-    <published>2021-07-21T16:47:03Z</published>
-    <updated>2021-07-21T16:47:03Z</updated>
-    <category term="Atheism"/>
-    <category term="Education"/>
-    <category term="Original"/>
-    <category term="Politics"/>
-    <category term="Religion"/>
-    <category term="Science"/>
-    <category term="Skepticism"/>
-  </entry>
-  <entry>
-    <title>If It Quacks Like a Duck…</title>
-    <link rel="alternate" href="https://richarddawkins.net/2021/07/if-it-quacks-like-a-duck/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">If your medical practitioner offers you “homeoprophylaxis immunization pellets” to prevent COVID-19, find another doctor. Homeoprophylaxis is simply a more sciencey-sounding way to say “homeopathy,” a blatantly worthless pseudoscience that does not and cannot alleviate any symptom or treat any ailment whatsoever. Juli Anne Mazi, a naturopathic “doctor” in Napa, California, was offering these magic …</div>
-    </content>
-    <author>
-      <name>Paul Fidalgo</name>
-    </author>
-    <id>https://richarddawkins.net/?p=977016</id>
-    <published>2021-07-21T16:27:26Z</published>
-    <updated>2021-07-21T16:27:26Z</updated>
-    <category term="News Article"/>
-    <category term="Science"/>
-    <category term="Skepticism"/>
-  </entry>
-  <entry>
-    <title>Vaccine Official Fired for Discussing Vaccines</title>
-    <link rel="alternate" href="https://richarddawkins.net/2021/07/vaccine-official-fired-for-discussing-vaccines/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Anti-vaccine hostility is no longer exclusive to desperate celebrities and fringe activists. In some states, it’s becoming government policy. Last week in Tennessee, Dr. Michelle Fiscus was forced out of her position as medical director of the state’s Vaccine-Preventable Diseases and Immunization program, because she had correctly informed medical professionals that Tennessee law allowed minors …</div>
-    </content>
-    <author>
-      <name>Paul Fidalgo</name>
-    </author>
-    <id>https://richarddawkins.net/?p=977011</id>
-    <published>2021-07-21T16:24:00Z</published>
-    <updated>2021-07-21T16:24:00Z</updated>
-    <category term="News Article"/>
-    <category term="Politics"/>
-    <category term="Science"/>
   </entry>
   <entry>
     <title>Vape Company BUYS a Science Journal</title>
