@@ -7,9 +7,26 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2021-08-06T10:34:17Z</updated>
+  <updated>2021-08-06T11:31:50Z</updated>
   <link rel="self" href="http://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Reminder: We’re celebrating our 10th anniversary tomorrow</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/08/06/reminder-were-celebrating-our-10th-anniversary-tomorrow/" type="text/html"/>
+    <content type="html">&lt;p class="lead"&gt;Watch us tomorrow, and we&amp;#8217;ll tell you all the inside dirt on Freethoughtblogs.&lt;/p&gt;
+&lt;div class="center"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/gkeIKO6GAyQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+</content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Watch us tomorrow, and we’ll tell you all the inside dirt on Freethoughtblogs.</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=63525</id>
+    <published>2021-08-06T11:13:46Z</published>
+    <updated>2021-08-06T11:13:46Z</updated>
+    <category term="Miscellaneous and Meta"/>
+  </entry>
   <entry>
     <title>AMOC running amok may cause havoc</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/08/05/amoc-running-amok-may-cause-havoc/" type="text/html"/>
@@ -134,27 +151,6 @@
     <id>https://newhumanist.org.uk/articles/5831/secrets-in-the-soil#utm_source=rss</id>
     <published>2021-08-05T09:27:08Z</published>
     <updated>2021-08-05T09:27:08Z</updated>
-  </entry>
-  <entry>
-    <title>How to get me to watch the Olympic Games</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/08/04/how-to-get-me-to-watch-the-olympic-games/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p class="lead">I haven’t had the slightest interest in the games, and haven’t watched a single minute of them. But now I learn the <a href="https://www.news.com.au/sport/olympics/russian-spiders-at-the-olympics-are-absolutely-terrifying/news-story/1d23093e5ed6feba9ccc3456119bf353">Russian artistic swimming team had a spider theme</a>, so now I’m regretting missing it.</p>
-<p><a href="https://freethoughtblogs.com/pharyngula/files/2021/08/russianartisticswimmers.png"><img src="https://freethoughtblogs.com/pharyngula/files/2021/08/russianartisticswimmers-500x401.png" alt="" width="500" height="401" class="aligncenter size-large wp-image-63507" srcset="https://freethoughtblogs.com/pharyngula/files/2021/08/russianartisticswimmers-500x401.png 500w, https://freethoughtblogs.com/pharyngula/files/2021/08/russianartisticswimmers-150x120.png 150w, https://freethoughtblogs.com/pharyngula/files/2021/08/russianartisticswimmers-300x241.png 300w, https://freethoughtblogs.com/pharyngula/files/2021/08/russianartisticswimmers.png 592w" sizes="(max-width: 500px) 100vw, 500px"/></a></p>
-<p>Has the Olympic committee considered requiring <em>all</em> of the events to have a spider motif? How much would I have to bribe them to get them to consider it?</p>
-<p><a href="https://freethoughtblogs.com/pharyngula/files/2021/08/spiderswimmer.jpeg"><img src="https://freethoughtblogs.com/pharyngula/files/2021/08/spiderswimmer-500x333.jpeg" alt="" width="500" height="333" class="aligncenter size-large wp-image-63509" srcset="https://freethoughtblogs.com/pharyngula/files/2021/08/spiderswimmer-500x333.jpeg 500w, https://freethoughtblogs.com/pharyngula/files/2021/08/spiderswimmer-150x100.jpeg 150w, https://freethoughtblogs.com/pharyngula/files/2021/08/spiderswimmer-300x200.jpeg 300w, https://freethoughtblogs.com/pharyngula/files/2021/08/spiderswimmer-768x512.jpeg 768w, https://freethoughtblogs.com/pharyngula/files/2021/08/spiderswimmer.jpeg 1024w" sizes="(max-width: 500px) 100vw, 500px"/></a></p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">I haven’t had the slightest interest in the games, and haven’t watched a single minute of them. But now I learn the Russian artistic swimming team had a spider theme, so now I’m regretting missing it. Has the Olympic committee considered requiring all of the events to have a spider motif? How much would I […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=63506</id>
-    <published>2021-08-04T18:44:27Z</published>
-    <updated>2021-08-04T18:44:27Z</updated>
-    <category term="Miscellaneous and Meta"/>
   </entry>
   <entry>
     <title>Abracadabra!</title>
