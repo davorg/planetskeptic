@@ -7,9 +7,26 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2021-08-15T14:31:33Z</updated>
+  <updated>2021-08-15T15:35:24Z</updated>
   <link rel="self" href="http://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Q&amp;A coming up</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/08/15/qa-coming-up/" type="text/html"/>
+    <content type="html">&lt;p class="lead"&gt;I&amp;#8217;ll be going live in about an hour. Got questions? Ask &amp;#8217;em!&lt;/p&gt;
+&lt;div class="center"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/diVzsAqRRFc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+</content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">I’ll be going live in about an hour. Got questions? Ask ’em!</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=63631</id>
+    <published>2021-08-15T15:05:11Z</published>
+    <updated>2021-08-15T15:05:11Z</updated>
+    <category term="Miscellaneous and Meta"/>
+  </entry>
   <entry>
     <title>The success of Aubrey de Grey baffles me</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/08/14/the-success-of-aubrey-de-grey-baffles-me/" type="text/html"/>
@@ -133,25 +150,6 @@ maintained telomeres if they are to keep lethally multiplying, which is why canc
     <published>2021-08-13T14:51:57Z</published>
     <updated>2021-08-13T14:51:57Z</updated>
     <category term="Spiders"/>
-  </entry>
-  <entry>
-    <title>Nothing changes</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/08/13/nothing-changes/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p class="lead">1930s, 2020s, it’s all the same number if you’re innumerate enough.</p>
-<div id="attachment_63609" style="width: 510px" class="wp-caption aligncenter"><a href="https://freethoughtblogs.com/pharyngula/files/2021/08/1930sPandemicResponse.jpeg"><img src="https://freethoughtblogs.com/pharyngula/files/2021/08/1930sPandemicResponse-500x625.jpeg" alt="" width="500" height="625" class="size-large wp-image-63609" srcset="https://freethoughtblogs.com/pharyngula/files/2021/08/1930sPandemicResponse-500x625.jpeg 500w, https://freethoughtblogs.com/pharyngula/files/2021/08/1930sPandemicResponse-120x150.jpeg 120w, https://freethoughtblogs.com/pharyngula/files/2021/08/1930sPandemicResponse-240x300.jpeg 240w, https://freethoughtblogs.com/pharyngula/files/2021/08/1930sPandemicResponse.jpeg 512w" sizes="(max-width: 500px) 100vw, 500px"/></a><p class="wp-caption-text">from <a href="https://www.facebook.com/michael.lackey.9210/posts/10223789032387109">Michael Lackey</a></p></div>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">1930s, 2020s, it’s all the same number if you’re innumerate enough.</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=63608</id>
-    <published>2021-08-13T14:17:39Z</published>
-    <updated>2021-08-13T14:17:39Z</updated>
-    <category term="Miscellaneous and Meta"/>
   </entry>
   <entry>
     <title>Book review: The Hitler Conspiracies</title>
