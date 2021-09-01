@@ -21,9 +21,6 @@ feeds:
   - url: https://teenatheist.wordpress.com/feed/
     title: diary of a teenage atheist
     web: https://teenatheist.wordpress.com
-  - url: https://www.mediawatchwatch.org.uk/feed/
-    title: media watch watch
-    web: https://www.mediawatchwatch.org.uk/
   - url: https://feeds.feedburner.com/RaBlogFull
     title: new humanist blog
     web: https://newhumanist.org.uk/
