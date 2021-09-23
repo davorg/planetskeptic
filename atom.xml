@@ -7,9 +7,29 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2021-09-23T11:31:15Z</updated>
+  <updated>2021-09-23T12:40:40Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>It’s Thursday again</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/09/23/its-thursday-again/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p><img src="https://freethoughtblogs.com/pharyngula/files/2021/09/thursday-reminder-quotes-300x251.jpeg" alt="" width="300" height="251" class="alignright size-medium wp-image-63980" srcset="https://freethoughtblogs.com/pharyngula/files/2021/09/thursday-reminder-quotes-300x251.jpeg 300w, https://freethoughtblogs.com/pharyngula/files/2021/09/thursday-reminder-quotes-150x126.jpeg 150w, https://freethoughtblogs.com/pharyngula/files/2021/09/thursday-reminder-quotes-768x644.jpeg 768w, https://freethoughtblogs.com/pharyngula/files/2021/09/thursday-reminder-quotes-500x419.jpeg 500w, https://freethoughtblogs.com/pharyngula/files/2021/09/thursday-reminder-quotes.jpeg 940w" sizes="(max-width: 300px) 100vw, 300px"/></p>
+<p class="lead">Is this going to happen every week? Why does time hate me so much?</p>
+<p>Classes, meetings, labs all the damned day long.</p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Is this going to happen every week? Why does time hate me so much? Classes, meetings, labs all the damned day long.</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=63979</id>
+    <published>2021-09-23T12:39:29Z</published>
+    <updated>2021-09-23T12:39:29Z</updated>
+    <category term="Miscellaneous and Meta"/>
+  </entry>
   <entry>
     <title>A Brief History of Vaccine Mandates (and How to Do it Right)</title>
     <link rel="alternate" href="http://feedproxy.google.com/~r/Skepchick/~3/Ra7AAsFBdiw/" type="text/html"/>
@@ -127,24 +147,6 @@
     <published>2021-09-21T22:17:39Z</published>
     <updated>2021-09-21T22:17:39Z</updated>
     <category term="Feminism, Gender, and Equality"/>
-  </entry>
-  <entry>
-    <title>I hate Tuesdays and Thursdays</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/09/21/i-hate-tuesdays-and-thursdays/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p class="lead">That is all.</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">That is all.</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=63963</id>
-    <published>2021-09-21T21:33:22Z</published>
-    <updated>2021-09-21T21:33:22Z</updated>
-    <category term="Miscellaneous and Meta"/>
   </entry>
   <entry>
     <title>Learning from our ancestors w/ Alice Roberts</title>
