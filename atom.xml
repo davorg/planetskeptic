@@ -7,9 +7,49 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2021-10-04T11:31:27Z</updated>
+  <updated>2021-10-04T12:39:03Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Molecular neurogenetics gets the nod from the Nobel committee</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/10/04/molecular-neurogenetics-gets-the-nod-from-the-nobel-committee/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p class="lead">The Nobel in medicine this year goes to <a href="https://www.nobelprize.org/prizes/medicine/2021/press-release/">David Julius and Ardem Patapoutian</a>  for their work in identifying the receptors that transduce heat and touch into signals in the nervous system.</p>
+<p><img src="https://freethoughtblogs.com/pharyngula/files/2021/10/heat-touch-500x481.jpeg" alt="" width="500" height="481" class="aligncenter size-large wp-image-64079" srcset="https://freethoughtblogs.com/pharyngula/files/2021/10/heat-touch-500x481.jpeg 500w, https://freethoughtblogs.com/pharyngula/files/2021/10/heat-touch-150x144.jpeg 150w, https://freethoughtblogs.com/pharyngula/files/2021/10/heat-touch-300x288.jpeg 300w, https://freethoughtblogs.com/pharyngula/files/2021/10/heat-touch-768x738.jpeg 768w" sizes="(max-width: 500px) 100vw, 500px"/></p>
+<p>So now you know the proximal sensors that are activated when you hug someone, or when you nibble on some ghost pepper. It’s <i>TRPV</i> and <i>PIEZO</i> channels!</p>
+<p>Now they just have to figure out what’s going on in the central nervous system when those channels are triggered.</p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">The Nobel in medicine this year goes to David Julius and Ardem Patapoutian for their work in identifying the receptors that transduce heat and touch into signals in the nervous system. So now you know the proximal sensors that are activated when you hug someone, or when you nibble on some ghost pepper. It’s TRPV […]</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=64078</id>
+    <published>2021-10-04T12:08:38Z</published>
+    <updated>2021-10-04T12:08:38Z</updated>
+    <category term="Science"/>
+  </entry>
+  <entry>
+    <title>We’ve got another podish-sortacast coming at you on Saturday</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/10/04/weve-got-another-podish-sortacast-coming-at-you-on-saturday/" type="text/html"/>
+    <content type="html">&lt;p class="lead"&gt;The gang here at FtB is gathering this weekend to talk to the world.&lt;/p&gt;
+&lt;div style="text-align: center"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/RvloctC_3KU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;p&gt;The theme this week is &lt;em&gt;climate change&lt;/em&gt;. Spoiler: we&amp;#8217;re against it, but we do believe it&amp;#8217;s real.&lt;/p&gt;
+</content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">The gang here at FtB is gathering this weekend to talk to the world. The theme this week is climate change. Spoiler: we’re against it, but we do believe it’s real.</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=64076</id>
+    <published>2021-10-04T11:52:13Z</published>
+    <updated>2021-10-04T11:52:13Z</updated>
+    <category term="Environment"/>
+    <category term="Miscellaneous and Meta"/>
+  </entry>
   <entry>
     <title>This could be bad</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/10/03/this-could-be-bad/" type="text/html"/>
@@ -78,51 +118,6 @@
     <published>2021-10-02T17:42:48Z</published>
     <updated>2021-10-02T17:42:48Z</updated>
     <category term="Atheism and Skepticism"/>
-  </entry>
-  <entry>
-    <title>Clean him out, shut him down</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/10/01/clean-him-out-shut-him-down/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p><img src="https://freethoughtblogs.com/pharyngula/files/2021/10/alexjones-150x113.jpg" alt="" width="150" height="113" class="alignright size-thumbnail wp-image-64065" srcset="https://freethoughtblogs.com/pharyngula/files/2021/10/alexjones-150x113.jpg 150w, https://freethoughtblogs.com/pharyngula/files/2021/10/alexjones-300x225.jpg 300w, https://freethoughtblogs.com/pharyngula/files/2021/10/alexjones-768x576.jpg 768w, https://freethoughtblogs.com/pharyngula/files/2021/10/alexjones-500x375.jpg 500w, https://freethoughtblogs.com/pharyngula/files/2021/10/alexjones.jpg 1200w" sizes="(max-width: 150px) 100vw, 150px"/></p>
-<p class="lead">Alex Jones has, by default, <a href="https://www.cnn.com/2021/10/01/us/alex-jones-loses-sandy-hook-cases/index.html">lost two lawsuits</a> that accuse him of being responsible for the abuse the parents of children murdered in the Sandy Hook shooting received. You may recall that he claimed none of the children were killed, that their parents were “crisis actors” trying to profit off the story, and that the whole tragedy was a “false flag” operation to kill the second amendment (which I hope does get killed someday).</p>
-<blockquote><p>Alex Jones, the conspiracy theorist who hosts the right-wing commentary website Infowars, was found legally responsible in two lawsuits for damages caused by his claims surrounding the 2012 Sandy Hook school mass shooting, according to court documents released Thursday.</p>
-<p>Judge Maya Guerra Gamble issued default judgments on Monday against Jones and his outlet for not complying with court orders to provide information for the lawsuits brought against him by the parents of two children killed in the shooting.<br/>
-The rulings, which were first reported by the Huffington Post, effectively mean that Jones lost the cases by default. A jury will convene to ascertain how much he will owe the plaintiffs, the report said.</p></blockquote>
-<p>Oh, boy, I eagerly await news of the penalties. I hope they’re substantial enough to shut down Infowars for good.</p>
-<p>ESAD, evil fraud.</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Alex Jones has, by default, lost two lawsuits that accuse him of being responsible for the abuse the parents of children murdered in the Sandy Hook shooting received. You may recall that he claimed none of the children were killed, that their parents were “crisis actors” trying to profit off the story, and that the […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=64064</id>
-    <published>2021-10-01T17:17:45Z</published>
-    <updated>2021-10-01T17:17:45Z</updated>
-    <category term="Miscellaneous and Meta"/>
-  </entry>
-  <entry>
-    <title>Friday Cephalopod: Freeday Octopus!</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/10/01/friday-cephalopod-freeday-octopus/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p><img src="https://freethoughtblogs.com/pharyngula/files/2021/10/illianaaquarium-200x300.png" alt="" width="200" height="300" class="alignright size-medium wp-image-64061" srcset="https://freethoughtblogs.com/pharyngula/files/2021/10/illianaaquarium-200x300.png 200w, https://freethoughtblogs.com/pharyngula/files/2021/10/illianaaquarium-100x150.png 100w, https://freethoughtblogs.com/pharyngula/files/2021/10/illianaaquarium.png 395w" sizes="(max-width: 200px) 100vw, 200px"/></p>
-<p class="lead">A few months ago, my granddaughter Iliana got to visit the Seattle Aquarium, along with many other Pacific Northwest landmarks. Here she is communing with the Giant Pacific Octopus that was there.</p>
-<p>Good news! The aquarium has <a href="https://westseattleblog.com/2021/09/west-seattle-scene-licorice-the-octopus-goes-free/">set the octopus free</a>! Transporting him in a garbage can seems a little undignified, but the important thing is that now he can wander in Puget Sound, looking for mates and, we hope, siring many progeny.</p>
-<p><img src="https://freethoughtblogs.com/pharyngula/files/2021/10/licoricefreed-500x375.jpeg" alt="" width="500" height="375" class="aligncenter size-large wp-image-64062" srcset="https://freethoughtblogs.com/pharyngula/files/2021/10/licoricefreed-500x375.jpeg 500w, https://freethoughtblogs.com/pharyngula/files/2021/10/licoricefreed-150x113.jpeg 150w, https://freethoughtblogs.com/pharyngula/files/2021/10/licoricefreed-300x225.jpeg 300w, https://freethoughtblogs.com/pharyngula/files/2021/10/licoricefreed.jpeg 652w" sizes="(max-width: 500px) 100vw, 500px"/></p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">A few months ago, my granddaughter Iliana got to visit the Seattle Aquarium, along with many other Pacific Northwest landmarks. Here she is communing with the Giant Pacific Octopus that was there. Good news! The aquarium has set the octopus free! Transporting him in a garbage can seems a little undignified, but the important thing […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=64060</id>
-    <published>2021-10-01T13:03:36Z</published>
-    <updated>2021-10-01T13:03:36Z</updated>
-    <category term="Cephalopods"/>
   </entry>
   <entry>
     <title>OPEN DISCUSSION OCTOBER 2021</title>
