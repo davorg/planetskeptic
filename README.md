@@ -13,7 +13,7 @@ The way it works is this:
 * `perlanetrc` contains YAML with the data that drives the file. Most importantly, it has the
 `feeds` list which defines the feeds that are aggregated into the web site (and a new Atom feed).
 
-* `index.tt` is a template which is expanded (using the [Template Toolkit](https://tt2.org/) into
+* `index.tt` is a template which is expanded (using the [Template Toolkit](https://tt2.org/)) into
 the web site's front (and only) page. The template is passed a number of variables which can be
 used to display the new, aggregated feed. For example the `feed` variable is an an object (actually
 an instance of [XML::Feed](https://metacpan.org/pod/XML::Feed) which contains the new feed.
