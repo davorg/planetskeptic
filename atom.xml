@@ -7,9 +7,27 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2021-10-06T13:39:33Z</updated>
+  <updated>2021-10-06T14:34:41Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Uh-oh, I’ve defected to the other side</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/10/06/uh-oh-ive-defected-to-the-other-side/" type="text/html"/>
+    <content type="html">&lt;p class="lead"&gt;Yep, I finally did it: I have revealed to the creationists the secret we have held so long: how to destroy evolution.&lt;/p&gt;
+&lt;div class="center"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/wxWYVx6j00M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;p&gt;Forgive me.&lt;/p&gt;
+</content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Yep, I finally did it: I have revealed to the creationists the secret we have held so long: how to destroy evolution. Forgive me.</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=64104</id>
+    <published>2021-10-06T13:50:34Z</published>
+    <updated>2021-10-06T13:50:34Z</updated>
+    <category term="Atheism and Skepticism"/>
+  </entry>
   <entry>
     <title>Please avoid the term “paradigm shift” unless you’ve got something really surprising</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/10/06/please-avoid-the-term-paradigm-shift-unless-youve-got-something-really-surprising/" type="text/html"/>
@@ -117,25 +135,6 @@
     <published>2021-10-05T11:29:32Z</published>
     <updated>2021-10-05T11:29:32Z</updated>
     <category term="Science"/>
-  </entry>
-  <entry>
-    <title>A little taste of Arachtober</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/10/05/a-little-taste-of-arachtober/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p class="lead">See? It’s not too distressing. It’s pretty, even! We’ll just ease you into the holiday and by Halloween you’ll be dancing with the spiders.</p>
-<p><img src="https://freethoughtblogs.com/pharyngula/files/2021/10/arachtoberweb-500x333.jpeg" alt="" width="500" height="333" class="aligncenter size-large wp-image-64090" srcset="https://freethoughtblogs.com/pharyngula/files/2021/10/arachtoberweb-500x333.jpeg 500w, https://freethoughtblogs.com/pharyngula/files/2021/10/arachtoberweb-150x100.jpeg 150w, https://freethoughtblogs.com/pharyngula/files/2021/10/arachtoberweb-300x200.jpeg 300w, https://freethoughtblogs.com/pharyngula/files/2021/10/arachtoberweb-768x512.jpeg 768w, https://freethoughtblogs.com/pharyngula/files/2021/10/arachtoberweb.jpeg 1500w" sizes="(max-width: 500px) 100vw, 500px"/></p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">See? It’s not too distressing. It’s pretty, even! We’ll just ease you into the holiday and by Halloween you’ll be dancing with the spiders.</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=64089</id>
-    <published>2021-10-05T11:07:01Z</published>
-    <updated>2021-10-05T11:07:01Z</updated>
-    <category term="Spiders"/>
   </entry>
   <entry>
     <title>Book review: The Republic of False Truths</title>
