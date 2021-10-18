@@ -7,9 +7,24 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2021-10-18T13:34:57Z</updated>
+  <updated>2021-10-18T14:31:43Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Richard Dawkins Honors Tim Minchin</title>
+    <link rel="alternate" href="https://richarddawkins.net/2021/10/richard-dawkins-honors-tim-minchin/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">On October 10, 2021, musician and comedian Tim Minchin received the Center for Inquiry’s Richard Dawkins Award in a live event at the Sheldonian Theatre in Oxford, UK. The award was bestowed by Richard Dawkins himself, who delivered the following remarks to the sold-out crowd. First, I should say a word about this place, for those not …</div>
+    </content>
+    <author>
+      <name>Marc Kreidler</name>
+    </author>
+    <id>https://richarddawkins.net/?p=977417</id>
+    <published>2021-10-18T14:08:04Z</published>
+    <updated>2021-10-18T14:08:04Z</updated>
+    <category term="Original"/>
+    <category term="Richard's News"/>
+  </entry>
   <entry>
     <title>How can a child’s birthday party not be a disaster?</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/10/18/how-can-a-childs-birthday-party-not-be-a-disaster/" type="text/html"/>
@@ -297,21 +312,6 @@
     <category term="News Article"/>
     <category term="Politics"/>
     <category term="Religion"/>
-  </entry>
-  <entry>
-    <title>The Struggle Continues: International Blasphemy Rights Day 2021</title>
-    <link rel="alternate" href="https://richarddawkins.net/2021/10/the-struggle-continues-international-blasphemy-rights-day-2021/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">To charge someone with blasphemy is to value a person’s life less than an idea. Sometimes the punishment is imprisonment. Sometimes the punishment is death. September 30 was International Blasphemy Rights Day, a day established by the Center for Inquiry in 2009 to reassert our commitment to defending the right to question and criticize the …</div>
-    </content>
-    <author>
-      <name>Paul Fidalgo</name>
-    </author>
-    <id>https://richarddawkins.net/?p=977343</id>
-    <published>2021-10-06T16:41:01Z</published>
-    <updated>2021-10-06T16:41:01Z</updated>
-    <category term="Atheism"/>
-    <category term="News Article"/>
   </entry>
   <entry>
     <title>Quantum physics and philosophy, w/ Carlo Rovelli</title>
