@@ -7,9 +7,58 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2021-10-20T15:35:10Z</updated>
+  <updated>2021-10-20T16:39:21Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Clear-Eyed and Self-Reliant</title>
+    <link rel="alternate" href="https://richarddawkins.net/2021/10/clear-eyed-and-self-reliant/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">From the Richard Dawkins Foundation Newsletter. Subscribe here. Hello! There are things we want to be true, and then there are things that are actually true. So much of the work we do boils down to this simple distinction. We put our efforts toward advancing reason and science because we know that these are the best …</div>
+    </content>
+    <author>
+      <name>Paul Fidalgo</name>
+    </author>
+    <id>https://richarddawkins.net/?p=977449</id>
+    <published>2021-10-20T15:54:56Z</published>
+    <updated>2021-10-20T15:54:56Z</updated>
+    <category term="Atheism"/>
+    <category term="Original"/>
+    <category term="Religion"/>
+    <category term="Science"/>
+    <category term="Skepticism"/>
+  </entry>
+  <entry>
+    <title>Reaching Science Deniers with Trust</title>
+    <link rel="alternate" href="https://richarddawkins.net/2021/10/reaching-science-deniers-with-trust/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">When someone has made up their mind that the Earth is flat, that COVID-19 vaccines contain 5G microchips, or that evolution is a hoax, trying to change their mind seems pointless. But Lee McIntyre, a philosopher of science and history, is here to tell you to keep hope alive. On the latest Skeptical Inquirer Presents …</div>
+    </content>
+    <author>
+      <name>Paul Fidalgo</name>
+    </author>
+    <id>https://richarddawkins.net/?p=977444</id>
+    <published>2021-10-20T15:45:13Z</published>
+    <updated>2021-10-20T15:45:13Z</updated>
+    <category term="Science"/>
+    <category term="Skepticism"/>
+  </entry>
+  <entry>
+    <title>Space Rocks and the Wrath of God</title>
+    <link rel="alternate" href="https://richarddawkins.net/2021/10/space-rocks-and-the-wrath-of-god/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Last month, the journal Scientific Reports published the results of an archaeological study claiming that a “cosmic airburst” destroyed the Bronze-Age city of Tall el-Hammam in Jordan. Even more tantalizing, the authors posited that Tall el-Hammam might have actually been the biblical city of Sodom, which God was to have smited in his anger over its denizen’s bad …</div>
+    </content>
+    <author>
+      <name>Paul Fidalgo</name>
+    </author>
+    <id>https://richarddawkins.net/?p=977440</id>
+    <published>2021-10-20T15:38:51Z</published>
+    <updated>2021-10-20T15:38:51Z</updated>
+    <category term="Religion"/>
+    <category term="Science"/>
+    <category term="Skepticism"/>
+  </entry>
   <entry>
     <title>Francis Collins to Step Down from NIH</title>
     <link rel="alternate" href="https://richarddawkins.net/2021/10/francis-collins-to-step-down-from-nih/" type="text/html"/>
@@ -37,39 +86,6 @@
     <published>2021-10-20T15:30:43Z</published>
     <updated>2021-10-20T15:30:43Z</updated>
     <category term="Science"/>
-  </entry>
-  <entry>
-    <title>No Gods, No Masters</title>
-    <link rel="alternate" href="https://richarddawkins.net/2021/10/no-gods-no-masters/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">You’ve heard the stereotype about atheists: They are in perpetual despair, lost without a supernatural authority figure to provide them with meaning and purpose. Sciologist Phil Zuckerman, founder of the groundbreaking Department of Secular Studies at Pitzer College, would beg to differ. In the latest issue of Free Inquiry, Zuckerman turns this trope on its …</div>
-    </content>
-    <author>
-      <name>Paul Fidalgo</name>
-    </author>
-    <id>https://richarddawkins.net/?p=977429</id>
-    <published>2021-10-20T15:28:47Z</published>
-    <updated>2021-10-20T15:28:47Z</updated>
-    <category term="Atheism"/>
-    <category term="News Article"/>
-    <category term="Religion"/>
-  </entry>
-  <entry>
-    <title>A Staunch Upholder of Rationalism: Tim Minchin Honored with the Richard Dawkins Award</title>
-    <link rel="alternate" href="https://richarddawkins.net/2021/10/a-staunch-upholder-of-rationalism-tim-minchin-honored-with-the-richard-dawkins-award/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">At a sold-out event at the Sheldonian Theatre in Oxford, UK, on October 10, comedian and musician Tim Minchin was honored with the 2021 Richard Dawkins Award from the Center for Inquiry, where he received the award from Richard Dawkins himself. Introducing the event, Robyn Blumner said that Minchin is this year’s awardee because “Number …</div>
-    </content>
-    <author>
-      <name>Paul Fidalgo</name>
-    </author>
-    <id>https://richarddawkins.net/?p=977423</id>
-    <published>2021-10-20T15:26:34Z</published>
-    <updated>2021-10-20T15:26:34Z</updated>
-    <category term="Atheism"/>
-    <category term="Original"/>
-    <category term="Religion"/>
-    <category term="Skepticism"/>
   </entry>
   <entry>
     <title>Ooh, such a dangerous job</title>
@@ -243,21 +259,6 @@ Maybe the editors, who tweeted the piece, were just looking for clickbait, with 
     <id>https://newhumanist.org.uk/articles/5871/feast-for-the-soul#utm_source=rss</id>
     <published>2021-10-19T08:00:00Z</published>
     <updated>2021-10-19T08:00:00Z</updated>
-  </entry>
-  <entry>
-    <title>Richard Dawkins Honors Tim Minchin</title>
-    <link rel="alternate" href="https://richarddawkins.net/2021/10/richard-dawkins-honors-tim-minchin/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">On October 10, 2021, musician and comedian Tim Minchin received the Center for Inquiry’s Richard Dawkins Award in a live event at the Sheldonian Theatre in Oxford, UK. The award was bestowed by Richard Dawkins himself, who delivered the following remarks to the sold-out crowd. First, I should say a word about this place, for those not …</div>
-    </content>
-    <author>
-      <name>Marc Kreidler</name>
-    </author>
-    <id>https://richarddawkins.net/?p=977417</id>
-    <published>2021-10-18T14:08:04Z</published>
-    <updated>2021-10-18T14:08:04Z</updated>
-    <category term="Original"/>
-    <category term="Richard's News"/>
   </entry>
   <entry>
     <title>Are Depressed People Just More Realistic?</title>
