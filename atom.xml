@@ -7,9 +7,70 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2021-10-20T14:32:33Z</updated>
+  <updated>2021-10-20T15:35:10Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Francis Collins to Step Down from NIH</title>
+    <link rel="alternate" href="https://richarddawkins.net/2021/10/francis-collins-to-step-down-from-nih/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Earlier this month, Francis Collins announced that he would be stepping down as head of the National Institutes of Health (NIH), where he had previously spent a decade leading the Human Genome Project. While director of the NIH, Collins supported research into mRNA vaccines, which of course opened the door to the COVID-19 vaccines we have today.  …</div>
+    </content>
+    <author>
+      <name>Paul Fidalgo</name>
+    </author>
+    <id>https://richarddawkins.net/?p=977437</id>
+    <published>2021-10-20T15:33:40Z</published>
+    <updated>2021-10-20T15:33:40Z</updated>
+    <category term="Uncategorized"/>
+  </entry>
+  <entry>
+    <title>Bracing for Collapse</title>
+    <link rel="alternate" href="https://richarddawkins.net/2021/10/bracing-for-collapse/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Before his sudden death this past August, Free Inquiry editor Tom Flynn penned what would be his final op-ed for the magazine he led for more than twenty years. Tom was deeply committed to advancing the values of secular humanism to help bring about a better world, but he wore no rose-colored glasses. He had …</div>
+    </content>
+    <author>
+      <name>Paul Fidalgo</name>
+    </author>
+    <id>https://richarddawkins.net/?p=977433</id>
+    <published>2021-10-20T15:30:43Z</published>
+    <updated>2021-10-20T15:30:43Z</updated>
+    <category term="Science"/>
+  </entry>
+  <entry>
+    <title>No Gods, No Masters</title>
+    <link rel="alternate" href="https://richarddawkins.net/2021/10/no-gods-no-masters/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">You’ve heard the stereotype about atheists: They are in perpetual despair, lost without a supernatural authority figure to provide them with meaning and purpose. Sciologist Phil Zuckerman, founder of the groundbreaking Department of Secular Studies at Pitzer College, would beg to differ. In the latest issue of Free Inquiry, Zuckerman turns this trope on its …</div>
+    </content>
+    <author>
+      <name>Paul Fidalgo</name>
+    </author>
+    <id>https://richarddawkins.net/?p=977429</id>
+    <published>2021-10-20T15:28:47Z</published>
+    <updated>2021-10-20T15:28:47Z</updated>
+    <category term="Atheism"/>
+    <category term="News Article"/>
+    <category term="Religion"/>
+  </entry>
+  <entry>
+    <title>A Staunch Upholder of Rationalism: Tim Minchin Honored with the Richard Dawkins Award</title>
+    <link rel="alternate" href="https://richarddawkins.net/2021/10/a-staunch-upholder-of-rationalism-tim-minchin-honored-with-the-richard-dawkins-award/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">At a sold-out event at the Sheldonian Theatre in Oxford, UK, on October 10, comedian and musician Tim Minchin was honored with the 2021 Richard Dawkins Award from the Center for Inquiry, where he received the award from Richard Dawkins himself. Introducing the event, Robyn Blumner said that Minchin is this year’s awardee because “Number …</div>
+    </content>
+    <author>
+      <name>Paul Fidalgo</name>
+    </author>
+    <id>https://richarddawkins.net/?p=977423</id>
+    <published>2021-10-20T15:26:34Z</published>
+    <updated>2021-10-20T15:26:34Z</updated>
+    <category term="Atheism"/>
+    <category term="Original"/>
+    <category term="Religion"/>
+    <category term="Skepticism"/>
+  </entry>
   <entry>
     <title>Ooh, such a dangerous job</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/10/20/ooh-such-a-dangerous-job/" type="text/html"/>
@@ -286,72 +347,6 @@ Maybe the editors, who tweeted the piece, were just looking for clickbait, with 
     <published>2021-10-06T21:04:38Z</published>
     <updated>2021-10-06T21:04:38Z</updated>
     <category term="Science"/>
-  </entry>
-  <entry>
-    <title>A Season of Upheaval</title>
-    <link rel="alternate" href="https://richarddawkins.net/2021/10/a-season-of-upheaval/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">From the Richard Dawkins Foundation Newsletter. Subscribe here. Hello again! If the past couple of years have taught us anything, it’s that disruptions to the normal order of things are, themselves, pretty normal. This newsletter has been on an unplanned hiatus due to a number of those disruptions, the most significant of which was of course …</div>
-    </content>
-    <author>
-      <name>Paul Fidalgo</name>
-    </author>
-    <id>https://richarddawkins.net/?p=977366</id>
-    <published>2021-10-06T17:01:17Z</published>
-    <updated>2021-10-06T17:01:17Z</updated>
-    <category term="Atheism"/>
-    <category term="Original"/>
-    <category term="Religion"/>
-    <category term="Science"/>
-    <category term="Skepticism"/>
-  </entry>
-  <entry>
-    <title>Carolyn Porco on Humanity’s Last Stand</title>
-    <link rel="alternate" href="https://richarddawkins.net/2021/10/carolyn-porco-on-humanitys-last-stand/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">On the latest Skeptical Inquirer Presents online event, planetary scientist Carolyn Porco delivered a passionate argument against the commercial exploitation of space and the crowding of our skies with artificial satellites. As the leader of the imaging science team on the monumental Cassini mission that brought us jaw-dropping images of Saturn and its moons, Porco …</div>
-    </content>
-    <author>
-      <name>Paul Fidalgo</name>
-    </author>
-    <id>https://richarddawkins.net/?p=977361</id>
-    <published>2021-10-06T16:49:03Z</published>
-    <updated>2021-10-06T16:49:03Z</updated>
-    <category term="Science"/>
-    <category term="Skepticism"/>
-    <category term="Technology"/>
-  </entry>
-  <entry>
-    <title>Why Your Uncle (Or Whoever Else) Just Won’t Get Vaccinated</title>
-    <link rel="alternate" href="https://richarddawkins.net/2021/10/why-your-uncle-or-whoever-else-just-wont-get-vaccinated/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Despite a surge in COVID-19 infections, employer mandates for masks and vaccines, and the pleas of a president to “get the shot,” millions of Americans remain staunchly opposed to vaccination, even though vaccines have been widely available since March. “I am here to tell you that at this point, the people who are unvaccinated are …</div>
-    </content>
-    <author>
-      <name>Paul Fidalgo</name>
-    </author>
-    <id>https://richarddawkins.net/?p=977355</id>
-    <published>2021-10-06T16:46:23Z</published>
-    <updated>2021-10-06T16:46:23Z</updated>
-    <category term="News Article"/>
-    <category term="Science"/>
-    <category term="Skepticism"/>
-  </entry>
-  <entry>
-    <title>Addressing the Humanitarian Crisis in Afghanistan</title>
-    <link rel="alternate" href="https://richarddawkins.net/2021/10/addressing-the-humanitarian-crisis-in-afghanistan/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">With Secular Rescue, we seek specifically to give assistance to atheists, secularists, and other freethinkers whose lives are threatened for speaking their minds or questioning religion. Meanwhile in Afghanistan, a humanitarian catastrophe imperils untold numbers of everyday people, religious and nonreligious alike, as the Taliban takeover of the country brings the darkness of theocratic oppression. …</div>
-    </content>
-    <author>
-      <name>Paul Fidalgo</name>
-    </author>
-    <id>https://richarddawkins.net/?p=977350</id>
-    <published>2021-10-06T16:43:50Z</published>
-    <updated>2021-10-06T16:43:50Z</updated>
-    <category term="News Article"/>
-    <category term="Politics"/>
-    <category term="Religion"/>
   </entry>
   <entry>
     <title>Hocus Pocus!</title>
