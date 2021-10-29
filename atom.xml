@@ -7,9 +7,26 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2021-10-29T10:35:07Z</updated>
+  <updated>2021-10-29T11:31:51Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>THE CLIMATE CRISIS</title>
+    <link rel="alternate" href="https://richarddawkins.net/2021/10/the-climate-crisis/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">This thread has been created as a central point for discussion about anthropogenic (human-caused) climate change so that as much information as possible can be held in one, easily accessible place. There will of course sometimes also be other climate change threads on specific new developments, and we’d encourage you to post on those too. …</div>
+    </content>
+    <author>
+      <name>Moderator</name>
+    </author>
+    <id>https://richarddawkins.net/?p=977511</id>
+    <published>2021-10-29T11:27:39Z</published>
+    <updated>2021-10-29T11:27:39Z</updated>
+    <category term="Discussion"/>
+    <category term="Featured"/>
+    <category term="Science"/>
+    <category term="Special Topic"/>
+  </entry>
   <entry>
     <title>The UK's solution to biodiversity loss is to outsource habitat destruction</title>
     <link rel="alternate" href="https://newhumanist.org.uk/articles/5880/the-uks-solution-to-biodiversity-loss-is-to-outsource-habitat-destruction#utm_source=rss" type="text/html"/>
@@ -288,20 +305,6 @@
     <published>2021-10-20T15:33:40Z</published>
     <updated>2021-10-20T15:33:40Z</updated>
     <category term="Uncategorized"/>
-  </entry>
-  <entry>
-    <title>Bracing for Collapse</title>
-    <link rel="alternate" href="https://richarddawkins.net/2021/10/bracing-for-collapse/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Before his sudden death this past August, Free Inquiry editor Tom Flynn penned what would be his final op-ed for the magazine he led for more than twenty years. Tom was deeply committed to advancing the values of secular humanism to help bring about a better world, but he wore no rose-colored glasses. He had …</div>
-    </content>
-    <author>
-      <name>Paul Fidalgo</name>
-    </author>
-    <id>https://richarddawkins.net/?p=977433</id>
-    <published>2021-10-20T15:30:43Z</published>
-    <updated>2021-10-20T15:30:43Z</updated>
-    <category term="Science"/>
   </entry>
   <entry>
     <title>Why Girls Don’t Play with LEGOs</title>
