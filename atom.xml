@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2021-11-05T17:36:19Z</updated>
+  <updated>2021-11-05T18:36:20Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
   <entry>
@@ -135,6 +135,21 @@
     <published>2021-11-05T10:26:20Z</published>
     <updated>2021-11-05T10:26:20Z</updated>
     <category term="Politics, History, and Law"/>
+  </entry>
+  <entry>
+    <title>OPEN DISCUSSION NOVEMBER 2021</title>
+    <link rel="alternate" href="https://richarddawkins.net/2021/11/open-discussion-november-2021/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">This thread has been created for discussion on themes relevant to Reason and Science for which there are not currently any dedicated threads. Please note that our Comment Policy applies as usual. There is a link to this at the foot of the page. If you would like to refer back to previous open discussion …</div>
+    </content>
+    <author>
+      <name>Moderator</name>
+    </author>
+    <id>https://richarddawkins.net/?p=977529</id>
+    <published>2021-11-04T15:30:54Z</published>
+    <updated>2021-11-04T15:30:54Z</updated>
+    <category term="Discussion"/>
+    <category term="Featured"/>
   </entry>
   <entry>
     <title>Shakira, The Bystander Effect &amp; a Subway Assault</title>
@@ -328,20 +343,6 @@
     <category term="Religion"/>
     <category term="Science"/>
     <category term="Skepticism"/>
-  </entry>
-  <entry>
-    <title>Francis Collins to Step Down from NIH</title>
-    <link rel="alternate" href="https://richarddawkins.net/2021/10/francis-collins-to-step-down-from-nih/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Earlier this month, Francis Collins announced that he would be stepping down as head of the National Institutes of Health (NIH), where he had previously spent a decade leading the Human Genome Project. While director of the NIH, Collins supported research into mRNA vaccines, which of course opened the door to the COVID-19 vaccines we have today.  …</div>
-    </content>
-    <author>
-      <name>Paul Fidalgo</name>
-    </author>
-    <id>https://richarddawkins.net/?p=977437</id>
-    <published>2021-10-20T15:33:40Z</published>
-    <updated>2021-10-20T15:33:40Z</updated>
-    <category term="Uncategorized"/>
   </entry>
   <entry>
     <title>Why Girls Don’t Play with LEGOs</title>
