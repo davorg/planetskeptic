@@ -7,9 +7,39 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2021-11-17T16:38:58Z</updated>
+  <updated>2021-11-17T17:35:11Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Hopeless Ham</title>
+    <link rel="alternate" href="https://richarddawkins.net/2021/11/hopeless-ham/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Last month, creationism apologist Ken Ham used the sudden death of our friend and colleague, Free Inquiry Editor Tom Flynn, as an opportunity to raise money for his thoughtless think tank Answers in Genesis and his alternative-history pseudo-museum the Ark Encounter, telling his followers “to do all we can to help undo the work of Tom Flynn.” …</div>
+    </content>
+    <author>
+      <name>Paul Fidalgo</name>
+    </author>
+    <id>https://richarddawkins.net/?p=977593</id>
+    <published>2021-11-17T17:31:31Z</published>
+    <updated>2021-11-17T17:31:31Z</updated>
+    <category term="Atheism"/>
+    <category term="Religion"/>
+  </entry>
+  <entry>
+    <title>Homeopathy’s Last Stand</title>
+    <link rel="alternate" href="https://richarddawkins.net/2021/11/homeopathys-last-stand/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">“You may bend over backward to defend your pet ‘alternative’ remedy,” writes Richard Dawkins in the latest issue of Skeptical Inquirer. But, he warns, “if homeopathy is your personal favorite quackery, you are going to have to bend over backward a massive lot further than for any other branch of alternative medicine.”  That’s because homeopathy is utter …</div>
+    </content>
+    <author>
+      <name>Paul Fidalgo</name>
+    </author>
+    <id>https://richarddawkins.net/?p=977588</id>
+    <published>2021-11-17T17:27:32Z</published>
+    <updated>2021-11-17T17:27:32Z</updated>
+    <category term="Science"/>
+    <category term="Skepticism"/>
+  </entry>
   <entry>
     <title>Facebook is a repository of the dumbest ideas about everything</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/11/17/facebook-is-a-repository-of-the-dumbest-ideas-about-everything/" type="text/html"/>
@@ -370,37 +400,6 @@ NO.&lt;/p&gt;
     <published>2021-10-20T15:54:56Z</published>
     <updated>2021-10-20T15:54:56Z</updated>
     <category term="Atheism"/>
-    <category term="Religion"/>
-    <category term="Science"/>
-    <category term="Skepticism"/>
-  </entry>
-  <entry>
-    <title>Reaching Science Deniers with Trust</title>
-    <link rel="alternate" href="https://richarddawkins.net/2021/10/reaching-science-deniers-with-trust/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">When someone has made up their mind that the Earth is flat, that COVID-19 vaccines contain 5G microchips, or that evolution is a hoax, trying to change their mind seems pointless. But Lee McIntyre, a philosopher of science and history, is here to tell you to keep hope alive. On the latest Skeptical Inquirer Presents …</div>
-    </content>
-    <author>
-      <name>Paul Fidalgo</name>
-    </author>
-    <id>https://richarddawkins.net/?p=977444</id>
-    <published>2021-10-20T15:45:13Z</published>
-    <updated>2021-10-20T15:45:13Z</updated>
-    <category term="Science"/>
-    <category term="Skepticism"/>
-  </entry>
-  <entry>
-    <title>Space Rocks and the Wrath of God</title>
-    <link rel="alternate" href="https://richarddawkins.net/2021/10/space-rocks-and-the-wrath-of-god/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Last month, the journal Scientific Reports published the results of an archaeological study claiming that a “cosmic airburst” destroyed the Bronze-Age city of Tall el-Hammam in Jordan. Even more tantalizing, the authors posited that Tall el-Hammam might have actually been the biblical city of Sodom, which God was to have smited in his anger over its denizen’s bad …</div>
-    </content>
-    <author>
-      <name>Paul Fidalgo</name>
-    </author>
-    <id>https://richarddawkins.net/?p=977440</id>
-    <published>2021-10-20T15:38:51Z</published>
-    <updated>2021-10-20T15:38:51Z</updated>
     <category term="Religion"/>
     <category term="Science"/>
     <category term="Skepticism"/>
