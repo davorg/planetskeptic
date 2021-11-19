@@ -7,9 +7,48 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2021-11-19T11:32:18Z</updated>
+  <updated>2021-11-19T12:40:03Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Curse you, Reginald C. Punnett</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/11/19/curse-you-reginald-c-punnett/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p><img src="https://freethoughtblogs.com/pharyngula/files/2021/11/punnettsquare.jpeg" alt="" width="130" height="130" class="alignright size-full wp-image-64618"/></p>
+<p class="lead">Yesterday, I gave my first year students a teeny-tiny quiz over the current unit in basic genetics. No biggie, I’d been hearing some troubling concerns from the class tutor that some of the students were struggling, so this was more of an assessment of how well they were grasping the simplest concepts in Mendelian genetics. Here, I’ll even let you see the entirety of the quiz: 5 questions, 2 points each.</p>
+<blockquote><p>You have a true-breeding diploid organism with the phenotype  AB, and a second true-breeding organism with the phenotype ab. A is dominant to a, and B is dominant to b.</p>
+<ol>
+<li>What are the genotypes of these two creatures?</li>
+<li>You cross these two and obtain a clutch of F1s. What are their genotypes and phenotypes?
+</li>
+<li>You cross two of the F1s with each other. Predict what the phenotypes and their proportions in the next generation should be, assuming that Mendel’s laws apply.
+</li>
+<li>You cross one of the F1s with another organism that has the phenotype ab. Predict what the phenotypes and their proportions in the next generation should be, assuming that Mendel’s laws apply.
+</li>
+<li>You actually do the experiment in #4, you get the following results:<br/>AB: 35%<br/>Ab: 15%<br/>aB: 15%<br/>ab: 35%<br/>Interpret this distribution.</li>
+</ol>
+</blockquote>
+<p>See? If you were a student who’d just suffered through 3 weeks of an introduction to genetics, you’d probably have absolutely no problem with this. If you’ve been teaching genetics for a few decades, you could answer this quiz in <em>seconds</em>, in your sleep, while standing on your head. I think that might be part of the problem, because this is stuff I can totally take for granted.</p>
+<p>I gave the students 20 minutes. Most of them used the entirety of that time. I scored the quiz that afternoon, and was aghast: mean score was 2.7/10, high score was 8. Yikes. How…? Where have I gone wrong? These are smart, hard-working students, and they missed <em>everything</em>. Then I saw the problem. The quizzes were covered with…</p>
+<p><strong><em>PUNNETT SQUARES</em></strong>. Jesus. They tried to solve every problem with a 4×4 Punnett square, which is insane. Punnett squares are a tool for graphically illustrating the outcome of a cross. They are <em>not</em> tools for calculating the results. They are a <em>terrible, slow, clumsy</em> tool for doing that. The textbook is full of ’em, I think because they’re easy to draw and give the illusion of a comprehensive answer. I’d shown a few in class, because I had to explain what the textbook was showing them, but I always told them that Punnett squares were <em>terrible</em> and useless, but this is what they knew, probably from high school, and then reinforced by the text, and then I made the mistake of trying to explain what the book figures were showing, and they came away with the impression that this is what geneticists do. It is not. Mendelian genetics are dead simple. You can just treat each locus independently (and they’re trivial, you can memorize all the possible results if you can hold 3 frequencies in your head), solve for A, solve for B, multiply to get the answer for A &amp; B.</p>
+<p>Christ, they’re trying to mechanically brute-force a solution with 4×4 Punnett squares, and it’s a disaster.</p>
+<p>I can’t blame the students, though, it’s all on me. I remember being their age and taking Dr Sandler’s genetics course at the UW, and struggling for the first few weeks, until suddenly the light bulb flicked on in my head and I saw how easy Mendel was, and then when he started layering on the advanced stuff, like segregation distorters and epistatic interactions (seriously, try solving those kinds of problems with a Punnett square — you might be able to assemble some kind of nightmarish diagram, but it’s not efficient. You can’t even do linkage with a Punnett square.), it was all just an easy arithmetic modifier added on to the basic concept. But then, Sandler was a brilliant teacher, I’ve got some catching up to do.</p>
+<p>So how to deal with this problem…next week, I’m going to rewind and go back to the basics, review these elementary problems without Punnett squares anywhere in sight, and actively tell the students that Reginald C. Punnett was of the devil, put on this Earth to confound generations of genetics students. Then, over Christmas break, I’m going to back over my stored presentations and notes and edit out every mention of the P word. Maybe I should print one out so I can put it on the floor the first day of class and piss all over it — nah, some administrator would probably complain.</p>
+<p>Then, you out there — yeah, YOU, high school teachers and textbook publishers — stop poisoning students minds with these abominations. I’ve never liked them, but I keep using them because they are traditional, and because the books and students come with them preloaded. Just stop it. They’re pedagogically bad. I’ve got to explicitly unteach them now.</p>
+<p>This is a tragic setback, because what my plan for the course was saying is that I start next week on the developmental biology unit, my favorite stuff, and now it’s getting bounced back two weeks, and is going to get slammed up against the end of the term. I’m going to blame Punnett.</p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Yesterday, I gave my first year students a teeny-tiny quiz over the current unit in basic genetics. No biggie, I’d been hearing some troubling concerns from the class tutor that some of the students were struggling, so this was more of an assessment of how well they were grasping the simplest concepts in Mendelian genetics. […]</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=64617</id>
+    <published>2021-11-19T12:33:19Z</published>
+    <updated>2021-11-19T12:33:19Z</updated>
+    <category term="My classes"/>
+  </entry>
   <entry>
     <title>It is done — I am boosted</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/11/18/it-is-done-i-am-boosted/" type="text/html"/>
@@ -140,30 +179,6 @@
     <id>https://newhumanist.org.uk/articles/5884/missing-fizz#utm_source=rss</id>
     <published>2021-11-18T09:00:00Z</published>
     <updated>2021-11-18T09:00:00Z</updated>
-  </entry>
-  <entry>
-    <title>This is the flibbertigibbetiest</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/11/17/this-is-the-flibbertigibbetiest/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p class="lead">I swear, <a href="https://www.spectator.co.uk/article/it-s-hard-not-to-pity-ghislaine-maxwell">this abomination reads like it was written by a 15 year old sorority girl high on meth</a>, but it’s actually by Boris Johnson’s sister. Really, try reading it — it flits about from topic to topic, from her dog having puppies to prating about her mother’s maiden name to weird complaints about not being sufficiently conservative while saying…</p>
-<blockquote class="creationist"><p>It has been a source of mystery to me and no doubt many others that I manage to host a radio show without landing in the soup more often. I’m always saying things like, ‘But are we allowed to say Liverpool Women’s Hospital any more?’ and ‘I only want to see someone in a surgical face mask in an operating theatre’ and ‘If lockdowns work, why are we having another one and if lockdowns don’t work, why are we having another one?’ But then I realise I am a mere soggy centrist snowflake compared with some.</p></blockquote>
-<p>Don’t worry, strange lady, you’re a right-wing asshole, no question.</p>
-<p>And then she drops this on us:</p>
-<p><img src="https://freethoughtblogs.com/pharyngula/files/2021/11/maxwellhumblebrag.png" alt="" width="386" height="155" class="aligncenter size-full wp-image-64600" srcset="https://freethoughtblogs.com/pharyngula/files/2021/11/maxwellhumblebrag.png 386w, https://freethoughtblogs.com/pharyngula/files/2021/11/maxwellhumblebrag-150x60.png 150w, https://freethoughtblogs.com/pharyngula/files/2021/11/maxwellhumblebrag-300x120.png 300w" sizes="(max-width: 386px) 100vw, 386px"/></p>
-<p>Wow. Humble bragging, name dropping, and casual sympathy for a procurer for a pedophile. I felt like throwing up over everything between the headline and the final line.</p>
-<p>She has a radio show and publishes in the Spectator? Man, the United States isn’t the only country parasitized by a colony of superficial twits.</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">I swear, this abomination reads like it was written by a 15 year old sorority girl high on meth, but it’s actually by Boris Johnson’s sister. Really, try reading it — it flits about from topic to topic, from her dog having puppies to prating about her mother’s maiden name to weird complaints about not […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=64599</id>
-    <published>2021-11-17T23:28:11Z</published>
-    <updated>2021-11-17T23:28:11Z</updated>
-    <category term="Miscellaneous and Meta"/>
   </entry>
   <entry>
     <title>One Mission, Many Paths</title>
