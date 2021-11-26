@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2021-11-26T04:37:44Z</updated>
+  <updated>2021-11-26T05:32:23Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
   <entry>
@@ -72,6 +72,14 @@
     <published>2021-11-25T11:44:59Z</published>
     <updated>2021-11-25T11:44:59Z</updated>
     <category term="Politics, History, and Law"/>
+  </entry>
+  <entry>
+    <title>Cancer beater?</title>
+    <link rel="alternate" href="https://newhumanist.org.uk/articles/5887/cancer-beater#utm_source=rss" type="text/html"/>
+    <content type="html">&lt;p&gt;&lt;img title="Artist's rendering of a cancerous cell (Creative Commons)" src="https://newhumanist.org.uk/images/Cell-Cancer-Cell-Division-Human-Meiosis-Mitosis-3876669.jpg" height="540" alt="Cell-Cancer-Cell-Division-Human-Meiosis-Mitosis-3876669" width="960" /&gt;&lt;/p&gt; &lt;p&gt;Population screening programmes are a key part of our public health arsenal, saving an estimated 10,000 lives in England each year. But it is an unusual form of healthcare in that otherwise healthy individuals are contacted before symptoms arise. Additionally, despite their potential to prevent disease, such programmes, if not properly designed, can harm as well as help the population. &lt;br /&gt;&lt;br /&gt;One of the key challenges with developing new programmes is around test specificity: how likely it is that a person will be told they have a disease if they don&amp;rsquo;t actually have it (a &amp;ldquo;false positive&amp;rdquo;). High rates of false positives can lead to costly, invasive follow-ups, and significant anxiety for individuals.&lt;br /&gt;&lt;br /&gt;These will be key considerations for UK regulators in their upcoming evaluation of the Galleri Test, a potentially revolutionary new blood test for the early identification of cancer. Preliminary studies suggest it is able to detect more than 50 different types of cancer before symptoms appear, and locate with 90 per cent accuracy the tissue in which the tumour originated. Crucially, the test is quick, easy and non-invasive, and the false positive rate appears to be comparatively low. &lt;br /&gt;&lt;br /&gt;The test works by looking for tiny bits of DNA that have broken off tumour cells and float around in the bloodstream (&amp;ldquo;cell-free DNA&amp;rdquo;). It is currently available in the US for those at high risk. However, its power as a screening tool &amp;ndash; identifying early cancer in symptomless individuals not at high risk, who therefore have the best chance of successful treatment &amp;ndash; has not yet been assessed. Since September, Galleri has been rolled out in a large NHS clinical trial involving 140,000 healthy volunteers. The trial is the biggest of its kind, with results expected in 2023. If successful, it has the potential to expand to a million more volunteers from 2024. &lt;br /&gt;&lt;br /&gt;Some have questioned whether the test will deliver on the hype when used in a real-world setting, with scientists all too aware of past disappointments. Hope that it is the holy grail of cancer screening should be tempered; its success remains to be seen.&lt;br /&gt;&lt;br /&gt;&lt;em&gt;This piece is a preview from the Witness section of New Humanist winter 2021. &lt;a href="/supportus"&gt;&lt;span class="s2"&gt;Subscribe today&lt;/span&gt;&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;</content>
+    <id>https://newhumanist.org.uk/articles/5887/cancer-beater#utm_source=rss</id>
+    <published>2021-11-25T09:00:00Z</published>
+    <updated>2021-11-25T09:00:00Z</updated>
   </entry>
   <entry>
     <title>What your turkey looks like to a vegetarian</title>
@@ -320,14 +328,6 @@
     <published>2021-11-11T16:18:22Z</published>
     <updated>2021-11-11T16:18:22Z</updated>
     <category term="Skepticism"/>
-  </entry>
-  <entry>
-    <title>Modelling mayhem</title>
-    <link rel="alternate" href="https://newhumanist.org.uk/articles/5882/modelling-mayhem#utm_source=rss" type="text/html"/>
-    <content type="html">&lt;p&gt;&lt;img title="A murmuration of starlings over Studland, Dorset (Creative Commons License / Flickr)" src="https://newhumanist.org.uk/images/31636555564_d26cedda66_b.jpg" height="695" alt="31636555564_d26cedda66_b" width="1024" /&gt;&lt;/p&gt; &lt;p&gt;What links the brain, the climate and a murmuration of starlings? They're all made up of many components, interacting with a touch of randomness and a dash of disorder: the recipe for a complex system. The last two ingredients &amp;ndash; randomness and disorder &amp;ndash; make their behaviour extremely difficult to model and predict.&lt;/p&gt; &lt;p&gt;But physicists do enjoy a challenge, and in the 1960s Syukuro Manabe sought to model one such system: energy transfer and transport within the Earth&amp;rsquo;s climate. Manabe&amp;rsquo;s work was the first to explore the interplay between the greenhouse gas effect, the rising of hot air due to convection and the heat released when clouds form. It demonstrated that increasing carbon dioxide leads to rising temperatures closer to the ground, with the upper atmosphere becoming colder. Most strikingly, he showed that doubling the carbon dioxide concentration in the air caused an increase in Earth surface temperature of 2℃. This work seeded the climate change models we have today.&lt;/p&gt; &lt;p&gt;A decade later, Klaus Hasselmann took Manabe&amp;rsquo;s work a step further by incorporating the chaos of weather into climate modelling in order to make predictions over time. To represent the rapidly changing weather conditions in the atmosphere, he mathematically built in chance to the model. This paved the way to proving anthropogenic carbon dioxide emissions are behind today&amp;rsquo;s global warming.&lt;/p&gt; &lt;p&gt;For these breakthroughs, Manabe and Hasselmann have been awarded one half of this year&amp;rsquo;s Nobel Prize in Physics. The other half has gone to Giorgio Parisi, whose dedication to understanding disordered and complex materials led to revelations of hidden patterns in the mathematics that could be used to harness predictability in a wide range of complex disordered scenarios, from neuroscience to machine learning, and in the mesmerising sight of a flock of starlings forming a living abstract artwork across the sky.&lt;/p&gt; &lt;p&gt;Predicting the unpredictable sounds like a Nobel Prize-worthy achievement. And now it officially is.&lt;/p&gt; &lt;p&gt;&lt;em&gt;This piece is a preview from the Witness section of New Humanist winter 2021. &lt;/em&gt;&lt;a href="/supportus"&gt;&lt;span class="s2"&gt;&lt;em&gt;Subscribe today&lt;/em&gt;&lt;/span&gt;&lt;/a&gt;&lt;em&gt;.&lt;/em&gt;&lt;/p&gt;</content>
-    <id>https://newhumanist.org.uk/articles/5882/modelling-mayhem#utm_source=rss</id>
-    <published>2021-11-11T09:00:00Z</published>
-    <updated>2021-11-11T09:00:00Z</updated>
   </entry>
   <entry>
     <title>Real magic</title>
