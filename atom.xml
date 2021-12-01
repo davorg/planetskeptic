@@ -7,9 +7,91 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2021-12-01T15:35:53Z</updated>
+  <updated>2021-12-01T16:40:15Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Cautious Optimism and Practical Pessimism</title>
+    <link rel="alternate" href="https://richarddawkins.net/2021/12/cautious-optimism-and-practical-pessimism/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">From the Richard Dawkins Foundation Newsletter. Subscribe here. Hello! It’s not easy being a realist. Pointing out the falsehoods of pseudoscience, alternative medicine, and the paranormal can be a quick way to get yourself labeled a spoilsport. Rejecting the supernatural claims of religion can be even harder, risking accusations ranging from insensitivity to bigotry to blasphemy. …</div>
+    </content>
+    <author>
+      <name>Paul Fidalgo</name>
+    </author>
+    <id>https://richarddawkins.net/?p=977705</id>
+    <published>2021-12-01T16:00:26Z</published>
+    <updated>2021-12-01T16:00:26Z</updated>
+    <category term="Atheism"/>
+    <category term="Original"/>
+    <category term="Politics"/>
+    <category term="Religion"/>
+    <category term="Science"/>
+    <category term="Skepticism"/>
+  </entry>
+  <entry>
+    <title>Sinterklaas is coming this weekend</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/12/01/sinterklaas-is-coming-this-weekend/" type="text/html"/>
+    <content type="html">&lt;p class="lead"&gt;So we&amp;#8217;ll have a live Q&amp;#038;A on Sunday morning at 9am Central time!&lt;/p&gt;
+&lt;div class="center"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/iHejU9yLhvM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;p&gt;If you&amp;#8217;re one of &lt;a href="https://www.patreon.com/pzmyers"&gt;patrons&lt;/a&gt;, you&amp;#8217;ll find a zoom link there that will let you join in directly. If you&amp;#8217;re not a patron, you can still watch and leave comments/questions in the chat.&lt;/p&gt;
+</content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">So we’ll have a live Q&amp;A on Sunday morning at 9am Central time! If you’re one of patrons, you’ll find a zoom link there that will let you join in directly. If you’re not a patron, you can still watch and leave comments/questions in the chat.</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=64735</id>
+    <published>2021-12-01T15:51:04Z</published>
+    <updated>2021-12-01T15:51:04Z</updated>
+    <category term="Miscellaneous and Meta"/>
+  </entry>
+  <entry>
+    <title>VIDEO: The Anti-vaxxer Conspiracy Conspiracy</title>
+    <link rel="alternate" href="https://richarddawkins.net/2021/12/video-the-anti-vaxxer-conspiracy-conspiracy/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">It’s time for us to come clean. There is, indeed, a secret conspiracy about COVID-19 vaccines, and yes, it even involves lizard people. But there’s a twist! (What kind of conspiracy theory would it be without a twist?) It turns out that it’s not the COVID-19 vaccines that are being foisted upon an unwitting populace, …</div>
+    </content>
+    <author>
+      <name>Paul Fidalgo</name>
+    </author>
+    <id>https://richarddawkins.net/?p=977702</id>
+    <published>2021-12-01T15:43:16Z</published>
+    <updated>2021-12-01T15:43:16Z</updated>
+    <category term="Science"/>
+    <category term="Skepticism"/>
+    <category term="Video"/>
+  </entry>
+  <entry>
+    <title>The Detox Delusion</title>
+    <link rel="alternate" href="https://richarddawkins.net/2021/12/the-detox-delusion/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">There is another pandemic to worry about.  Not a viral outbreak, but a global pandemic of obesity, which is predicted to afflict more than half of the U.S. population by 2030. At the same time, the weight-loss industry has never been more profitable, estimated at $190 billion in 2019. How is so much money being …</div>
+    </content>
+    <author>
+      <name>Paul Fidalgo</name>
+    </author>
+    <id>https://richarddawkins.net/?p=977698</id>
+    <published>2021-12-01T15:39:37Z</published>
+    <updated>2021-12-01T15:39:37Z</updated>
+    <category term="Science"/>
+    <category term="Skepticism"/>
+  </entry>
+  <entry>
+    <title>Antiviral Drugs Show Promise against COVID-19</title>
+    <link rel="alternate" href="https://richarddawkins.net/2021/12/antiviral-drugs-show-promise-against-covid-19/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Safe and effective vaccines against COVID-19 arrived far sooner than even the most optimistic best-case scenarios. As we know all too well, anti-vaccine sentiment driven by conspiracy theories and partisan cynicism has dampened what is otherwise an unmistakable victory for science. But even if a 100 percent vaccination rate could be achieved, the coronavirus has …</div>
+    </content>
+    <author>
+      <name>Paul Fidalgo</name>
+    </author>
+    <id>https://richarddawkins.net/?p=977694</id>
+    <published>2021-12-01T15:37:46Z</published>
+    <updated>2021-12-01T15:37:46Z</updated>
+    <category term="Science"/>
+  </entry>
   <entry>
     <title>Homeopathy’s Secret Book of Snake Oil</title>
     <link rel="alternate" href="https://richarddawkins.net/2021/12/homeopathys-secret-book-of-snake-oil/" type="text/html"/>
@@ -25,35 +107,6 @@
     <category term="Politics"/>
     <category term="Science"/>
     <category term="Skepticism"/>
-  </entry>
-  <entry>
-    <title>Evolving Out Loud</title>
-    <link rel="alternate" href="https://richarddawkins.net/2021/12/evolving-out-loud/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">The Teacher Institute for Evolutionary Science (TIES) is a program of the Richard Dawkins Foundation that gives teachers the tools they need to effectively teach evolution and answer its critics. As the pandemic has upended the educational landscape, TIES has been there to help teachers adapt and thrive in a challenging and ever-changing environment. As …</div>
-    </content>
-    <author>
-      <name>Paul Fidalgo</name>
-    </author>
-    <id>https://richarddawkins.net/?p=977685</id>
-    <published>2021-12-01T15:31:25Z</published>
-    <updated>2021-12-01T15:31:25Z</updated>
-    <category term="Education"/>
-    <category term="Science"/>
-  </entry>
-  <entry>
-    <title>Must Humanism Be Optimistic?</title>
-    <link rel="alternate" href="https://richarddawkins.net/2021/12/must-humanism-be-optimistic/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Atheists and humanists have long had to contend with being associated with a kind of fatalism or despair, stereotyped as “lost souls” by those religious believers who oppose a secular, rationalist worldview. Humanists have usually countered this caricature with a message of optimism, asserting that by embracing reason, naturalism, and critical thinking, humankind can truly …</div>
-    </content>
-    <author>
-      <name>Paul Fidalgo</name>
-    </author>
-    <id>https://richarddawkins.net/?p=977679</id>
-    <published>2021-12-01T15:27:14Z</published>
-    <updated>2021-12-01T15:27:14Z</updated>
-    <category term="Atheism"/>
   </entry>
   <entry>
     <title>I do make a pretty good soup</title>
@@ -106,21 +159,6 @@
     <category term="Atheism and Skepticism"/>
   </entry>
   <entry>
-    <title>OPEN DISCUSSION DECEMBER 2021</title>
-    <link rel="alternate" href="https://richarddawkins.net/2021/12/open-discussion-december-2021/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">This thread has been created for discussion on themes relevant to Reason and Science for which there are not currently any dedicated threads. Please note that our Comment Policy applies as usual. There is a link to this at the foot of the page. If you would like to refer back to previous open discussion …</div>
-    </content>
-    <author>
-      <name>Moderator</name>
-    </author>
-    <id>https://richarddawkins.net/?p=977675</id>
-    <published>2021-12-01T11:38:46Z</published>
-    <updated>2021-12-01T11:38:46Z</updated>
-    <category term="Discussion"/>
-    <category term="Featured"/>
-  </entry>
-  <entry>
     <title>That is so Chuck</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/11/30/that-is-so-chuck/" type="text/html"/>
     <content type="xhtml">
@@ -168,33 +206,6 @@
     <published>2021-11-30T13:43:12Z</published>
     <updated>2021-11-30T13:43:12Z</updated>
     <category term="Race, Society, and Social Justice"/>
-  </entry>
-  <entry>
-    <title>Who deserves equality and protection?</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/11/30/who-deserves-equality-and-protection/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><div id="attachment_64718" style="width: 147px" class="wp-caption alignright"><img src="https://freethoughtblogs.com/pharyngula/files/2021/11/transrights-137x150.jpeg" alt="" width="137" height="150" class="size-thumbnail wp-image-64718" srcset="https://freethoughtblogs.com/pharyngula/files/2021/11/transrights-137x150.jpeg 137w, https://freethoughtblogs.com/pharyngula/files/2021/11/transrights-274x300.jpeg 274w, https://freethoughtblogs.com/pharyngula/files/2021/11/transrights.jpeg 333w" sizes="(max-width: 137px) 100vw, 137px"/><p class="wp-caption-text"><strong>not</strong> sentiment shared by the Declaration of Women’s Sex Based Rights</p></div>
-<p class="lead">Apparently, it’s not trans women, and trans men don’t even exist. This <a href="https://womensdeclaration.com/en/declaration-womens-sex-based-rights-full-text/">Declaration of Women’s Sex Based Rights</a> is making the rounds — Richard Dawkins proudly signed it, doesn’t that make you want to put your name on it? I like the idea of supporting equal rights for all men and women, and it’s true that women need special legal protection as the targets of current and historical discrimination, but this document seems to be mainly focused on legitimizing discrimination against trans women. It practically seethes with resentment against trans women, and singles them out as the big problem that must be eradicated from society. Cast them out! They don’t <em>deserve</em> to have any of the rights which they want to reserve for <em>true</em> human females, a category that they don’t even bother to define (probably because if they tried, they’d get hung up on the boundary conditions). So women are simply specified by vague “physical and biological characteristics”, which are completely different from “gender identity”, which means their manifesto is primarily a long whine about how the existence of trans women taints the concept of lesbianism.</p>
-<blockquote><p>However, the concept of ‘gender identity’ has enabled men who claim a female ‘gender identity’ to assert, in law, policies, and practice, that they are members of the category of women, which is a category based upon sex.</p>
-<p>The CEDAW General Recommendation No. 35 notes that, “General recommendation No. 28 on the core obligations of States parties under article 2 of the Convention as well as general recommendation No. 33 on women’s access to justice confirms that discrimination against women is inextricably linked to other factors that affect their lives. The Committee’s jurisprudence highlights that these may include…being lesbian.” (II, 12).</p>
-<p>The concept of ‘gender identity’ is used to challenge individuals’ rights to define their sexual orientation on the basis of sex rather than ‘gender identity’, enabling men who claim a female ‘gender identity’ to seek to be included in the category of lesbian, which is a category based upon sex. This undermines the sex-based rights of lesbians, and is a form of discrimination against women.</p>
-<p>Some men who claim a female ‘gender identity’ seek to be included in the legal category of mother. The CEDAW emphasises maternal rights and the “social significance of maternity’’. Maternal rights and services are based on women’s unique capacity to gestate and give birth to children. The inclusion of men who claim a female ‘gender identity’ within the legal category of mother erodes the social significance of maternity, and undermines the maternal rights for which the CEDAW provides.</p></blockquote>
-<p>OK, so how does the existence of trans women compromise the identities of lesbians and mothers? If a person who identifies as a woman is a primary caregiver to a child, what else do you call her but “a mother”? If she happens to be trans, how does that harm a person who identifies as a cis woman and is the primary caregiver to a child, who should also be called “a mother”? If they’re doing everything that a mother does, and if they suffer the same social disempowerment, what is the problem here, and what do you propose that people and the law should call them? I know, they may not have a uterus, and they may not have actually carried an embryo/fetus for 9 months, but are we prepared to deny the “M” word to adoptive mothers, then?</p>
-<p>The whole thing is one special effort to carve out an exclusion and to deny one group of people the rights that they ought to share with everyone else. That’s not a good reason to sign this thing. An equal rights declaration ought not to be focused on saying “except these people, we don’t like them and we want to make sure they don’t get these same rights.” Especially when that subgroup has been specifically targeted for hatred and discrimination.</p>
-<p>I’m also really curious to know why trans men are not mentioned, and how they handle that concept. Are trans men really women in their minds? How do they cope with their weird sexual essentialism if they accept trans men?</p>
-<p>Oh well, one useful feature of their web page is that they list <a href="https://womensdeclaration.com/en/">393 organizations that really hate trans people</a>, which is a useful reference if you want to know who you should never support (although many seem to be just disgruntled people with a website that you’ll never hear of again).</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Apparently, it’s not trans women, and trans men don’t even exist. This Declaration of Women’s Sex Based Rights is making the rounds — Richard Dawkins proudly signed it, doesn’t that make you want to put your name on it? I like the idea of supporting equal rights for all men and women, and it’s true […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=64717</id>
-    <published>2021-11-30T13:09:07Z</published>
-    <updated>2021-11-30T13:09:07Z</updated>
-    <category term="Feminism, Gender, and Equality"/>
   </entry>
   <entry>
     <title>Abandonment issues</title>
@@ -283,25 +294,6 @@
     <id>https://newhumanist.org.uk/articles/5884/missing-fizz#utm_source=rss</id>
     <published>2021-11-18T09:00:00Z</published>
     <updated>2021-11-18T09:00:00Z</updated>
-  </entry>
-  <entry>
-    <title>One Mission, Many Paths</title>
-    <link rel="alternate" href="https://richarddawkins.net/2021/11/one-mission-many-paths/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">From the Richard Dawkins Foundation Newsletter. Subscribe here. Hello! Richard Dawkins is quite possibly the world’s most famous atheist, so it follows that the Foundation that bears his name would be assumed to be an “atheist organization.” And truly, the Richard Dawkins Foundation (with its umbrella organization the Center for Inquiry) passionately champions the rights of …</div>
-    </content>
-    <author>
-      <name>Paul Fidalgo</name>
-    </author>
-    <id>https://richarddawkins.net/?p=977621</id>
-    <published>2021-11-17T18:17:43Z</published>
-    <updated>2021-11-17T18:17:43Z</updated>
-    <category term="Atheism"/>
-    <category term="Original"/>
-    <category term="Politics"/>
-    <category term="Religion"/>
-    <category term="Science"/>
-    <category term="Skepticism"/>
   </entry>
   <entry>
     <title>Travis Scott/Astroworld Tragedy: The Science &amp; the Conspiracies</title>
