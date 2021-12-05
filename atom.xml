@@ -7,9 +7,26 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2021-12-05T13:35:02Z</updated>
+  <updated>2021-12-05T14:32:23Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Reminder: livestream a little later this morning</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/12/05/reminder-livestream-a-little-later-this-morning/" type="text/html"/>
+    <content type="html">&lt;p class="lead"&gt;Ask questions!&lt;/p&gt;
+&lt;div class="center"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/iHejU9yLhvM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+</content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Ask questions!</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=64768</id>
+    <published>2021-12-05T13:43:01Z</published>
+    <updated>2021-12-05T13:43:01Z</updated>
+    <category term="Miscellaneous and Meta"/>
+  </entry>
   <entry>
     <title>How stupid can a congressperson be?</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/12/05/how-stupid-can-a-congressperson-be/" type="text/html"/>
@@ -104,30 +121,6 @@
     <published>2021-12-03T13:38:09Z</published>
     <updated>2021-12-03T13:38:09Z</updated>
     <category term="Cephalopods"/>
-  </entry>
-  <entry>
-    <title>Good morning, omicron!</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/12/03/good-morning-omicron/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p><img src="https://freethoughtblogs.com/pharyngula/files/2021/12/omicron-150x84.jpeg" alt="" width="150" height="84" class="alignright size-thumbnail wp-image-64755" srcset="https://freethoughtblogs.com/pharyngula/files/2021/12/omicron-150x84.jpeg 150w, https://freethoughtblogs.com/pharyngula/files/2021/12/omicron-300x169.jpeg 300w, https://freethoughtblogs.com/pharyngula/files/2021/12/omicron-768x432.jpeg 768w, https://freethoughtblogs.com/pharyngula/files/2021/12/omicron-500x281.jpeg 500w" sizes="(max-width: 150px) 100vw, 150px"/></p>
-<p class="lead">We’ve got the <a href="https://www.mprnews.org/story/2021/12/02/what-do-we-know-about-the-omicron-variant-in-minnesota">omicron variant in Minnesota</a>.</p>
-<blockquote><p>Minnesota has the second confirmed case of omicron COVID-19 variant in the United States, after California announced the nation’s first confirmed case on Wednesday. The Minnesota resident tested positive for COVID-19 on Nov. 24, shortly after attending an anime convention at the Javits Center.</p>
-<p>The Minnesota Department of Health says they confirmed the presence of the omicron variant Wednesday afternoon. They say the man, who lives in Hennepin County, is quarantining at home. He experienced mild symptoms and is recovering. The man “most likely” contracted the variant in New York, authorities said.</p></blockquote>
-<p>This is not grounds for panic. We don’t know enough about the omicron variant to get too worked up about it — it may be a bit nastier than the delta variant, but <em>if you’ve been vaccinated</em>, it’s probably not going to affect you directly. Of course, that’s only the case if you’re some kind of weird Libertarian hermit with no friends who has retreated from society. The rest of us should be concerned about our unvaccinated (for any reason) loved ones, or other contributing members of our communities.</p>
-<p>What does worry me is that this is a symptom of our lackadaisical approach to dealing with a worldwide pandemic. It’s like our health care system is an old car that we maintain poorly — sure, there’s some rust on the body, and the muffler is held in place with a twist of wire, and the engine makes a funny noise when it first turns over in the morning, but it would cost money to patch it up, and it still runs, so we can ignore it for a few more months or years. So what if it just now started leaking oil? It’s fine.</p>
-<p>New variants are what you get when you let the virus run rampant in large segments of the population, when you slack off on basic preventive measures, and when you figure I’ve got mine, so what if there isn’t enough vaccine in India or Bulgaria or whatever — that’s not <em>our</em> problem. Until it is.</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">We’ve got the omicron variant in Minnesota. Minnesota has the second confirmed case of omicron COVID-19 variant in the United States, after California announced the nation’s first confirmed case on Wednesday. The Minnesota resident tested positive for COVID-19 on Nov. 24, shortly after attending an anime convention at the Javits Center. The Minnesota Department of […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=64754</id>
-    <published>2021-12-03T13:07:12Z</published>
-    <updated>2021-12-03T13:07:12Z</updated>
-    <category term="Miscellaneous and Meta"/>
   </entry>
   <entry>
     <title>High time for truth</title>
