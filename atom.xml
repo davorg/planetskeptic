@@ -7,9 +7,82 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2021-12-11T15:34:21Z</updated>
+  <updated>2021-12-11T16:39:11Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>My hip hop band name will be “RTA Clade”</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/12/11/my-hip-hop-band-name-will-be-rta-clade/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p class="lead">Now my brain is stuck on spider evolution, which is an awesomely cool subject, and how annoyed I am that creationists can spit on it with such ignorant contempt.  So I have to mention another good article on the subject, <a href="https://www.pnas.org/content/106/13/5229.long">Reconstructing web evolution and spider diversification in the molecular era</a>. There are so many papers on this topic, and there’s a guy affiliated with the Discovery Institute writing a whole book on the subject while unforgivably ignorant of it all. So here, cogitate on this:</p>
+<div id="attachment_64836" style="width: 510px" class="wp-caption aligncenter"><img src="https://freethoughtblogs.com/pharyngula/files/2021/12/molecularwebs-500x663.jpg" alt="" width="500" height="663" class="size-large wp-image-64836" srcset="https://freethoughtblogs.com/pharyngula/files/2021/12/molecularwebs-500x663.jpg 500w, https://freethoughtblogs.com/pharyngula/files/2021/12/molecularwebs-113x150.jpg 113w, https://freethoughtblogs.com/pharyngula/files/2021/12/molecularwebs-226x300.jpg 226w, https://freethoughtblogs.com/pharyngula/files/2021/12/molecularwebs-768x1019.jpg 768w, https://freethoughtblogs.com/pharyngula/files/2021/12/molecularwebs.jpg 965w" sizes="(max-width: 500px) 100vw, 500px"/><p class="wp-caption-text">Optimization of web architecture on the preferred topology. Black stars indicate strong support for a node from both MP (jackknife &gt; 75%) and Bayesian (posterior probabilities &gt; 90%) analyses, and gray stars indicate nodes strongly supported only by one methodology or with jackknife 50–74%. Branch colors represent MP reconstruction of webs, and pie charts represent the relative probabilities from ML reconstructions. Colors of boxes to the left of taxon names represent their webs, and open boxes indicate that taxa do not spin prey capture webs.</p></div>
+<p>There’s also information on the topic of orb web monophyly that I mentioned in the <a href="https://freethoughtblogs.com/pharyngula/2021/12/11/this-cannot-be-tolerated-creationists-lying-about-spider-evolution/">previous post</a>.</p>
+<blockquote><p>The monophyletic origin of orb webs is strongly supported, despite conspicuous differences in the silk used to spin different types of orbs. This has important implications for understanding both web evolution and spider diversification. Instead of cribellate and ecribellate orb webs evolving in parallel, orb monophyly explicitly implies that dry cribellate capture spirals were replaced by ecribellate gluey spirals. This involves 2 major changes. First, a shift in the silk used to produce the core fibers of capture threads, resulting in novel tensile properties. The core fibers of modern (ecribellate) orb weavers are composed of flagelliform silk, which is much more elastic than the pseudoflagelliform silk core fibers of cribellate spiders. Mechanically, flagelliform silk functions like rubber, relying on entropy to resist motion of silk molecules and absorb kinetic energy during prey capture, allowing the capture spiral to expand and contract repeatedly. In contrast, cribellate silk relies on permanent rupturing of molecular bonds to absorb kinetic energy and deforms irreversibly during prey capture. The second major shift involves the mechanism of adhesion, from dry cribellate fibrils that adhere through van der Waals forces and hygroscopic interactions to chemically adhesive viscid glue in ecribellate spiders. This results in webs with greater adhesion per surface area and may have facilitated the transition from horizontal to vertical web orientation in modern orb spiders, which is associated with increased prey interception rates.</p></blockquote>
+<p>That paper also discusses something I didn’t mention. Did you know that about half of all spider species don’t make prey capture webs at all? They’re active hunters, like wolf spiders and jumping spiders, and they belong to an extremely successful monophyletic group called the RTA clade, short for retrolateral tibial apophysis, the best band name ever.</p>
+<p>I think I need to go spend some time in the lab with my spiders to cool my brain down, before participating in the <a href="https://freethoughtblogs.com/fundraising/">podcast this afternoon</a>, which will not be about spiders.</p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Now my brain is stuck on spider evolution, which is an awesomely cool subject, and how annoyed I am that creationists can spit on it with such ignorant contempt. So I have to mention another good article on the subject, Reconstructing web evolution and spider diversification in the molecular era. There are so many papers […]</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=64835</id>
+    <published>2021-12-11T16:25:07Z</published>
+    <updated>2021-12-11T16:25:07Z</updated>
+    <category term="Spiders"/>
+  </entry>
+  <entry>
+    <title>This cannot be tolerated: creationists lying about spider evolution</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/12/11/this-cannot-be-tolerated-creationists-lying-about-spider-evolution/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p class="lead">Oh dear. Oh dear oh dear oh dear. The Discovery Institute has turned it’s puerile, feeble attention to <em>spiders</em> now, and it’s as pathetic as you might imagine. It’s written by a guy, Eric Cassell, who felt it important to mention that he had an undergraduate biology degree, which  he earned at least four decades ago, before committing to work in — take a wild guess — <em>engineering</em>, of course. Much as I respect many engineers and their work, it sure tends to breed inappropriate teleological attitudes in the brains of its practitioners.</p>
+<p>This article, <a href="https://evolutionnews.org/2021/12/the-miracle-of-spiderwebs/" rel="nofollow">The Miracle of Spiderwebs</a>, is typical of the type. First, talk about how <em>freakin’ complicated</em> spider webs are, then declare that they don’t understand how they could have evolved, which therefore means it could not have evolved. Never mind that spiders have been dependent on silk for their survival for 350 million years and there has been constant selection for more effective functionality, some old guy with negligible background in biology can’t understand it! Furthermore, it can’t possibly be because he’s an ignorant ass, he has to misrepresent the current science to make his case.</p>
+<blockquote class="creationist"><p>Despite great effort, humans have yet to produce anything functionally equivalent to silk. Through genetic engineering, attempts have been made to duplicate it without success. The main challenge is replicating the sophisticated and information-rich protein molecules found in the silk produced by spiders and other silk-producing arthropods such as silkworms — proteins that are nearly double the size of average human proteins. Smaller proteins do not have the strength or flexibility of spider silk. Given the advanced genetic and manufacturing technologies available today, it is remarkable that spider silk still cannot be duplicated. This illustrates just how advanced the engineering design of spider silk is.</p></blockquote>
+<p>No, he’s wrong. The silk molecules tend to be long, but not particularly “information-rich”, whatever that means. They are made up of long stretches of highly repetitive amino acid sequences, interspersed with special purpose regions. The strength comes from the repetition — they fold into crystalline bricks made of beta-pleated sheets. The length of each molecule is an obstacle to synthesizing them, of course, but there’s nothing magical or incomprehensible about the genes.</p>
+<p>Rather, what makes them difficult to replicate is the silk production apparatus. The silk gland stores a large quantity of the fluid suspension of the silk molecules, but to make a silk fiber requires passage through a long duct that physically compresses and stretches the fibers as it extracts water and acidifies the environment, causing a controlled phase transition that makes the silk molecules align and precipitate to build a continuous fiber. That’s the hard part. It’s the gene (relatively easy) plus the specific mechanical and chemical processing that makes the silk. It is not at all remarkable that we can’t duplicate that process, but there’s nothing divine about it.</p>
+<p>But that’s all there is to this article. Gosh, it’s amazing what biology can accomplish, says the guy who thinks it’s all about engineering.</p>
+<blockquote class="creationist"><p>Various spiderwebs, even among spiders of the same species, are far from identical. The most obvious reason for the differences is that each is tailored to its specific location. As the Goulds explain, “Every set of initial anchor points is different; the number of radii is contingent on opportunity; the beginning of the sticky spiral depends on where the longest several radii turn out to be. In short, each web is a custom production.” The Goulds postulate that spiders have a form of mapping ability that enables them to implement general design principles in a wide variety of circumstances. This is demonstrated, for instance, by spiders successfully making repairs to damaged webs.</p></blockquote>
+<p>And…? So…? The reason every web is a custom production is that nature is not uniform. A spider has an algorithm for navigating a variable environment: an orb weaver lays down radial lines from a central point to convenient anchor points, then walks a spiral, laying down sticky threads. The process builds a recognizable, functional sheet that varies depending on structures in the neighborhood. What is the miracle here?</p>
+<blockquote class="creationist"><p>Providing credible evolutionary explanations for the origin of silk and web design has proven problematic. Several theories have been proposed for the origin of both, but none have been generally accepted. Biologist and spider specialist William Shear concedes that “a functional explanation for the origins of silk and the spinning habit may be impossible to achieve.” One complicating factor is that the webs of some spiders that are more distantly related are nearly identical. Shear writes, “It appears probable that several web types are the product of convergent evolution — that is, that the same web has evolved in unrelated species that have adapted to similar environmental circumstances.” But as I will argue in Chapter 6, that is an unconvincing explanation for the origin of complex programmed behaviors. </p></blockquote>
+<p>For someone cited by a creationist, WA Shear sure has a lot of publications on the paleontology and evolution of spiders and other invertebrates. It looks like his work might have been mined to extract a misleading quote, and yep, he sure has.</p>
+<p>That brief quote is taken from an article titled, “Untangling the evolution of the web,” and surprise, surprise, surprise, the creationist has left out the bulk of the context. I know, a creationist lies about the scientific literature? Say it ain’t so! But here’s the full and accurate quote from the paper. It <em>starts</em>, “A functional explanation for the origins of silk and the spinning habit may be impossible to achieve”, but then there’s a goddamn COMMA.</p>
+<blockquote><p>A functional explanation for the origins of silk and the spinning habit may be impossible to achieve<strong>,</strong> but the evolution of silk-spinning <em>organs</em> has been studied, and debated, extensively. Revealing <strong>evidence</strong> has come from the histology of silk glands — the details of their cellular construction — and from the embryological development of the spinnerets themselves. Histological <strong>evidence</strong> allows us to draw connections, or homologies, between silk glands in different spider groups, and embryology shows clearly that the spinnerets are paired abdominal appendages, with the silk issuing from modified setae, or hairs. So much information is available on the anatomy of the spinning apparatus, in fact, that the traditional view of web evolution rests heavily on a classification derived from the form and position of spinnerets.</p></blockquote>
+<p>This is one of those things about the creationist literature that makes me thoroughly furious: they unethically misrepresent and actively distort the work published in the credible scientific literature to pretend they are scholars. They aren’t. They’re liars. And they spin their lies out into collections of self-reinforcing nonsense. I note that the creationist here seems to think that convergent evolution is somehow an unacceptable explanation for the origin of multiple kinds of webs, and cites his <em>own goddamn book</em>, authored by a creationist engineer with no qualifications at all in this field, and ignores the fact that his source, WA Shear, goes on to give a summary of the evolution of diverse webs. That’s not a book worth reading, obviously.</p>
+<p>Also, that Shear article contains a simple, clear illustration of the pattern of evolution that this creationist twit thinks can’t exist.</p>
+<div id="attachment_64831" style="width: 510px" class="wp-caption aligncenter"><img src="https://freethoughtblogs.com/pharyngula/files/2021/12/webevo-500x337.png" alt="" width="500" height="337" class="size-large wp-image-64831" srcset="https://freethoughtblogs.com/pharyngula/files/2021/12/webevo-500x337.png 500w, https://freethoughtblogs.com/pharyngula/files/2021/12/webevo-150x101.png 150w, https://freethoughtblogs.com/pharyngula/files/2021/12/webevo-300x202.png 300w, https://freethoughtblogs.com/pharyngula/files/2021/12/webevo-768x517.png 768w, https://freethoughtblogs.com/pharyngula/files/2021/12/webevo.png 851w" sizes="(max-width: 500px) 100vw, 500px"/><p class="wp-caption-text">Phylogenetic tree shows how some families of spiders may have arrived at similar and different web designs. The Mesothelae are generally believed to have evolved first from the common ancestor of all spiders, followed by the Mygalomorphae and the “true spiders”, the Araneomorphae. The monophyletic hypothesis of orb-web origin (which is incorporated into this diagram) holds that the orb-web was invented by an araneomorph, the common ancestor of araneoid and uloborid spiders, that had a cribellum. The cribellum was acquired by a spider that was the common ancestor of all araneomorphs, including the araneoid superfamily and the uloborids. The araneoids lost the cribellum, and some araneoid families later lost the orb. Among the uloborids and their close relatives, the dinopids, are many species that have modified the orb.</p></div>
+<p>But wait! There’s much more, all conveniently left out of Cassell’s stupid mangling of the article. We do have good models for the evolution of spider webs, all based on, as Shear notes, the <em>evidence</em> from taxonomy and histology and molecular biology.</p>
+<div id="attachment_64832" style="width: 510px" class="wp-caption aligncenter"><img src="https://freethoughtblogs.com/pharyngula/files/2021/12/webpathways-500x395.png" alt="" width="500" height="395" class="size-large wp-image-64832" srcset="https://freethoughtblogs.com/pharyngula/files/2021/12/webpathways-500x395.png 500w, https://freethoughtblogs.com/pharyngula/files/2021/12/webpathways-150x119.png 150w, https://freethoughtblogs.com/pharyngula/files/2021/12/webpathways-300x237.png 300w, https://freethoughtblogs.com/pharyngula/files/2021/12/webpathways-768x607.png 768w, https://freethoughtblogs.com/pharyngula/files/2021/12/webpathways.png 851w" sizes="(max-width: 500px) 100vw, 500px"/><p class="wp-caption-text">Hypothetical pathways of spider-web evolution form a tangled web of their own, with the question of the orb’s origin, and its role as a possible precursor to other webs, at the center. In several cases it’s not clear which web is ancestral; it is possible that some aerial sheet webs preceded the orb web, whereas others developed from the orb. Pathways that are less likely are indicated by light-orange arrows; for some of them there is no direct evidence.</p></div>
+<p>Oh look. Someone had the proper respect for the evidence and was happy to talk about the strengths and weakness of the support for their model, and it wasn’t Eric Cassel.</p>
+<p>I’ll also note that Cassel is relying on a generalist article from 1994 which incorporates little of the evidence from modern molecular phylogenies. He didn’t understand the 27 year old article, there’s little hope he could grasp a modern analysis, in which the details of evolution have been strengthened. Here’s an example from 2012, <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0038084">Early Events in the Evolution of Spider Silk Genes</a>:</p>
+<div id="attachment_64833" style="width: 510px" class="wp-caption aligncenter"><img src="https://freethoughtblogs.com/pharyngula/files/2021/12/spidroinphylogeny-500x671.png" alt="" width="500" height="671" class="size-large wp-image-64833" srcset="https://freethoughtblogs.com/pharyngula/files/2021/12/spidroinphylogeny-500x671.png 500w, https://freethoughtblogs.com/pharyngula/files/2021/12/spidroinphylogeny-112x150.png 112w, https://freethoughtblogs.com/pharyngula/files/2021/12/spidroinphylogeny-223x300.png 223w, https://freethoughtblogs.com/pharyngula/files/2021/12/spidroinphylogeny-768x1031.png 768w" sizes="(max-width: 500px) 100vw, 500px"/><p class="wp-caption-text">Spidroin gene tree is based on a ML analysis of the carboxy-terminal encoding region with gaps coded as binary characters and monophyly of some groups constrained (see Methods). Numbers next to nodes and terminals correspond to numbers in supplementary Tables S1 and S2 showing support values, alternate rootings, and continuous character data. Spidroins are colored according to the taxonomic group from which they were characterized: purple = Mesothelae, blue = Mygalomorphae, green = Araneomorphae. Gray squares indicate duplication events inferred by reconciliation. Hash marks on branch indicate arbitrary shortening of branch for figure quality purposes. Brackets indicate clades with the following abbreviations: AcSp = Aciniform, TuSp = Tubuliform, PySp = Pyriform, MaSp = Major ampullate, MiSp = Minor ampullate, Flag = Flagelliform.</p></div>
+<blockquote class="creationist"><p>A more fundamental challenge for those seeking to provide a detailed, causally credible explanation for the origin of silk and spiderweb architecture is the number of genes involved in producing silk, and the complex genomes of spiders. After decades of failed attempts to provide a causally adequate explanation, one can be forgiven for concluding that we have no compelling reason to assume that a step-by-step evolutionary pathway to such an information-rich substrate actually exists. And as we will discuss later, there are now some positive reasons to consider that such information-rich systems have for their source something other than a purely blind material process. Here, suffice it to say that the behaviors and functions associated with both silk and web spinning exhibit many characteristics of human engineering, and engineering of a very high order. </p></blockquote>
+<p>Repeat after me:</p>
+<p><strong>Complexity is not evidence of design.</strong></p>
+<p><strong>Complexity is not evidence of design.</strong></p>
+<p><strong>Complexity is not evidence of design.</strong></p>
+<p>Also repeat after me:</p>
+<p><strong>My ignorance is not evidence of design.</strong></p>
+<p><strong>My ignorance is not evidence of design.</strong></p>
+<p><strong>My ignorance is not evidence of design.</strong></p>
+<p>Biologists have provided causally adequate explanations for the origin and evolution of diverse spider webs, Mr Cassell is simply intentionally and maliciously ignoring them, and further, lying about the content of the scientific literature to make a claim that arachnologists are as ignorant as he is. He’s also logically contradictory.</p>
+<p>If, <q>Given the advanced genetic and manufacturing technologies available today, it is remarkable that spider silk still cannot be duplicated</q>, how can you then turn around say that webs <q>exhibit many characteristics of human engineering, and engineering of a very high order</q>?</p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Oh dear. Oh dear oh dear oh dear. The Discovery Institute has turned it’s puerile, feeble attention to spiders now, and it’s as pathetic as you might imagine. It’s written by a guy, Eric Cassell, who felt it important to mention that he had an undergraduate biology degree, which he earned at least four decades […]</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=64830</id>
+    <published>2021-12-11T15:54:39Z</published>
+    <updated>2021-12-11T15:54:39Z</updated>
+    <category term="Bad science"/>
+    <category term="Science"/>
+    <category term="Spiders"/>
+  </entry>
   <entry>
     <title>Reminder: Celebrate the season with FtB today!</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/12/11/reminder-celebrate-the-season-with-ftb-today/" type="text/html"/>
@@ -64,56 +137,6 @@
     <published>2021-12-10T16:19:45Z</published>
     <updated>2021-12-10T16:19:45Z</updated>
     <category term="Spiders"/>
-  </entry>
-  <entry>
-    <title>I will never understand what’s going on in the UK</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/12/10/i-will-never-understand-whats-going-on-in-the-uk/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p><img src="https://freethoughtblogs.com/pharyngula/files/2021/12/borischristmas-150x95.jpeg" alt="" width="150" height="95" class="alignright size-thumbnail wp-image-64820" srcset="https://freethoughtblogs.com/pharyngula/files/2021/12/borischristmas-150x95.jpeg 150w, https://freethoughtblogs.com/pharyngula/files/2021/12/borischristmas-300x189.jpeg 300w, https://freethoughtblogs.com/pharyngula/files/2021/12/borischristmas-500x315.jpeg 500w, https://freethoughtblogs.com/pharyngula/files/2021/12/borischristmas.jpeg 700w" sizes="(max-width: 150px) 100vw, 150px"/></p>
-<p class="lead">I will also never understand what’s going on in the US. So, after years of incompetence and corruption, the one thing that might crash the insane conservative party in the UK is…<a href="https://www.yahoo.com/gma/pressure-grows-uk-prime-minister-180300921.html">a Christmas party</a>?</p>
-<blockquote><p>U.K. Prime Minister Boris Johnson is facing calls to resign over reports that members of his staff attended a Christmas party last year while the country was in lockdown.</p>
-<p>The Daily Mirror newspaper reported that the party took place on Dec. 18, 2020, which would have been illegal under the coronavirus restrictions in place at the time. Johnson has denied the allegation.</p></blockquote>
-<p>The aftermath has already brought down one party official.</p>
-<blockquote><p>In the video, the prime minister’s press secretary and other staff members can be seen holding a mock press conference, discussing how they would respond to allegations that Downing Street had held a Christmas party.</p>
-<p>“It wasn’t a party, it was cheese and wine,” one person can be heard saying, prompting laughs across the room. The leaked video prompted fury from opposition lawmakers and residents alike.</p>
-<p>Allegra Stratton, the staff member seen in the video, resigned from her post on Wednesday.</p></blockquote>
-<p>The party of Brexit might be brought down (I expect them to weasel away, though) for their hypocrisy in flouting their own rules? OK, I guess we should be grateful for that.</p>
-<p>I can’t single out the UK for this bizarre conservative madness, given the fact that the conservative party over here sponsored an insurrection and none of the instigators are being brought to justice…and in fact, still serve in our legislative bodies. Can we organize a Christmas party for them?</p>
-<p>Related: my university division was scheduled to have our annual Christmas party next week. We were recently informed that it has been postponed to January because “COVID cases are on the rise in the area and we want to ensure everyone’s safety”. I think it helps that we have a biologist chairing the division.</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">I will also never understand what’s going on in the US. So, after years of incompetence and corruption, the one thing that might crash the insane conservative party in the UK is…a Christmas party? U.K. Prime Minister Boris Johnson is facing calls to resign over reports that members of his staff attended a Christmas party […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=64819</id>
-    <published>2021-12-10T15:49:39Z</published>
-    <updated>2021-12-10T15:49:39Z</updated>
-    <category term="Politics, History, and Law"/>
-  </entry>
-  <entry>
-    <title>Friday Cephalopod: Santapus!</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/12/10/friday-cephalopod-santapus/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p><img src="https://freethoughtblogs.com/pharyngula/files/2021/12/octopuseye-500x333.jpeg" alt="" width="500" height="333" class="aligncenter size-large wp-image-64817" srcset="https://freethoughtblogs.com/pharyngula/files/2021/12/octopuseye-500x333.jpeg 500w, https://freethoughtblogs.com/pharyngula/files/2021/12/octopuseye-150x100.jpeg 150w, https://freethoughtblogs.com/pharyngula/files/2021/12/octopuseye-300x200.jpeg 300w, https://freethoughtblogs.com/pharyngula/files/2021/12/octopuseye-768x512.jpeg 768w, https://freethoughtblogs.com/pharyngula/files/2021/12/octopuseye.jpeg 800w" sizes="(max-width: 500px) 100vw, 500px"/></p>
-<p class="lead">He sees you when you’re sleeping<br/>
-He knows when you’re awake<br/>
-He knows if you’ve been bad or good<br/>
-So be good for goodness sake!</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">He sees you when you’re sleeping He knows when you’re awake He knows if you’ve been bad or good So be good for goodness sake!</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=64816</id>
-    <published>2021-12-10T15:15:56Z</published>
-    <updated>2021-12-10T15:15:56Z</updated>
-    <category term="Cephalopods"/>
   </entry>
   <entry>
     <title>Q&amp;A: Eimear McBride</title>
