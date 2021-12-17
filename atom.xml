@@ -7,9 +7,27 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2021-12-17T12:39:53Z</updated>
+  <updated>2021-12-17T13:34:49Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>“It’s on her left foot!”</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/12/17/its-on-her-left-foot/" type="text/html"/>
+    <content type="html">&lt;p class='lead'&gt;The health minister in Queensland, Australia was interrupted when a huntsman was found crawling on her.&lt;/p&gt;
+&lt;div class="center"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/1u67zQsK1Io" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;p&gt;Wait, wait, she&amp;#8217;s talking about the impact of COVID-19 on her community &amp;#8212; the spider is cute and adorable (although we don&amp;#8217;t even get a photo of it), but isn&amp;#8217;t that a relatively unimportant part of the event to be making the news? If I were there, I&amp;#8217;d volunteer to cuddle the spider so she can get on with the &lt;em&gt;important message&lt;/em&gt;.&lt;/p&gt;
+</content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">The health minister in Queensland, Australia was interrupted when a huntsman was found crawling on her. Wait, wait, she’s talking about the impact of COVID-19 on her community — the spider is cute and adorable (although we don’t even get a photo of it), but isn’t that a relatively unimportant part of the event to […]</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=64906</id>
+    <published>2021-12-17T13:31:46Z</published>
+    <updated>2021-12-17T13:31:46Z</updated>
+    <category term="Spiders"/>
+  </entry>
   <entry>
     <title>One thing I don’t miss from Salt Lake City</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/12/16/one-thing-i-dont-miss-from-salt-lake-city/" type="text/html"/>
@@ -134,25 +152,6 @@
     <published>2021-12-16T14:17:16Z</published>
     <updated>2021-12-16T14:17:16Z</updated>
     <category term="Politics, History, and Law"/>
-  </entry>
-  <entry>
-    <title>We weathered that weather just fine</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/12/16/we-weathered-that-weather-just-fine/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p class="lead">We had a night of howling window-rattling, but that was the worst of it. We dropped from 4°C to -12°C overnight and acquired a thin layer of snow — hard to tell how much because the wind scoured it off of exposed surfaces. We are on the northern edge of the <a href="https://www.washingtonpost.com/nation/2021/12/16/power-outage-midwest-storms-tornado-derecho/">big storm that ripped through the midwest</a>, so we still have power and all that good stuff — Iowa, SE Minnesota, Wisconsin, and Michigan suffered far worse.</p>
-<p>So, I selfishly wonder, will my flies arrive safely at the lab today? That’s the real test.</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">We had a night of howling window-rattling, but that was the worst of it. We dropped from 4°C to -12°C overnight and acquired a thin layer of snow — hard to tell how much because the wind scoured it off of exposed surfaces. We are on the northern edge of the big storm that ripped […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=64889</id>
-    <published>2021-12-16T13:48:11Z</published>
-    <updated>2021-12-16T13:48:11Z</updated>
-    <category term="Miscellaneous and Meta"/>
   </entry>
   <entry>
     <title>The curious mind of a dog</title>
