@@ -7,9 +7,53 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2021-12-22T13:36:40Z</updated>
+  <updated>2021-12-22T14:33:51Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Would you put your brain in a robot body?</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/12/22/would-you-put-your-brain-in-a-robot-body/" type="text/html"/>
+    <content type="html">&lt;p class="lead"&gt;This little cartoon captures the American zeitgeist perfectly.&lt;/p&gt;
+&lt;div class="center"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/NKVkMEhtkI8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+</content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">This little cartoon captures the American zeitgeist perfectly.</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=64980</id>
+    <published>2021-12-22T14:12:30Z</published>
+    <updated>2021-12-22T14:12:30Z</updated>
+    <category term="Miscellaneous and Meta"/>
+  </entry>
+  <entry>
+    <title>How are we supposed to teach in the Plague Years?</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/12/22/how-are-we-supposed-to-teach-in-the-plague-years/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p><img src="https://freethoughtblogs.com/pharyngula/files/2021/05/covid-150x100.jpg" alt="" width="150" height="100" class="alignright size-thumbnail wp-image-62859" srcset="https://freethoughtblogs.com/pharyngula/files/2021/05/covid-150x100.jpg 150w, https://freethoughtblogs.com/pharyngula/files/2021/05/covid-300x201.jpg 300w, https://freethoughtblogs.com/pharyngula/files/2021/05/covid-768x514.jpg 768w, https://freethoughtblogs.com/pharyngula/files/2021/05/covid-500x334.jpg 500w, https://freethoughtblogs.com/pharyngula/files/2021/05/covid.jpg 1280w" sizes="(max-width: 150px) 100vw, 150px"/></p>
+<p class="lead">Yesterday, I got all my grades turned in, meaning Fall semester is all done…oh, wait, I had to write a bunch of student recommendations and get those sent off. OK, that done, <em>now</em> the semester is behind me, I’m care-free and can go dancing in the streets, or <em>whatever I want</em> for a little while. So what do I do? I opened up my calendar and started planning my schedule for next semester, sketching in lab protocols and exam dates, assembling the information that’ll go into my syllabus. I had some ideas for revising the content/pedagogy of the course, and I wanted to map them out.</p>
+<p>It was kind of pointless.</p>
+<p>Universities elsewhere (not the University of Minnesota, which will drag its heels to the last moment) are noticing this Omicron variant, and how quickly it may potentially spread, and are scrambling to adjust their schedules, just in case. <a href="https://www.sacbee.com/news/coronavirus/article256767607.html">Four California universities are switching to online only instruction</a> for the first few weeks of the spring term; the <a href="https://www.washington.edu/coronavirus/2021/12/21/most-classes-will-meet-online-the-first-week-of-winter-quarter-message-to-uw-students-and-personnel/">University of Washington is going online only for the first week</a>. This is bad news. If you’ve paid any attention at all to university management for the last few years, you’d know that they are always reluctant to adjust to reality, and are never pro-active. If this is what the UW and UC are doing, the situation has to be far worse than anyone is telling.</p>
+<p>UM is doing nothing new. Not even a whisper of concern. You’d think, given the fact that our <a href="https://news.yahoo.com/minnesota-gov-tim-walz-announces-174207436.html?fr=yhssrp_catchall">governor and his family just tested positive for COVID-19</a>, that maybe there’d be an alarm bell ringing faintly in some neglected corner of the administration building. For that matter, you’d think Governor Walz might wake up and realize that his lackadaisical, half-assed approach of doing the bare minimum to contain the pandemic wasn’t working, but I don’t expect that to happen, either.</p>
+<p>I realized then that next term might be more challenging than I expected, especially since I’m now <em>required</em> to teach all of my classes in-person. Brilliant. Maybe that will change, but I think the faculty and students are now sacrificial lambs laid out on the altar of an optimistic sense of normalcy. It’s all on the shoulders of the faculty to figure out how to flexibly cope with the changing situation.</p>
+<p>I made a decision as I was drafting my syllabus. I am required by my employers to be there in Sci 1020, the genetics classroom, but I don’t have to demand that students be there. I’m making attendance optional. I’ll record all my lectures and post them online. Exams will all be take-home. I’ll hold office hours on campus (you better be vaccinated &amp; wearing a mask if you show up in person) and held simultaneously on Zoom.</p>
+<p>The lab is a problem. Actually doing the data collection and analysis of independently acquired data is kind of the core purpose of doing a lab, and it’s going to require using on-campus facilities. I have a plan for that, too. The first week of lab will be online: it’s all preparation in basic probability and statistics to get ready for the actual work, and I have exercises in coin-flipping and die-rolling they can do at home. That one is manageable.</p>
+<p>Subsequent labs are all about working with flies, and most people would rather not breed thousands of fruit flies in their kitchen. Once again, I am required to teach in-person, so I’ll go in, record myself doing the procedures and showing the students who show up how to do them, and make that available online. Then I’m throwing the lab schedule out the window: the genetics lab will be open from 9am onwards, students will come in when they’ve got available time to do the work on our incubators and microscopes, and I’ll be on call to help out from 9-whenever. That should help spread out attendance. If the university shuts down (I hope the severity of the pandemic isn’t so great that that is necessary), I’ll do the experiments alone, supplemented with class data from previous years, so the students will at least have numbers and phenotypic data to analyze.</p>
+<p>It’s going to be a lot of extra work, but I’ll do it. The university administration better be prepared, too: so help me Dog if any of my students die of COVID-19 because of the mandated university environment, I’ll be preparing my letter of resignation and will take my retirement right now, thank you very much. I am so damn tired of irresponsible, incompetent responses to the pandemic, not just from my university, but from every level of government.</p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Yesterday, I got all my grades turned in, meaning Fall semester is all done…oh, wait, I had to write a bunch of student recommendations and get those sent off. OK, that done, now the semester is behind me, I’m care-free and can go dancing in the streets, or whatever I want for a little while. […]</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=64978</id>
+    <published>2021-12-22T13:53:41Z</published>
+    <updated>2021-12-22T13:53:41Z</updated>
+    <category term="Miscellaneous and Meta"/>
+  </entry>
   <entry>
     <title>My illusory award of two days of vacation</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/12/22/my-illusory-award-of-two-days-of-vacation/" type="text/html"/>
@@ -87,80 +131,6 @@
     <published>2021-12-21T18:32:06Z</published>
     <updated>2021-12-21T18:32:06Z</updated>
     <category term="Science"/>
-  </entry>
-  <entry>
-    <title>Who is doing the silencing?</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/12/21/who-is-doing-the-silencing/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p class="lead">Oh dear. Those poor authors of that dreadful argument for bad policy, the Great Barrington Declaration, are <a href="https://sciencebasedmedicine.org/muzzled/">complaining that they’re being silenced</a>. You know where this is going, right?</p>
-<blockquote><p>In fact, these individuals are rather omnipresent figures in the COVID-19 media landscape. They have been on many large podcasts. They have given many TV interviews. They have been interviewed by and written many editorials in large newspapers. They’ve been profiled by the New York Times and Medpage Today. They have a large presence on social media. They have made a truly remarkable number of YouTube videos (Dr. Jay Bahattacharya, Dr. Sunetra Gupta, Dr. Marin Kulldorff), some of which have been seen by millions of people. They have testified before Congress and in courts regarding COVID-19 policy. Some have gained new funding sources or found new employment in right-wing think tanks. They’ve met with and influenced powerful politicians, such as Florida Governor Ron DeSantis. They held a “medical experts roundtable” at President Trump’s White House. Dr. Gupta met with and influenced UK Prime Minister Boris Johnson. Journalists rightly say the’ve become “famous voices” this pandemic.</p></blockquote>
-<p>Please, don’t hurt them any more. Poor babies.</p>
-<p><img src="https://freethoughtblogs.com/pharyngula/files/2021/12/nebraska-150x85.jpeg" alt="" width="150" height="85" class="alignright size-thumbnail wp-image-64963" srcset="https://freethoughtblogs.com/pharyngula/files/2021/12/nebraska-150x85.jpeg 150w, https://freethoughtblogs.com/pharyngula/files/2021/12/nebraska-300x169.jpeg 300w, https://freethoughtblogs.com/pharyngula/files/2021/12/nebraska-768x433.jpeg 768w, https://freethoughtblogs.com/pharyngula/files/2021/12/nebraska-500x282.jpeg 500w, https://freethoughtblogs.com/pharyngula/files/2021/12/nebraska.jpeg 900w" sizes="(max-width: 150px) 100vw, 150px"/></p>
-<p>You know who’s actually getting silenced? <a href="https://www.usnews.com/news/best-states/nebraska/articles/2021-06-30/nebraska-plans-to-stop-reporting-coronavirus-statistics">Nebraska</a>.</p>
-<blockquote><p> Nebraska plans to stop reporting coronavirus numbers online after Wednesday.</p>
-<p>The state Department of Health and Human Services said Wednesday that it plans to retire the online dashboard that it has used to report statistics on the coronavirus pandemic for more than a year. The current state virus emergency is also set to expire on Wednesday, and along with that Nebraska is eliminating the last few social distancing guidelines that remained in place.</p></blockquote>
-<p>It’s OK. Don’t you know the pandemic is over?</p>
-<blockquote>
-<p>The state also said that 48.2% of Nebraska’s population has now been vaccinated against the coronavirus. The pace of vaccinations has slowed significantly since April</p>
-<p>Over the past two weeks, the seven-day rolling average of daily new cases in Nebraska has risen from 29 new cases per day on June 14 to 43 new cases per day on Monday, according to data from Johns Hopkins University.</p>
-</blockquote>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Oh dear. Those poor authors of that dreadful argument for bad policy, the Great Barrington Declaration, are complaining that they’re being silenced. You know where this is going, right? In fact, these individuals are rather omnipresent figures in the COVID-19 media landscape. They have been on many large podcasts. They have given many TV interviews. […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=64962</id>
-    <published>2021-12-21T15:38:47Z</published>
-    <updated>2021-12-21T15:38:47Z</updated>
-    <category term="Miscellaneous and Meta"/>
-  </entry>
-  <entry>
-    <title>Sexual harassment…in my own back yard!</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/12/21/sexual-harassmentin-my-own-back-yard/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p class="lead">A sexual harassment case brought by a student against a professor at the University of Minnesota (Twin Cities — my back yard is 150 miles long) has <a href="https://minnesota.cbslocal.com/2021/12/17/mdhr-settlement-reached-with-umn-after-professor-sexually-harassed-graduate-student/">finally been closed with a settlement</a>.</p>
-<blockquote><p>The Minnesota Department of Human Rights announced Friday a settlement agreement with the University of Minnesota Board of Regents after a Humphrey School professor sexually harassed a graduate student.</p>
-<p>The settlement requires the Humphrey School of Public Affairs to take steps to prevent sexual harassment, pay a graduate student $75,000 and allow the student to complete her degree tuition-free, according to the release.</p></blockquote>
-<p>Well, yay. He was an egregious offender.</p>
-<blockquote><p>According to the release, “the professor made sexual comments in front of her, told her about sex he had with other women, and commented on her appearance in front of her classmates.” The professor also told the student he wanted to be her boyfriend and live together in his home.</p></blockquote>
-<p>There are a few problems with the settlement, though. Free tuition is nice, except <a href="https://mndaily.com/270303/news/umn-to-pay-student-75000-as-part-of-sexual-harassment-settlement/">the student hasn’t attended classes since 2018</a>. One might guess that she’s less than enthusiastic about returning to the scene of the crime, where the university was so slow in responding. It also doesn’t help that after the professor resigned, the dean of the business school sent out a university-wide email praising him as an “accomplished scholar“ who contributed “substantially” to the school’s global policy classes and research agenda.</p>
-<p>Also, there’s the little matter of the student getting $75,000, and the <a href="https://mndaily.com/265418/news/umn-paid-professor-disciplined-for-sexual-harassment-over-190000-after-resignation/">professor getting $190,000</a> as an incentive to resign. Also getting 3 other pending cases against him dismissed. Also getting an agreement that the university would not publicize his firing…oops, resignation. Also, they initially let him back on the faculty, without notifying students of the results of the investigation that found him guilty.</p>
-<p>Hey! It looks like the professor, James Ron, is back on the job market, and he used some of his settlement cash to hire someone to build him a <a href="https://jamesron.com/#home">cheesy, generic website to advertise has availability.</a></p>
-<blockquote class="creationist"><p><img src="https://freethoughtblogs.com/pharyngula/files/2021/12/jamesron-127x150.png" alt="" width="127" height="150" class="alignright size-thumbnail wp-image-64959" srcset="https://freethoughtblogs.com/pharyngula/files/2021/12/jamesron-127x150.png 127w, https://freethoughtblogs.com/pharyngula/files/2021/12/jamesron-253x300.png 253w, https://freethoughtblogs.com/pharyngula/files/2021/12/jamesron-500x592.png 500w, https://freethoughtblogs.com/pharyngula/files/2021/12/jamesron.png 557w" sizes="(max-width: 127px) 100vw, 127px"/>James Ron is a dynamic, creative, and adaptable senior research professional with deep and broad experience defining research approaches and methods, managing large, diverse global and domestic project teams, developing policy recommendations, and reporting results. James is respected as a published scholar, author and thought leader.</p></blockquote>
-<p>It mentions his employment at the University of Minnesota, but for completely understandable reasons, fails to mention why he left a job that pays $170,000 per year (Huh…I get less than half that, and I don’t harass my students.)</p>
-<p>His colleague, <a href="https://academic-sexual-misconduct-database.org/person/jason-cao">Jason Cao</a>, was also found guilty of violating university policy. He’s still working in the Humphrey School of Business, with restrictions on who he can advise.</p>
-<p>Lest you think these are just the sins of those over-privileged wankers in the business school, take a look at the UMN biochemistry department, and the <a href="https://cen.acs.org/careers/women-in-science/sexual-harassment-gianluigi-veglia-minnesota-not-fired/99/i9">seedy reputation of Gianluigi Veglia</a>. There’s a nice short summary at that link.</p>
-<blockquote><p><img src="https://freethoughtblogs.com/pharyngula/files/2021/12/GianluigiVeglia-100x150.jpeg" alt="" width="100" height="150" class="alignright size-thumbnail wp-image-64960" srcset="https://freethoughtblogs.com/pharyngula/files/2021/12/GianluigiVeglia-100x150.jpeg 100w, https://freethoughtblogs.com/pharyngula/files/2021/12/GianluigiVeglia.jpeg 200w" sizes="(max-width: 100px) 100vw, 100px"/>After enduring years of sexual harassment, two members of biochemist Gianluigi Veglia’s lab filed complaints with the University of Minnesota Twin Cities. Investigators corroborated their accounts and recommended that Veglia be fired. University administrators decided to impose lesser sanctions instead. The university kept the decision quiet until a Minneapolis newspaper revealed details. Universities often don’t disclose information about harassment cases, but sexual harassment experts say this practice is harmful. The lack of transparency about the sanctions against Veglia, who continues to work at the university, catalyzed reforms intended to protect against sexual harassment and improve decision-making. But distrust continues among faculty and graduate students.</p></blockquote>
-<p>It wasn’t a secret. Veglia was <em>openly</em> harassing his students.</p>
-<blockquote><p>Veglia also regularly harassed Soller about the fact that she was married. He said, “Why are you missing out on all of these experiences you could be having in grad school because you’re married?” Soller says. “I was also told that I couldn’t be a successful scientist and also wife.”</p>
-<p>She also recalls one time when Veglia commented on a lab mate, saying something to the effect of, “I bet she’s a devil in bed.”</p>
-<p>Veglia referred to the female graduate students in his lab as “Veglia chicks,” Soller says. “When you’re constantly being referred to as that, and you’re trying to be taken as a serious scientist in the field, it’s degrading.”</p>
-<p>Dicke, who joined Veglia’s lab in 2012, says he would frequently tell her that the only reason he hired her was for her looks.</p>
-<p>“At one point he told me that I was very beautiful and that I was going to be sexually harassed and that’s why he said inappropriate things to me—because I need to be desensitized to it,” Dicke says. “At some point he told me that I just want to be dominated. He meant that in a sexual way.”</p>
-<p>Another time, “he tapped my arm with his elbow and said, ‘Don’t order anything with garlic so we can get close later’ in front of this other professor. The other professor responded by saying that we should order more wine because the ladies need to loosen up,” Dicke says. The other professor was not from the University of Minnesota, Dicke says, though she declined to give C&amp;EN his name.</p></blockquote>
-<p>Don’t worry, though, the faculty had a “vibrant” discussion about him.</p>
-<blockquote><p>“Given its egregious and repetitive nature, Dr. Veglia’s conduct created an intimidating, hostile, and offensive working environment,” one of the reports says. The parts of the reports that included Veglia’s responses to the complaints were redacted.</p>
-<p>In a separate letter, the EOAA Office recommended that Veglia be fired, according to several of C&amp;EN’s sources.</p>
-<p>“A very vibrant, protracted discussion” ensued to determine Veglia’s fate, according to one administrator, who asked not to be named because the person was not authorized to talk about the proceedings. According to the administrator, the people involved had different opinions about the facts of the case, as well as whether firing was an appropriate punishment for the harassment. <strong>Everyone directly involved in the discussion was a man</strong>, except for EOAA representatives.</p></blockquote>
-<p>It is reassuring in a way, I suppose, that the university will do their darndest to shield me, and the university, from embarrassment if I should go on a sexual rampage. It is not at all reassuring that I might have to work with assholes, or that my students are vulnerable to this sort of thing. Fortunately, my colleagues here at the Morris campus of the UMN all seem to be decent, good people…but then, how would I know? The <a href="https://web.archive.org/web/20180502165841/http://www.citypages.com/news/how-the-university-of-minnesota-hides-its-professors-sexual-harassment/481408991">university likes to conceal this information from <em>everyone</em></a>.</p>
-<blockquote><p>Of the 55 sexual misconduct cases substantiated in the university system from 2013 through 2017, more than half ended in the shadows. In 23 of the cases, the responsible employee left the university either through “resignation, lay-off or non-renewal” after the finding but before being disciplined; their names and case files are not publicly released.</p>
-<p>In nine other cases, the employees remained at the university but weren’t disciplined. They may have received letters of expectation, been directed to complete training, or received coaching or monitoring, but these consequences are not severe enough to meet the university’s definition of discipline. Their names and case files also remain private.</p></blockquote>
-<p>I’d like this place to hold higher standards.</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">A sexual harassment case brought by a student against a professor at the University of Minnesota (Twin Cities — my back yard is 150 miles long) has finally been closed with a settlement. The Minnesota Department of Human Rights announced Friday a settlement agreement with the University of Minnesota Board of Regents after a Humphrey […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=64958</id>
-    <published>2021-12-21T14:23:42Z</published>
-    <updated>2021-12-21T14:23:42Z</updated>
-    <category term="Feminism, Gender, and Equality"/>
   </entry>
   <entry>
     <title>The quiet subversiveness of A Christmas Carol</title>
