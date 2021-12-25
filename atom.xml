@@ -7,9 +7,26 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2021-12-25T15:34:31Z</updated>
+  <updated>2021-12-25T16:39:47Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Oryx!</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/12/25/oryx/" type="text/html"/>
+    <content type="html">&lt;p class="lead"&gt;If you&amp;#8217;re just sitting around, digesting rubbery muffins like I am, may I recommend the Namib Desert cam? Right now there&amp;#8217;s a herd of oryx hanging around the waterhole.&lt;/p&gt;
+&lt;div class="center"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/ydYDqZQpim8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+</content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">If you’re just sitting around, digesting rubbery muffins like I am, may I recommend the Namib Desert cam? Right now there’s a herd of oryx hanging around the waterhole.</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=65016</id>
+    <published>2021-12-25T15:51:51Z</published>
+    <updated>2021-12-25T15:51:51Z</updated>
+    <category term="Organisms"/>
+  </entry>
   <entry>
     <title>My Xmas breakfast</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/12/25/my-xmas-breakfast/" type="text/html"/>
@@ -97,35 +114,6 @@
     <published>2021-12-24T20:08:48Z</published>
     <updated>2021-12-24T20:08:48Z</updated>
     <category term="Creationism"/>
-  </entry>
-  <entry>
-    <title>So…this Christmas Eve thing</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/12/24/sothis-christmas-eve-thing/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p><img src="https://freethoughtblogs.com/pharyngula/files/2021/12/keep-calm-its-christmas-and-were-all-in-misery-257x300.png" alt="" width="257" height="300" class="alignright size-medium wp-image-64999" srcset="https://freethoughtblogs.com/pharyngula/files/2021/12/keep-calm-its-christmas-and-were-all-in-misery-257x300.png 257w, https://freethoughtblogs.com/pharyngula/files/2021/12/keep-calm-its-christmas-and-were-all-in-misery-129x150.png 129w, https://freethoughtblogs.com/pharyngula/files/2021/12/keep-calm-its-christmas-and-were-all-in-misery-500x583.png 500w, https://freethoughtblogs.com/pharyngula/files/2021/12/keep-calm-its-christmas-and-were-all-in-misery.png 600w" sizes="(max-width: 257px) 100vw, 257px"/></p>
-<p class="lead">I hope you’re all a lot less depressed than I am. This is not a good time of year for me, but maybe you’re still doing fine. Good! Celebrate!</p>
-<p>Here’s my Christmas misery.</p>
-<p>My father died quietly, in his sleep, on Christmas 28 years ago. You’d think it would stop hurting after 28 years, and no, it doesn’t, and it’s what I think of when I hear the word “Christmas”.</p>
-<p>That is not to say that there aren’t good associations, too — I had many years with kids getting deliriously happy at Christmas. Unfortunately, we’re not going to see any of them this year. We’ll all hunkering down in our houses and refusing to see anyone, or to have parties, or to even go outside. The family aspect, the best part of the season, is gone.</p>
-<p>Then, I got my Christmas present from my wife. Christmas presents are good, right? Nope, not this one. She signed me up for this thing called <a href="https://www.wellnessverge.com/zoe-personalized-nutrition-review">Zoe Personal Nutrition</a>, which is all about microbiome analysis and monitoring the effects of your diet on your physiology. The science is appealing. I like contributing to a scientific project as a subject. The reality is a little less thrilling.</p>
-<p>Yesterday, I stabbed myself with this continuous glucose monitor that I’ll be wearing for two weeks. That’s not so bad.</p>
-<p>Christmas Eve is poop sampling day. I got some gloves and a disposable sheet to spread across the toilet and a scoop and a sealable test tube and a mailer. Oh boy.</p>
-<p>Tomorrow I get to stick myself to take blood samples, and all I get to eat is some special muffins for breakfast and lunch. That’s my Christmas feast: prepackaged frozen muffins.</p>
-<p>After that, I’ll be scanning and weighing every single thing I eat for the next six months, and Mary is going to be monitoring my diet closely. Doesn’t that sound fun? I tried to tell her she could have saved a lot of money and labor if we just got a pizza for Christmas dinner, but apparently I don’t eat pizzas anymore.</p>
-<p>The end result, though, will be Science, I guess. A research team will know all about my microbiome composition, and how my body responds to various factors in my diet, and they’ll tell me all about it, and get a <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8265154/pdf/nihms-1712232.pdf">publication</a> or two out of it. I have no idea what I’ll do with the information — giving me a catalog of what species reside in my colon is about as useful as telling me that I’m a Pisces. </p>
-<p>Oh, well. Christmas sucks anyway. I’ll probably spend the day hanging out in the lab alone with my spiders.</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">I hope you’re all a lot less depressed than I am. This is not a good time of year for me, but maybe you’re still doing fine. Good! Celebrate! Here’s my Christmas misery. My father died quietly, in his sleep, on Christmas 28 years ago. You’d think it would stop hurting after 28 years, and […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=64998</id>
-    <published>2021-12-24T14:03:22Z</published>
-    <updated>2021-12-24T14:03:22Z</updated>
-    <category term="Miscellaneous and Meta"/>
   </entry>
   <entry>
     <title>Dr. Oz Wants to Go BACK to Congress??</title>
