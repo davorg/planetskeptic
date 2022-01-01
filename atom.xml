@@ -7,9 +7,28 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2022-01-01T13:36:09Z</updated>
+  <updated>2022-01-01T14:32:05Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Twenty twenty too</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/01/01/twenty-twenty-too/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p class="lead">New year, same as the old year. In 2020, I went into the spring term worried about this new virus everyone was talking about, and then it just got worse and worse until all in-person classes were cancelled mid semester and everything fell into chaos as we struggled to turn our courses into something new.</p>
+<p>I’ll be content if 2022 doesn’t turn into a reprise of 2020, or 2021, or 1350.</p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">New year, same as the old year. In 2020, I went into the spring term worried about this new virus everyone was talking about, and then it just got worse and worse until all in-person classes were cancelled mid semester and everything fell into chaos as we struggled to turn our courses into something new. […]</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=65096</id>
+    <published>2022-01-01T14:05:58Z</published>
+    <updated>2022-01-01T14:05:58Z</updated>
+    <category term="Miscellaneous and Meta"/>
+  </entry>
   <entry>
     <title>OPEN DISCUSSION JANUARY 2022</title>
     <link rel="alternate" href="https://richarddawkins.net/2022/01/open-discussion-january-2022/" type="text/html"/>
@@ -103,28 +122,6 @@
     <published>2021-12-30T15:23:35Z</published>
     <updated>2021-12-30T15:23:35Z</updated>
     <category term="Evolution"/>
-  </entry>
-  <entry>
-    <title>That’s an impressive correlation</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/12/30/thats-an-impressive-correlation/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p class="lead">Let’s look at vaccination rates for every county in the US against the percentage that voted for Trump, shall we?</p>
-<p><img src="https://freethoughtblogs.com/pharyngula/files/2021/12/vaxrates-500x292.jpeg" alt="" width="500" height="292" class="aligncenter size-large wp-image-65081" srcset="https://freethoughtblogs.com/pharyngula/files/2021/12/vaxrates-500x292.jpeg 500w, https://freethoughtblogs.com/pharyngula/files/2021/12/vaxrates-150x88.jpeg 150w, https://freethoughtblogs.com/pharyngula/files/2021/12/vaxrates-300x175.jpeg 300w, https://freethoughtblogs.com/pharyngula/files/2021/12/vaxrates-768x449.jpeg 768w, https://freethoughtblogs.com/pharyngula/files/2021/12/vaxrates.jpeg 1556w" sizes="(max-width: 500px) 100vw, 500px"/></p>
-<p>That’s his legacy, ignorance and death.</p>
-<p>A lot of presidents in every party can claim to have left a legacy of death, but this is a stunning anti-accomplishment that might only be rivaled by Ronald Reagan and W.</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Let’s look at vaccination rates for every county in the US against the percentage that voted for Trump, shall we? That’s his legacy, ignorance and death. A lot of presidents in every party can claim to have left a legacy of death, but this is a stunning anti-accomplishment that might only be rivaled by Ronald […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=65080</id>
-    <published>2021-12-30T14:00:50Z</published>
-    <updated>2021-12-30T14:00:50Z</updated>
-    <category term="Miscellaneous and Meta"/>
-    <category term="Politics, History, and Law"/>
   </entry>
   <entry>
     <title>Book review: Variations</title>
