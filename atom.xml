@@ -7,9 +7,24 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2022-01-01T11:31:34Z</updated>
+  <updated>2022-01-01T12:39:46Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>OPEN DISCUSSION JANUARY 2022</title>
+    <link rel="alternate" href="https://richarddawkins.net/2022/01/open-discussion-january-2022/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">This thread has been created for discussion on themes relevant to Reason and Science for which there are not currently any dedicated threads. Please note that our Comment Policy applies as usual. There is a link to this at the foot of the page. If you would like to refer back to previous open discussion …</div>
+    </content>
+    <author>
+      <name>Moderator</name>
+    </author>
+    <id>https://richarddawkins.net/?p=977907</id>
+    <published>2022-01-01T12:03:50Z</published>
+    <updated>2022-01-01T12:03:50Z</updated>
+    <category term="Discussion"/>
+    <category term="Featured"/>
+  </entry>
   <entry>
     <title>So this is how 2021 ends</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2021/12/31/so-this-is-how-2021-ends/" type="text/html"/>
@@ -296,22 +311,6 @@
     <updated>2021-12-15T16:55:57Z</updated>
     <category term="Atheism"/>
     <category term="Religion"/>
-  </entry>
-  <entry>
-    <title>The Jesus Debate</title>
-    <link rel="alternate" href="https://richarddawkins.net/2021/12/the-jesus-debate/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Christians believe that Jesus was the son of God and that he walked the Earth as a human being a couple millennia ago. Atheists obviously don’t believe in God, let alone that he produced offspring. But there is less of a consensus around whether the historical Jesus—a mere mortal member of Homo sapiens—ever existed. On …</div>
-    </content>
-    <author>
-      <name>Paul Fidalgo</name>
-    </author>
-    <id>https://richarddawkins.net/?p=977811</id>
-    <published>2021-12-15T16:52:45Z</published>
-    <updated>2021-12-15T16:52:45Z</updated>
-    <category term="Atheism"/>
-    <category term="Religion"/>
-    <category term="Uncategorized"/>
   </entry>
   <entry>
     <title>Real magic</title>
