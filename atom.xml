@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2022-01-04T17:37:14Z</updated>
+  <updated>2022-01-04T18:36:29Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
   <entry>
@@ -100,22 +100,6 @@
     <category term="Miscellaneous and Meta"/>
   </entry>
   <entry>
-    <title>BOOK CLUB 2022</title>
-    <link rel="alternate" href="https://richarddawkins.net/2022/01/book-club-2022/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">This is the 2022 follow-on from the original BOOK CLUB thread, which is now closed, though you can easily refer back to earlier discussions by clicking on the link. BOOK CLUB 2022 has been created to provide a dedicated space for the discussion of books. Pretty much any kind of book – it doesn’t have …</div>
-    </content>
-    <author>
-      <name>Moderator</name>
-    </author>
-    <id>https://richarddawkins.net/?p=977921</id>
-    <published>2022-01-04T11:55:00Z</published>
-    <updated>2022-01-04T11:55:00Z</updated>
-    <category term="Discussion"/>
-    <category term="Featured"/>
-    <category term="Special Topic"/>
-  </entry>
-  <entry>
     <title>Christmas is finally CANCELED</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/01/03/christmas-is-finally-canceled/" type="text/html"/>
     <content type="xhtml">
@@ -158,6 +142,22 @@
     <updated>2022-01-01T12:03:50Z</updated>
     <category term="Discussion"/>
     <category term="Featured"/>
+  </entry>
+  <entry>
+    <title>BOOK CLUB 2022</title>
+    <link rel="alternate" href="https://richarddawkins.net/2022/01/book-club-2022/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">This is the 2022 follow-on from the original BOOK CLUB thread, which is now closed, though you can easily refer back to earlier discussions by clicking on the link. BOOK CLUB 2022 has been created to provide a dedicated space for the discussion of books. Pretty much any kind of book – it doesn’t have …</div>
+    </content>
+    <author>
+      <name>Moderator</name>
+    </author>
+    <id>https://richarddawkins.net/?p=977921</id>
+    <published>2022-01-01T11:55:00Z</published>
+    <updated>2022-01-01T11:55:00Z</updated>
+    <category term="Discussion"/>
+    <category term="Featured"/>
+    <category term="Special Topic"/>
   </entry>
   <entry>
     <title>Book review: Variations</title>
