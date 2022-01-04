@@ -7,9 +7,25 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2022-01-04T11:32:22Z</updated>
+  <updated>2022-01-04T12:40:17Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>BOOK CLUB 2022</title>
+    <link rel="alternate" href="https://richarddawkins.net/2022/01/book-club-2022/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">This is the 2022 follow-on from the original BOOK CLUB thread, which is now closed, though you can easily refer back to earlier discussions by clicking on the link. BOOK CLUB 2022 has been created to provide a dedicated space for the discussion of books. Pretty much any kind of book – it doesn’t have …</div>
+    </content>
+    <author>
+      <name>Moderator</name>
+    </author>
+    <id>https://richarddawkins.net/?p=977921</id>
+    <published>2022-01-04T11:55:00Z</published>
+    <updated>2022-01-04T11:55:00Z</updated>
+    <category term="Discussion"/>
+    <category term="Featured"/>
+    <category term="Special Topic"/>
+  </entry>
   <entry>
     <title>Christmas is finally CANCELED</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/01/03/christmas-is-finally-canceled/" type="text/html"/>
@@ -345,21 +361,6 @@ Portland State University&lt;/p&gt;&lt;/blockquote&gt;
     <updated>2021-12-15T17:00:40Z</updated>
     <category term="Atheism"/>
     <category term="News Article"/>
-    <category term="Religion"/>
-  </entry>
-  <entry>
-    <title>The One-Man War on Christmas</title>
-    <link rel="alternate" href="https://richarddawkins.net/2021/12/the-one-man-war-on-christmas/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">In 1993, Tom Flynn published the groundbreaking and controversial book The Trouble with Christmas, arguing that it was long past time for the abandonment of this Christian holiday, particularly for nonbelievers. It also brought to life Tom’s perennial alter-ego, the Anti-Claus.  Tom died suddenly this past August, and the latest issue of the magazine he …</div>
-    </content>
-    <author>
-      <name>Paul Fidalgo</name>
-    </author>
-    <id>https://richarddawkins.net/?p=977818</id>
-    <published>2021-12-15T16:55:57Z</published>
-    <updated>2021-12-15T16:55:57Z</updated>
-    <category term="Atheism"/>
     <category term="Religion"/>
   </entry>
   <entry>
