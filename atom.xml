@@ -7,9 +7,28 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2022-01-21T20:32:51Z</updated>
+  <updated>2022-01-21T21:31:08Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Genetics #1</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/01/21/genetics-1/" type="text/html"/>
+    <content type="html">&lt;p class="lead"&gt;Hooray for me! I got step #4 of my &lt;a href="https://freethoughtblogs.com/pharyngula/2022/01/21/i-really-do-have-a-plan/"&gt;to-do list&lt;/a&gt;, and also step #3.&lt;/p&gt;
+&lt;div class="center"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/GXIlcvCjH0E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;p&gt;Tomorrow I&amp;#8217;ll go back and get #2 (&amp;#8220;Record a video summary of the fly culturing procedure&amp;#8221;) done, and also #6 (&amp;#8220;edit the fly culture video&amp;#8221;), and then on to chromosomes, mitosis, and meiosis. I&amp;#8217;m trying hard to build up slowly with a solid foundation before we get to the hard stuff.&lt;/p&gt;
+</content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Hooray for me! I got step #4 of my to-do list, and also step #3. Tomorrow I’ll go back and get #2 (“Record a video summary of the fly culturing procedure”) done, and also #6 (“edit the fly culture video”), and then on to chromosomes, mitosis, and meiosis. I’m trying hard to build up slowly […]</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=65358</id>
+    <published>2022-01-21T21:15:05Z</published>
+    <updated>2022-01-21T21:15:05Z</updated>
+    <category term="My classes"/>
+    <category term="Science"/>
+  </entry>
   <entry>
     <title>How to Fix a Bad Mood, and is This the Saddest Song in the World?</title>
     <link rel="alternate" href="https://skepchick.org/2022/01/how-to-fix-a-bad-mood-and-is-this-the-saddest-song-in-the-world/" type="text/html"/>
@@ -144,26 +163,6 @@ Instead of producing an auditory cacophony, they instead signal to each other wi
     <published>2022-01-21T13:35:53Z</published>
     <updated>2022-01-21T13:35:53Z</updated>
     <category term="Politics, History, and Law"/>
-  </entry>
-  <entry>
-    <title>Meat Loaf is dead</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/01/21/meat-loaf-is-dead/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p><a href="https://freethoughtblogs.com/pharyngula/files/2022/01/bat-out-of-hell.jpg"><img src="https://freethoughtblogs.com/pharyngula/files/2022/01/bat-out-of-hell-300x298.jpg" alt="" width="300" height="298" class="alignright size-medium wp-image-65342" srcset="https://freethoughtblogs.com/pharyngula/files/2022/01/bat-out-of-hell-300x298.jpg 300w, https://freethoughtblogs.com/pharyngula/files/2022/01/bat-out-of-hell-150x150.jpg 150w, https://freethoughtblogs.com/pharyngula/files/2022/01/bat-out-of-hell-768x763.jpg 768w, https://freethoughtblogs.com/pharyngula/files/2022/01/bat-out-of-hell-500x497.jpg 500w, https://freethoughtblogs.com/pharyngula/files/2022/01/bat-out-of-hell.jpg 1500w" sizes="(max-width: 300px) 100vw, 300px"/></a></p>
-<p class="lead">We’ve lost an epic heldentenor — <a href="https://www.washingtonpost.com/local/obituaries/singer-and-actor-meat-loaf-dies-at-74-family-says/2022/01/21/31f7bdc4-7a91-11ec-bf97-6eac6f77fba2_story.html">Marvin Lee Aday, better known as Meat Loaf, has died</a>. He was such a fierce, athletic, passionate performer, and has in the past collapsed on stage a few times, due to dehydration…but really it was because he threw himself into his work so thoroughly and exhausted himself. I’ll consider his actual cause of death to be that he was always going full throttle and couldn’t just slow down and take it easy, ever.</p>
-<p>By the way, his obituary unfortunately seems to think his weight was a salient point to make repeatedly. Nah. He was a big man, but that was the least important part of his identity.</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">We’ve lost an epic heldentenor — Marvin Lee Aday, better known as Meat Loaf, has died. He was such a fierce, athletic, passionate performer, and has in the past collapsed on stage a few times, due to dehydration…but really it was because he threw himself into his work so thoroughly and exhausted himself. I’ll consider […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=65341</id>
-    <published>2022-01-21T13:10:59Z</published>
-    <updated>2022-01-21T13:10:59Z</updated>
-    <category term="Miscellaneous and Meta"/>
   </entry>
   <entry>
     <title>A study in failure</title>
@@ -430,9 +429,9 @@ Instead of producing an auditory cacophony, they instead signal to each other wi
 <p>The book presents a personal tour of David’s amazing secret museum of magic in Las Vegas. Containing over 100 full colour photographs, the book takes you on a journey into a clandestine world of psychology, history and magic.  The book is released on October 26th and is now available for pre-order. <br/>USA: <a href="https://www.simonandschuster.com/books/David-Copperfields-History-of-Magic/David-Copperfield/9781982112912" target="_blank" rel="noreferrer noopener">Click here</a><br/>UK: <a href="https://www.amazon.co.uk/exec/obidos/ASIN/1982112913" target="_blank" rel="noreferrer noopener">Amazon UK</a></p>
 
 
-<div class="wp-container-61eb16e4d553c wp-block-columns">
+<div class="wp-container-61eb177104fbe wp-block-columns">
 <div class="wp-block-column" style="flex-basis:100%;">
-<div class="wp-container-61eb16e4d50bc wp-block-columns alignwide">
+<div class="wp-container-61eb177104bb9 wp-block-columns alignwide">
 <div class="wp-block-column" style="flex-basis:50%;"/>
 
 
