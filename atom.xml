@@ -7,9 +7,29 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2022-01-29T13:31:29Z</updated>
+  <updated>2022-01-29T14:31:00Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>The bit about Matt Powell</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/01/29/the-bit-about-matt-powell/" type="text/html"/>
+    <content type="html">&lt;p class="lead"&gt;Last night, I did a livestream on YouTube. YouTube tends to bury these things, so I&amp;#8217;m doing an experiment: I yanked out a 20 minute segment (it&amp;#8217;s shorter! That helps) and reposted it. That also meant I could go in and edit and add an endtitle that gives credit to my &lt;a href="https://www.patreon.com/pzmyers"&gt;Patreon supporters&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This is a bit where I talked about Matt Powell&amp;#8217;s latest clueless video. I guess he hates pop culture almost as much as he mangles science.&lt;/p&gt;
+&lt;div class="center"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/U8O49StQ7fA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;p&gt;The &lt;a href="https://www.youtube.com/watch?v=lSt7sOgfbI0"&gt;complete livestream is here&lt;/a&gt;, about an hour long, if you want to hear my exasperation at Jordan Peterson, and a bit about a recent paper on bat evolution.&lt;/p&gt;
+&lt;p&gt;Oh, also, I guess you get to see my graying Zappa.&lt;/p&gt;
+</content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Last night, I did a livestream on YouTube. YouTube tends to bury these things, so I’m doing an experiment: I yanked out a 20 minute segment (it’s shorter! That helps) and reposted it. That also meant I could go in and edit and add an endtitle that gives credit to my Patreon supporters. This is […]</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=65433</id>
+    <published>2022-01-29T13:33:45Z</published>
+    <updated>2022-01-29T13:33:45Z</updated>
+    <category term="Atheism and Skepticism"/>
+  </entry>
   <entry>
     <title>A fly’s fate</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/01/28/a-flys-fate/" type="text/html"/>
@@ -104,24 +124,6 @@
     <updated>2022-01-28T12:58:45Z</updated>
     <category term="Cephalopods"/>
     <category term="Organisms"/>
-  </entry>
-  <entry>
-    <title>A time to talk &amp; think about something other than genetics</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/01/27/a-time-to-talk-think-about-something-other-than-genetics/" type="text/html"/>
-    <content type="html">&lt;p class="lead"&gt;I&amp;#8217;m going to be pumping out these genetics videos three times a week (!), but they&amp;#8217;re really not intended to be popular fodder that will generate hordes of clicks and views. I&amp;#8217;ve intentionally put title screens on them that are horribly bland, because they&amp;#8217;re really intended for my students. I&amp;#8217;m also so tired from keeping up with my classes every day &amp;#8212; in part because I decided to restructure and rewrite the entire semester &amp;#8212; that I&amp;#8217;ve had trouble planning anything outside of class. So, just to keep my channel alive, I&amp;#8217;m going to try something structureless and informal &amp;#8212; I&amp;#8217;ll just ramble for an hour or so on Friday night and see if anything interesting dribbles out of my mouth. Tomorrow, then, I&amp;#8217;ll turn a webcam on my homely face and talk for a while, without much preparation.&lt;/p&gt;
-&lt;div class="center"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/lSt7sOgfbI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-&lt;p&gt;As you can see, I want to kick Joe Rogan and Jordan Peterson a bit more, but also there&amp;#8217;s this new paper on the evolution of the inner ear in bats, so I intend to say a few things about it off the cuff. Or about whatever else springs into my tired brain.&lt;/p&gt;
-</content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">I’m going to be pumping out these genetics videos three times a week (!), but they’re really not intended to be popular fodder that will generate hordes of clicks and views. I’ve intentionally put title screens on them that are horribly bland, because they’re really intended for my students. I’m also so tired from keeping […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=65418</id>
-    <published>2022-01-27T16:52:43Z</published>
-    <updated>2022-01-27T16:52:43Z</updated>
-    <category term="Miscellaneous and Meta"/>
   </entry>
   <entry>
     <title>A deadly formula</title>
