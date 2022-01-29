@@ -7,9 +7,28 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2022-01-29T19:31:08Z</updated>
+  <updated>2022-01-29T20:34:27Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Fly courtship &amp; crossing flies</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/01/29/fly-courtship-crossing-flies/" type="text/html"/>
+    <content type="html">&lt;p class="lead"&gt;Here&amp;#8217;s the next step in our genetics lab experiment, crossing brown-eyed and scarlet-eyed flies.&lt;/p&gt;
+&lt;div class="center"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/33q1BNqY8og" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;p&gt;What will the hybrid F1s look like?&lt;/p&gt;
+</content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Here’s the next step in our genetics lab experiment, crossing brown-eyed and scarlet-eyed flies. What will the hybrid F1s look like?</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=65439</id>
+    <published>2022-01-29T19:49:03Z</published>
+    <updated>2022-01-29T19:49:03Z</updated>
+    <category term="Genetics"/>
+    <category term="My classes"/>
+  </entry>
   <entry>
     <title>Crank up the stupid to warp factor 11!</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/01/29/crank-up-the-stupid-to-warp-factor-11/" type="text/html"/>
@@ -99,31 +118,6 @@
     <id>https://freethoughtblogs.com/pharyngula/?p=65427</id>
     <published>2022-01-28T13:48:48Z</published>
     <updated>2022-01-28T13:48:48Z</updated>
-    <category term="Miscellaneous and Meta"/>
-  </entry>
-  <entry>
-    <title>Sleep however you feel like</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/01/28/sleep-however-you-feel-like/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p><a href="https://freethoughtblogs.com/pharyngula/files/2022/01/sleepingbaby.jpeg"><img src="https://freethoughtblogs.com/pharyngula/files/2022/01/sleepingbaby-150x84.jpeg" alt="" width="150" height="84" class="alignright size-thumbnail wp-image-65425" srcset="https://freethoughtblogs.com/pharyngula/files/2022/01/sleepingbaby-150x84.jpeg 150w, https://freethoughtblogs.com/pharyngula/files/2022/01/sleepingbaby-300x169.jpeg 300w, https://freethoughtblogs.com/pharyngula/files/2022/01/sleepingbaby-500x281.jpeg 500w, https://freethoughtblogs.com/pharyngula/files/2022/01/sleepingbaby.jpeg 752w" sizes="(max-width: 150px) 100vw, 150px"/></a></p>
-<p class="lead">A while back, there was an idea that swept through social media that there is this thing called biphasic sleep. People naturally tend to wake up in the middle of the night, that historically there was a thing called “first sleep”, and then people would wake up around 2am and putter about and use their bedpans or pick up a quill pen and write a sonnet or whatever, and then go back to bed for “second sleep” before rising at cock-crow. I found this reassuring, because as I got older I was shifting from continuous night-time sleep to an interrupted sleep that fit that pattern. It’s OK! It’s not just age and stress, this is how humans are <em>supposed</em> to sleep, I could tell myself.</p>
-<p>Hold it right there, not so fast: <a href="https://www.theatlantic.com/ideas/archive/2022/01/medieval-sleeping-habits-insomnia-segmented-biphasic/621372/">it’s probably not true</a>. There isn’t one way you’re supposed to sleep.</p>
-<blockquote><p>But humans have never had a universal method of slumber. A 2015 study of hunter-gatherer societies in Tanzania, Namibia, and Bolivia found that most foragers enjoyed one long sleep. Two years later, another study found that a rural society in Madagascar practiced segmented sleep. Two years after that, a study found that the indigenous residents of Tanna, in the South Pacific, largely had one uninterrupted sleep.</p>
-<p>Even within preindustrial Europe, sleep contained multitudes. Reviewing the diaries of European writers such as Samuel Pepys and James Boswell, Ekirch found several allusions to unified sleep. Summarizing this complicated literature, he told me that “patterns of sleep in non-Western cultures appear to have been much more diverse” than those in Europe, but that they were truly diverse everywhere.</p>
-<p>There is no evidence that sleep was universally segmented, and there is also little evidence that segmented sleep is better. A 2021 meta-analysis of studies on biphasic sleep schedules found that segmented-sleeping subjects actually reported “lower sleep quality … and spent more time in lighter stages of sleep.” One reasonable takeaway is that biphasic sleep is like anarchical foraging: Both might have well served some ancient populations some of the time, but neither of them offers a clear solution to modern problems.</p></blockquote>
-<p>I find that even more reassuring. Don’t hold people to the one true way they’re supposed to do something, everyone is different, different cultures lead to different behaviors, and there’s nothing wrong with being a bi or a mono-sleeper. Individuals can even change! The only norm is that we have diverse patterns of activity.</p>
-<p>Although “like a baby” is a pretty good ideal.</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">A while back, there was an idea that swept through social media that there is this thing called biphasic sleep. People naturally tend to wake up in the middle of the night, that historically there was a thing called “first sleep”, and then people would wake up around 2am and putter about and use their […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=65424</id>
-    <published>2022-01-28T13:26:17Z</published>
-    <updated>2022-01-28T13:26:17Z</updated>
     <category term="Miscellaneous and Meta"/>
   </entry>
   <entry>
@@ -408,9 +402,9 @@
 <p>The book presents a personal tour of David’s amazing secret museum of magic in Las Vegas. Containing over 100 full colour photographs, the book takes you on a journey into a clandestine world of psychology, history and magic.  The book is released on October 26th and is now available for pre-order. <br/>USA: <a href="https://www.simonandschuster.com/books/David-Copperfields-History-of-Magic/David-Copperfield/9781982112912" target="_blank" rel="noreferrer noopener">Click here</a><br/>UK: <a href="https://www.amazon.co.uk/exec/obidos/ASIN/1982112913" target="_blank" rel="noreferrer noopener">Amazon UK</a></p>
 
 
-<div class="wp-container-61eb16e4d553c wp-block-columns">
+<div class="wp-container-61eb177104fbe wp-block-columns">
 <div class="wp-block-column" style="flex-basis:100%;">
-<div class="wp-container-61eb16e4d50bc wp-block-columns alignwide">
+<div class="wp-container-61eb177104bb9 wp-block-columns alignwide">
 <div class="wp-block-column" style="flex-basis:50%;"/>
 
 
