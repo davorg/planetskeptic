@@ -7,9 +7,24 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2022-02-01T10:34:04Z</updated>
+  <updated>2022-02-01T11:31:46Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>OPEN DISCUSSION FEBRUARY 2022</title>
+    <link rel="alternate" href="https://richarddawkins.net/2022/02/open-discussion-february-2022/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">This thread has been created for discussion on themes relevant to Reason and Science for which there are not currently any dedicated threads. Please note that our Comment Policy applies as usual. There is a link to this at the foot of the page. If you would like to refer back to previous open discussion …</div>
+    </content>
+    <author>
+      <name>Moderator</name>
+    </author>
+    <id>https://richarddawkins.net/?p=978021</id>
+    <published>2022-02-01T10:49:38Z</published>
+    <updated>2022-02-01T10:49:38Z</updated>
+    <category term="Discussion"/>
+    <category term="Featured"/>
+  </entry>
   <entry>
     <title>Another lecture done</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/01/31/another-lecture-done/" type="text/html"/>
@@ -270,7 +285,6 @@
     <published>2022-01-01T12:03:50Z</published>
     <updated>2022-01-01T12:03:50Z</updated>
     <category term="Discussion"/>
-    <category term="Featured"/>
   </entry>
   <entry>
     <title>BOOK CLUB 2022</title>
@@ -306,21 +320,6 @@
     <category term="Religion"/>
     <category term="Science"/>
     <category term="Skepticism"/>
-  </entry>
-  <entry>
-    <title>Hitting the Books with TIES</title>
-    <link rel="alternate" href="https://richarddawkins.net/2021/12/hitting-the-books-with-ties/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Since 2015, the Teacher Institute for Evolutionary Science (TIES), a program of the Richard Dawkins Foundation, has been giving teachers the tools they need to effectively teach evolution and answer its critics. After producing hundreds of workshops, dozens of webinars, and troves of free resources and guided lessons, the people who power TIES have learned …</div>
-    </content>
-    <author>
-      <name>Paul Fidalgo</name>
-    </author>
-    <id>https://richarddawkins.net/?p=977828</id>
-    <published>2021-12-15T17:07:04Z</published>
-    <updated>2021-12-15T17:07:04Z</updated>
-    <category term="Education"/>
-    <category term="Science"/>
   </entry>
   <entry>
     <title>Real magic</title>
