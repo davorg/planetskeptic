@@ -7,9 +7,28 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2022-02-02T02:38:43Z</updated>
+  <updated>2022-02-02T03:33:13Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Time to relax and have fun…oh, wait</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/02/01/time-to-relax-and-have-funoh-wait/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p><a href="https://freethoughtblogs.com/pharyngula/files/2013/04/sleeping-baby-squirrel.jpg"><img src="https://freethoughtblogs.com/pharyngula/files/2013/04/sleeping-baby-squirrel-150x112.jpg" alt="" width="150" height="112" class="alignright size-thumbnail wp-image-10549" srcset="https://freethoughtblogs.com/pharyngula/files/2013/04/sleeping-baby-squirrel-150x112.jpg 150w, https://freethoughtblogs.com/pharyngula/files/2013/04/sleeping-baby-squirrel-300x225.jpg 300w, https://freethoughtblogs.com/pharyngula/files/2013/04/sleeping-baby-squirrel-500x375.jpg 500w, https://freethoughtblogs.com/pharyngula/files/2013/04/sleeping-baby-squirrel.jpg 1024w" sizes="(max-width: 150px) 100vw, 150px"/></a></p>
+<p class="lead">I can barely keep my eyes open, but I spent all day working on lab and an exam and a lecture. They’re all done now, but so am I. Good night!</p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">I can barely keep my eyes open, but I spent all day working on lab and an exam and a lecture. They’re all done now, but so am I. Good night!</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=65469</id>
+    <published>2022-02-02T03:21:37Z</published>
+    <updated>2022-02-02T03:21:37Z</updated>
+    <category term="Miscellaneous and Meta"/>
+  </entry>
   <entry>
     <title>You Are Not Burnt Out, Charlie Brown</title>
     <link rel="alternate" href="https://skepchick.org/2022/02/you-are-not-burnt-out-charlie-brown/" type="text/html"/>
@@ -142,28 +161,6 @@
     <published>2022-01-31T15:37:27Z</published>
     <updated>2022-01-31T15:37:27Z</updated>
     <category term="Atheism and Skepticism"/>
-  </entry>
-  <entry>
-    <title>It’s time to register for Convergence</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/01/31/its-time-to-register-for-convergence/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p><a href="https://freethoughtblogs.com/pharyngula/files/2022/01/CVG-and-2d-con-1x1-2-450x450.jpeg"><img src="https://freethoughtblogs.com/pharyngula/files/2022/01/CVG-and-2d-con-1x1-2-450x450-300x300.jpeg" alt="" width="300" height="300" class="alignright size-medium wp-image-65454" srcset="https://freethoughtblogs.com/pharyngula/files/2022/01/CVG-and-2d-con-1x1-2-450x450-300x300.jpeg 300w, https://freethoughtblogs.com/pharyngula/files/2022/01/CVG-and-2d-con-1x1-2-450x450-150x150.jpeg 150w, https://freethoughtblogs.com/pharyngula/files/2022/01/CVG-and-2d-con-1x1-2-450x450.jpeg 450w" sizes="(max-width: 300px) 100vw, 300px"/></a></p>
-<p class="lead">Yesterday, I got email from the <a href="https://www.convergence-con.org/">Convergence con</a>, an event that used to be a regular summertime highlight for me. I have fond memories and have really enjoyed it in the past, but it’s been disrupted the last few years by this annoying thing, rhymes with schmandemic? And I haven’t gone. It’s back this summer, and they’re doing all the right things, requiring proof of vaccination to get in the door and requiring masking at all times, but I reluctantly decided I’ll have to skip it again.</p>
-<p>There is just too much uncertainty right now — I’m not doing anything that involves large groups of people in the foreseeable future. Maybe the year after, when the entire country comes to its senses and has taken active measures to stop the spread? Ha ha, I made a joke. I’m just going to be a contributor to anything that might increase the spread of a disease for a while.</p>
-<p>Also, another factor: I looked over the scheduled panels, and noticed a real dearth of science &amp; skepticism talks. They used to have a well-populated science track at this con, but it seems to have withered away. I can guess why: in previous years, I and others would get involved in the planning stages and submit long lists of prospective panel topics that the con committee could select among, and which were then a further draw for more science participation. I wonder if that specific group of people have had low confidence in the safety of attending, and therefore have withdrawn from the planning sessions? I know that’s the case for me, personally. Instead, there’s going to be a lot more video game stuff this year.</p>
-<p>I’m afraid that if I’m too cautious to attend the <a href="https://www.americanarachnology.org/home/">American Arachnological Society</a> meetings in person this year, I’m not going to attend a meeting that’s just for fun. Joy is dead, don’t you know?</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Yesterday, I got email from the Convergence con, an event that used to be a regular summertime highlight for me. I have fond memories and have really enjoyed it in the past, but it’s been disrupted the last few years by this annoying thing, rhymes with schmandemic? And I haven’t gone. It’s back this summer, […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=65453</id>
-    <published>2022-01-31T14:29:52Z</published>
-    <updated>2022-01-31T14:29:52Z</updated>
-    <category term="Conferences"/>
   </entry>
   <entry>
     <title>The cult of pi</title>
@@ -399,9 +396,9 @@
 <p>The book presents a personal tour of David’s amazing secret museum of magic in Las Vegas. Containing over 100 full colour photographs, the book takes you on a journey into a clandestine world of psychology, history and magic.  The book is released on October 26th and is now available for pre-order. <br/>USA: <a href="https://www.simonandschuster.com/books/David-Copperfields-History-of-Magic/David-Copperfield/9781982112912" target="_blank" rel="noreferrer noopener">Click here</a><br/>UK: <a href="https://www.amazon.co.uk/exec/obidos/ASIN/1982112913" target="_blank" rel="noreferrer noopener">Amazon UK</a></p>
 
 
-<div class="wp-container-61eb16e4d553c wp-block-columns">
+<div class="wp-container-61eb177104fbe wp-block-columns">
 <div class="wp-block-column" style="flex-basis:100%;">
-<div class="wp-container-61eb16e4d50bc wp-block-columns alignwide">
+<div class="wp-container-61eb177104bb9 wp-block-columns alignwide">
 <div class="wp-block-column" style="flex-basis:50%;"/>
 
 
