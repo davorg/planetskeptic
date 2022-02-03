@@ -7,9 +7,24 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2022-02-03T20:33:58Z</updated>
+  <updated>2022-02-03T21:31:32Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Excerpt from Steven Pinker’s Rationality</title>
+    <link rel="alternate" href="https://richarddawkins.net/2022/02/excerpt-from-steven-pinkers-rationality/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">This excerpt has been extracted from Pages 312-314 from Pinker’s latest book, Rationality Though it’s hard to steer the aircraft carrier that constitutes an entire society, particular institutions may have pressure points that savvy leaders and activists could prod. Legislatures are largely populated by lawyers, whose professional goal is victory rather than truth. Recently some …</div>
+    </content>
+    <author>
+      <name>Mike Powell</name>
+    </author>
+    <id>https://richarddawkins.net/?p=978033</id>
+    <published>2022-02-03T20:56:35Z</published>
+    <updated>2022-02-03T20:56:35Z</updated>
+    <category term="Featured"/>
+    <category term="Politics"/>
+  </entry>
   <entry>
     <title>Who won the snowplow naming contest?</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/02/03/who-won-the-snowplow-naming-contest/" type="text/html"/>
@@ -299,26 +314,6 @@
     <category term="Special Topic"/>
   </entry>
   <entry>
-    <title>Myth Management</title>
-    <link rel="alternate" href="https://richarddawkins.net/2021/12/myth-management/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">From the Richard Dawkins Foundation Newsletter. Subscribe here. Hello! The scientific method is, without a doubt, the best means of arriving at the truth ever devised. We flawed humans can and do make mistakes in its execution, but the rigorous application of science is what allows us to make discoveries and, perhaps most importantly, verify the …</div>
-    </content>
-    <author>
-      <name>Paul Fidalgo</name>
-    </author>
-    <id>https://richarddawkins.net/?p=977833</id>
-    <published>2021-12-15T17:21:24Z</published>
-    <updated>2021-12-15T17:21:24Z</updated>
-    <category term="Atheism"/>
-    <category term="Education"/>
-    <category term="Original"/>
-    <category term="Politics"/>
-    <category term="Religion"/>
-    <category term="Science"/>
-    <category term="Skepticism"/>
-  </entry>
-  <entry>
     <title>Real magic</title>
     <link rel="alternate" href="https://richardwiseman.wordpress.com/2021/11/01/real-magic/" type="text/html"/>
     <content type="xhtml">
@@ -400,9 +395,9 @@
 <p>The book presents a personal tour of David’s amazing secret museum of magic in Las Vegas. Containing over 100 full colour photographs, the book takes you on a journey into a clandestine world of psychology, history and magic.  The book is released on October 26th and is now available for pre-order. <br/>USA: <a href="https://www.simonandschuster.com/books/David-Copperfields-History-of-Magic/David-Copperfield/9781982112912" target="_blank" rel="noreferrer noopener">Click here</a><br/>UK: <a href="https://www.amazon.co.uk/exec/obidos/ASIN/1982112913" target="_blank" rel="noreferrer noopener">Amazon UK</a></p>
 
 
-<div class="wp-container-61eb16ca2af7d wp-block-columns">
+<div class="wp-container-61eb16e4d553c wp-block-columns">
 <div class="wp-block-column" style="flex-basis:100%;">
-<div class="wp-container-61eb16ca2ab52 wp-block-columns alignwide">
+<div class="wp-container-61eb16e4d50bc wp-block-columns alignwide">
 <div class="wp-block-column" style="flex-basis:50%;"/>
 
 
