@@ -7,9 +7,28 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2022-02-03T19:30:29Z</updated>
+  <updated>2022-02-03T20:33:58Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Who won the snowplow naming contest?</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/02/03/who-won-the-snowplow-naming-contest/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p class="lead">I <a href="https://freethoughtblogs.com/pharyngula/2022/01/24/have-you-named-a-snowplow-lately/">informed you about the poll to name Minnesota snowplows</a>. The results have been announced!</p>
+<p><a href="https://freethoughtblogs.com/pharyngula/files/2022/02/snowplownames.jpeg"><img src="https://freethoughtblogs.com/pharyngula/files/2022/02/snowplownames-500x573.jpeg" alt="" width="500" height="573" class="aligncenter size-large wp-image-65505" srcset="https://freethoughtblogs.com/pharyngula/files/2022/02/snowplownames-500x573.jpeg 500w, https://freethoughtblogs.com/pharyngula/files/2022/02/snowplownames-131x150.jpeg 131w, https://freethoughtblogs.com/pharyngula/files/2022/02/snowplownames-262x300.jpeg 262w, https://freethoughtblogs.com/pharyngula/files/2022/02/snowplownames.jpeg 640w" sizes="(max-width: 500px) 100vw, 500px"/></a></p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">I informed you about the poll to name Minnesota snowplows. The results have been announced!</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=65504</id>
+    <published>2022-02-03T19:39:06Z</published>
+    <updated>2022-02-03T19:39:06Z</updated>
+    <category term="Miscellaneous and Meta"/>
+  </entry>
   <entry>
     <title>Not hard</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/02/03/not-hard/" type="text/html"/>
@@ -115,23 +134,6 @@
     <published>2022-02-03T12:52:55Z</published>
     <updated>2022-02-03T12:52:55Z</updated>
     <category term="Miscellaneous and Meta"/>
-  </entry>
-  <entry>
-    <title>Another genetics lecture? Yeah, sorry.</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/02/02/another-genetics-lecture-yeah-sorry/" type="text/html"/>
-    <content type="html">&lt;div class="center"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/0Iq3F313lO0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-&lt;p class="lead"&gt;You may get a reprieve next week. Instead of lecturing, we&amp;#8217;re going to sit down in class (and over zoom) and solve problems until everyone understands what I&amp;#8217;m yelling at them about.&lt;/p&gt;
-</content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">You may get a reprieve next week. Instead of lecturing, we’re going to sit down in class (and over zoom) and solve problems until everyone understands what I’m yelling at them about.</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=65489</id>
-    <published>2022-02-03T01:13:36Z</published>
-    <updated>2022-02-03T01:13:36Z</updated>
-    <category term="My classes"/>
   </entry>
   <entry>
     <title>You Are Not Burnt Out, Charlie Brown</title>
