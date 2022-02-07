@@ -7,9 +7,30 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2022-02-07T16:39:35Z</updated>
+  <updated>2022-02-07T17:33:12Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Panic city</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/02/07/panic-city/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p><a href="https://freethoughtblogs.com/pharyngula/files/2022/02/panic.png"><img src="https://freethoughtblogs.com/pharyngula/files/2022/02/panic-150x133.png" alt="" width="150" height="133" class="alignright size-thumbnail wp-image-65531" srcset="https://freethoughtblogs.com/pharyngula/files/2022/02/panic-150x133.png 150w, https://freethoughtblogs.com/pharyngula/files/2022/02/panic-300x265.png 300w, https://freethoughtblogs.com/pharyngula/files/2022/02/panic-768x680.png 768w, https://freethoughtblogs.com/pharyngula/files/2022/02/panic-500x442.png 500w, https://freethoughtblogs.com/pharyngula/files/2022/02/panic.png 868w" sizes="(max-width: 150px) 100vw, 150px"/></a></p>
+<p class="lead">I must be tired. I was sitting in my office reviewing my lecture notes, when I glanced at the clock. It’s 20 to! My class is at a quarter to! Panic followed, because I was still tinkering with a few slides, and I had yet to get to my classroom. Chaos! Rushing about! Slamming down the last few touches! Off to the room I go!</p>
+<p>No one was there. What’s going on? My class starts at a quarter to noon — it was a quarter to 11. Sheesh.</p>
+<p>At least I got to go back to my office and have a cup of tea. I’m getting too old for this stuff. It doesn’t help that I’m just generally losing my mind lately.</p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">I must be tired. I was sitting in my office reviewing my lecture notes, when I glanced at the clock. It’s 20 to! My class is at a quarter to! Panic followed, because I was still tinkering with a few slides, and I had yet to get to my classroom. Chaos! Rushing about! Slamming down […]</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=65530</id>
+    <published>2022-02-07T16:57:09Z</published>
+    <updated>2022-02-07T16:57:09Z</updated>
+    <category term="Miscellaneous and Meta"/>
+  </entry>
   <entry>
     <title>Deplatforming works!</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/02/07/deplatforming-works/" type="text/html"/>
@@ -91,26 +112,6 @@
     <published>2022-02-04T16:09:29Z</published>
     <updated>2022-02-04T16:09:29Z</updated>
     <category term="Science"/>
-  </entry>
-  <entry>
-    <title>Summertime dreams</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/02/04/summertime-dreams/" type="text/html"/>
-    <content type="html">&lt;p class="lead"&gt;I like to haunt &lt;a href="https://www.reddit.com/r/AbandonedPorn/"&gt;r/abandonedporn&lt;/a&gt;, where people post photos and videos of derelict buildings that they explore. I want to do that! It&amp;#8217;s a bad time of year for it though, since it&amp;#8217;s about -20°C out there, and if the spiders are all frozen, what&amp;#8217;s the point? Once the world thaws again, I need to get out and do some exploring. These places are &lt;em&gt;full&lt;/em&gt; of spiders, and I don&amp;#8217;t have to interact with people to investigate them &amp;#8212; spiders minus people? Perfection.&lt;/p&gt;
-&lt;p&gt;This summer you all have to help out by nagging me to get out and find abandoned houses, farms, and shacks, every weekend. I&amp;#8217;ll reward you with pictures &amp;#8212; lots of close-up pictures of creepy crawlies. It&amp;#8217;ll be awesome.&lt;/p&gt;
-&lt;p&gt;For now, here&amp;#8217;s an example: this guy explores an abandoned house and finds an abandoned 1973 Corvette in the garage. It&amp;#8217;s February, though, so no spiders, which makes it a lot less interesting.&lt;/p&gt;
-&lt;div class="center"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/5AK2ByV4fGA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-&lt;p&gt;There&amp;#8217;s got to be an interesting story behind it. This is an isolated, tiny house &amp;#8212; am I the only one thinking it&amp;#8217;s a drug house? &amp;#8212; with an expensive car rotting and neglected. Where&amp;#8217;s the owner? What happened that no one would claim that car? And most importantly, what kind of spiders will be flourishing there once the weather warms up?&lt;/p&gt;
-</content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">I like to haunt r/abandonedporn, where people post photos and videos of derelict buildings that they explore. I want to do that! It’s a bad time of year for it though, since it’s about -20°C out there, and if the spiders are all frozen, what’s the point? Once the world thaws again, I need to […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=65519</id>
-    <published>2022-02-04T15:20:35Z</published>
-    <updated>2022-02-04T15:20:35Z</updated>
-    <category term="Miscellaneous and Meta"/>
   </entry>
   <entry>
     <title>Excerpt from Steven Pinker’s Rationality</title>
@@ -388,9 +389,9 @@
 <p>The book presents a personal tour of David’s amazing secret museum of magic in Las Vegas. Containing over 100 full colour photographs, the book takes you on a journey into a clandestine world of psychology, history and magic.  The book is released on October 26th and is now available for pre-order. <br/>USA: <a href="https://www.simonandschuster.com/books/David-Copperfields-History-of-Magic/David-Copperfield/9781982112912" target="_blank" rel="noreferrer noopener">Click here</a><br/>UK: <a href="https://www.amazon.co.uk/exec/obidos/ASIN/1982112913" target="_blank" rel="noreferrer noopener">Amazon UK</a></p>
 
 
-<div class="wp-container-61eb177104fbe wp-block-columns">
+<div class="wp-container-61eb16e4d553c wp-block-columns">
 <div class="wp-block-column" style="flex-basis:100%;">
-<div class="wp-container-61eb177104bb9 wp-block-columns alignwide">
+<div class="wp-container-61eb16e4d50bc wp-block-columns alignwide">
 <div class="wp-block-column" style="flex-basis:50%;"/>
 
 
