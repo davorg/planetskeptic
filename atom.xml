@@ -7,9 +7,26 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2022-02-08T01:49:19Z</updated>
+  <updated>2022-02-08T02:39:32Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Problem solving day!</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/02/07/problem-solving-day/" type="text/html"/>
+    <content type="html">&lt;p class="lead"&gt;Today in genetics we practiced solving some monohybrid and dihybrid problems.&lt;/p&gt;
+&lt;div class="center"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/9psy7vDc9X0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+</content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Today in genetics we practiced solving some monohybrid and dihybrid problems.</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=65535</id>
+    <published>2022-02-08T02:24:09Z</published>
+    <updated>2022-02-08T02:24:09Z</updated>
+    <category term="My classes"/>
+  </entry>
   <entry>
     <title>Bloggers talking about blogging</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/02/07/bloggers-talking-about-blogging/" type="text/html"/>
@@ -95,23 +112,6 @@
     <published>2022-02-06T18:41:22Z</published>
     <updated>2022-02-06T18:41:22Z</updated>
     <category term="My classes"/>
-  </entry>
-  <entry>
-    <title>The bit about Mivart</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/02/05/the-bit-about-mivart/" type="text/html"/>
-    <content type="html">&lt;p class="lead"&gt;I did that hour-long &lt;a href="https://www.youtube.com/watch?v=lEsMTpDdv-Y"&gt;livestream&lt;/a&gt; yesterday, so as I&amp;#8217;ll try to continue to do, I yanked out a much shorter segment for those who don&amp;#8217;t have any patience for chit-chat. Also, the whole thing got instantly demonetized, I think because I talked about mammary gland development and evolution (YouTube is capricious and stupid &amp;#8212; there was nothing prurient or explicit in what I said). Let&amp;#8217;s see what they think of just the historical bit, where I talk about that unfortunate 19th century weirdo, St George Jackson Mivart, who got blocked by Charles Darwin and canceled by both the scientific community and the Catholic Church. See? There&amp;#8217;s nothing new about cancel culture.&lt;/p&gt;
-&lt;div class="center"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/XJCPfuKXcuI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-</content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">I did that hour-long livestream yesterday, so as I’ll try to continue to do, I yanked out a much shorter segment for those who don’t have any patience for chit-chat. Also, the whole thing got instantly demonetized, I think because I talked about mammary gland development and evolution (YouTube is capricious and stupid — there […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=65523</id>
-    <published>2022-02-05T18:36:53Z</published>
-    <updated>2022-02-05T18:36:53Z</updated>
-    <category term="Science"/>
   </entry>
   <entry>
     <title>Excerpt from Steven Pinker’s Rationality</title>
