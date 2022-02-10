@@ -7,9 +7,29 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2022-02-10T17:33:23Z</updated>
+  <updated>2022-02-10T18:34:35Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>We’re celebrating Darwin Day a little early</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/02/10/were-celebrating-darwin-day-a-little-early/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p class="lead">Come on down to the UMM student center! Our <a href="https://www.instagram.com/ummbioclub/">BioClub</a> is giving everyone an opportunity to take a selfie with Charles Darwin.</p>
+<p><a href="https://freethoughtblogs.com/pharyngula/files/2022/02/darwindayphoto.png"><img src="https://freethoughtblogs.com/pharyngula/files/2022/02/darwindayphoto-500x797.png" alt="" width="500" height="797" class="aligncenter size-large wp-image-65583" srcset="https://freethoughtblogs.com/pharyngula/files/2022/02/darwindayphoto.png 500w, https://freethoughtblogs.com/pharyngula/files/2022/02/darwindayphoto-94x150.png 94w, https://freethoughtblogs.com/pharyngula/files/2022/02/darwindayphoto-188x300.png 188w" sizes="(max-width: 500px) 100vw, 500px"/></a></p>
+<p>Be gentle. He is 213 years old, and tends to fold up at the knees and hips.</p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Come on down to the UMM student center! Our BioClub is giving everyone an opportunity to take a selfie with Charles Darwin. Be gentle. He is 213 years old, and tends to fold up at the knees and hips.</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=65582</id>
+    <published>2022-02-10T18:02:33Z</published>
+    <updated>2022-02-10T18:02:33Z</updated>
+    <category term="Communicating science"/>
+  </entry>
   <entry>
     <title>Someone is a bit over-dressed</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/02/10/someone-is-a-bit-over-dressed/" type="text/html"/>
@@ -115,23 +135,6 @@ Liberty and the constitution!</p>
     <published>2022-02-10T13:24:05Z</published>
     <updated>2022-02-10T13:24:05Z</updated>
     <category term="Politics, History, and Law"/>
-  </entry>
-  <entry>
-    <title>I will get these glitches worked out by Monday!</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/02/09/i-will-get-these-glitches-worked-out-by-monday/" type="text/html"/>
-    <content type="html">&lt;p class="lead"&gt;Yet another lecture video. I&amp;#8217;m still having a few tech problems &amp;#8212; the camera died on me about 45 minutes in. I know what went wrong, though, so next time will be perfect!&lt;/p&gt;
-&lt;div class="center"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Gd2ipxNFFlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-</content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Yet another lecture video. I’m still having a few tech problems — the camera died on me about 45 minutes in. I know what went wrong, though, so next time will be perfect!</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=65569</id>
-    <published>2022-02-09T23:20:23Z</published>
-    <updated>2022-02-09T23:20:23Z</updated>
-    <category term="Genetics"/>
   </entry>
   <entry>
     <title>About That Terrible Johns Hopkins Lockdown “Study”</title>
