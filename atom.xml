@@ -7,9 +7,26 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2022-02-12T00:43:55Z</updated>
+  <updated>2022-02-12T01:51:22Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>We’re almost ready to see some F1s!</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/02/11/were-almost-ready-to-see-some-f1s/" type="text/html"/>
+    <content type="html">&lt;p class="lead"&gt;Very exciting, but unfortunately this week&amp;#8217;s lab video is largely about the glamorous side of lab life: washing glassware. Also about looking up stuff in databases. But maybe in another week we&amp;#8217;ll get those F1 results!&lt;/p&gt;
+&lt;div class="center"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/oS0_kKaAt3I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+</content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Very exciting, but unfortunately this week’s lab video is largely about the glamorous side of lab life: washing glassware. Also about looking up stuff in databases. But maybe in another week we’ll get those F1 results!</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=65602</id>
+    <published>2022-02-12T01:35:34Z</published>
+    <updated>2022-02-12T01:35:34Z</updated>
+    <category term="Genetics"/>
+  </entry>
   <entry>
     <title>Friday Cephalopod: It’s Octo-Easter!</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/02/11/friday-cephalopod-its-octo-easter/" type="text/html"/>
@@ -105,26 +122,6 @@
     <published>2022-02-11T13:50:31Z</published>
     <updated>2022-02-11T13:50:31Z</updated>
     <category term="Miscellaneous and Meta"/>
-  </entry>
-  <entry>
-    <title>We’re celebrating Darwin Day a little early</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/02/10/were-celebrating-darwin-day-a-little-early/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p class="lead">Come on down to the UMM student center! Our <a href="https://www.instagram.com/ummbioclub/">BioClub</a> is giving everyone an opportunity to take a selfie with Charles Darwin.</p>
-<p><a href="https://freethoughtblogs.com/pharyngula/files/2022/02/darwindayphoto.png"><img src="https://freethoughtblogs.com/pharyngula/files/2022/02/darwindayphoto-500x797.png" alt="" width="500" height="797" class="aligncenter size-large wp-image-65583" srcset="https://freethoughtblogs.com/pharyngula/files/2022/02/darwindayphoto.png 500w, https://freethoughtblogs.com/pharyngula/files/2022/02/darwindayphoto-94x150.png 94w, https://freethoughtblogs.com/pharyngula/files/2022/02/darwindayphoto-188x300.png 188w" sizes="(max-width: 500px) 100vw, 500px"/></a></p>
-<p>Be gentle. He is 213 years old, and tends to fold up at the knees and hips.</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Come on down to the UMM student center! Our BioClub is giving everyone an opportunity to take a selfie with Charles Darwin. Be gentle. He is 213 years old, and tends to fold up at the knees and hips.</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=65582</id>
-    <published>2022-02-10T18:02:33Z</published>
-    <updated>2022-02-10T18:02:33Z</updated>
-    <category term="Communicating science"/>
   </entry>
   <entry>
     <title>Tree-planting schemes could slow climate change. But dangers lurk</title>
@@ -401,9 +398,9 @@
 <p>The book presents a personal tour of David’s amazing secret museum of magic in Las Vegas. Containing over 100 full colour photographs, the book takes you on a journey into a clandestine world of psychology, history and magic.  The book is released on October 26th and is now available for pre-order. <br/>USA: <a href="https://www.simonandschuster.com/books/David-Copperfields-History-of-Magic/David-Copperfield/9781982112912" target="_blank" rel="noreferrer noopener">Click here</a><br/>UK: <a href="https://www.amazon.co.uk/exec/obidos/ASIN/1982112913" target="_blank" rel="noreferrer noopener">Amazon UK</a></p>
 
 
-<div class="wp-container-62039f29ebe32 wp-block-columns">
+<div class="wp-container-62039fe0b7b19 wp-block-columns">
 <div class="wp-block-column" style="flex-basis:100%;">
-<div class="wp-container-62039f29eb73a wp-block-columns alignwide">
+<div class="wp-container-62039fe0b76ce wp-block-columns alignwide">
 <div class="wp-block-column" style="flex-basis:50%;"/>
 
 
