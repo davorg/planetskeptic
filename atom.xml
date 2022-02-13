@@ -7,9 +7,30 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2022-02-13T14:31:05Z</updated>
+  <updated>2022-02-13T15:37:17Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Like a machine!</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/02/13/like-a-machine/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><div id="attachment_65611" style="width: 160px" class="wp-caption alignright"><a href="https://freethoughtblogs.com/pharyngula/files/2022/02/robot.jpeg"><img src="https://freethoughtblogs.com/pharyngula/files/2022/02/robot-150x100.jpeg" alt="" width="150" height="100" class="size-thumbnail wp-image-65611" srcset="https://freethoughtblogs.com/pharyngula/files/2022/02/robot-150x100.jpeg 150w, https://freethoughtblogs.com/pharyngula/files/2022/02/robot-300x200.jpeg 300w, https://freethoughtblogs.com/pharyngula/files/2022/02/robot-768x512.jpeg 768w, https://freethoughtblogs.com/pharyngula/files/2022/02/robot-500x333.jpeg 500w" sizes="(max-width: 150px) 100vw, 150px"/></a><p class="wp-caption-text">Not creepy at all.</p></div>
+<p class="lead">It’s a little after 9am, and I have now completed everything: got this week’s lab set up, got tomorrow’s lecture prepped, finished a really cool book, and now the day yawns open before me, with lovely blue skies and -20°C temperatures. I think that means I can go take a walk. Get some exercise. Pick up some groceries. Breathe a little bit.</p>
+<p>Only a little bit, though, because the student homework starts streaming into my computer by midnight.</p>
+<p>Maybe I’ll tell you about the book later. Walk first.</p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">It’s a little after 9am, and I have now completed everything: got this week’s lab set up, got tomorrow’s lecture prepped, finished a really cool book, and now the day yawns open before me, with lovely blue skies and -20°C temperatures. I think that means I can go take a walk. Get some exercise. Pick […]</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=65610</id>
+    <published>2022-02-13T15:25:25Z</published>
+    <updated>2022-02-13T15:25:25Z</updated>
+    <category term="Miscellaneous and Meta"/>
+  </entry>
   <entry>
     <title>What happens when you put an incompetent engineer in charge of brain surgery?</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/02/12/what-happens-when-you-put-an-incompetent-engineer-in-charge-of-brain-surgery/" type="text/html"/>
@@ -103,33 +124,6 @@
     <published>2022-02-11T16:15:30Z</published>
     <updated>2022-02-11T16:15:30Z</updated>
     <category term="Cephalopods"/>
-  </entry>
-  <entry>
-    <title>OK, grandchildren, what have you done for me lately?</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/02/11/ok-grandchildren-what-have-you-done-for-me-lately/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><div style="float: right"><a href="https://freethoughtblogs.com/pharyngula/files/2020/07/knutdog.jpg"><img src="https://freethoughtblogs.com/pharyngula/files/2020/07/knutdog-113x150.jpg" alt="" width="113" height="150" class="alignnone size-thumbnail wp-image-59727" srcset="https://freethoughtblogs.com/pharyngula/files/2020/07/knutdog-113x150.jpg 113w, https://freethoughtblogs.com/pharyngula/files/2020/07/knutdog-225x300.jpg 225w, https://freethoughtblogs.com/pharyngula/files/2020/07/knutdog-768x1024.jpg 768w, https://freethoughtblogs.com/pharyngula/files/2020/07/knutdog-500x667.jpg 500w, https://freethoughtblogs.com/pharyngula/files/2020/07/knutdog.jpg 1536w" sizes="(max-width: 113px) 100vw, 113px"/></a><a href="https://freethoughtblogs.com/pharyngula/files/2021/05/ilianagrandma.jpeg"><img src="https://freethoughtblogs.com/pharyngula/files/2021/05/ilianagrandma-150x100.jpeg" alt="" width="150" height="100" class="alignnone size-thumbnail wp-image-62808" srcset="https://freethoughtblogs.com/pharyngula/files/2021/05/ilianagrandma-150x100.jpeg 150w, https://freethoughtblogs.com/pharyngula/files/2021/05/ilianagrandma-300x200.jpeg 300w, https://freethoughtblogs.com/pharyngula/files/2021/05/ilianagrandma-768x512.jpeg 768w, https://freethoughtblogs.com/pharyngula/files/2021/05/ilianagrandma-500x334.jpeg 500w, https://freethoughtblogs.com/pharyngula/files/2021/05/ilianagrandma.jpeg 1000w" sizes="(max-width: 150px) 100vw, 150px"/></a></div>
-<p class="lead">Rotten kids. They haven’t been rejuvenating me. That’s the message I get from <a href="https://www.theguardian.com/lifeandstyle/2022/feb/11/grandparents-looking-after-grandchildren-has-no-health-advantages-study-suggests">one silly study</a>.</p>
-<blockquote><p>Grandparents planning hefty amounts of childcare this half-term might want to think again after research claimed to disprove previous findings of a “rejuvenating effect” from looking after grandchildren.</p>
-<p>Many studies have appeared to show mental and physical health advantages for those who care for their grandchildren. But none involved researchers talking to the same grandparents before and after their caregiving responsibilities began.</p>
-<p>When the authors of Is There a Rejuvenating Effect of (Grand)Childcare? A Longitudinal Study, published this week in The Journals of Gerontology, did that, they found that caring for grandchildren failed to make grandparents feel any younger than their actual age.</p></blockquote>
-<p>Sorry, Iliana and Knut, you know I only visited you to leech youth-giving properties from you, like a vampire or Peter Thiel. Now I know it was all a sham, so I can stay home in the future.</p>
-<p>The one interesting thing from the work is that it exposed selection bias in previous studies. Those studies compared how subjectively younger grandparents who took care of grandchildren felt, compared to those who didn’t. Aside from just the subjective evaluation of the effects, wouldn’t there be obvious bias in that you had to feel fairly healthy and vigorous to volunteer for child care in the first place? That’s hard work, yo. When they compared the same individuals before and after, the Fountain of Youth effect disappeared.</p>
-<p>Surprise. I don’t even understand why this was considered a valid hypothesis in the first place, but then I’m not at all familiar with that literature.</p>
-<p>You know, in all the times we’ve made the long trip to visit the grandkids, and all the times my wife has had extended stays to help with childcare, we’ve never once contemplated the peculiar notion that it might shave a few years of senescence off of us. Every trip back home we’re mainly dealing with tiredness, because the little ragamuffins can run us ragged.</p>
-<p>We go because it makes us happy. Isn’t that enough?</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Rotten kids. They haven’t been rejuvenating me. That’s the message I get from one silly study. Grandparents planning hefty amounts of childcare this half-term might want to think again after research claimed to disprove previous findings of a “rejuvenating effect” from looking after grandchildren. Many studies have appeared to show mental and physical health advantages […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=65595</id>
-    <published>2022-02-11T15:55:44Z</published>
-    <updated>2022-02-11T15:55:44Z</updated>
-    <category term="Science"/>
   </entry>
   <entry>
     <title>Tree-planting schemes could slow climate change. But dangers lurk</title>
@@ -406,9 +400,9 @@
 <p>The book presents a personal tour of David’s amazing secret museum of magic in Las Vegas. Containing over 100 full colour photographs, the book takes you on a journey into a clandestine world of psychology, history and magic.  The book is released on October 26th and is now available for pre-order. <br/>USA: <a href="https://www.simonandschuster.com/books/David-Copperfields-History-of-Magic/David-Copperfield/9781982112912" target="_blank" rel="noreferrer noopener">Click here</a><br/>UK: <a href="https://www.amazon.co.uk/exec/obidos/ASIN/1982112913" target="_blank" rel="noreferrer noopener">Amazon UK</a></p>
 
 
-<div class="wp-container-62039f29ebe32 wp-block-columns">
+<div class="wp-container-62039fe0b7b19 wp-block-columns">
 <div class="wp-block-column" style="flex-basis:100%;">
-<div class="wp-container-62039f29eb73a wp-block-columns alignwide">
+<div class="wp-container-62039fe0b76ce wp-block-columns alignwide">
 <div class="wp-block-column" style="flex-basis:50%;"/>
 
 
