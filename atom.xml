@@ -7,9 +7,30 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2022-02-16T20:32:44Z</updated>
+  <updated>2022-02-16T21:31:47Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Aaaaaargh</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/02/16/aaaaaargh-2/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p class="lead">Long day, many frustrations. The big problem right now is that my go-to home computer, an M1 Mac Mini, is being a pain in the butt and straining to make any kind of network connection. It’s been progressively degenerating for the past month, but now it’s to the point where Chrome will try to connect to a URL and just sit there for minutes before <em>maybe</em> loading something very very slowly.</p>
+<p>The other night I tried to upload my class video…it took 11 hours! Where it is usually significantly under an hour. I’ve got another one I’ve got to upload now, and it simply can’t connect to YouTube.</p>
+<p>It’s not the network, it’s not my router, it’s specific to this one computer. I’ve got a Linux machine right next to it (that’s what I’m typing on right now), and that’s working slick and smooth. I guess I’m going to transfer my file to an external storage device, put it on here, and upload it. BUT I WANT MY COMFY MAC TO WORK! Anyone have any suggestions about what could be going on?</p>
+<p>Also, it’s all got a low priority for now. Tonight is Mary’s colonoscopy prep night, and I have to go in with her to the hospital tomorrow. Yeah. I’m not having any fun, but she is <em>really</em> not having fun.</p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Long day, many frustrations. The big problem right now is that my go-to home computer, an M1 Mac Mini, is being a pain in the butt and straining to make any kind of network connection. It’s been progressively degenerating for the past month, but now it’s to the point where Chrome will try to connect […]</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=65661</id>
+    <published>2022-02-16T21:29:18Z</published>
+    <updated>2022-02-16T21:29:18Z</updated>
+    <category term="Miscellaneous and Meta"/>
+  </entry>
   <entry>
     <title>Paines, Pinkers, and Critical Thinkers</title>
     <link rel="alternate" href="https://richarddawkins.net/2022/02/paines-pinkers-and-critical-thinkers/" type="text/html"/>
@@ -187,27 +208,6 @@
     <published>2022-02-15T14:03:07Z</published>
     <updated>2022-02-15T14:03:07Z</updated>
     <category term="Miscellaneous and Meta"/>
-  </entry>
-  <entry>
-    <title>Genetics can reach way, way back</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/02/15/genetics-can-reach-way-way-back/" type="text/html"/>
-    <content type="html">&lt;p&gt;&lt;a href="https://freethoughtblogs.com/pharyngula/files/2022/02/origin.jpeg"&gt;&lt;img src="https://freethoughtblogs.com/pharyngula/files/2022/02/origin-99x150.jpeg" alt="" width="99" height="150" class="alignright size-thumbnail wp-image-65644" srcset="https://freethoughtblogs.com/pharyngula/files/2022/02/origin-99x150.jpeg 99w, https://freethoughtblogs.com/pharyngula/files/2022/02/origin-199x300.jpeg 199w, https://freethoughtblogs.com/pharyngula/files/2022/02/origin.jpeg 331w" sizes="(max-width: 99px) 100vw, 99px" /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p class="lead"&gt;A few years ago &amp;#8212; in 2016? Yikes, time passes quickly when you&amp;#8217;re miserable &amp;#8212; Jennifer Raff gave a talk at &lt;a href="https://skepticon.org/"&gt;Skepticon&lt;/a&gt; on &lt;i&gt;The Misuse of Genetics in Pseudoscience&lt;/i&gt;. It was good stuff, right in my battery of interests. She debunked popular nonsense, like ancient astronauts, abuses of archaeology, &amp;#8216;scientific&amp;#8217; racism, garbage notions about IQ, etc. It was recorded, so you can watch it now!&lt;/p&gt;
-&lt;div class="center"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/0BuRECUOsx0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-&lt;p&gt;Dr Raff is even more famous today, and I&amp;#8217;m sure it would be difficult to book her for a small convention anywhere, if we had them anymore, because she has just published a book, &lt;a href="https://amzn.to/3HT1C8A"&gt;&lt;i&gt;Origin: A Genetic History of the Americas&lt;/i&gt;&lt;/a&gt;, to a phenomenal reception. It&amp;#8217;s deserved, too. The book touches lightly on the subjects in her talk &amp;#8212; you can tell that the blatant foolishness of popular ideas about prehistory rankles &amp;#8212; but mainly the book is about her work in the anthropology of the Americas, viewing the history of this part of the world through a genetic lens…but also from a humanist perspective. She respects indigenous culture, and it shows.&lt;/p&gt;
-&lt;p&gt;There&amp;#8217;s a fair bit of technical information here, but it&amp;#8217;s a pleasant read. I tore through it in two evenings of bedtime reading, and probably would have finished it in one if that obnoxious habit of sleeping when tired hadn&amp;#8217;t interrupted me. Here I am teaching at a university with a mission to serve the American Indian community, and it ought to be required reading in these parts. In your parts, I don&amp;#8217;t know, but I think you&amp;#8217;d enjoy it and learn a lot.&lt;/p&gt;
-</content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">A few years ago — in 2016? Yikes, time passes quickly when you’re miserable — Jennifer Raff gave a talk at Skepticon on The Misuse of Genetics in Pseudoscience. It was good stuff, right in my battery of interests. She debunked popular nonsense, like ancient astronauts, abuses of archaeology, ‘scientific’ racism, garbage notions about IQ, […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=65643</id>
-    <published>2022-02-15T13:45:25Z</published>
-    <updated>2022-02-15T13:45:25Z</updated>
-    <category term="Books"/>
-    <category term="Science"/>
   </entry>
   <entry>
     <title>What Do You Do When There Is (Almost) Nothing Left?</title>
