@@ -7,9 +7,28 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2022-02-18T11:30:56Z</updated>
+  <updated>2022-02-18T12:39:31Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Friday Cephalopod: a bit of anthropomorphic sweetness</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/02/18/friday-cephalopod-a-bit-of-anthropomorphic-sweetness/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p><a href="https://freethoughtblogs.com/pharyngula/files/2022/02/octoheart.jpeg"><img src="https://freethoughtblogs.com/pharyngula/files/2022/02/octoheart-500x188.jpeg" alt="" width="500" height="188" class="aligncenter size-large wp-image-65676" srcset="https://freethoughtblogs.com/pharyngula/files/2022/02/octoheart-500x188.jpeg 500w, https://freethoughtblogs.com/pharyngula/files/2022/02/octoheart-150x56.jpeg 150w, https://freethoughtblogs.com/pharyngula/files/2022/02/octoheart-300x113.jpeg 300w, https://freethoughtblogs.com/pharyngula/files/2022/02/octoheart-768x288.jpeg 768w, https://freethoughtblogs.com/pharyngula/files/2022/02/octoheart.jpeg 1600w" sizes="(max-width: 500px) 100vw, 500px"/></a></p>
+<p class="lead">Not a photo this week, but an <a href="https://www.castofwonders.org/2022/02/cast-of-wonders-486-eight-arms-to-hold-you/">audio recording of a short story for the week of Valentine’s Day</a>. Or you can read the text, if you prefer. It’s rather excessive in humanizing the octopus protagonist, but I don’t think most people want to really hear the cephalopod perspective on matters of love — it would be rather alienating to most.</p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Not a photo this week, but an audio recording of a short story for the week of Valentine’s Day. Or you can read the text, if you prefer. It’s rather excessive in humanizing the octopus protagonist, but I don’t think most people want to really hear the cephalopod perspective on matters of love — it […]</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=65675</id>
+    <published>2022-02-18T11:57:59Z</published>
+    <updated>2022-02-18T11:57:59Z</updated>
+    <category term="Cephalopods"/>
+  </entry>
   <entry>
     <title>We Will Never Get “Back to Normal”</title>
     <link rel="alternate" href="https://skepchick.org/2022/02/we-will-never-get-back-to-normal/" type="text/html"/>
@@ -146,24 +165,6 @@
     <published>2022-02-17T01:22:13Z</published>
     <updated>2022-02-17T01:22:13Z</updated>
     <category term="Miscellaneous and Meta"/>
-  </entry>
-  <entry>
-    <title>Non-Mendelian ratios are fun!</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/02/16/non-mendelian-ratios-are-fun/" type="text/html"/>
-    <content type="html">&lt;p class="lead"&gt;Linux to the rescue! I managed to get my most recent genetics recording uploaded.&lt;/p&gt;
-&lt;div class="center"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/ncp2WSF5OIw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-</content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Linux to the rescue! I managed to get my most recent genetics recording uploaded.</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=65663</id>
-    <published>2022-02-16T23:24:31Z</published>
-    <updated>2022-02-16T23:24:31Z</updated>
-    <category term="Genetics"/>
-    <category term="Science"/>
   </entry>
   <entry>
     <title>Paines, Pinkers, and Critical Thinkers</title>
