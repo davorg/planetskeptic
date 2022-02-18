@@ -7,9 +7,29 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2022-02-18T19:30:42Z</updated>
+  <updated>2022-02-18T20:32:44Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Sweet!</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/02/18/sweet/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p><a href="https://freethoughtblogs.com/pharyngula/files/2022/02/router.jpg"><img src="https://freethoughtblogs.com/pharyngula/files/2022/02/router-150x145.jpg" alt="" width="150" height="145" class="alignright size-thumbnail wp-image-65687" srcset="https://freethoughtblogs.com/pharyngula/files/2022/02/router-150x145.jpg 150w, https://freethoughtblogs.com/pharyngula/files/2022/02/router-300x289.jpg 300w, https://freethoughtblogs.com/pharyngula/files/2022/02/router-768x740.jpg 768w, https://freethoughtblogs.com/pharyngula/files/2022/02/router-500x482.jpg 500w, https://freethoughtblogs.com/pharyngula/files/2022/02/router.jpg 1000w" sizes="(max-width: 150px) 100vw, 150px"/></a></p>
+<p class="lead">I told you all I was having <a href="https://freethoughtblogs.com/pharyngula/2022/02/16/aaaaaargh-2/">internet troubles</a> the other day, and you all made lots of suggestions. Big steps today: my internet provider brought a brand new router over, all big and clunky, and then I strung a cat8 cable from the router to my office. Wifi no more! Gigabit ethernet! Ten times faster!</p>
+<p>Now I just have to find an excuse to really test it out, except today’s task is to get next week’s lab organized. No playing on the internet. I might get tempted to try a livestream at some point, though.</p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">I told you all I was having internet troubles the other day, and you all made lots of suggestions. Big steps today: my internet provider brought a brand new router over, all big and clunky, and then I strung a cat8 cable from the router to my office. Wifi no more! Gigabit ethernet! Ten times […]</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=65686</id>
+    <published>2022-02-18T19:40:27Z</published>
+    <updated>2022-02-18T19:40:27Z</updated>
+    <category term="Miscellaneous and Meta"/>
+  </entry>
   <entry>
     <title>Hmm. I think us old people are on the list for sacrifice, too</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/02/18/hmm-i-think-us-old-people-are-on-the-list-for-sacrifice-too/" type="text/html"/>
@@ -129,31 +149,6 @@
     <published>2022-02-17T21:02:23Z</published>
     <updated>2022-02-17T21:02:23Z</updated>
     <category term="Skepticism"/>
-  </entry>
-  <entry>
-    <title>God cares about pronouns</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/02/17/god-cares-about-pronouns/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p class="lead">Tragic news: a priest was carrying out baptisms <em>wrongly</em>. These were <a href="https://www.aol.com/baptisms-arizona-priest-presumed-invalid-185918630-213657155.html">botched baptisms</a>!</p>
-<blockquote><p>The diocese, which is trying to identify people baptized by Arango, set up a FAQ section on its website to confront issues related to the botched baptisms and also created a form for people who were initiated into the church by the priest to complete.</p>
-<p>Arango’s error was in saying, “We baptize you in the name of the Father, and of the Son, and of the Holy Spirit,” when he should have begun the sentence by saying, “I baptize you.”</p>
-<p>“The issue with using ‘We’ is that it is not the community that baptizes a person, rather, it is Christ, and Christ alone, who presides at all of the sacraments, and so it is Christ Jesus who baptizes,” Bishop Thomas Olmsted wrote in a mid-January message on the diocese’s site.</p></blockquote>
-<div id="attachment_65673" style="width: 108px" class="wp-caption alignright"><a href="https://freethoughtblogs.com/pharyngula/files/2022/02/Baby_Hitler.jpeg"><img src="https://freethoughtblogs.com/pharyngula/files/2022/02/Baby_Hitler-98x150.jpeg" alt="" width="98" height="150" class="size-thumbnail wp-image-65673" srcset="https://freethoughtblogs.com/pharyngula/files/2022/02/Baby_Hitler-98x150.jpeg 98w, https://freethoughtblogs.com/pharyngula/files/2022/02/Baby_Hitler-197x300.jpeg 197w, https://freethoughtblogs.com/pharyngula/files/2022/02/Baby_Hitler.jpeg 314w" sizes="(max-width: 98px) 100vw, 98px"/></a><p class="wp-caption-text">I think the priest had hiccups that day.</p></div>
-<p>Think of all the Catholics baptized by a priest who erred in the precise formula: all the priests who stuttered, or sneezed, or paused too long at some random point in the incantation, or worst of all, spoke the rite in the <em>wrong language</em>. I don’t know what the right language is, but it’s probably not English or modern Italian. God is very finicky about these things, I guess.</p>
-<p>It’s probably not German, either, which explains Hitler. Do they say “du” or “Sie” in the correct version? Maybe they’ve been getting it wrong all this time.</p>
-<p>I wonder if the Catholic Church is more angry at the priest who screwed up the baptisms than they are at the priests who diddled choir boys?</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Tragic news: a priest was carrying out baptisms wrongly. These were botched baptisms! The diocese, which is trying to identify people baptized by Arango, set up a FAQ section on its website to confront issues related to the botched baptisms and also created a form for people who were initiated into the church by the […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=65672</id>
-    <published>2022-02-17T17:58:42Z</published>
-    <updated>2022-02-17T17:58:42Z</updated>
-    <category term="Religion and Government"/>
   </entry>
   <entry>
     <title>Q&amp;A: Geoffrey Nice</title>
