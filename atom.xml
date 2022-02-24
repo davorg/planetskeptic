@@ -7,9 +7,17 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2022-02-24T10:34:08Z</updated>
+  <updated>2022-02-24T11:31:07Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Will the cyborgs soon rise up?</title>
+    <link rel="alternate" href="https://newhumanist.org.uk/articles/5924/will-the-cyborgs-soon-rise-up#utm_source=rss" type="text/html"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://newhumanist.org.uk/images/Intelligence-Artificial-Circuit-Processing-Brain-1845944.jpg" height="720" alt="Computer brain" width="952" /&gt;&lt;/p&gt; &lt;p&gt;As gaming lore would have it, the children of the 1970s spent hours glued to arcades each week knocking a ball between two bars that moved up and down either side of the computer screen. Released in 1972, Pong, which crudely approximates table tennis, was among the first video games created, and the early arcade machines it featured on now stand proudly in museums across the US. &lt;br /&gt;&lt;br /&gt;The game didn&amp;rsquo;t require a huge amount of brain power, though it did need some: the capacity to predict where the opponent would send the ball; the ability to move the &amp;ldquo;paddle&amp;rdquo; to meet the ball in advance of its arrival. But it evidently didn&amp;rsquo;t demand too much of the human body beyond that, as scientists at Cortical Labs in Australia have now proven.&lt;br /&gt;&lt;br /&gt;They have taught human brain cells in a petri dish to do more or less what kids did half a century ago, only this time the cells are playing against themselves, bouncing the ball against a virtual wall. Still, they need to operate the paddle and predict the ball&amp;rsquo;s trajectory. &lt;br /&gt;&lt;br /&gt;The roughly 800,000 cells in the petri dish were sent electrical pulses via microelectrodes: if the ball is arriving at their left side, the signal goes to the left-hand side of the mass, and the same for the right-hand side. The white bar accordingly moves to meet the ball. Cortical Labs&amp;rsquo; Brett Kagan told &lt;em&gt;New Scientist&lt;/em&gt; magazine that the teaching of these &amp;ldquo;cyborg mini-brains&amp;rdquo;, as the team calls them, took only five minutes. &lt;br /&gt;&lt;br /&gt;The experiment will likely add to growing belief in the power &amp;ndash; and scientific utility &amp;ndash; of synthetic brains. In August last year, Science journal published a report on work done by researchers in France to create a computer simulation of the way in which neurons send information between different parts of the brain, and which could be observed mimicking the process of memory formation. A team at King&amp;rsquo;s College London meanwhile used a combination of AI and the Cambridge-1 supercomputer, the UK&amp;rsquo;s most powerful computer, to generate synthetic brain images that enable them to observe how certain illnesses or ageing-related processes trigger changes in the brain over time &amp;ndash; all without needing to place actual humans in an MRI tunnel. &lt;br /&gt;&lt;br /&gt;The prospect of cyborg brains might not sit too easily. After all, Hollywood has long been telling us that if the machines rise up, humanity will fall. But there is growing scientific support for the furthering of this kind of research, not least because it will make obsolete the invasive procedures currently required to study our brains.&lt;/p&gt; &lt;p&gt;&lt;em&gt;This piece is from the Witness section of New Humanist spring 2022. &lt;a href="/subscribe"&gt;Subscribe here&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;</content>
+    <id>https://newhumanist.org.uk/articles/5924/will-the-cyborgs-soon-rise-up#utm_source=rss</id>
+    <published>2022-02-24T09:00:00Z</published>
+    <updated>2022-02-24T09:00:00Z</updated>
+  </entry>
   <entry>
     <title>Sex, sex, sex</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/02/23/sex-sex-sex/" type="text/html"/>
@@ -313,14 +321,6 @@
     <category term="Skepticism"/>
   </entry>
   <entry>
-    <title>Will plasma jets one day power deep space travel?</title>
-    <link rel="alternate" href="https://newhumanist.org.uk/articles/5921/will-plasma-jets-one-day-power-deep-space-travel#utm_source=rss" type="text/html"/>
-    <content type="html">&lt;p&gt;&lt;img src="https://newhumanist.org.uk/images/space-spaceship_SQBE2C5NWT.jpg" height="540" alt="Space rocket" width="960" /&gt;&lt;/p&gt; &lt;p&gt;Rocket science is founded on Newton&amp;rsquo;s third law: for every action, there is an equal and opposite reaction. In practice, this means that blasting burning fuel downwards gives you enough upwards push to get a rocket-propelled craft off the ground and into space. Once there, it can travel easily through the perfect vacuum of space, reaching impressively high speeds. Voyager 1, launched in 1977, passed through the edge of the solar system in 2012 and is now over 14 billion miles away, travelling at 38,000 mph.&lt;span class="Apple-converted-space"&gt; &lt;br /&gt;&lt;br /&gt;&lt;/span&gt;But for deep space exploration, such as a human mission to Mars or an interstellar probe, we really need to improve the travel time.&lt;span class="Apple-converted-space"&gt; &lt;br /&gt;&lt;br /&gt;&lt;/span&gt;For that you need a better propulsion system. Relying on chemical combustion alone means carrying heavy fuel with you and that&amp;rsquo;s a non-starter for space missions. Instead, a way forward is to use plasma: a fourth state of matter (along with solid, liquid and gas), so hot that it has broken down into charged particles. Plasma propulsion is much more fuel efficient and can operate for much longer.&lt;span class="Apple-converted-space"&gt; &lt;br /&gt;&lt;br /&gt;&lt;/span&gt;So, what&amp;rsquo;s the downside? For optimum thrust the plasma needs to leave the spacecraft as a focused jet. Solutions so far have relied on using cylindrical cavities that guide the plasma, making sure that it doesn&amp;rsquo;t spray out in all directions. Over time, however, the cavity walls will degrade, which does little for its longevity.&lt;span class="Apple-converted-space"&gt; &lt;br /&gt;&lt;br /&gt;&lt;/span&gt;Results published recently in &lt;em&gt;Applied Physics Letters&lt;/em&gt; demonstrate a new approach that doesn&amp;rsquo;t need cavity walls. Instead, a set of electrodes generate a flow of electrons at the edges of the plasma, creating magnetic forces that push back on the natural expansion of the charged particles.&lt;span class="Apple-converted-space"&gt; &lt;br /&gt;&lt;br /&gt;&lt;/span&gt;The Princeton Plasma Physics Laboratory group have already built a mini prototype that produced a focused plasma jet with high thrust-density and improved plasma stability. This is a major development for the future of rocket design. Plasma jets could significantly cut the time it takes to traverse our solar system, making it far more feasible for humans to visit Mars and beyond. &lt;br /&gt;&lt;br /&gt;&lt;em&gt;This piece is a preview from the Witness section of our New Humanist spring 2022 edition. &lt;a href="/subscribe"&gt;Subscribe here&lt;/a&gt;. &lt;/em&gt;&lt;/p&gt;</content>
-    <id>https://newhumanist.org.uk/articles/5921/will-plasma-jets-one-day-power-deep-space-travel#utm_source=rss</id>
-    <published>2022-02-14T09:00:00Z</published>
-    <updated>2022-02-14T09:00:00Z</updated>
-  </entry>
-  <entry>
     <title>Real magic</title>
     <link rel="alternate" href="https://richardwiseman.wordpress.com/2021/11/01/real-magic/" type="text/html"/>
     <content type="xhtml">
@@ -402,9 +402,9 @@
 <p>The book presents a personal tour of David’s amazing secret museum of magic in Las Vegas. Containing over 100 full colour photographs, the book takes you on a journey into a clandestine world of psychology, history and magic.  The book is released on October 26th and is now available for pre-order. <br/>USA: <a href="https://www.simonandschuster.com/books/David-Copperfields-History-of-Magic/David-Copperfield/9781982112912" target="_blank" rel="noreferrer noopener">Click here</a><br/>UK: <a href="https://www.amazon.co.uk/exec/obidos/ASIN/1982112913" target="_blank" rel="noreferrer noopener">Amazon UK</a></p>
 
 
-<div class="wp-container-62039f29ebe32 wp-block-columns">
+<div class="wp-container-62039f1c28f45 wp-block-columns">
 <div class="wp-block-column" style="flex-basis:100%;">
-<div class="wp-container-62039f29eb73a wp-block-columns alignwide">
+<div class="wp-container-62039f1c28ba5 wp-block-columns alignwide">
 <div class="wp-block-column" style="flex-basis:50%;"/>
 
 
