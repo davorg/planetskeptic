@@ -7,9 +7,32 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2022-02-24T16:38:47Z</updated>
+  <updated>2022-02-24T17:34:01Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Too cold for a centipede</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/02/24/too-cold-for-a-centipede/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p class="lead">Mary caught a centipede in the house, and I was going to take a quick picture of it…but it was way too active. So I had the bright idea of bringing it to the lab, and just carry it outside as I walked in. I had it in a large plastic container that I figured would provide some thermal insulation.</p>
+<p>It was not enough. </p>
+<p>Before I reached the end of the driveway, it was immobile — that was less than a minute. It took another 3 or 4 minutes to get to work, and it looked dead and frozen. I took a picture anyway. This is a sad, corpselike centipede. Whoops. I was pretty sure I’d killed it with surprising speed. I guess -20°C isn’t healthy for small invertebrates.</p>
+<p><span id="more-65746"/></p>
+<p><a href="https://freethoughtblogs.com/pharyngula/files/2022/02/centipede.jpeg"><img src="https://freethoughtblogs.com/pharyngula/files/2022/02/centipede-500x334.jpeg" alt="" width="500" height="334" class="aligncenter size-large wp-image-65747" srcset="https://freethoughtblogs.com/pharyngula/files/2022/02/centipede-500x334.jpeg 500w, https://freethoughtblogs.com/pharyngula/files/2022/02/centipede-150x100.jpeg 150w, https://freethoughtblogs.com/pharyngula/files/2022/02/centipede-300x201.jpeg 300w, https://freethoughtblogs.com/pharyngula/files/2022/02/centipede-768x513.jpeg 768w" sizes="(max-width: 500px) 100vw, 500px"/></a></p>
+<p>And then it started twitching as it warmed up. Now it’s fully recovered. I guess centipedes are harder to kill than I thought.</p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Mary caught a centipede in the house, and I was going to take a quick picture of it…but it was way too active. So I had the bright idea of bringing it to the lab, and just carry it outside as I walked in. I had it in a large plastic container that I figured […]</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=65746</id>
+    <published>2022-02-24T17:06:40Z</published>
+    <updated>2022-02-24T17:06:40Z</updated>
+    <category term="Organisms"/>
+  </entry>
   <entry>
     <title>It’s WAR in Europe</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/02/24/its-war-in-europe/" type="text/html"/>
@@ -125,29 +148,6 @@
     <published>2022-02-23T16:07:36Z</published>
     <updated>2022-02-23T16:07:36Z</updated>
     <category term="Race, Society, and Social Justice"/>
-  </entry>
-  <entry>
-    <title>Someone is really overcompensating here</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/02/23/someone-is-really-overcompensating-here/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p class="lead">Oh, Gary Larson, your absurdism is so extreme we never have to worry about it coming true, so we can laugh.</p>
-<div id="attachment_65731" style="width: 436px" class="wp-caption aligncenter"><a href="https://freethoughtblogs.com/pharyngula/files/2022/02/noseguns.png"><img src="https://freethoughtblogs.com/pharyngula/files/2022/02/noseguns.png" alt="" width="426" height="544" class="size-full wp-image-65731" srcset="https://freethoughtblogs.com/pharyngula/files/2022/02/noseguns.png 426w, https://freethoughtblogs.com/pharyngula/files/2022/02/noseguns-117x150.png 117w, https://freethoughtblogs.com/pharyngula/files/2022/02/noseguns-235x300.png 235w" sizes="(max-width: 426px) 100vw, 426px"/></a><p class="wp-caption-text"><a href="https://www.thefarside.com/2022/02/23/4">The Far Side</a></p></div>
-<p>Unfortunately, the reality is worse.</p>
-<p><a href="https://freethoughtblogs.com/pharyngula/files/2022/02/bohines.jpeg"><img src="https://freethoughtblogs.com/pharyngula/files/2022/02/bohines-500x419.jpeg" alt="" width="500" height="419" class="aligncenter size-large wp-image-65732" srcset="https://freethoughtblogs.com/pharyngula/files/2022/02/bohines.jpeg 500w, https://freethoughtblogs.com/pharyngula/files/2022/02/bohines-150x126.jpeg 150w, https://freethoughtblogs.com/pharyngula/files/2022/02/bohines-300x251.jpeg 300w" sizes="(max-width: 500px) 100vw, 500px"/></a></p>
-<p>What is he going to do with that cannon in congress?</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Oh, Gary Larson, your absurdism is so extreme we never have to worry about it coming true, so we can laugh. Unfortunately, the reality is worse. What is he going to do with that cannon in congress?</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=65730</id>
-    <published>2022-02-23T13:13:27Z</published>
-    <updated>2022-02-23T13:13:27Z</updated>
-    <category term="Fools, Tools, Kooks, and Goons"/>
-    <category term="Gun Fondlers"/>
   </entry>
   <entry>
     <title>Is Dog Pee Destroying the Ecosystem?</title>
@@ -406,9 +406,9 @@
 <p>The book presents a personal tour of David’s amazing secret museum of magic in Las Vegas. Containing over 100 full colour photographs, the book takes you on a journey into a clandestine world of psychology, history and magic.  The book is released on October 26th and is now available for pre-order. <br/>USA: <a href="https://www.simonandschuster.com/books/David-Copperfields-History-of-Magic/David-Copperfield/9781982112912" target="_blank" rel="noreferrer noopener">Click here</a><br/>UK: <a href="https://www.amazon.co.uk/exec/obidos/ASIN/1982112913" target="_blank" rel="noreferrer noopener">Amazon UK</a></p>
 
 
-<div class="wp-container-62039f29ebe32 wp-block-columns">
+<div class="wp-container-62039f1c28f45 wp-block-columns">
 <div class="wp-block-column" style="flex-basis:100%;">
-<div class="wp-container-62039f29eb73a wp-block-columns alignwide">
+<div class="wp-container-62039f1c28ba5 wp-block-columns alignwide">
 <div class="wp-block-column" style="flex-basis:50%;"/>
 
 
