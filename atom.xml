@@ -7,9 +7,26 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2022-03-15T11:32:12Z</updated>
+  <updated>2022-03-15T12:40:35Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Joro hype</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/03/15/joro-hype/" type="text/html"/>
+    <content type="html">&lt;p class="lead"&gt;BrainBug and I are getting together tonight at 7:30 Central time to talk about the Joro spider. Or perhaps more accurately, the media&amp;#8217;s hysterics over Joro.&lt;/p&gt;
+&lt;div class="center"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/v2aPNODukXQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+</content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">BrainBug and I are getting together tonight at 7:30 Central time to talk about the Joro spider. Or perhaps more accurately, the media’s hysterics over Joro.</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=65930</id>
+    <published>2022-03-15T12:00:10Z</published>
+    <updated>2022-03-15T12:00:10Z</updated>
+    <category term="Spiders"/>
+  </entry>
   <entry>
     <title>An amusing evo-psych put-down</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/03/14/an-amusing-evo-psych-put-down/" type="text/html"/>
@@ -107,23 +124,6 @@
     <id>https://freethoughtblogs.com/pharyngula/?p=65917</id>
     <published>2022-03-12T14:51:23Z</published>
     <updated>2022-03-12T14:51:23Z</updated>
-    <category term="Miscellaneous and Meta"/>
-  </entry>
-  <entry>
-    <title>Podcast time today!</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/03/12/podcast-time-today/" type="text/html"/>
-    <content type="html">&lt;p class='lead'&gt;правда!&lt;/p&gt;
-&lt;div class="center"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/uDuzXV7Eqo4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-</content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">правда!</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=65915</id>
-    <published>2022-03-12T14:07:00Z</published>
-    <updated>2022-03-12T14:07:00Z</updated>
     <category term="Miscellaneous and Meta"/>
   </entry>
   <entry>
