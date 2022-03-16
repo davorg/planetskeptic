@@ -7,9 +7,27 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2022-03-16T16:39:22Z</updated>
+  <updated>2022-03-16T17:34:19Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Intolerance of Inquiry, Failures of Imagination</title>
+    <link rel="alternate" href="https://richarddawkins.net/2022/03/intolerance-of-inquiry-failures-of-imagination/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">From the Richard Dawkins Foundation Newsletter. Subscribe here. Hello! A few days ago, Raif Badawi walked out of his prison cell.  A progressive Saudi writer, Badawi was arrested in 2012 on charges of “insulting Islam” and apostasy for daring to question religion and criticize the Saudi Arabian government through his website. The Center for Inquiry (CFI) …</div>
+    </content>
+    <author>
+      <name>Paul Fidalgo</name>
+    </author>
+    <id>https://richarddawkins.net/?p=978231</id>
+    <published>2022-03-16T16:48:40Z</published>
+    <updated>2022-03-16T16:48:40Z</updated>
+    <category term="Original"/>
+    <category term="Politics"/>
+    <category term="Religion"/>
+    <category term="Science"/>
+    <category term="Skepticism"/>
+  </entry>
   <entry>
     <title>VIDEO: Paul Offit on Medical Risk</title>
     <link rel="alternate" href="https://richarddawkins.net/2022/03/video-paul-offit-on-medical-risk/" type="text/html"/>
@@ -67,21 +85,6 @@
     <updated>2022-03-16T16:10:08Z</updated>
     <category term="Science"/>
     <category term="Skepticism"/>
-  </entry>
-  <entry>
-    <title>Greenwashing God</title>
-    <link rel="alternate" href="https://richarddawkins.net/2022/03/greenwashing-god/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">In the latest issue of Free Inquiry magazine, journalist David Mountain says that while environmentalism has often enjoyed the support of religious leaders, he worries about the pernicious influence of superstition over environmental activism.  “Whenever environmentalism has allowed itself to be guided by spirituality,” he writes, “it has become lost in the inconsequential backwaters of New Age …</div>
-    </content>
-    <author>
-      <name>Paul Fidalgo</name>
-    </author>
-    <id>https://richarddawkins.net/?p=978210</id>
-    <published>2022-03-16T16:07:15Z</published>
-    <updated>2022-03-16T16:07:15Z</updated>
-    <category term="Religion"/>
-    <category term="Science"/>
   </entry>
   <entry>
     <title>Now here’s a political nightmare for you</title>
