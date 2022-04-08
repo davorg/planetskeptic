@@ -7,9 +7,29 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2022-04-08T22:33:53Z</updated>
+  <updated>2022-04-08T23:34:11Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>If it’s not one thing it’s another</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/04/08/if-its-not-one-thing-its-another-2/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p class="lead">Oy, I am currently 100% caught up in my grading, have my lecture for Monday all lined up, and was looking forward to a pleasant weekend with no obligations for a change.</p>
+<p>Then I get an email reminding me that my yearly performance review is on Monday.</p>
+<p>Can I just go in and say I’m very, very tired and am counting the seconds to the end of the semester? How about if I just walk into the chair’s office and curl up on the floor sobbing? I’m hoping that’s adequate preparation. Just once this term I’d like to have a quiet day off, and I worked hard to get everything cleared away. I even scrubbed and autoclaved all the fly bottles! And put them away! I ought to be given a pass on this review just for that.</p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Oy, I am currently 100% caught up in my grading, have my lecture for Monday all lined up, and was looking forward to a pleasant weekend with no obligations for a change. Then I get an email reminding me that my yearly performance review is on Monday. Can I just go in and say I’m […]</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=66192</id>
+    <published>2022-04-08T23:09:48Z</published>
+    <updated>2022-04-08T23:09:48Z</updated>
+    <category term="Miscellaneous and Meta"/>
+  </entry>
   <entry>
     <title>Teaching Indigenous Knowledge in the Science Classroom (Part 1: Colonization)</title>
     <link rel="alternate" href="https://skepchick.org/2022/04/teaching-indigenous-knowledge-in-the-science-classroom-part-1-colonization/" type="text/html"/>
@@ -115,31 +135,6 @@
     <published>2022-04-07T16:14:16Z</published>
     <updated>2022-04-07T16:14:16Z</updated>
     <category term="Politics, History, and Law"/>
-  </entry>
-  <entry>
-    <title>Prairie dogs speak</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/04/07/prairie-dogs-speak/" type="text/html"/>
-    <content type="html">&lt;p class="lead"&gt;When my granddaughter lived in Colorado, there was a sprawling prairie dog colony just a few blocks away, and we&amp;#8217;d take walks there. The prairie dogs were very attentive, and would react with a chorus of continuous yips and squeaks as we strolled through their neighborhood. Little did we know, &lt;a href="http://www.animalcognition.org/2015/03/11/the-linguistic-genius-of-prairie-dogs/"&gt;they were having a conversation about us&lt;/a&gt;.&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;Con Slobodchikoff, PhD, has been studying prairie dogs for over 30 years. His studies have focused primarily on Gunnison’s prairie dogs, whose natural habitat is just outside the doors of Northern Arizona University, where Slobodchikoff is a professor emeritus.&lt;/p&gt;
-&lt;p&gt;After first observing how a colony of prairie dogs reacted to the presence of predators, he discovered that they didn’t just give the same alarm call each time – it sounded different depending on what type of predator the prairie dogs saw.&lt;/p&gt;
-&lt;p&gt;But that wasn’t the full extent of the calls’ complexity. Slobodchikoff also noticed that even though the calls signaling a certain type of predator would follow a distinct pattern, they contained small nuances that varied with each individual predator of that type.&lt;/p&gt;
-&lt;p&gt;For instance, the prairie dogs had a similar call for all coyotes, but there were subtle differences for each different coyote. Based on this observation, Slobodchikoff had a sudden insight: “What if they’re describing the physical features of each predator?”&lt;/p&gt;
-&lt;p&gt;A bit of experimentation soon proved his suspicions. After putting dogs, humans, and simple shape cutouts of all different forms, sizes, and colors within sight of the prairie dogs, analysis of the prairie dog calls revealed that the unassuming squeaks of alarm were rich with information.&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;“They’re able to describe the colour of clothes the humans are wearing, they’re able to describe the size and shape of humans, even, amazingly, whether a human once appeared with a gun… In one 10th of a second, they say ‘Tall thin human wearing blue shirt walking slowly across the colony.&amp;#8217;”&lt;/p&gt;&lt;/blockquote&gt;
-&lt;/blockquote&gt;
-&lt;div class="center"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/y1kXCh496U0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-&lt;p&gt;I don&amp;#8217;t want to know what those dogs were saying about me, but they better have been making flattering comments about Iliana. &amp;#8220;Small cute human toddler, awwwww.&amp;#8221;&lt;/p&gt;
-</content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">When my granddaughter lived in Colorado, there was a sprawling prairie dog colony just a few blocks away, and we’d take walks there. The prairie dogs were very attentive, and would react with a chorus of continuous yips and squeaks as we strolled through their neighborhood. Little did we know, they were having a conversation […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=66180</id>
-    <published>2022-04-07T15:17:19Z</published>
-    <updated>2022-04-07T15:17:19Z</updated>
-    <category term="Science"/>
   </entry>
   <entry>
     <title>Study: You Can Deprogram Fox News Viewers by Showing Them CNN</title>
@@ -660,78 +655,6 @@ F: 618/453-3253</p></blockquote>
     <category term="higher education"/>
     <category term="syllabus"/>
     <category term="teaching"/>
-  </entry>
-  <entry>
-    <title>Evidence to House of Commons Sci Tech Select Committee on Research Integrity</title>
-    <link rel="alternate" href="https://www.badscience.net/2017/12/evidence-to-house-of-commons-sci-tech-select-committee-on-research-integrity/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Sorry not to be in regular blogging mode at the moment. Here’s a video of our evidence session to parliament, where they are running an inquiry into research integrity. I think clinical trials are the best possible way to approach this issue. Lots of things in “research integrity” are hard to capture in hard logical […]</div>
-    </content>
-    <author>
-      <name>Ben Goldacre</name>
-    </author>
-    <id>http://www.badscience.net/?p=3498</id>
-    <published>2017-12-05T11:42:17Z</published>
-    <updated>2017-12-05T11:42:17Z</updated>
-    <category term="alltrials campaign"/>
-    <category term="publication bias"/>
-  </entry>
-  <entry>
-    <title>How do the world’s biggest drug companies compare, in their transparency commitments?</title>
-    <link rel="alternate" href="https://www.badscience.net/2017/07/how-do-the-worlds-biggest-drug-companies-compare-in-their-transparency-commitments/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Hereâ€™s a paper, and associated website, that we launch today: we have assessed, and then ranked, all the biggest drug companies in the world, to compare their public commitments on trials transparency. Regular readers will be familiar with this ongoing battle. In medicine we use the results of clinical trials to make informed treatments about […]</div>
-    </content>
-    <author>
-      <name>Ben Goldacre</name>
-    </author>
-    <id>http://www.badscience.net/?p=3485</id>
-    <published>2017-07-27T06:33:23Z</published>
-    <updated>2017-07-27T06:33:23Z</updated>
-    <category term="bad science"/>
-  </entry>
-  <entry>
-    <title>Meaningful Transparency Commitments: the WHO Joint Statement from Trial Funders</title>
-    <link rel="alternate" href="https://www.badscience.net/2017/07/meaningful-transparency-commitments-the-who-joint-statement-from-trial-funders/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">By now I hope you all know about the ongoing global scandal of clinical trial results being left unpublished, and of course our AllTrials campaign. Doctors, researchers, and patients cannot make truly informed choices about which treatments work best if they don’t have access to all the trial results. Earlier this year, I helped out […]</div>
-    </content>
-    <author>
-      <name>Ben Goldacre</name>
-    </author>
-    <id>http://www.badscience.net/?p=3481</id>
-    <published>2017-07-26T16:17:06Z</published>
-    <updated>2017-07-26T16:17:06Z</updated>
-    <category term="bad science"/>
-    <category term="publication bias"/>
-  </entry>
-  <entry>
-    <title>How many epidemiologists does it take to change a lightbulb?</title>
-    <link rel="alternate" href="https://www.badscience.net/2017/02/how-many-epidemiologists-does-it-take-to-change-a-lightbulb/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Robin Ince just asked if I know any epidemiologist lightbulb jokes. I wrote this for him. How many epidemiologists does it take to change a lightbulb? Weâ€™ve found 12,000 switches hidden around the house. Some of them turn this lightbulb on, some of them donâ€™t; some of them only work sometimes; and some of them […]</div>
-    </content>
-    <author>
-      <name>Ben Goldacre</name>
-    </author>
-    <id>http://www.badscience.net/?p=3472</id>
-    <published>2017-02-01T12:49:44Z</published>
-    <updated>2017-02-01T12:49:44Z</updated>
-    <category term="bad science"/>
-  </entry>
-  <entry>
-    <title>“Transparency, Beyond Publication Bias”. A video of my super-speedy talk at IJE.</title>
-    <link rel="alternate" href="https://www.badscience.net/2016/10/transparency-beyond-publication-bias-a-video-of-my-super-speedy-talk-at-ije/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">People oftenÂ talk about “trials transparency” as if this means “all trials must be published in an academic journal”. In reality, true transparency goes much further than this. We need Clinical Study Reports, and individual patient data, of course. But we also need the consent forms, so we can see what patients were told. We need […]</div>
-    </content>
-    <author>
-      <name>Ben Goldacre</name>
-    </author>
-    <id>http://www.badscience.net/?p=3463</id>
-    <published>2016-10-11T08:01:43Z</published>
-    <updated>2016-10-11T08:01:43Z</updated>
-    <category term="bad science"/>
   </entry>
   <entry>
     <title>For any teen atheists who want to be on TV</title>
