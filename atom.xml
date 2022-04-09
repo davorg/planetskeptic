@@ -7,9 +7,27 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2022-04-09T19:30:52Z</updated>
+  <updated>2022-04-09T20:33:24Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>IT’S SPIDERIN’ TIME!</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/04/09/its-spiderin-time/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p class="lead">The sun emerged today, and with it a host of spiders all over the yard. Check ’em out on <a href="https://www.instagram.com/p/CcJMEZDvS1Z/">Instagram</a> and <a href="https://www.inaturalist.org/observations?place_id=any&amp;user_id=pzmyers&amp;verifiable=any">iNaturalist</a>!</p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">The sun emerged today, and with it a host of spiders all over the yard. Check ’em out on Instagram and iNaturalist!</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=66199</id>
+    <published>2022-04-09T20:32:00Z</published>
+    <updated>2022-04-09T20:32:00Z</updated>
+    <category term="Spiders"/>
+  </entry>
   <entry>
     <title>If you care about good comedy…</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/04/09/if-you-care-about-good-comedy/" type="text/html"/>
@@ -104,33 +122,6 @@
     <published>2022-04-08T12:13:44Z</published>
     <updated>2022-04-08T12:13:44Z</updated>
     <category term="Cephalopods"/>
-  </entry>
-  <entry>
-    <title>Have you been waiting for Pink Floyd to weigh in on the Ukraine war?</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/04/08/have-you-been-waiting-for-pink-floyd-to-weigh-in-on-the-ukraine-war/" type="text/html"/>
-    <content type="html">&lt;p class="lead"&gt;Wait no more. The band has released a single in support of a fundraiser for Ukraine.&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;Here is the official video for &amp;#8216;Hey Hey Rise Up&amp;#8217;, Pink Floyd’s new Ukraine fundraiser feat Andriy Khlyvnyuk of Boombox. Stream / download from midnight at http://pinkfloyd.lnk.to/HeyHeyRiseUp&lt;/p&gt;
-&lt;p&gt;&amp;#8216;Hey Hey Rise Up&amp;#8217;, released in support of the people of Ukraine, sees David Gilmour and Nick Mason joined by long time Pink Floyd bass player Guy Pratt and Nitin Sawhney on keyboards, all accompanying an extraordinary vocal by Andriy Khlyvnyuk of Ukrainian band Boombox. All proceeds go to Ukrainian Humanitarian Relief.&lt;/p&gt;
-&lt;p&gt;The track uses Andriy’s vocals taken from his Instagram post of him in Kyiv’s Sofiyskaya Square singing ‘Oh, The Red Viburnum In The Meadow’, a rousing Ukrainian folk protest song written during the first world war. The title of the Pink Floyd track is taken from the last line of the song which translates as ‘Hey, hey, rise up and rejoice’.&lt;/p&gt;
-&lt;p&gt;The video for ‘Hey Hey Rise Up&amp;#8217; was filmed by acclaimed director Mat Whitecross and shot on the same day as the track was recorded, with Andriy singing on the screen while the band played.&lt;/p&gt;
-&lt;p&gt;Gilmour, who has a Ukrainian daughter-in-law and grandchildren says: “We, like so many, have been feeling the fury and the frustration of this vile act of an independent, peaceful democratic country being invaded and having its people murdered by one of the world&amp;#8217;s major powers”.&lt;/p&gt;
-&lt;p&gt;Speaking about his hopes for the track Gilmour says, “I hope it will receive wide support and publicity. We want to raise funds and morale. We want to show our support for Ukraine and in that way, show that most of the world thinks that it is totally wrong for a superpower to invade the independent democratic country that Ukraine has become.&lt;/p&gt;
-&lt;p&gt;The artwork for the track features a painting of the national flower of Ukraine, the sunflower, by the Cuban artist, Yosan Leon. The cover of the single is a direct reference to the woman who was seen around the world giving sunflower seeds to Russian soldiers and telling them to carry them in their pockets so that when they die, sunflowers will grow.&lt;/p&gt;&lt;/blockquote&gt;
-&lt;div class="center"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/saEpkcVi1d4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-&lt;p&gt;But hang on! That&amp;#8217;s the band, which had an acrimonious split from their front man many years ago. What is Roger Waters saying? He has posted a letter from a Ukrainian girl, with his response, and it doesn&amp;#8217;t surprise me at all. Waters is a radical pacifist who detests the &amp;#8220;gangster&amp;#8221; (he uses that word a lot) governments of Russia &lt;em&gt;and&lt;/em&gt; the US, and idealistically wants the war to just stop and be resolved diplomatically.&lt;/p&gt;
-&lt;div class="center"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/S0aLALNmX_Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-&lt;p&gt;I am not that optimistic.&lt;/p&gt;
-</content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Wait no more. The band has released a single in support of a fundraiser for Ukraine. Here is the official video for ‘Hey Hey Rise Up’, Pink Floyd’s new Ukraine fundraiser feat Andriy Khlyvnyuk of Boombox. Stream / download from midnight at http://pinkfloyd.lnk.to/HeyHeyRiseUp ‘Hey Hey Rise Up’, released in support of the people of Ukraine, […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=66187</id>
-    <published>2022-04-08T11:43:58Z</published>
-    <updated>2022-04-08T11:43:58Z</updated>
-    <category term="Politics, History, and Law"/>
   </entry>
   <entry>
     <title>Study: You Can Deprogram Fox News Viewers by Showing Them CNN</title>
