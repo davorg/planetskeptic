@@ -7,9 +7,26 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2022-04-09T10:35:10Z</updated>
+  <updated>2022-04-09T11:32:39Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Reminder!</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/04/09/reminder-3/" type="text/html"/>
+    <content type="html">&lt;p class="lead"&gt;This afternoon, the FtB gang is getting together to chat!&lt;/p&gt;
+&lt;div class="center"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/OpjOnkqgQ04" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+</content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">This afternoon, the FtB gang is getting together to chat!</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=66194</id>
+    <published>2022-04-09T11:31:40Z</published>
+    <updated>2022-04-09T11:31:40Z</updated>
+    <category term="Atheism and Skepticism"/>
+  </entry>
   <entry>
     <title>If it’s not one thing it’s another</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/04/08/if-its-not-one-thing-its-another-2/" type="text/html"/>
@@ -111,29 +128,6 @@
     <id>https://freethoughtblogs.com/pharyngula/?p=66184</id>
     <published>2022-04-07T20:49:38Z</published>
     <updated>2022-04-07T20:49:38Z</updated>
-    <category term="Politics, History, and Law"/>
-  </entry>
-  <entry>
-    <title>A wrist is slapped!</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/04/07/a-wrist-is-slapped/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p class="lead">It’s <a href="https://www.reuters.com/world/un-vote-suspending-russia-human-rights-council-over-ukraine-2022-04-07/">something</a>, I guess.</p>
-<blockquote><p>The United Nations General Assembly on Thursday suspended Russia from the U.N. Human Rights Council over reports of “gross and systematic violations and abuses of human rights” by invading Russian troops in Ukraine.</p></blockquote>
-<p>It’s a token response to <a href="https://www.washingtonpost.com/world/2022/04/06/bucha-barbarism-atrocities-russian-soldiers/">this</a> (warning: grisly photos), but yeah, it’s something.</p>
-<blockquote><p>But the scale of the killings and the depravity with which they were committed are only just becoming apparent as police, local officials and regular citizens start the grim task of clearing Bucha of the hundreds of corpses decomposing on streets and in parks, apartment buildings and other locations.</p>
-<p>As a team from the district prosecutor’s office moved slowly through Bucha on Wednesday, investigators uncovered evidence of torture before death, beheading and dismemberment, and the intentional burning of corpses.</p></blockquote>
-<p>Unfortunately, I don’t know what else we can do, short of escalating the war.</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">It’s something, I guess. The United Nations General Assembly on Thursday suspended Russia from the U.N. Human Rights Council over reports of “gross and systematic violations and abuses of human rights” by invading Russian troops in Ukraine. It’s a token response to this (warning: grisly photos), but yeah, it’s something. But the scale of the […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=66182</id>
-    <published>2022-04-07T16:14:16Z</published>
-    <updated>2022-04-07T16:14:16Z</updated>
     <category term="Politics, History, and Law"/>
   </entry>
   <entry>
