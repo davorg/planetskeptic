@@ -7,9 +7,26 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2022-04-20T20:35:41Z</updated>
+  <updated>2022-04-20T21:32:55Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Another lecture done!</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/04/20/another-lecture-done-2/" type="text/html"/>
+    <content type="html">&lt;p class="lead"&gt;Only two weeks left in the semester!&lt;/p&gt;
+&lt;div class="center"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/5H1cywKCcHY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+</content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Only two weeks left in the semester!</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=66302</id>
+    <published>2022-04-20T20:47:29Z</published>
+    <updated>2022-04-20T20:47:29Z</updated>
+    <category term="Genetics"/>
+  </entry>
   <entry>
     <title>It’s not real, Ted</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/04/20/its-not-real-ted/" type="text/html"/>
@@ -148,25 +165,6 @@
     <id>https://freethoughtblogs.com/pharyngula/?p=66291</id>
     <published>2022-04-19T12:36:50Z</published>
     <updated>2022-04-19T12:36:50Z</updated>
-    <category term="Miscellaneous and Meta"/>
-  </entry>
-  <entry>
-    <title>Boosted again</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/04/18/boosted-again/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p><a href="https://freethoughtblogs.com/pharyngula/files/2022/04/moderna.jpeg"><img src="https://freethoughtblogs.com/pharyngula/files/2022/04/moderna-150x150.jpeg" alt="" width="150" height="150" class="alignright size-thumbnail wp-image-66289" srcset="https://freethoughtblogs.com/pharyngula/files/2022/04/moderna-150x150.jpeg 150w, https://freethoughtblogs.com/pharyngula/files/2022/04/moderna-298x300.jpeg 298w, https://freethoughtblogs.com/pharyngula/files/2022/04/moderna.jpeg 500w" sizes="(max-width: 150px) 100vw, 150px"/></a></p>
-<p class="lead">Mary &amp; I got our second booster shot this afternoon, a Moderna chaser to our previous Pfizer shots. We better be safe against COVID now! I also think that if we get one more, making 5 injections, we ought to either get a free coffee refill, or we should start to <em>transform</em>.</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Mary &amp; I got our second booster shot this afternoon, a Moderna chaser to our previous Pfizer shots. We better be safe against COVID now! I also think that if we get one more, making 5 injections, we ought to either get a free coffee refill, or we should start to transform.</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=66288</id>
-    <published>2022-04-18T20:27:39Z</published>
-    <updated>2022-04-18T20:27:39Z</updated>
     <category term="Miscellaneous and Meta"/>
   </entry>
   <entry>
