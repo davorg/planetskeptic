@@ -7,9 +7,34 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2022-04-27T12:41:17Z</updated>
+  <updated>2022-04-27T13:41:57Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Numbers go up, numbers go down, what does it all mean?</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/04/27/numbers-go-up-numbers-go-down-what-does-it-all-mean/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p><a href="https://freethoughtblogs.com/pharyngula/files/2022/04/mastodonvtwitter.jpeg"><img src="https://freethoughtblogs.com/pharyngula/files/2022/04/mastodonvtwitter-150x89.jpeg" alt="" width="150" height="89" class="alignright size-thumbnail wp-image-66370" srcset="https://freethoughtblogs.com/pharyngula/files/2022/04/mastodonvtwitter-150x89.jpeg 150w, https://freethoughtblogs.com/pharyngula/files/2022/04/mastodonvtwitter-300x178.jpeg 300w, https://freethoughtblogs.com/pharyngula/files/2022/04/mastodonvtwitter-500x296.jpeg 500w, https://freethoughtblogs.com/pharyngula/files/2022/04/mastodonvtwitter.jpeg 650w" sizes="(max-width: 150px) 100vw, 150px"/></a></p>
+<p class="lead">Now that Elon Musk has bought Twitter, I’m hearing reports of more popular liberal people on the platform losing hundreds of thousands of followers as people read the handwriting on the wall and abandon Twitter. OK, I can sympathize with that, but most of the people I follow are still there — I think it’s a matter of recognizing that whether it’s Jack Dorsey or Elon Musk, it’s assholes all over the top, and you have to wait and see if they actually do anything to compromise your experience. That is, compromise it more than it already is.</p>
+<p>I thought I’d check my follower count, to see if I’d been losing people in droves, but the problem there is that I haven’t paid any attention to it for years. I recall that I looked at it several years ago, and was surprised that it was something around 70,000. I looked this morning, and it was 158,000! Why, I don’t know. I can’t determine whether I’ve had a recent decline, though, with my sloppy sampling. I’ll just peg that number to April 2022, and if I remember, I’ll check back in a few weeks or a month. Maybe I’m losing already. Or maybe I’ll get a surge of Nazis hate-following me!</p>
+<p>I do know one thing for sure: starting yesterday, my usual quiet <a href="https://octodon.social/@pzmyers">Mastodon account</a> got hundreds of new followers (I have 1,700 followers there). I guess some are checking out the alternatives to Twitter already.</p>
+<hr/>
+<p>Hot tip: if you’re interested in Mastodon, don’t sign up for mastodon.social, which is the biggest instance and is seeing a <a href="https://www.pcmag.com/news/after-musk-acquires-twitter-mastodon-sees-flood-of-traffic-server-slowdown">huge traffic surge</a>. There are lots of instances, almost all connected to the federation, so pick one that seems to have a high up-time and has been around for a while, so that you have a stable entry point. I’m using octodon.social, but there’s a long list of alternative sites as well.</p>
+<p>In case you’re wondering what the difference between Mastodon and Twitter is, on the surface, there isn’t much. The big difference is that Mastodon doesn’t have a centralized server, but a lot of smaller, distributed servers that are independently managed and just share data with one another. Musk was free to buy his own Mastodon server, set it up, and manage it, and it wouldn’t have cost him $44 billion…but it also wouldn’t have allowed him to dictate how every other server is managed.</p>
+<p>Oh. I guess that is a big difference.</p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Now that Elon Musk has bought Twitter, I’m hearing reports of more popular liberal people on the platform losing hundreds of thousands of followers as people read the handwriting on the wall and abandon Twitter. OK, I can sympathize with that, but most of the people I follow are still there — I think it’s […]</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=66369</id>
+    <published>2022-04-27T12:59:59Z</published>
+    <updated>2022-04-27T12:59:59Z</updated>
+    <category term="Miscellaneous and Meta"/>
+  </entry>
   <entry>
     <title>Vulcanized fossil spiders</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/04/27/vulcanized-fossil-spiders/" type="text/html"/>
@@ -108,27 +133,6 @@
     <published>2022-04-26T12:31:27Z</published>
     <updated>2022-04-26T12:31:27Z</updated>
     <category term="Cephalopods"/>
-  </entry>
-  <entry>
-    <title>Who wants to break the news to them?</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/04/26/who-wants-to-break-the-news-to-them/" type="text/html"/>
-    <content type="html">&lt;p class="lead"&gt;I consider this a clear case of pathological skepticism. Or perhaps more charitably, naive skepticism. A professional 747 pilot has set up a kickstarter to charter a passenger jet to fly from Rio de Janeiro to Perth, passing over Antarctica, to &lt;em&gt;prove&lt;/em&gt; to flat-earthers that the Earth is spherically, or at least, that Antarctica isn&amp;#8217;t an ice wall surrounding the rim of a disc-shaped earth. Why would you think that this, on top of all the far easier to obtain evidence, is the final clincher to convince a tiny group of delusional ranters that they are wrong?&lt;/p&gt;
-&lt;div class="center"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/EHJIPzvcbSQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-&lt;p&gt;It&amp;#8217;s going to cost $1.5 million dollars to book this 16 hour flight, and it&amp;#8217;s all supposedly for the benefit of educating flat earthers. Buy them a good introductory physics book instead. It&amp;#8217;s less flashy, but probably more likely to work, given that this isn&amp;#8217;t going to work at all.&lt;/p&gt;
-&lt;p&gt;Skeptics ought to be familiar with studies of the end-of-the-world cults, in which a prophet predicts armageddon or the rapture or some such nonsense to occur on a specific date, and the cultists gather and pray and wait and…nothing happens. It turns out that they don&amp;#8217;t instantly drop their beliefs, which were socially expensive to acquire &amp;#8212; getting ostracized by the out-group hurts &amp;#8212; and which gave them the benefit of being valued by the in-group. Instead, they rationalized (that is, made excuses) and believed even more firmly. The flat-earthers are also a gang of conspiracy theorists who will invent various subterfuges that were made to undermine the truth by the pilot, who is obviously part of the plot.&lt;/p&gt;
-&lt;p&gt;It&amp;#8217;s apparent that the flat-earthers don&amp;#8217;t believe in their delusion because they&amp;#8217;ve used science, so why would you imagine science would get them to think otherwise? Also, even a glance at most flat-earth literature will reveal that it&amp;#8217;s all paranoid religious gobbledy-gook, and they aren&amp;#8217;t going to be dissuaded by an airplane ride.&lt;/p&gt;
-&lt;p&gt;There is a documentary, &lt;a href="https://amzn.to/3Li0ooV"&gt;&lt;i&gt;Behind the Curve&lt;/i&gt;&lt;/a&gt;, about these fanatics. They are repeatedly shown evidence that demonstrate they are wrong, and they even design their own experiments to prove the earth is flat which consistently fail. They don&amp;#8217;t change their minds. This is more of the same, only with a $1.5 million price tag, and it&amp;#8217;s going to be another exercise in futility.&lt;/p&gt;
-</content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">I consider this a clear case of pathological skepticism. Or perhaps more charitably, naive skepticism. A professional 747 pilot has set up a kickstarter to charter a passenger jet to fly from Rio de Janeiro to Perth, passing over Antarctica, to prove to flat-earthers that the Earth is spherically, or at least, that Antarctica isn’t […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=66352</id>
-    <published>2022-04-26T12:17:26Z</published>
-    <updated>2022-04-26T12:17:26Z</updated>
-    <category term="Atheism and Skepticism"/>
   </entry>
   <entry>
     <title>The results are in!</title>
