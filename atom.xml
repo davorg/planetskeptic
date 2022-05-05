@@ -7,9 +7,29 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2022-05-05T14:37:52Z</updated>
+  <updated>2022-05-05T15:35:30Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>No, I’m not done!</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/05/05/no-im-not-done/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p class="lead">I got out of the house to celebrate the end of the semester yesterday, but it was <em>slightly</em> premature. Next week is finals week. I have to slap myself to attention and buckle down and write the genetics final and post it on Canvas.</p>
+<p>It shouldn’t be too bad. I’m planning to take full advantage of the Canvas autograder, so I mainly have to invest time this morning in setting up the problems with discrete answers and plugging the answer key into the software, and then grading next week will mainly involve updating the grade sheet.</p>
+<p>I slept in until 7am this morning! The stress is fading already!</p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">I got out of the house to celebrate the end of the semester yesterday, but it was slightly premature. Next week is finals week. I have to slap myself to attention and buckle down and write the genetics final and post it on Canvas. It shouldn’t be too bad. I’m planning to take full advantage […]</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=66466</id>
+    <published>2022-05-05T14:42:45Z</published>
+    <updated>2022-05-05T14:42:45Z</updated>
+    <category term="My classes"/>
+  </entry>
   <entry>
     <title>I knew the place was missing something</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/05/05/i-knew-the-place-was-missing-something/" type="text/html"/>
@@ -133,25 +153,6 @@ So how do you get your hands on one of these? Easy, just ask, either here or on 
     <published>2022-05-04T14:53:31Z</published>
     <updated>2022-05-04T14:53:31Z</updated>
     <category term="Books"/>
-  </entry>
-  <entry>
-    <title>How to end a one-night stand</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/05/04/how-to-end-a-one-night-stand/" type="text/html"/>
-    <content type="html">&lt;p class="lead"&gt;&lt;a href="https://arstechnica.com/science/2022/04/male-spiders-speedily-catapult-off-their-mates-after-sex-to-avoid-being-eaten/"&gt;Catapult off her&lt;/a&gt;. &lt;/p&gt;
-&lt;div class="center"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/aQjnt9Amx6k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-&lt;p&gt;It&amp;#8217;s especially effective if you&amp;#8217;ve got a bungee cord attached to your butt. Right now, pick-up artists are planning to wire up their bedrooms with springs and rubber bands to enable rapid escape, inspired by these terrified spider males.&lt;/p&gt;
-&lt;p&gt;You don&amp;#8217;t want to hang around afterwards, you know, she might get hungry!&lt;/p&gt;
-</content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Catapult off her. It’s especially effective if you’ve got a bungee cord attached to your butt. Right now, pick-up artists are planning to wire up their bedrooms with springs and rubber bands to enable rapid escape, inspired by these terrified spider males. You don’t want to hang around afterwards, you know, she might get hungry!</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=66449</id>
-    <published>2022-05-04T13:02:05Z</published>
-    <updated>2022-05-04T13:02:05Z</updated>
-    <category term="Spiders"/>
   </entry>
   <entry>
     <title>For explorer Bruce Parry, the journey home may be the hardest</title>
