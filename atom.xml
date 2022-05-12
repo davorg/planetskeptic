@@ -7,9 +7,24 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2022-05-12T14:34:35Z</updated>
+  <updated>2022-05-12T15:36:40Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Dawkins on the Overturning of Roe: “They Think It’s Murder”</title>
+    <link rel="alternate" href="https://richarddawkins.net/2022/05/dawkins-on-the-overturning-of-roe-they-think-its-murder/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">In an essay exclusive to Free Inquiry, Richard Dawkins responds to the likely overturning of Roe v. Wade by the U.S. Supreme Court, and the roots of anti-abortion fanaticism found in Catholic dogma. Why are they so fanatical about this one issue, eclipsing, as it does, all others? It is because they really think abortion …</div>
+    </content>
+    <author>
+      <name>Paul Fidalgo</name>
+    </author>
+    <id>https://richarddawkins.net/?p=978334</id>
+    <published>2022-05-12T14:56:14Z</published>
+    <updated>2022-05-12T14:56:14Z</updated>
+    <category term="Politics"/>
+    <category term="Religion"/>
+  </entry>
   <entry>
     <title>Oooh, it glows so prettily!</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/05/12/oooh-it-glows-so-prettily/" type="text/html"/>
@@ -405,21 +420,6 @@ The actual advertised median rents for one- and two-bedroom apartments are lower
     <published>2022-03-16T16:16:21Z</published>
     <updated>2022-03-16T16:16:21Z</updated>
     <category term="Science"/>
-  </entry>
-  <entry>
-    <title>Dreaming of Mars and the Aliens Who Aren’t There</title>
-    <link rel="alternate" href="https://richarddawkins.net/2022/03/dreaming-of-mars-and-the-aliens-who-arent-there/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">There is no evidence that Earth has ever been visited by extraterrestrials, yet many people are firmly convinced that aliens are among us. A team of researchers at California State University, Fresno, led by psychologist Matthew J. Sharps, set out to understand the psychological traits that influence a person’s beliefs about alien visitations and abductions. …</div>
-    </content>
-    <author>
-      <name>Paul Fidalgo</name>
-    </author>
-    <id>https://richarddawkins.net/?p=978223</id>
-    <published>2022-03-16T16:13:35Z</published>
-    <updated>2022-03-16T16:13:35Z</updated>
-    <category term="Science"/>
-    <category term="Skepticism"/>
   </entry>
   <entry>
     <title>Real magic</title>
