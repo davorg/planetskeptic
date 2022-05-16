@@ -7,9 +7,29 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2022-05-16T14:33:55Z</updated>
+  <updated>2022-05-16T15:36:32Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Spring 2022 semester is officially over!</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/05/16/spring-2022-semester-is-officially-over/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p><a href="https://freethoughtblogs.com/pharyngula/files/2022/05/spiderman_graduates.jpg"><img src="https://freethoughtblogs.com/pharyngula/files/2022/05/spiderman_graduates-133x150.jpg" alt="" width="133" height="150" class="alignright size-thumbnail wp-image-66556" srcset="https://freethoughtblogs.com/pharyngula/files/2022/05/spiderman_graduates-133x150.jpg 133w, https://freethoughtblogs.com/pharyngula/files/2022/05/spiderman_graduates-265x300.jpg 265w, https://freethoughtblogs.com/pharyngula/files/2022/05/spiderman_graduates-500x566.jpg 500w, https://freethoughtblogs.com/pharyngula/files/2022/05/spiderman_graduates.jpg 515w" sizes="(max-width: 133px) 100vw, 133px"/></a></p>
+<p class="lead">I just submitted all of my grades to the registrar, and guess what? Everyone passed! Not a single F in the bunch! All the seniors can graduate now.</p>
+<p>I’d like to celebrate, but right now I’m soaking in the soothing vapors of my drugs, and I don’t want to get up, even though there are spiders waiting for me in the wide world of everywhere.</p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">I just submitted all of my grades to the registrar, and guess what? Everyone passed! Not a single F in the bunch! All the seniors can graduate now. I’d like to celebrate, but right now I’m soaking in the soothing vapors of my drugs, and I don’t want to get up, even though there are […]</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=66555</id>
+    <published>2022-05-16T15:01:59Z</published>
+    <updated>2022-05-16T15:01:59Z</updated>
+    <category term="Academics"/>
+  </entry>
   <entry>
     <title>Bloody Republicans</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/05/16/bloody-republicans/" type="text/html"/>
@@ -160,23 +180,6 @@ Week 8  –  More Conversations with Experts&lt;/p&gt;&lt;/blockquote&gt;
     <published>2022-05-15T12:29:19Z</published>
     <updated>2022-05-15T12:29:19Z</updated>
     <category term="Politics, History, and Law"/>
-  </entry>
-  <entry>
-    <title>Art and Social Justice</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/05/14/art-and-social-justice/" type="text/html"/>
-    <content type="html">&lt;p class="lead"&gt;We have another Podish-Sortacast going on this afternoon. Stop on by!&lt;/p&gt;
-&lt;div class="center"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/xO9qb2IS_hE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/p&gt;
-</content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">We have another Podish-Sortacast going on this afternoon. Stop on by!</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=66540</id>
-    <published>2022-05-14T13:20:16Z</published>
-    <updated>2022-05-14T13:20:16Z</updated>
-    <category term="Art, Culture, and Humor"/>
   </entry>
   <entry>
     <title>Scientists Describe The Six Kinds of Bullshit that Spreads Online</title>
@@ -732,6 +735,78 @@ F: 618/453-3253</p></blockquote>
     <category term="higher education"/>
     <category term="syllabus"/>
     <category term="teaching"/>
+  </entry>
+  <entry>
+    <title>Evidence to House of Commons Sci Tech Select Committee on Research Integrity</title>
+    <link rel="alternate" href="https://www.badscience.net/2017/12/evidence-to-house-of-commons-sci-tech-select-committee-on-research-integrity/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Sorry not to be in regular blogging mode at the moment. Here’s a video of our evidence session to parliament, where they are running an inquiry into research integrity. I think clinical trials are the best possible way to approach this issue. Lots of things in “research integrity” are hard to capture in hard logical […]</div>
+    </content>
+    <author>
+      <name>Ben Goldacre</name>
+    </author>
+    <id>http://www.badscience.net/?p=3498</id>
+    <published>2017-12-05T11:42:17Z</published>
+    <updated>2017-12-05T11:42:17Z</updated>
+    <category term="alltrials campaign"/>
+    <category term="publication bias"/>
+  </entry>
+  <entry>
+    <title>How do the world’s biggest drug companies compare, in their transparency commitments?</title>
+    <link rel="alternate" href="https://www.badscience.net/2017/07/how-do-the-worlds-biggest-drug-companies-compare-in-their-transparency-commitments/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Hereâ€™s a paper, and associated website, that we launch today: we have assessed, and then ranked, all the biggest drug companies in the world, to compare their public commitments on trials transparency. Regular readers will be familiar with this ongoing battle. In medicine we use the results of clinical trials to make informed treatments about […]</div>
+    </content>
+    <author>
+      <name>Ben Goldacre</name>
+    </author>
+    <id>http://www.badscience.net/?p=3485</id>
+    <published>2017-07-27T06:33:23Z</published>
+    <updated>2017-07-27T06:33:23Z</updated>
+    <category term="bad science"/>
+  </entry>
+  <entry>
+    <title>Meaningful Transparency Commitments: the WHO Joint Statement from Trial Funders</title>
+    <link rel="alternate" href="https://www.badscience.net/2017/07/meaningful-transparency-commitments-the-who-joint-statement-from-trial-funders/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">By now I hope you all know about the ongoing global scandal of clinical trial results being left unpublished, and of course our AllTrials campaign. Doctors, researchers, and patients cannot make truly informed choices about which treatments work best if they don’t have access to all the trial results. Earlier this year, I helped out […]</div>
+    </content>
+    <author>
+      <name>Ben Goldacre</name>
+    </author>
+    <id>http://www.badscience.net/?p=3481</id>
+    <published>2017-07-26T16:17:06Z</published>
+    <updated>2017-07-26T16:17:06Z</updated>
+    <category term="bad science"/>
+    <category term="publication bias"/>
+  </entry>
+  <entry>
+    <title>How many epidemiologists does it take to change a lightbulb?</title>
+    <link rel="alternate" href="https://www.badscience.net/2017/02/how-many-epidemiologists-does-it-take-to-change-a-lightbulb/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Robin Ince just asked if I know any epidemiologist lightbulb jokes. I wrote this for him. How many epidemiologists does it take to change a lightbulb? Weâ€™ve found 12,000 switches hidden around the house. Some of them turn this lightbulb on, some of them donâ€™t; some of them only work sometimes; and some of them […]</div>
+    </content>
+    <author>
+      <name>Ben Goldacre</name>
+    </author>
+    <id>http://www.badscience.net/?p=3472</id>
+    <published>2017-02-01T12:49:44Z</published>
+    <updated>2017-02-01T12:49:44Z</updated>
+    <category term="bad science"/>
+  </entry>
+  <entry>
+    <title>“Transparency, Beyond Publication Bias”. A video of my super-speedy talk at IJE.</title>
+    <link rel="alternate" href="https://www.badscience.net/2016/10/transparency-beyond-publication-bias-a-video-of-my-super-speedy-talk-at-ije/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">People oftenÂ talk about “trials transparency” as if this means “all trials must be published in an academic journal”. In reality, true transparency goes much further than this. We need Clinical Study Reports, and individual patient data, of course. But we also need the consent forms, so we can see what patients were told. We need […]</div>
+    </content>
+    <author>
+      <name>Ben Goldacre</name>
+    </author>
+    <id>http://www.badscience.net/?p=3463</id>
+    <published>2016-10-11T08:01:43Z</published>
+    <updated>2016-10-11T08:01:43Z</updated>
+    <category term="bad science"/>
   </entry>
   <entry>
     <title>For any teen atheists who want to be on TV</title>
