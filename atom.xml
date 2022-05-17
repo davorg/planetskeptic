@@ -7,9 +7,35 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2022-05-17T15:36:35Z</updated>
+  <updated>2022-05-17T16:44:18Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>The irrefutability problem and cryptocurrency</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/05/17/the-irrefutability-problem-and-cryptocurrency/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p><a href="https://freethoughtblogs.com/pharyngula/files/2022/05/bitcoinburning.png"><img src="https://freethoughtblogs.com/pharyngula/files/2022/05/bitcoinburning-150x119.png" alt="" width="150" height="119" class="alignright size-thumbnail wp-image-66565" srcset="https://freethoughtblogs.com/pharyngula/files/2022/05/bitcoinburning-150x119.png 150w, https://freethoughtblogs.com/pharyngula/files/2022/05/bitcoinburning-300x238.png 300w, https://freethoughtblogs.com/pharyngula/files/2022/05/bitcoinburning-500x396.png 500w, https://freethoughtblogs.com/pharyngula/files/2022/05/bitcoinburning.png 670w" sizes="(max-width: 150px) 100vw, 150px"/></a></p>
+<p class="lead">Something that bugs me: there are all these articles that explain why cryptocurrency will fail, and they’re good — but they’re all <em>so long</em>. <a href="https://www.youtube.com/watch?v=YQ_xWvX1n9g">Dan Olson’s video on the subject</a> was over two hours long, and it was great, but it takes dedication to get through it all, and it’s not fair — there’s an asymmetry problem here, just as there is with creationism, where the zealots only have to shout a short slogan (“you’ll get rich!” or “God did it!”), and then the smart people who actually know something have to slog through a couple of textbooks or a pile of papers to show definitively that they’re wrong. Once again, here’s a LONG <a href="https://www.currentaffairs.org/2022/05/why-this-computer-scientist-says-all-cryptocurrency-should-die-in-a-fire/">interview with Nicholas Weaver</a> to explain what’s wrong with cryptocurrency. He makes a prediction:</p>
+<blockquote><p>It will implode spectacularly. The only question is when. I thought it would have actually imploded a year ago. But basically, what we saw with Terra and Luna, where it collapsed suddenly due to these downward positive feedback loops—situations where basically the system is designed to collapse utterly and quickly—those will happen to the larger cryptocurrency space. Because, for example, the mining process is horribly expensive. We’re talking [a measurable percentage] of the world’s electricity consumption, most of that has not been paid for. So the mining companies for the most part have been taking the cryptocurrency and borrowing against the cryptocurrency that they create, rather than sell it, because the market’s actually very thin. </p>
+<p>This means there’s a huge amount that is subject to potentially catastrophic margin calls. And that creates a feedback loop where the price drops a little, somebody’s forced to sell. That drops the price more. They’re forced to sell more. This creates a feedback loop that drives the price into the ground, catastrophically.</p>
+<p>The previous times this has happened, we had the bubble at 100, powered by fraud at Mt. Gox. And that imploded down to 10. We had a bubble a 1000 powered by fraud, it imploded and went back down to 100. We had a bubble at 10,000 powered by Tether, it blew up and went back down to 1,000. And now we’re at a bubble where Bitcoin blew up to 60,000, fueled by Tether and falling. But I don’t think there’ll be a fifth bubble. Because basically, they will have broken all the suckers left to break. There’s only so many more suckers that can be brought into that space. Once you burn out a sucker, they don’t come back. They’re a non-renewable resource. So they’re going to end up running out of greater fools. </p>
+<p>So I suspect that the cryptocurrency space will go fine absent regulation, until one day it goes and collapses greatly. </p></blockquote>
+<p>Unfortunately, that won’t change anything. If there’s one thing we should have learned from history, it’s that it doesn’t matter if bunkum is refuted by real world catastrophic consequences. Someone predicts the world will end on a specific date, the date passes, and their followers are unfazed. Undergo a pandemic, and the deniers will say it was just a bad cold even after a million Americans have died of it. Go ahead, say that Bitcoin is doomed to collapse, and the instant it fails there’s a train of True Believers who will announce another new cryptocurrency that they’ll claim is flawless…until it too goes boom.</p>
+<p>I look forward to the day we can say “I told you so” and then watch befuddled as the idiots line up to do it all over again.</p>
+<p>It’ll be…great?</p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Something that bugs me: there are all these articles that explain why cryptocurrency will fail, and they’re good — but they’re all so long. Dan Olson’s video on the subject was over two hours long, and it was great, but it takes dedication to get through it all, and it’s not fair — there’s an […]</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=66564</id>
+    <published>2022-05-17T15:57:45Z</published>
+    <updated>2022-05-17T15:57:45Z</updated>
+    <category term="Miscellaneous and Meta"/>
+  </entry>
   <entry>
     <title>Jordan Peterson can’t see any holes in his argument</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/05/17/jordan-peterson-cant-see-any-holes-in-his-argument/" type="text/html"/>
@@ -116,44 +142,6 @@
     <published>2022-05-16T12:24:15Z</published>
     <updated>2022-05-16T12:24:15Z</updated>
     <category term="Fools, Tools, Kooks, and Goons"/>
-  </entry>
-  <entry>
-    <title>The bigotry is leaking in everywhere</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/05/15/the-bigotry-is-leaking-in-everywhere/" type="text/html"/>
-    <content type="html">&lt;p class="lead"&gt;I&amp;#8217;ve long struggled with what to think of Richard Dawkins, once a hero, now a muddled old man. Here is a revealing tweet (I also think he uses Twitter as a shooting range, with his foot as the main target), in which he praises Douglas Murray, of all people.&lt;/p&gt;
-&lt;blockquote class="twitter-tweet" data-width="500" data-dnt="true"&gt;
-&lt;p lang="en" dir="ltr"&gt;Forget labels like “right wing” &amp;amp; “dark web”, read a book without preconceptions about the author &amp;amp; judge what it actually says. For what it’s worth, I always vote left &amp;amp; I think Douglas Murray’s The War on the West is utterly superb. Please read it with an open mind. Please.&lt;/p&gt;
-&lt;p&gt;&amp;mdash; Richard Dawkins (@RichardDawkins) &lt;a href="https://twitter.com/RichardDawkins/status/1525792584471281664?ref_src=twsrc%5Etfw"&gt;May 15, 2022&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;&lt;/p&gt;
-&lt;p&gt;I have not read any of Murray&amp;#8217;s books, I&amp;#8217;ve started a few of his shorter articles and given up at the pain, and I&amp;#8217;ve listened to a few of his interviews on video. I have never seen the reason for his popularity among a certain sector, except that he&amp;#8217;s very good at putting a shiny semi-scholarly sheen on some very bad and bigoted ideas, and his anti-immigrant position is popular among conservatives. Here&amp;#8217;s a devastating follow-up tweet:&lt;/p&gt;
-&lt;blockquote class="twitter-tweet" data-width="500" data-dnt="true"&gt;
-&lt;p lang="en" dir="ltr"&gt;Dawkins is dangerous and clueless. The text on the Left is from Douglas Murray&amp;#39;s book. The text on the right is from the Buffalo Shooter&amp;#39;s manifesto! &lt;a href="https://twitter.com/hashtag/Buffalo?src=hash&amp;amp;ref_src=twsrc%5Etfw"&gt;#Buffalo&lt;/a&gt; &lt;a href="https://t.co/G9ZmC1bIaz"&gt;https://t.co/G9ZmC1bIaz&lt;/a&gt; &lt;a href="https://t.co/FCxY2kTr9U"&gt;pic.twitter.com/FCxY2kTr9U&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&amp;mdash; One Species (@OneSpeciesReal) &lt;a href="https://twitter.com/OneSpeciesReal/status/1525799975891918848?ref_src=twsrc%5Etfw"&gt;May 15, 2022&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;&lt;/p&gt;
-&lt;p&gt;Yikes. Do I ever want to read anything by Murray ever again? No I do not. He&amp;#8217;s probably going to get more face-time with Joe Rogan and Sam Harris, though.&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://freethoughtblogs.com/pharyngula/files/2022/05/douglasintro.jpeg"&gt;&lt;img src="https://freethoughtblogs.com/pharyngula/files/2022/05/douglasintro-500x570.jpeg" alt="" width="500" height="570" class="aligncenter size-large wp-image-66549" srcset="https://freethoughtblogs.com/pharyngula/files/2022/05/douglasintro-500x570.jpeg 500w, https://freethoughtblogs.com/pharyngula/files/2022/05/douglasintro-132x150.jpeg 132w, https://freethoughtblogs.com/pharyngula/files/2022/05/douglasintro-263x300.jpeg 263w, https://freethoughtblogs.com/pharyngula/files/2022/05/douglasintro-768x875.jpeg 768w, https://freethoughtblogs.com/pharyngula/files/2022/05/douglasintro.jpeg 823w" sizes="(max-width: 500px) 100vw, 500px" /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Jesus. The West, the West, the West. What is it? What is he trying to defend? He sure does hate and fear immigrants, or &amp;#8220;the developing world&amp;#8221; which is invading/assaulting &amp;#8220;the developed world&amp;#8221;, not recognizing that if any assault has been going on, it&amp;#8217;s been in the other direction, for centuries. And there on the first page of his book, he has to misrepresent his critics: &amp;#8220;they&amp;#8221; (leftists? communists? the Jews? This is just bad writing, invoking vague boogeymen) talk about equality but don&amp;#8217;t support equal rights, talk about anti-racism but are racist themselves, &amp;#8220;they&amp;#8221; equate justice with revenge. This &amp;#8220;they&amp;#8221; seem to be a really confusing grab bag of miscellaneous weirdos, and I come away with the sense that &amp;#8220;they&amp;#8221; are just a faceless, amorphous straw man on which the reader can slap any resentments they might have.&lt;/p&gt;
-&lt;p&gt;The kicker is the excerpt from the Buffalo mass murderer&amp;#8217;s manifesto. Yeah, that guy, &lt;a href="https://www.washingtonpost.com/nation/2022/05/14/buffalo-shooting-grocery-store-tops/"&gt;the white man who charged into a grocery store with an assault rifle to gun down black people&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://freethoughtblogs.com/pharyngula/files/2022/05/manifesto.png"&gt;&lt;img src="https://freethoughtblogs.com/pharyngula/files/2022/05/manifesto-500x396.png" alt="" width="500" height="396" class="aligncenter size-large wp-image-66550" srcset="https://freethoughtblogs.com/pharyngula/files/2022/05/manifesto-500x396.png 500w, https://freethoughtblogs.com/pharyngula/files/2022/05/manifesto-150x119.png 150w, https://freethoughtblogs.com/pharyngula/files/2022/05/manifesto-300x237.png 300w, https://freethoughtblogs.com/pharyngula/files/2022/05/manifesto.png 718w" sizes="(max-width: 500px) 100vw, 500px" /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Yikes. The West, the West, the West. The mischaracterization of Leftists: they hate the West for its crimes, but love the &amp;#8220;socialist countries&amp;#8221; who do the same thing. And it&amp;#8217;s all at the bidding of George Soros, the Jew.&lt;/p&gt;
-&lt;p&gt;You know, I haven&amp;#8217;t read any books by Soros, nor any articles, and I&amp;#8217;ve never viewed any videos of him. I haven&amp;#8217;t the remotest idea what he sounds like, and barely recognize his face, and only because I&amp;#8217;ve seen caricatures of him drawn by Nazi wannabes &amp;#8212; if I passed him on the street, I wouldn&amp;#8217;t give him a second glance. Yet somehow, he is our master.&lt;/p&gt;
-&lt;p&gt;Apparently, though, the murderous asshole&amp;#8217;s manifesto goes on at length about &amp;#8220;the great replacement&amp;#8221;, which is the same garbage Tucker Carlson rants about.&lt;/p&gt;
-&lt;blockquote class="twitter-tweet" data-width="500" data-dnt="true"&gt;
-&lt;p lang="en" dir="ltr"&gt;And here are the Tucker Carlson “replacement theory” talking points echoed in the Buffalo murderer’s “manifesto.” &lt;a href="https://t.co/1ofwqn85tu"&gt;pic.twitter.com/1ofwqn85tu&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&amp;mdash; Ron Filipkowski &lt;img src="https://s.w.org/images/core/emoji/11/72x72/1f1fa-1f1e6.png" alt="🇺🇦" class="wp-smiley" style="height: 1em; max-height: 1em;" /&gt; (@RonFilipkowski) &lt;a href="https://twitter.com/RonFilipkowski/status/1525634639649558528?ref_src=twsrc%5Etfw"&gt;May 15, 2022&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;&lt;/p&gt;
-&lt;p&gt;Somehow, Richard Dawkins, who always votes Left, has found himself in the same camp as Douglas Murray, Tucker Carlson, and the Buffalo murderer. If I were him, it&amp;#8217;s at this point, if not earlier, I&amp;#8217;d stop and ask myself, &amp;#8220;could I be wrong?&amp;#8221; (Wait a minute, I did question my association with a community of bad actors about a decade ago, and got out quick, but maybe not quick enough.)&lt;/p&gt;
-</content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">I’ve long struggled with what to think of Richard Dawkins, once a hero, now a muddled old man. Here is a revealing tweet (I also think he uses Twitter as a shooting range, with his foot as the main target), in which he praises Douglas Murray, of all people. Forget labels like “right wing” &amp; […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=66548</id>
-    <published>2022-05-15T16:48:31Z</published>
-    <updated>2022-05-15T16:48:31Z</updated>
-    <category term="Race, Society, and Social Justice"/>
   </entry>
   <entry>
     <title>Scientists Describe The Six Kinds of Bullshit that Spreads Online</title>
