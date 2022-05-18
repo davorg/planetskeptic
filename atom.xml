@@ -7,9 +7,32 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2022-05-18T13:42:49Z</updated>
+  <updated>2022-05-18T14:34:53Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>I get email (Phillip edition)</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/05/18/i-get-email-phillip-edition/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p class="lead">If you experience difficulties typing exclamation points in a comment here, it’s because <a href="https://freethoughtblogs.com/pharyngula/2019/12/01/i-get-email-96/">Phillip Jones has been hogging them all</a>. I just discovered a vast stagnant pool of missives from him deep in the bowels of my university email account, which has a lot of filters on it to prioritize messages from students and colleagues, so email from outside those groups tend to languish in neglect there. He seems to go on a rage jag every few weeks and dump a lot of repetitive invective, with numerous exclamation points, typically including links to his own posts on Twitter or Facebook, as if they are authoritative sources.</p>
+<p><a href="https://freethoughtblogs.com/pharyngula/files/2022/05/phillipjones.png"><img src="https://freethoughtblogs.com/pharyngula/files/2022/05/phillipjones-500x529.png" alt="" width="500" height="529" class="aligncenter size-large wp-image-66580" srcset="https://freethoughtblogs.com/pharyngula/files/2022/05/phillipjones-500x529.png 500w, https://freethoughtblogs.com/pharyngula/files/2022/05/phillipjones-142x150.png 142w, https://freethoughtblogs.com/pharyngula/files/2022/05/phillipjones-284x300.png 284w, https://freethoughtblogs.com/pharyngula/files/2022/05/phillipjones-768x812.png 768w, https://freethoughtblogs.com/pharyngula/files/2022/05/phillipjones.png 942w" sizes="(max-width: 500px) 100vw, 500px"/></a></p>
+<p>But lately he’s raging on Gettr, the right-wing pro-Trump Twitter look-alike, because his Twitter account has been suspended. Poor man. At least his emails are getting shorter.</p>
+<blockquote class="creationist"><p><a href="https://gettr.com/post/p1a8bdj013f">https://gettr.com/post/p1a8bdj013f</a> <a href="https://gettr.com/post/p1a8cis02f9">https://gettr.com/post/p1a8cis02f9</a> I’m going to contact the police and ask them to arrest you! And I’m going to contact UNMM and ask the to fire you!</p></blockquote>
+<p>Now I want to ask my local police if they’ve been contacted by a very emphatic kook — that was sent last night, so if the cops knock on my door and drag me away in handcuffs today, you’ll know why. </p>
+<p>He’s going to have a tough time contacting my employer at UNMM, though. I don’t even know what that is!</p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">If you experience difficulties typing exclamation points in a comment here, it’s because Phillip Jones has been hogging them all. I just discovered a vast stagnant pool of missives from him deep in the bowels of my university email account, which has a lot of filters on it to prioritize messages from students and colleagues, […]</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=66579</id>
+    <published>2022-05-18T14:00:27Z</published>
+    <updated>2022-05-18T14:00:27Z</updated>
+    <category term="Fools, Tools, Kooks, and Goons"/>
+  </entry>
   <entry>
     <title>Which one is not beautiful?</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/05/18/which-one-is-not-beautiful/" type="text/html"/>
@@ -127,32 +150,6 @@
     <published>2022-05-17T18:58:34Z</published>
     <updated>2022-05-17T18:58:34Z</updated>
     <category term="Atheism and Skepticism"/>
-  </entry>
-  <entry>
-    <title>The irrefutability problem and cryptocurrency</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/05/17/the-irrefutability-problem-and-cryptocurrency/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p><a href="https://freethoughtblogs.com/pharyngula/files/2022/05/bitcoinburning.png"><img src="https://freethoughtblogs.com/pharyngula/files/2022/05/bitcoinburning-150x119.png" alt="" width="150" height="119" class="alignright size-thumbnail wp-image-66565" srcset="https://freethoughtblogs.com/pharyngula/files/2022/05/bitcoinburning-150x119.png 150w, https://freethoughtblogs.com/pharyngula/files/2022/05/bitcoinburning-300x238.png 300w, https://freethoughtblogs.com/pharyngula/files/2022/05/bitcoinburning-500x396.png 500w, https://freethoughtblogs.com/pharyngula/files/2022/05/bitcoinburning.png 670w" sizes="(max-width: 150px) 100vw, 150px"/></a></p>
-<p class="lead">Something that bugs me: there are all these articles that explain why cryptocurrency will fail, and they’re good — but they’re all <em>so long</em>. <a href="https://www.youtube.com/watch?v=YQ_xWvX1n9g">Dan Olson’s video on the subject</a> was over two hours long, and it was great, but it takes dedication to get through it all, and it’s not fair — there’s an asymmetry problem here, just as there is with creationism, where the zealots only have to shout a short slogan (“you’ll get rich!” or “God did it!”), and then the smart people who actually know something have to slog through a couple of textbooks or a pile of papers to show definitively that they’re wrong. Once again, here’s a LONG <a href="https://www.currentaffairs.org/2022/05/why-this-computer-scientist-says-all-cryptocurrency-should-die-in-a-fire/">interview with Nicholas Weaver</a> to explain what’s wrong with cryptocurrency. He makes a prediction:</p>
-<blockquote><p>It will implode spectacularly. The only question is when. I thought it would have actually imploded a year ago. But basically, what we saw with Terra and Luna, where it collapsed suddenly due to these downward positive feedback loops—situations where basically the system is designed to collapse utterly and quickly—those will happen to the larger cryptocurrency space. Because, for example, the mining process is horribly expensive. We’re talking [a measurable percentage] of the world’s electricity consumption, most of that has not been paid for. So the mining companies for the most part have been taking the cryptocurrency and borrowing against the cryptocurrency that they create, rather than sell it, because the market’s actually very thin. </p>
-<p>This means there’s a huge amount that is subject to potentially catastrophic margin calls. And that creates a feedback loop where the price drops a little, somebody’s forced to sell. That drops the price more. They’re forced to sell more. This creates a feedback loop that drives the price into the ground, catastrophically.</p>
-<p>The previous times this has happened, we had the bubble at 100, powered by fraud at Mt. Gox. And that imploded down to 10. We had a bubble a 1000 powered by fraud, it imploded and went back down to 100. We had a bubble at 10,000 powered by Tether, it blew up and went back down to 1,000. And now we’re at a bubble where Bitcoin blew up to 60,000, fueled by Tether and falling. But I don’t think there’ll be a fifth bubble. Because basically, they will have broken all the suckers left to break. There’s only so many more suckers that can be brought into that space. Once you burn out a sucker, they don’t come back. They’re a non-renewable resource. So they’re going to end up running out of greater fools. </p>
-<p>So I suspect that the cryptocurrency space will go fine absent regulation, until one day it goes and collapses greatly. </p></blockquote>
-<p>Unfortunately, that won’t change anything. If there’s one thing we should have learned from history, it’s that it doesn’t matter if bunkum is refuted by real world catastrophic consequences. Someone predicts the world will end on a specific date, the date passes, and their followers are unfazed. Undergo a pandemic, and the deniers will say it was just a bad cold even after a million Americans have died of it. Go ahead, say that Bitcoin is doomed to collapse, and the instant it fails there’s a train of True Believers who will announce another new cryptocurrency that they’ll claim is flawless…until it too goes boom.</p>
-<p>I look forward to the day we can say “I told you so” and then watch befuddled as the idiots line up to do it all over again.</p>
-<p>It’ll be…great?</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Something that bugs me: there are all these articles that explain why cryptocurrency will fail, and they’re good — but they’re all so long. Dan Olson’s video on the subject was over two hours long, and it was great, but it takes dedication to get through it all, and it’s not fair — there’s an […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=66564</id>
-    <published>2022-05-17T15:57:45Z</published>
-    <updated>2022-05-17T15:57:45Z</updated>
-    <category term="Miscellaneous and Meta"/>
   </entry>
   <entry>
     <title>Scientists Describe The Six Kinds of Bullshit that Spreads Online</title>
