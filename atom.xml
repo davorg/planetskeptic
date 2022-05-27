@@ -7,9 +7,30 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2022-05-27T18:37:17Z</updated>
+  <updated>2022-05-27T19:32:22Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Spider battles a wasp!</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/05/27/spider-battles-a-wasp/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p class="lead">I know a lot of people here dislike spider photos, but this is a <em>video</em>, and it’s a battle between a handsome <i>Steatoda</i> and a much larger wasp. Usually wasps win these kinds of fight, but not in this case, which made me happy.</p>
+<p>Also, watch the spider pause once the wasp is lethally envenomated, step towards the camera, and preen for a bit before going back to hog-tie the beast. Bravo!</p>
+<p><span id="more-66686"/></p>
+<div class="center"><iframe id="reddit-embed" src="https://www.redditmedia.com/r/spiders/comments/uz178s/this_spider_made_that_wasp_its_btch/?ref_source=embed&amp;ref=share&amp;embed=true" sandbox="allow-scripts allow-same-origin allow-popups" style="border: none;" height="628" width="640" scrolling="no"/></div>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">I know a lot of people here dislike spider photos, but this is a video, and it’s a battle between a handsome Steatoda and a much larger wasp. Usually wasps win these kinds of fight, but not in this case, which made me happy. Also, watch the spider pause once the wasp is lethally envenomated, […]</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=66686</id>
+    <published>2022-05-27T19:02:45Z</published>
+    <updated>2022-05-27T19:02:45Z</updated>
+    <category term="Spiders"/>
+  </entry>
   <entry>
     <title>A geography lesson, with automobiles</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/05/27/a-geography-lesson-with-automobiles/" type="text/html"/>
@@ -95,35 +116,6 @@
     <published>2022-05-27T13:41:04Z</published>
     <updated>2022-05-27T13:41:04Z</updated>
     <category term="Miscellaneous and Meta"/>
-  </entry>
-  <entry>
-    <title>What are the responsibilities of geneticists?</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/05/27/what-are-the-responsibilities-of-geneticists/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><div id="attachment_66426" style="width: 160px" class="wp-caption alignright"><a href="https://freethoughtblogs.com/pharyngula/files/2022/05/otto-1.jpg"><img src="https://freethoughtblogs.com/pharyngula/files/2022/05/otto-1-150x145.jpg" alt="" width="150" height="145" class="size-thumbnail wp-image-66426" srcset="https://freethoughtblogs.com/pharyngula/files/2022/05/otto-1-150x145.jpg 150w, https://freethoughtblogs.com/pharyngula/files/2022/05/otto-1-300x290.jpg 300w, https://freethoughtblogs.com/pharyngula/files/2022/05/otto-1.jpg 500w" sizes="(max-width: 150px) 100vw, 150px"/></a><p class="wp-caption-text">Still works. Just replace “philosophy” with “genetics”</p></div>
-<p class="lead">Janet Stemwedel has published <a href="https://www.scientificamerican.com/article/science-must-not-be-used-to-foster-white-supremacy/?amp;text=Science">an essay in Scientific American</a>. It’s good. You should go read it. It’s also on a subject that I, someone who teaches genetics to college students, worry about. All you have to do is look at racists on the internet, or any of those gomers of the “Intellectual Dark Web”, and you’ll find them chattering away about their version of genetics, citing genetics papers they’ve read or glanced at, but barely understand, and drawing sweeping, and unlikely, conclusions from, for instance, GWAS studies. We’re all so interested in what we <em>can</em> do that we aren’t cautious enough about saying what we <em>can’t</em> do, and what are the invalid interpretations that can trap people searching for genetic certainty in their genomes.</p>
-<p>She has some strong suggestions.</p>
-<blockquote><p>For one thing, they [scientists] must be frank and vocal about the weakness of studies that purport to find correlations between race and differences in traits like intelligence or propensity violence. This includes methodological weaknesses like treating IQ as a good proxy for intelligence, or treating “race” as something with clear genetic grounding. A finding that particular genes or sets of genes are associated with a complex behavior does not demonstrate a causal relation or rule out the importance of environmental factors—and indeed, the assumption that genes and environment vary independently is usually false. An average difference in a trait associated with a set of genes between two populations does not rule out that the individual variations within those populations may be greater than the average difference between populations. All of which is to say it’s hard to draw conclusions that are strong, clear and well-supported from much of this work. To the extent that race science is just bad science, scientists have a duty to call it out, rather than letting it stand unchallenged.</p></blockquote>
-<p>I’ve been thinking that I ought to incorporate one of Richard Lewontin’s books into my genetics class — something like <a href="https://amzn.to/3Nvw8b0"><i>It Ain’t Necessarily So : The Dream of the Human Genome and Other Illusions</i></a>, maybe. The catch is that in a traditional genetics course, we have an obligation to teach the core concepts, and taking time to teach about how genetics is misused is sometimes premature.</p>
-<blockquote><p>For another thing, scientists must do some soul-searching about why they are so motivated to look for evidence that traits like intelligence or propensity to violence are written in our genes, or that they would be different for people in different racial groups. Of all the bits of truth they could discover about our complex world, why this focus? Could it be that scientists are following their preexisting hunches, biases that come from being humans living in a culture built around those biases—or that funders are seeking scientific validation for their biases? Any scientist who dismisses this possibility has forgotten that objectivity requires the communal project of scrutinizing scientific conclusions to find how they might be mistaken.</p></blockquote>
-<p>I’ve got a few awful books on my bookshelf, often written by evolutionary psychologists, that make me wonder about the mental state of the authors. They have some grand theory about human behavior that I know can’t possibly be backed up by significant genetics research, but apparently the public wants that nice pat answer to explain why everything is the way it is.</p>
-<p>Also, a lot of those kinds of books seem to be written by professors of marketing. Seriously, if you see a book that purports to be about biology, and the author is employed in a business school, don’t waste your time. Which leads into Stemwedel’s next point…</p>
-<blockquote><p>There’s a further question scientists ought to ask themselves when reflecting on why they study the scientific questions they do: What will the knowledge I’m building be good for? How could it be put to use? Do scientists imagine that a finding of genetic differences in intelligence among racial groups would be used to drive more school funding to Black and brown communities, or as a justification to focus school funding on white communities? Or that a finding of genetic differences in propensity for violence among racial groups would be used to do anything but double down on current overpolicing of communities of color?</p></blockquote>
-<p>In the case of James Watson, for example, I think he’s made a career of trying to buttress evidence that he is an intrinsically superior person. They didn’t call him Lucky Jim for nothing — he stumbled into a major discovery, and I wonder if he wonders what might have made him so fortunate. It can’t possibly be that anyone with the right training could have done it, so he finds a refuge in the fact that he’s Scots-Irish. Others know that the status quo has treated them well, so they want to perpetuate what is currently a racist society for the benefit of themselves and their children. Others, I think, are so steeped in a culture of racial bias that they don’t even think about it — black people must be inferior, so let’s search for a rationalization for holding what is an odious belief.</p>
-<p>It’s probably a messy mix of all of those things, and more. I’m pretty sure that if genetics has broad fuzzy edges that psychology is probably even worse.</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Janet Stemwedel has published an essay in Scientific American. It’s good. You should go read it. It’s also on a subject that I, someone who teaches genetics to college students, worry about. All you have to do is look at racists on the internet, or any of those gomers of the “Intellectual Dark Web”, and […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=66672</id>
-    <published>2022-05-27T13:28:56Z</published>
-    <updated>2022-05-27T13:28:56Z</updated>
-    <category term="Genetics"/>
-    <category term="Race, Society, and Social Justice"/>
   </entry>
   <entry>
     <title>You’re Wrong about Johnny Depp and Amber Heard</title>
