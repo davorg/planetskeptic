@@ -7,9 +7,55 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2022-05-27T12:41:29Z</updated>
+  <updated>2022-05-27T13:42:39Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>There are a lot of movies that could use this treatment</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/05/27/there-are-a-lot-of-movies-that-could-use-this-treatment/" type="text/html"/>
+    <content type="html">&lt;p class="lead"&gt;It&amp;#8217;s impressive how all the major plot elements in &lt;i&gt;Aliens&lt;/i&gt; can be compressed to one minute.&lt;/p&gt;
+&lt;div class="center"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/LOzU9n_o7dU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+</content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">It’s impressive how all the major plot elements in Aliens can be compressed to one minute.</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=66675</id>
+    <published>2022-05-27T13:41:04Z</published>
+    <updated>2022-05-27T13:41:04Z</updated>
+    <category term="Miscellaneous and Meta"/>
+  </entry>
+  <entry>
+    <title>What are the responsibilities of geneticists?</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/05/27/what-are-the-responsibilities-of-geneticists/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><div id="attachment_66426" style="width: 160px" class="wp-caption alignright"><a href="https://freethoughtblogs.com/pharyngula/files/2022/05/otto-1.jpg"><img src="https://freethoughtblogs.com/pharyngula/files/2022/05/otto-1-150x145.jpg" alt="" width="150" height="145" class="size-thumbnail wp-image-66426" srcset="https://freethoughtblogs.com/pharyngula/files/2022/05/otto-1-150x145.jpg 150w, https://freethoughtblogs.com/pharyngula/files/2022/05/otto-1-300x290.jpg 300w, https://freethoughtblogs.com/pharyngula/files/2022/05/otto-1.jpg 500w" sizes="(max-width: 150px) 100vw, 150px"/></a><p class="wp-caption-text">Still works. Just replace “philosophy” with “genetics”</p></div>
+<p class="lead">Janet Stemwedel has published <a href="https://www.scientificamerican.com/article/science-must-not-be-used-to-foster-white-supremacy/?amp;text=Science">an essay in Scientific American</a>. It’s good. You should go read it. It’s also on a subject that I, someone who teaches genetics to college students, worry about. All you have to do is look at racists on the internet, or any of those gomers of the “Intellectual Dark Web”, and you’ll find them chattering away about their version of genetics, citing genetics papers they’ve read or glanced at, but barely understand, and drawing sweeping, and unlikely, conclusions from, for instance, GWAS studies. We’re all so interested in what we <em>can</em> do that we aren’t cautious enough about saying what we <em>can’t</em> do, and what are the invalid interpretations that can trap people searching for genetic certainty in their genomes.</p>
+<p>She has some strong suggestions.</p>
+<blockquote><p>For one thing, they [scientists] must be frank and vocal about the weakness of studies that purport to find correlations between race and differences in traits like intelligence or propensity violence. This includes methodological weaknesses like treating IQ as a good proxy for intelligence, or treating “race” as something with clear genetic grounding. A finding that particular genes or sets of genes are associated with a complex behavior does not demonstrate a causal relation or rule out the importance of environmental factors—and indeed, the assumption that genes and environment vary independently is usually false. An average difference in a trait associated with a set of genes between two populations does not rule out that the individual variations within those populations may be greater than the average difference between populations. All of which is to say it’s hard to draw conclusions that are strong, clear and well-supported from much of this work. To the extent that race science is just bad science, scientists have a duty to call it out, rather than letting it stand unchallenged.</p></blockquote>
+<p>I’ve been thinking that I ought to incorporate one of Richard Lewontin’s books into my genetics class — something like <a href="https://amzn.to/3Nvw8b0"><i>It Ain’t Necessarily So : The Dream of the Human Genome and Other Illusions</i></a>, maybe. The catch is that in a traditional genetics course, we have an obligation to teach the core concepts, and taking time to teach about how genetics is misused is sometimes premature.</p>
+<blockquote><p>For another thing, scientists must do some soul-searching about why they are so motivated to look for evidence that traits like intelligence or propensity to violence are written in our genes, or that they would be different for people in different racial groups. Of all the bits of truth they could discover about our complex world, why this focus? Could it be that scientists are following their preexisting hunches, biases that come from being humans living in a culture built around those biases—or that funders are seeking scientific validation for their biases? Any scientist who dismisses this possibility has forgotten that objectivity requires the communal project of scrutinizing scientific conclusions to find how they might be mistaken.</p></blockquote>
+<p>I’ve got a few awful books on my bookshelf, often written by evolutionary psychologists, that make me wonder about the mental state of the authors. They have some grand theory about human behavior that I know can’t possibly be backed up by significant genetics research, but apparently the public wants that nice pat answer to explain why everything is the way it is.</p>
+<p>Also, a lot of those kinds of books seem to be written by professors of marketing. Seriously, if you see a book that purports to be about biology, and the author is employed in a business school, don’t waste your time. Which leads into Stemwedel’s next point…</p>
+<blockquote><p>There’s a further question scientists ought to ask themselves when reflecting on why they study the scientific questions they do: What will the knowledge I’m building be good for? How could it be put to use? Do scientists imagine that a finding of genetic differences in intelligence among racial groups would be used to drive more school funding to Black and brown communities, or as a justification to focus school funding on white communities? Or that a finding of genetic differences in propensity for violence among racial groups would be used to do anything but double down on current overpolicing of communities of color?</p></blockquote>
+<p>In the case of James Watson, for example, I think he’s made a career of trying to buttress evidence that he is an intrinsically superior person. They didn’t call him Lucky Jim for nothing — he stumbled into a major discovery, and I wonder if he wonders what might have made him so fortunate. It can’t possibly be that anyone with the right training could have done it, so he finds a refuge in the fact that he’s Scots-Irish. Others know that the status quo has treated them well, so they want to perpetuate what is currently a racist society for the benefit of themselves and their children. Others, I think, are so steeped in a culture of racial bias that they don’t even think about it — black people must be inferior, so let’s search for a rationalization for holding what is an odious belief.</p>
+<p>It’s probably a messy mix of all of those things, and more. I’m pretty sure that if genetics has broad fuzzy edges that psychology is probably even worse.</p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Janet Stemwedel has published an essay in Scientific American. It’s good. You should go read it. It’s also on a subject that I, someone who teaches genetics to college students, worry about. All you have to do is look at racists on the internet, or any of those gomers of the “Intellectual Dark Web”, and […]</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=66672</id>
+    <published>2022-05-27T13:28:56Z</published>
+    <updated>2022-05-27T13:28:56Z</updated>
+    <category term="Genetics"/>
+    <category term="Race, Society, and Social Justice"/>
+  </entry>
   <entry>
     <title>Who is this jamoke, anyway?</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/05/26/who-is-this-jamoke-anyway/" type="text/html"/>
@@ -107,30 +153,6 @@
     <category term="Miscellaneous and Meta"/>
   </entry>
   <entry>
-    <title>Days of grief and rage</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/05/26/days-of-grief-and-rage/" type="text/html"/>
-    <content type="html">&lt;p class="lead"&gt;Some days, I just want to lie in bed and cry. Cry for the dead, for the families of the dead, for this country. This video hit me hard.&lt;/p&gt;
-&lt;div class="center"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/xvPOGcHrpRU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-&lt;p&gt;If you&amp;#8217;re at all human and humane, you have to feel the same.&lt;/p&gt;
-&lt;p&gt;But then, it also reveals that there are monsters among us. Ted Cruz was hogging the cameras with his ridiculous claim that we could solve the school shooting problem with doors and cops, anything but controlling access to slaughter guns. Republicans lined up to defend guns, not people. Not even children.&lt;/p&gt;
-&lt;p&gt;[Trolling parody deleted.]&lt;/p&gt;
-&lt;p&gt;And &lt;a href="https://www.dailykos.com/stories/2022/5/25/2100314/-Far-right-troll-army-gleefully-spreads-bogus-claim-that-Ulvade-shooter-was-a-transgender-woman"&gt;the trolls and liars and conspiracy theorists&lt;/a&gt;…&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;Predictably, the worst of the lot were the white-nationalist-friendly trolls at the message board 4chan, who trotted out photos of a Hispanic transgender woman who they claimed was the shooter—a claim that was promptly debunked on Reddit, where the person whose photos were being used chimed in and denounced the claims as utterly and obviously bogus, since she didn’t even live in Texas and couldn’t possibly be the shooter.&lt;/p&gt;
-&lt;p&gt;However, that didn’t stop the bogus claim that the shooter was a transgender woman from spreading far and wide on social media, bolstered both by Jones’ Infowars program and by prominent far-right figures like race troll Candace Owens, white nationalist Dave Reilly, and Congressman Paul Gosar. Other Republicans wondered aloud whether the shooter—identified by law enforcement as 18-year-old Uvalde resident Salvador Ramos—was an “illegal immigrant.”&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;Are you angry yet? If you aren&amp;#8217;t, what&amp;#8217;s wrong with you?&lt;/p&gt;
-</content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Some days, I just want to lie in bed and cry. Cry for the dead, for the families of the dead, for this country. This video hit me hard. If you’re at all human and humane, you have to feel the same. But then, it also reveals that there are monsters among us. Ted Cruz […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=66659</id>
-    <published>2022-05-26T13:43:08Z</published>
-    <updated>2022-05-26T13:43:08Z</updated>
-    <category term="Gun Fondlers"/>
-  </entry>
-  <entry>
     <title>With "Station Eleven", apocalyptic fiction has come of age</title>
     <link rel="alternate" href="https://newhumanist.org.uk/articles/5974/with-station-eleven-apocalyptic-fiction-has-come-of-age#utm_source=rss" type="text/html"/>
     <content type="html">&lt;p class="p1"&gt;&lt;img title="A still from &amp;quot;Station Eleven&amp;quot;" src="https://newhumanist.org.uk/images/StationEleven.jpeg" height="1067" alt="A still from 'Station Eleven'" width="1600" /&gt;&lt;/p&gt; &lt;p class="p1"&gt;In March 2020, it felt like those of us who were lucky enough to be able to lock down in our homes and watch a lot of television were quickly sorted into two opposing camps. There were those who sought out a total escape from the daily accumulation of death tolls. Absurdist documentaries like Netflix&amp;rsquo;s &lt;em&gt;Tiger King&lt;/em&gt; and endless dating reality shows were this group&amp;rsquo;s binging material. But alongside them co-existed the people who wanted to immerse themselves in fictional versions of their current situation, rather than look away. Pandemic-based films like &lt;em&gt;Contagion&lt;/em&gt;, &lt;em&gt;28 Days Later&lt;/em&gt;, &lt;em&gt;Outbreak&lt;/em&gt; and others provided this hit of schadenfreude, filling our screens with safely contained versions of &amp;ldquo;what if&amp;rdquo; even as a real-life virus raged through our communities.&lt;/p&gt; &lt;p class="p3"&gt;These, and indeed many other conventional disaster movies, follow a simple narrative template. The viewer is introduced to the central characters before The Event that will utterly change their lives, either in early scenes or via flashbacks to life before. Initially, the warning signs of the cataclysm are ignored by many, until it is too late to prevent the inevitable. Transmission of the virus surges exponentially, millions die, and our remaining heroes are left to make the best of the life that remains to them in the post-apocalyptic landscape. Invariably, human life finds a way to endure, albeit in much altered and reduced circumstances. To put it another way: it is extremely rare for a mainstream pandemic thriller to end with the camera panning over an empty planet heaped with corpses.&lt;/p&gt; &lt;h2 class="p3"&gt;"Station Eleven" and breaking new ground&lt;/h2&gt; &lt;p class="p3"&gt;There is something gratifying about the rhythms of this basic story. It takes a terrifying, incomprehensible unknown and slots it into a familiar structure with a beginning, middle and end. But having now lived through two years and counting of a major viral pandemic, we know that such an event is anything but neat and compartmentalised. Imaginary pandemics will forever hit differently for us, now we have first-hand experience of the chaos such a situation can create in the lives of even the luckiest survivor. With this knowledge has come an appetite for a different kind of on-screen pandemic &amp;ndash; something that reflects the true complexities of life with a deadly virus and resists the easy categorisation of everyone as either &amp;ldquo;victim&amp;rdquo; or &amp;ldquo;survivor&amp;rdquo;.&lt;/p&gt; &lt;p class="p3"&gt;The best example of this new wave of fictional pandemics was, surprisingly, imagined long before the SARS‑CoV‑2 virus was first identified. Emily St John Mandel&amp;rsquo;s novel &lt;em&gt;Station Eleven &lt;/em&gt;was published in 2014 and follows a group of travelling players touring the Great Lakes region of North America 20 years after a virulent strain of swine flu has wiped out most of the population. Although critically acclaimed from the start, it wasn&amp;rsquo;t until 2020 that the book went stratospheric, selling hundreds of thousands of copies.&lt;/p&gt; &lt;p class="p3"&gt;A film adaptation had been in the works since 2015, but in late 2019 this was revealed to have been transformed into a television series for the HBO Max streaming service. By the time the show aired in 2021, the world had been altered irrevocably by events that bore an uncanny similarity to those of the plot.&lt;/p&gt; &lt;p class="p3"&gt;Yet &lt;em&gt;Station Eleven&lt;/em&gt; is worth watching regardless of its coincidental mirroring of reality. Mandel&amp;rsquo;s story, unlike some of the big-budget pandemic thrillers that scratched that early itch for manageable terror, is small in scale. It focuses tightly on the creative and emotional lives of her main characters. As is the case with real people, their past relationships and traumas inform their present-day behaviour far more than the big-picture facts about a flu virus. The virus intrudes only insofar as it is relevant to their daily existence. There are no forced flashbacks showing what the US president was doing the moment that the virus hit, or dramatic scenes where epidemiologists summarise the worldwide prognosis.&lt;/p&gt; &lt;p class="p3"&gt;The show is emotional and dark in places, but it is also, audaciously, uplifting. Hinting that people who have suffered through horrible things can also sometimes enjoy the life they still have feels daring, almost taboo, but at our current moment it is deeply satisfying."&lt;/p&gt; &lt;h2 class="p3"&gt;"Sweet Tooth" and "Creamery": a new breed of story?&lt;/h2&gt; &lt;p class="p3"&gt;&lt;em&gt;Sweet Tooth,&lt;/em&gt; a 2021 adaptation of a comic book of the same name, uses whimsy and fantasy to achieve a similarly broad emotional range. In this scenario, society has ten years prior experienced &amp;ldquo;the Great Crumble&amp;rdquo;, because of a pandemic known only as &amp;ldquo;the Sick&amp;rdquo;. As a result, most of the world&amp;rsquo;s humans were killed and human-animal hybrid babies emerged. Gus, a half-deer half-child, has been left alone in the woods after the death of his father. He thus sets out on his own at the age of ten to find his absent mother.&lt;/p&gt; &lt;p class="p3"&gt;The show is visually gorgeous, setting this cute antlered child in a series of sweeping forest landscapes. The beauty all around him contrasts with Gus&amp;rsquo;s ambient fear. He is being hunted by a band of humans known as &amp;ldquo;the Last Men&amp;rdquo;, who fear that these hybrid children were the cause, rather than the result, of the pandemic. The Sick not only killed people, it also destroyed the survivors&amp;rsquo; ability to interact without suspicion. As a portrayal of a pandemic&amp;rsquo;s ripple effect, it is potent.&lt;/p&gt; &lt;p class="p5"&gt;Seriousness is another boundary that creators of post-Covid pandemics are beginning to push. Contagion and death are not traditionally fertile grounds for comedy, but choosing to laugh at horrible things can sometimes tease out greater nuance than a purely po-faced treatment. This is definitely the case in &lt;em&gt;Creamerie&lt;/em&gt;, a late 2021 comedy-horror show from New Zealand that follows a trio of women running a dairy farm eight years after a viral pandemic has wiped out most of the world&amp;rsquo;s men. Although free of the patriarchal dynamics that govern other post-apocalyptic fertility-orientated stories such as &lt;em&gt;The Handmaid&amp;rsquo;s Tale&lt;/em&gt;, the working women of &lt;em&gt;Creamerie&lt;/em&gt; still find themselves oppressed by a fascist authority. But this one is run by authoritarian women and uses &amp;ldquo;wellness&amp;rdquo; practices to achieve its ends. Part black comedy, part satire, part crime caper, it can feel unsettling at first to laugh at the show&amp;rsquo;s jabs at wellness mantras alongside flashbacks to the gory pyres of male corpses. But when the women discover a man who has survived the extermination and decide to help him evade capture by the sperm-obsessed wellness authorities, the emotional stakes are raised.&lt;/p&gt; &lt;p class="p3"&gt;Bobby, played by a former &lt;em&gt;Neighbours&lt;/em&gt; star, needs their generosity and courage to survive, even if he is physically stronger than the women in authority. The mixture of camaraderie, jadedness and hope exhibited by the central characters is recognisable. In amongst the dirty jokes and Gwyneth Paltrow-esque platitudes &amp;ndash; &amp;ldquo;There&amp;rsquo;s an &amp;lsquo;us&amp;rsquo; in every uterus!&amp;rdquo; they chant at one point &amp;ndash; is a familiar tale about power and who gets to wield it in difficult times.&lt;/p&gt; &lt;p class="p3"&gt;All three of these post-Covid pandemic portrayals are set years after the initial outbreak. One of the overriding lessons of the last two years has been that pandemics don&amp;rsquo;t end as neatly as the classic disaster film might have once led us to believe. Rather than being short and sharp, this is a calamity that unfolds slowly, intertwining with our existing lives, rather than blotting them out in one convenient detonation. It&amp;rsquo;s no wonder that we now prefer pandemic dramas that engage with the myriad ways in which these creeping tendrils of fear can change us and how we live &amp;ndash; for the worse, of course, but also for the better.&lt;/p&gt; &lt;article class="a2-a8 t2-t7 m-all m-padinfull"&gt; &lt;div class="text-body a-all a-padinfull t-all t-padinfull m-all"&gt; &lt;div class="main-content a3-a7 a-clear t-all t-clear m-all"&gt; &lt;p class="p3"&gt;&lt;em&gt;This piece is from the New Humanist summer 2022 edition. &lt;a href="/subscribe"&gt;Subscribe here&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt; &lt;/div&gt; &lt;/div&gt; &lt;/article&gt;</content>
@@ -169,25 +191,6 @@
     <published>2022-05-25T19:56:10Z</published>
     <updated>2022-05-25T19:56:10Z</updated>
     <category term="Skepticism"/>
-  </entry>
-  <entry>
-    <title>Little human beings were murdered, if you need a reminder</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/05/25/little-human-beings-were-murdered-if-you-need-a-reminder/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p class="lead">Looking for more depressing content? The <a href="https://www.washingtonpost.com/nation/2022/05/25/uvalde-texas-school-shooting-victims/">Washington Post has started compiling profiles of the victims of the Uvalde murders</a>. If you want to see photos of little 10 year old kids smiling for the camera before they were executed, go on, get heartbroken.</p>
-<p>By the way, for all the people who think the solution is arming teachers, the gunman got past armed cops who were hiding behind their cars while the slaughter was going on. Jesus.</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Looking for more depressing content? The Washington Post has started compiling profiles of the victims of the Uvalde murders. If you want to see photos of little 10 year old kids smiling for the camera before they were executed, go on, get heartbroken. By the way, for all the people who think the solution is […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=66657</id>
-    <published>2022-05-25T12:11:27Z</published>
-    <updated>2022-05-25T12:11:27Z</updated>
-    <category term="Politics, History, and Law"/>
   </entry>
   <entry>
     <title>"Deep Deception" and policing without consent</title>
@@ -679,6 +682,78 @@ F: 618/453-3253</p></blockquote>
     <category term="higher education"/>
     <category term="syllabus"/>
     <category term="teaching"/>
+  </entry>
+  <entry>
+    <title>Evidence to House of Commons Sci Tech Select Committee on Research Integrity</title>
+    <link rel="alternate" href="https://www.badscience.net/2017/12/evidence-to-house-of-commons-sci-tech-select-committee-on-research-integrity/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Sorry not to be in regular blogging mode at the moment. Here’s a video of our evidence session to parliament, where they are running an inquiry into research integrity. I think clinical trials are the best possible way to approach this issue. Lots of things in “research integrity” are hard to capture in hard logical […]</div>
+    </content>
+    <author>
+      <name>Ben Goldacre</name>
+    </author>
+    <id>http://www.badscience.net/?p=3498</id>
+    <published>2017-12-05T11:42:17Z</published>
+    <updated>2017-12-05T11:42:17Z</updated>
+    <category term="alltrials campaign"/>
+    <category term="publication bias"/>
+  </entry>
+  <entry>
+    <title>How do the world’s biggest drug companies compare, in their transparency commitments?</title>
+    <link rel="alternate" href="https://www.badscience.net/2017/07/how-do-the-worlds-biggest-drug-companies-compare-in-their-transparency-commitments/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Hereâ€™s a paper, and associated website, that we launch today: we have assessed, and then ranked, all the biggest drug companies in the world, to compare their public commitments on trials transparency. Regular readers will be familiar with this ongoing battle. In medicine we use the results of clinical trials to make informed treatments about […]</div>
+    </content>
+    <author>
+      <name>Ben Goldacre</name>
+    </author>
+    <id>http://www.badscience.net/?p=3485</id>
+    <published>2017-07-27T06:33:23Z</published>
+    <updated>2017-07-27T06:33:23Z</updated>
+    <category term="bad science"/>
+  </entry>
+  <entry>
+    <title>Meaningful Transparency Commitments: the WHO Joint Statement from Trial Funders</title>
+    <link rel="alternate" href="https://www.badscience.net/2017/07/meaningful-transparency-commitments-the-who-joint-statement-from-trial-funders/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">By now I hope you all know about the ongoing global scandal of clinical trial results being left unpublished, and of course our AllTrials campaign. Doctors, researchers, and patients cannot make truly informed choices about which treatments work best if they don’t have access to all the trial results. Earlier this year, I helped out […]</div>
+    </content>
+    <author>
+      <name>Ben Goldacre</name>
+    </author>
+    <id>http://www.badscience.net/?p=3481</id>
+    <published>2017-07-26T16:17:06Z</published>
+    <updated>2017-07-26T16:17:06Z</updated>
+    <category term="bad science"/>
+    <category term="publication bias"/>
+  </entry>
+  <entry>
+    <title>How many epidemiologists does it take to change a lightbulb?</title>
+    <link rel="alternate" href="https://www.badscience.net/2017/02/how-many-epidemiologists-does-it-take-to-change-a-lightbulb/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Robin Ince just asked if I know any epidemiologist lightbulb jokes. I wrote this for him. How many epidemiologists does it take to change a lightbulb? Weâ€™ve found 12,000 switches hidden around the house. Some of them turn this lightbulb on, some of them donâ€™t; some of them only work sometimes; and some of them […]</div>
+    </content>
+    <author>
+      <name>Ben Goldacre</name>
+    </author>
+    <id>http://www.badscience.net/?p=3472</id>
+    <published>2017-02-01T12:49:44Z</published>
+    <updated>2017-02-01T12:49:44Z</updated>
+    <category term="bad science"/>
+  </entry>
+  <entry>
+    <title>“Transparency, Beyond Publication Bias”. A video of my super-speedy talk at IJE.</title>
+    <link rel="alternate" href="https://www.badscience.net/2016/10/transparency-beyond-publication-bias-a-video-of-my-super-speedy-talk-at-ije/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">People oftenÂ talk about “trials transparency” as if this means “all trials must be published in an academic journal”. In reality, true transparency goes much further than this. We need Clinical Study Reports, and individual patient data, of course. But we also need the consent forms, so we can see what patients were told. We need […]</div>
+    </content>
+    <author>
+      <name>Ben Goldacre</name>
+    </author>
+    <id>http://www.badscience.net/?p=3463</id>
+    <published>2016-10-11T08:01:43Z</published>
+    <updated>2016-10-11T08:01:43Z</updated>
+    <category term="bad science"/>
   </entry>
   <entry>
     <title>For any teen atheists who want to be on TV</title>
