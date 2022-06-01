@@ -7,9 +7,24 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2022-06-01T07:35:08Z</updated>
+  <updated>2022-06-01T08:39:43Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>OPEN DISCUSSION JUNE 2022</title>
+    <link rel="alternate" href="https://richarddawkins.net/2022/06/open-discussion-june-2022/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">This thread has been created for thoughtful, rational discussion on subjects for which there are not currently any dedicated threads. Please note that our Comment Policy applies as usual. There is a link to this at the foot of the page. If you would like to refer back to previous open discussion threads, the most …</div>
+    </content>
+    <author>
+      <name>Moderator</name>
+    </author>
+    <id>https://richarddawkins.net/?p=978354</id>
+    <published>2022-06-01T08:37:47Z</published>
+    <updated>2022-06-01T08:37:47Z</updated>
+    <category term="Discussion"/>
+    <category term="Featured"/>
+  </entry>
   <entry>
     <title>No, Monkeypox Didn’t Come From a Human Getting Frisky with a Monkey</title>
     <link rel="alternate" href="https://skepchick.org/2022/05/no-monkeypox-didnt-come-from-a-human-getting-frisky-with-a-monkey/" type="text/html"/>
@@ -294,7 +309,6 @@ Although, I don’t understand why he didn’t want to pack up such a gorgeous b
     <published>2022-05-01T09:23:33Z</published>
     <updated>2022-05-01T09:23:33Z</updated>
     <category term="Discussion"/>
-    <category term="Featured"/>
   </entry>
   <entry>
     <title>The results are in!</title>
@@ -377,24 +391,6 @@ Although, I don’t understand why he didn’t want to pack up such a gorgeous b
     <published>2022-03-30T19:29:19Z</published>
     <updated>2022-03-30T19:29:19Z</updated>
     <category term="Quirky stuff"/>
-  </entry>
-  <entry>
-    <title>Intolerance of Inquiry, Failures of Imagination</title>
-    <link rel="alternate" href="https://richarddawkins.net/2022/03/intolerance-of-inquiry-failures-of-imagination/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">From the Richard Dawkins Foundation Newsletter. Subscribe here. Hello! A few days ago, Raif Badawi walked out of his prison cell.  A progressive Saudi writer, Badawi was arrested in 2012 on charges of “insulting Islam” and apostasy for daring to question religion and criticize the Saudi Arabian government through his website. The Center for Inquiry (CFI) …</div>
-    </content>
-    <author>
-      <name>Paul Fidalgo</name>
-    </author>
-    <id>https://richarddawkins.net/?p=978231</id>
-    <published>2022-03-16T16:48:40Z</published>
-    <updated>2022-03-16T16:48:40Z</updated>
-    <category term="Original"/>
-    <category term="Politics"/>
-    <category term="Religion"/>
-    <category term="Science"/>
-    <category term="Skepticism"/>
   </entry>
   <entry>
     <title>Real magic</title>
