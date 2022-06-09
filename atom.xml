@@ -7,9 +7,28 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2022-06-09T15:34:19Z</updated>
+  <updated>2022-06-09T16:39:53Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Not the happiest update</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/06/09/not-the-happiest-update/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p class="lead">I’ve been dealing with this back pain by going to physical therapy twice a week. It’s not working. There was an initial improvement that has since sunk into general achiness with occasional eruptions into sharp stabbing pain. I’m about to go in for an appointment with a regular doctor, to maybe arrange some imaging to figure out what’s going on.</p>
+<p>That’s my life right now, anyway.</p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">I’ve been dealing with this back pain by going to physical therapy twice a week. It’s not working. There was an initial improvement that has since sunk into general achiness with occasional eruptions into sharp stabbing pain. I’m about to go in for an appointment with a regular doctor, to maybe arrange some imaging to […]</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=66819</id>
+    <published>2022-06-09T15:37:10Z</published>
+    <updated>2022-06-09T15:37:10Z</updated>
+    <category term="Miscellaneous and Meta"/>
+  </entry>
   <entry>
     <title>A PragerU confession</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/06/09/a-prageru-confession/" type="text/html"/>
@@ -152,60 +171,6 @@
     <category term="Activism"/>
     <category term="Science"/>
     <category term="Skepticism"/>
-  </entry>
-  <entry>
-    <title>The taint of the Minnesota twin studies lingers on</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/06/07/the-taint-of-the-minnesota-twin-studies-lingers-on/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><div id="attachment_66799" style="width: 310px" class="wp-caption alignright"><a href="https://freethoughtblogs.com/pharyngula/files/2022/06/twinstudy.jpeg"><img src="https://freethoughtblogs.com/pharyngula/files/2022/06/twinstudy-300x168.jpeg" alt="" width="300" height="168" class="size-medium wp-image-66799" srcset="https://freethoughtblogs.com/pharyngula/files/2022/06/twinstudy-300x168.jpeg 300w, https://freethoughtblogs.com/pharyngula/files/2022/06/twinstudy-150x84.jpeg 150w, https://freethoughtblogs.com/pharyngula/files/2022/06/twinstudy.jpeg 305w" sizes="(max-width: 300px) 100vw, 300px"/></a><p class="wp-caption-text">Except when it doesn’t bother with the DZ part.</p></div>
-<p class="lead">For me, it all began with the Mike Douglas show in the 1970s. If you’re not old enough to remember, that was an afternoon talk show, pre-Oprah, pre-Ellen, etc., sort of a primordial congenial-host-with-a-panel-of-guests kind of thing, and my mother often watched it, just as I was coming home from school. That’s where I learned about the Minnesota twin studies, as a nerdy teen in middle school/high school. I found that kind of stuff fascinating, anything about science would draw me to the TV. Or science-fiction/horror movies, although my mother tended not to have those on.</p>
-<div id="attachment_66802" style="width: 310px" class="wp-caption alignleft"><a href="https://freethoughtblogs.com/pharyngula/files/2022/06/mikedouglas.jpg"><img src="https://freethoughtblogs.com/pharyngula/files/2022/06/mikedouglas-300x300.jpg" alt="" width="300" height="300" class="size-medium wp-image-66802" srcset="https://freethoughtblogs.com/pharyngula/files/2022/06/mikedouglas-300x300.jpg 300w, https://freethoughtblogs.com/pharyngula/files/2022/06/mikedouglas-150x150.jpg 150w, https://freethoughtblogs.com/pharyngula/files/2022/06/mikedouglas-500x500.jpg 500w, https://freethoughtblogs.com/pharyngula/files/2022/06/mikedouglas.jpg 540w" sizes="(max-width: 300px) 100vw, 300px"/></a><p class="wp-caption-text">Douglas is the one on the left.</p></div>
-<p>So I’m watching this, expecting to learn a little biology, but the Minnesota people (it might even have been Bouchard, I don’t recall) were doing a dog-and-pony show, very light on the science and rich in pandering to people’s biases about human nature, and my developing skeptical antennae were twitching. I remember them talking about how one pair of twins separated at birth had both grown up to be firemen. My future job was written in my genes, really? Another pair were married to <em>women with the same first name</em>. Now just hold on there, you’re telling me that somewhere in my genome was a hard-coded response to potential mates based on the sound of their name? Worse, another pair had <em>given their dogs the same name</em> (not the same name as their wives, the two dogs had the same name). There was no evidence that maybe there was a single locus for wife’s name/dog’s name.</p>
-<p>I was taken aback. This sounded like complete bullshit. Are you telling me I can’t trust Mike Douglas?</p>
-<p>I started researching the topic, back in the days when there was no google, and you had to physically go down to the library and read books to figure out what was going on. I quickly found lots of material, besides the sheer unbelievability of the nonsense they were spewing on daytime TV, that questioned the whole idea. It wasn’t hard. Now that I do have Google, here’s an <a href="https://www.madinamerica.com/2022/05/debunking-minnesota-study-twins-reared-apart/">an article that points out the methodological problems of twin studies</a>.</p>
-<blockquote>
-<ul>
-<li>Twins aren’t actually separated at birth. In these studies, 33% were separated after a year or more spent growing up together;</li>
-<li>75% of the pairs of twins still had contact with each other while growing up;</li>
-<li>More than half (56%) were raised by a close family member;</li>
-<li>In 23% of cases, the twins ended up being raised together again at some point or lived next door to each other.</li>
-</ul>
-</blockquote>
-<p>Besides the fact that they were obviously cherry-picking coincidences for talk-show audiences, their premises were deeply flawed. These were bad studies with exaggerated conclusions drawn from flimsy data.</p>
-<p>That link will also take you to this paper, <a href="https://www.karger.com/Article/Abstract/521922">A Reevaluation of the 1990 “Minnesota Study of Twins Reared Apart” IQ Study</a>. It’s a damning analysis of one crucial result from the twin studies.</p>
-<blockquote><p>In 1990, Thomas J. Bouchard Jr. and colleagues published the widely cited 1990 “Minnesota Study of Twins Reared Apart” (MISTRA) Science IQ study. To arrive at the conclusion that “IQ is strongly affected by genetic factors,” Bouchard and colleagues omitted their control group reared-apart dizygotic twin (DZA) IQ score correlations. Near-full-sample correlations published after the study’s 2000 end point show that the reared-apart monozygotic twin (MZA) and DZA group IQ correlations did not differ at a statistically significant level, suggesting that the study failed the first step in determining that IQ scores are influenced by heredity. After bypassing the model-fitting technique they used in most non-IQ MISTRA studies, the researchers assumed that the MZA group IQ score correlation alone “directly estimates heritability.” This method was based on unsupported assumptions by the researchers, and they largely overlooked the confounding influence of cohort effects. Bouchard and colleagues then decided to count most environmental influences they did recognize as genetic influences. I conclude that the MISTRA IQ study failed to discover genetic influences on IQ scores and cognitive ability across the studied population, and that the study should be evaluated in the context of psychology’s replication problem.</p></blockquote>
-<p>Whoa. So the control group for their study of IQ in separated monozygotic twins, who are mostly genetically identical, was supposed to be measurements of IQ in dizygotic twins, who share on average 50% of their genes. That’s basically an essential comparison, as far as I’m concerned.</p>
-<p>The Bouchard paper didn’t bother to do that comparison!</p>
-<p>My mind is blown. They had the data, they must have done the statistical analysis, but they didn’t publish it in this well-known paper. They instead just compared identical twins to each other without bothering to look at how similar or different ordinary brothers and sisters were to each other, and declared that the numbers they got were sufficient to declare IQ to be significantly heritable!</p>
-<p>The paper above dived in and re-did the analysis with the MZ twins <em>and</em> the DZ twins, and found that IQ was no less heritable in DZ twins than MZ twins. This does not fit what was expected if IQ was determined by genetics alone. Environment must play a significant role.</p>
-<p>Never fear, hereditarians! Bouchard <i>et al.</i> had a prepared excuse to cover that eventuality. You see, environment <em>is</em> genetic!</p>
-<blockquote><p>We have seen that after bypassing their model-fitting procedures and their DZA control group data, Bouchard and colleagues based their conclusions about IQ heritability on the claim that the MZA correlation alone “directly estimates heritability.” However, they reached their conclusions only because they decided to count most environmental influences as genetic influences.</p>
-<p>Bouchard and colleagues wrote in their 1990 Science article that one of the three “implications” of their genetic “findings,” and of behavioral genetic findings in general, was that MZA behavioral resemblance caused by the impact of environmental influences “is counted as a genetic influence,” because MZA pairs’ “identical genomes” cause them to create more similar environments for themselves (pp. 227–228). They continued,</p>
-<blockquote>
-<p>MZA twins are so similar in psychological traits because their identical genomes make it probable that their effective environments are similar.… It is a plausible conjecture that a key mechanism by which the genes affect the mind is indirect, and that genetic differences have an important role in determining the effective psychological environment of the developing child. (Bouchard et al., 1990a, pp. 227–228)</p>
-</blockquote>
-<p>The above statement is not an “implication” of the researchers’ findings; rather, it is an assumption upon which they based their findings.</p>
-</blockquote>
-<p>Wow. That is remarkable. So <em>everything</em> is genetic! Therefore they didn’t have to worry about other variables or the confounding effect of differences in environment (or in the case of their flawed, not-actually-raised-apart twin studies, similarities in the environment) because, no matter what result they got, it was genetically determined.</p>
-<p>I said at the outset that I was having problems accepting these twin studies when I was 15 years old. I was not a super genius 15 year old. As a teenager, I hadn’t even taken any classes in basic genetics, and even if I had, my experience of middle school science teaching tells me it would have been mediocre. I don’t think the published work of intelligent, established scientists should be rejected because it makes a teenager queasy.</p>
-<p>But, man, the stuff they were trotting out on the talk show circuit was <em>embarrassing</em>. Somebody among them must have had similar reservations, and you’d think they would have tried to inject some meat into those public events. Why didn’t they? What was going on at the University of Minnesota?</p>
-<p>It seems that Bouchard had some deeply seated bigotries, and he got the answers he wanted.</p>
-<blockquote><p>In a pre-MISTRA 1976 chapter entitled “Genetic Factors in Intelligence,” Bouchard argued in IQ-hereditarian fashion that “human intelligence,” as supposedly measured by IQ tests, “is largely under genetic control,” that social “class differences in intelligence have an appreciable genetic component,” and that due to reproduction patterns, the possibility of a decline in national intelligence “should be subject to continual scrutiny” (Bouchard, 1976, p. 193). Two decades later, Bouchard (1995, p. 417) and Lykken (1995, pp. 216–217) endorsed Richard Herrnstein and Charles Murray’s conclusion in The Bell Curve that “both genes and the environment have something to do with racial differences” in IQ scores (Herrnstein &amp; Murray, 1994, p. 311).</p></blockquote>
-<p>Holy crap! I don’t think Bouchard said those things to Mike Douglas.</p>
-<p>It’s clear that we’re still seeing the legacy of Francis Galton and eugenics, that too many scientists have a bias favoring genetic determinism. We’ve been struggling to eradicate the weedy toxins of eugenics, but we have to dig deeper and clear out the ongoing poison of these badly done twin studies. We’re probably going to have to bear that burden for at least another century.</p>
-<p>Then we have to start on all the badly done GWAS studies…</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">For me, it all began with the Mike Douglas show in the 1970s. If you’re not old enough to remember, that was an afternoon talk show, pre-Oprah, pre-Ellen, etc., sort of a primordial congenial-host-with-a-panel-of-guests kind of thing, and my mother often watched it, just as I was coming home from school. That’s where I learned […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=66798</id>
-    <published>2022-06-07T14:42:47Z</published>
-    <updated>2022-06-07T14:42:47Z</updated>
-    <category term="Genetics"/>
   </entry>
   <entry>
     <title>Illumination in Hay-on-Wye</title>
@@ -709,6 +674,78 @@ F: 618/453-3253</p></blockquote>
     <category term="higher education"/>
     <category term="syllabus"/>
     <category term="teaching"/>
+  </entry>
+  <entry>
+    <title>Evidence to House of Commons Sci Tech Select Committee on Research Integrity</title>
+    <link rel="alternate" href="https://www.badscience.net/2017/12/evidence-to-house-of-commons-sci-tech-select-committee-on-research-integrity/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Sorry not to be in regular blogging mode at the moment. Here’s a video of our evidence session to parliament, where they are running an inquiry into research integrity. I think clinical trials are the best possible way to approach this issue. Lots of things in “research integrity” are hard to capture in hard logical […]</div>
+    </content>
+    <author>
+      <name>Ben Goldacre</name>
+    </author>
+    <id>http://www.badscience.net/?p=3498</id>
+    <published>2017-12-05T11:42:17Z</published>
+    <updated>2017-12-05T11:42:17Z</updated>
+    <category term="alltrials campaign"/>
+    <category term="publication bias"/>
+  </entry>
+  <entry>
+    <title>How do the world’s biggest drug companies compare, in their transparency commitments?</title>
+    <link rel="alternate" href="https://www.badscience.net/2017/07/how-do-the-worlds-biggest-drug-companies-compare-in-their-transparency-commitments/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Hereâ€™s a paper, and associated website, that we launch today: we have assessed, and then ranked, all the biggest drug companies in the world, to compare their public commitments on trials transparency. Regular readers will be familiar with this ongoing battle. In medicine we use the results of clinical trials to make informed treatments about […]</div>
+    </content>
+    <author>
+      <name>Ben Goldacre</name>
+    </author>
+    <id>http://www.badscience.net/?p=3485</id>
+    <published>2017-07-27T06:33:23Z</published>
+    <updated>2017-07-27T06:33:23Z</updated>
+    <category term="bad science"/>
+  </entry>
+  <entry>
+    <title>Meaningful Transparency Commitments: the WHO Joint Statement from Trial Funders</title>
+    <link rel="alternate" href="https://www.badscience.net/2017/07/meaningful-transparency-commitments-the-who-joint-statement-from-trial-funders/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">By now I hope you all know about the ongoing global scandal of clinical trial results being left unpublished, and of course our AllTrials campaign. Doctors, researchers, and patients cannot make truly informed choices about which treatments work best if they don’t have access to all the trial results. Earlier this year, I helped out […]</div>
+    </content>
+    <author>
+      <name>Ben Goldacre</name>
+    </author>
+    <id>http://www.badscience.net/?p=3481</id>
+    <published>2017-07-26T16:17:06Z</published>
+    <updated>2017-07-26T16:17:06Z</updated>
+    <category term="bad science"/>
+    <category term="publication bias"/>
+  </entry>
+  <entry>
+    <title>How many epidemiologists does it take to change a lightbulb?</title>
+    <link rel="alternate" href="https://www.badscience.net/2017/02/how-many-epidemiologists-does-it-take-to-change-a-lightbulb/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Robin Ince just asked if I know any epidemiologist lightbulb jokes. I wrote this for him. How many epidemiologists does it take to change a lightbulb? Weâ€™ve found 12,000 switches hidden around the house. Some of them turn this lightbulb on, some of them donâ€™t; some of them only work sometimes; and some of them […]</div>
+    </content>
+    <author>
+      <name>Ben Goldacre</name>
+    </author>
+    <id>http://www.badscience.net/?p=3472</id>
+    <published>2017-02-01T12:49:44Z</published>
+    <updated>2017-02-01T12:49:44Z</updated>
+    <category term="bad science"/>
+  </entry>
+  <entry>
+    <title>“Transparency, Beyond Publication Bias”. A video of my super-speedy talk at IJE.</title>
+    <link rel="alternate" href="https://www.badscience.net/2016/10/transparency-beyond-publication-bias-a-video-of-my-super-speedy-talk-at-ije/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">People oftenÂ talk about “trials transparency” as if this means “all trials must be published in an academic journal”. In reality, true transparency goes much further than this. We need Clinical Study Reports, and individual patient data, of course. But we also need the consent forms, so we can see what patients were told. We need […]</div>
+    </content>
+    <author>
+      <name>Ben Goldacre</name>
+    </author>
+    <id>http://www.badscience.net/?p=3463</id>
+    <published>2016-10-11T08:01:43Z</published>
+    <updated>2016-10-11T08:01:43Z</updated>
+    <category term="bad science"/>
   </entry>
   <entry>
     <title>For any teen atheists who want to be on TV</title>
