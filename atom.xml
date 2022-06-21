@@ -7,9 +7,29 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2022-06-21T15:36:48Z</updated>
+  <updated>2022-06-21T16:41:14Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>How a spider eats</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/06/21/how-a-spider-eats/" type="text/html"/>
+    <content type="html">&lt;p class="lead"&gt;This video has been online for 9 years, and only has 358 views. That&amp;#8217;s sad. Maybe it has something to do with the subject?&lt;/p&gt;
+&lt;p&gt;If you&amp;#8217;ve wondered how spiders eat, they have a pair of chelicerae in front of their face that are used for injecting venom/chopping up prey, but they&amp;#8217;re not for ingestion at all. They have mouthparts &lt;em&gt;behind&lt;/em&gt; the chelicerae, which they then use for sucking up fluids and spitting up more saliva. The video is a closeup of a prey animal with a rather translucent exoskeleton, so you can actually see the juices sloshing around inside and being sucked out. This is cool; fruit flies don&amp;#8217;t show much, there is only a small amount of bug goo inside, but I have seen mealworms get their guts literally drained out of the exoskeleton, leaving nothing but a hollow shell when the spider is done.&lt;/p&gt;
+&lt;p&gt;I can guess why this is an unpopular video, so I&amp;#8217;ll hide it below the fold.&lt;/p&gt;
+&lt;p&gt;&lt;span id="more-66939"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;div class="center"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/PQXkbyBpksQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+</content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">This video has been online for 9 years, and only has 358 views. That’s sad. Maybe it has something to do with the subject? If you’ve wondered how spiders eat, they have a pair of chelicerae in front of their face that are used for injecting venom/chopping up prey, but they’re not for ingestion at […]</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=66939</id>
+    <published>2022-06-21T15:50:12Z</published>
+    <updated>2022-06-21T15:50:12Z</updated>
+    <category term="Spiders"/>
+  </entry>
   <entry>
     <title>I voted for Hillary Clinton, once</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/06/21/i-voted-for-hillary-clinton-once/" type="text/html"/>
@@ -126,24 +146,6 @@
     <published>2022-06-20T12:37:25Z</published>
     <updated>2022-06-20T12:37:25Z</updated>
     <category term="Feminism, Gender, and Equality"/>
-  </entry>
-  <entry>
-    <title>Not how I like to start my morning</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/06/20/not-how-i-like-to-start-my-morning/" type="text/html"/>
-    <content type="html">&lt;p class="lead"&gt;This is a talented bit of work, but I don&amp;#8217;t think Kent Hovind will recognize how stupid he looks in it.&lt;/p&gt;
-&lt;div class="center"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Pk9qh_2Kato" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-&lt;p&gt;Just so you know: Hovind begs people to debate him all the time, but only losers bother. Most of the people he claims to have &amp;#8216;wacked&amp;#8217; refused to engage with him.&lt;/p&gt;
-</content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">This is a talented bit of work, but I don’t think Kent Hovind will recognize how stupid he looks in it. Just so you know: Hovind begs people to debate him all the time, but only losers bother. Most of the people he claims to have ‘wacked’ refused to engage with him.</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=66924</id>
-    <published>2022-06-20T11:58:54Z</published>
-    <updated>2022-06-20T11:58:54Z</updated>
-    <category term="Creationism"/>
   </entry>
   <entry>
     <title>A hundred years of heresy</title>
@@ -692,78 +694,6 @@ F: 618/453-3253</p></blockquote>
     <category term="higher education"/>
     <category term="syllabus"/>
     <category term="teaching"/>
-  </entry>
-  <entry>
-    <title>Evidence to House of Commons Sci Tech Select Committee on Research Integrity</title>
-    <link rel="alternate" href="https://www.badscience.net/2017/12/evidence-to-house-of-commons-sci-tech-select-committee-on-research-integrity/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Sorry not to be in regular blogging mode at the moment. Here’s a video of our evidence session to parliament, where they are running an inquiry into research integrity. I think clinical trials are the best possible way to approach this issue. Lots of things in “research integrity” are hard to capture in hard logical […]</div>
-    </content>
-    <author>
-      <name>Ben Goldacre</name>
-    </author>
-    <id>http://www.badscience.net/?p=3498</id>
-    <published>2017-12-05T11:42:17Z</published>
-    <updated>2017-12-05T11:42:17Z</updated>
-    <category term="alltrials campaign"/>
-    <category term="publication bias"/>
-  </entry>
-  <entry>
-    <title>How do the world’s biggest drug companies compare, in their transparency commitments?</title>
-    <link rel="alternate" href="https://www.badscience.net/2017/07/how-do-the-worlds-biggest-drug-companies-compare-in-their-transparency-commitments/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Hereâ€™s a paper, and associated website, that we launch today: we have assessed, and then ranked, all the biggest drug companies in the world, to compare their public commitments on trials transparency. Regular readers will be familiar with this ongoing battle. In medicine we use the results of clinical trials to make informed treatments about […]</div>
-    </content>
-    <author>
-      <name>Ben Goldacre</name>
-    </author>
-    <id>http://www.badscience.net/?p=3485</id>
-    <published>2017-07-27T06:33:23Z</published>
-    <updated>2017-07-27T06:33:23Z</updated>
-    <category term="bad science"/>
-  </entry>
-  <entry>
-    <title>Meaningful Transparency Commitments: the WHO Joint Statement from Trial Funders</title>
-    <link rel="alternate" href="https://www.badscience.net/2017/07/meaningful-transparency-commitments-the-who-joint-statement-from-trial-funders/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">By now I hope you all know about the ongoing global scandal of clinical trial results being left unpublished, and of course our AllTrials campaign. Doctors, researchers, and patients cannot make truly informed choices about which treatments work best if they don’t have access to all the trial results. Earlier this year, I helped out […]</div>
-    </content>
-    <author>
-      <name>Ben Goldacre</name>
-    </author>
-    <id>http://www.badscience.net/?p=3481</id>
-    <published>2017-07-26T16:17:06Z</published>
-    <updated>2017-07-26T16:17:06Z</updated>
-    <category term="bad science"/>
-    <category term="publication bias"/>
-  </entry>
-  <entry>
-    <title>How many epidemiologists does it take to change a lightbulb?</title>
-    <link rel="alternate" href="https://www.badscience.net/2017/02/how-many-epidemiologists-does-it-take-to-change-a-lightbulb/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Robin Ince just asked if I know any epidemiologist lightbulb jokes. I wrote this for him. How many epidemiologists does it take to change a lightbulb? Weâ€™ve found 12,000 switches hidden around the house. Some of them turn this lightbulb on, some of them donâ€™t; some of them only work sometimes; and some of them […]</div>
-    </content>
-    <author>
-      <name>Ben Goldacre</name>
-    </author>
-    <id>http://www.badscience.net/?p=3472</id>
-    <published>2017-02-01T12:49:44Z</published>
-    <updated>2017-02-01T12:49:44Z</updated>
-    <category term="bad science"/>
-  </entry>
-  <entry>
-    <title>“Transparency, Beyond Publication Bias”. A video of my super-speedy talk at IJE.</title>
-    <link rel="alternate" href="https://www.badscience.net/2016/10/transparency-beyond-publication-bias-a-video-of-my-super-speedy-talk-at-ije/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">People oftenÂ talk about “trials transparency” as if this means “all trials must be published in an academic journal”. In reality, true transparency goes much further than this. We need Clinical Study Reports, and individual patient data, of course. But we also need the consent forms, so we can see what patients were told. We need […]</div>
-    </content>
-    <author>
-      <name>Ben Goldacre</name>
-    </author>
-    <id>http://www.badscience.net/?p=3463</id>
-    <published>2016-10-11T08:01:43Z</published>
-    <updated>2016-10-11T08:01:43Z</updated>
-    <category term="bad science"/>
   </entry>
   <entry>
     <title>For any teen atheists who want to be on TV</title>
