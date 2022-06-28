@@ -7,9 +7,26 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2022-06-28T22:34:51Z</updated>
+  <updated>2022-06-28T23:33:10Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Visiting a 100 year old barn</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/06/28/visiting-a-100-year-old-barn/" type="text/html"/>
+    <content type="html">&lt;p class="lead"&gt;We got out of the house this afternoon and poked around a local landmark, the Frank Schott barn. Built in 1923 out of stone and cement, it&amp;#8217;s major overkill for its purpose as a dairy barn. An impressive construction!&lt;/p&gt;
+&lt;div class="center"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/yhmyrQN0JoY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+</content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">We got out of the house this afternoon and poked around a local landmark, the Frank Schott barn. Built in 1923 out of stone and cement, it’s major overkill for its purpose as a dairy barn. An impressive construction!</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=67023</id>
+    <published>2022-06-28T22:50:14Z</published>
+    <updated>2022-06-28T22:50:14Z</updated>
+    <category term="Miscellaneous and Meta"/>
+  </entry>
   <entry>
     <title>Roe v. Wade: What You Can Do NOW to Help</title>
     <link rel="alternate" href="https://skepchick.org/2022/06/roe-v-wade-what-you-can-do-now-to-help/" type="text/html"/>
@@ -144,30 +161,6 @@
     <published>2022-06-27T23:51:52Z</published>
     <updated>2022-06-27T23:51:52Z</updated>
     <category term="Miscellaneous and Meta"/>
-  </entry>
-  <entry>
-    <title>While they’re demolishing everything else, the Supreme Court might as well destroy separation of church &amp; state</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/06/27/while-theyre-demolishing-everything-else-the-supreme-court-might-as-well-destroy-separation-of-church-state/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p class="lead">We got another grand decision today. The Supreme Court decided in favor of a public school football coach who pushed Christianity in his games. After all, it was just “quiet prayer” and a “brief thanks” at his games.</p>
-<p><a href="https://freethoughtblogs.com/pharyngula/files/2022/06/quietprayer.png"><img src="https://freethoughtblogs.com/pharyngula/files/2022/06/quietprayer.png" alt="" width="454" height="81" class="aligncenter size-large wp-image-67007" srcset="https://freethoughtblogs.com/pharyngula/files/2022/06/quietprayer.png 454w, https://freethoughtblogs.com/pharyngula/files/2022/06/quietprayer-150x27.png 150w, https://freethoughtblogs.com/pharyngula/files/2022/06/quietprayer-300x54.png 300w" sizes="(max-width: 454px) 100vw, 454px"/></a></p>
-<p><a href="https://freethoughtblogs.com/pharyngula/files/2022/06/briefthanks.png"><img src="https://freethoughtblogs.com/pharyngula/files/2022/06/briefthanks.png" alt="" width="454" height="77" class="aligncenter size-full wp-image-67006" srcset="https://freethoughtblogs.com/pharyngula/files/2022/06/briefthanks.png 454w, https://freethoughtblogs.com/pharyngula/files/2022/06/briefthanks-150x25.png 150w, https://freethoughtblogs.com/pharyngula/files/2022/06/briefthanks-300x51.png 300w" sizes="(max-width: 454px) 100vw, 454px"/></a></p>
-<p>Nothing wrong with that! I have no objection to anyone expressing their faith privately, or in church. The problem is <em>leading</em> a group in prayer, but if Coach Kennedy wasn’t doing that, no problem.</p>
-<p><strong>Photograph of Coach Kennedy’s “quiet”, “brief” prayer:</strong></p>
-<p><a href="https://freethoughtblogs.com/pharyngula/files/2022/06/sotomayordissent.png"><img src="https://freethoughtblogs.com/pharyngula/files/2022/06/sotomayordissent.png" alt="" width="472" height="696" class="aligncenter size-large wp-image-67008" srcset="https://freethoughtblogs.com/pharyngula/files/2022/06/sotomayordissent.png 472w, https://freethoughtblogs.com/pharyngula/files/2022/06/sotomayordissent-102x150.png 102w, https://freethoughtblogs.com/pharyngula/files/2022/06/sotomayordissent-203x300.png 203w" sizes="(max-width: 472px) 100vw, 472px"/></a></p>
-<p>OK, that’s one and done. Now we await the courts decision to gut the Environmental Protection Agency. Anyone want to guess how that one will go?</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">We got another grand decision today. The Supreme Court decided in favor of a public school football coach who pushed Christianity in his games. After all, it was just “quiet prayer” and a “brief thanks” at his games. Nothing wrong with that! I have no objection to anyone expressing their faith privately, or in church. […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=67005</id>
-    <published>2022-06-27T16:47:23Z</published>
-    <updated>2022-06-27T16:47:23Z</updated>
-    <category term="Religion and Government"/>
   </entry>
   <entry>
     <title>Study: Can Memes Convince People to Get Vaccinated?</title>
