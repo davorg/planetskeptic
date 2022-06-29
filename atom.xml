@@ -7,9 +7,27 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2022-06-29T15:44:44Z</updated>
+  <updated>2022-06-29T16:42:38Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>We should all be angry enough to punch holes in walls</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/06/29/we-should-all-be-angry-enough-to-punch-holes-in-walls/" type="text/html"/>
+    <content type="html">&lt;p class="lead"&gt;Cody just wasn&amp;#8217;t angry enough for this one (that&amp;#8217;s an odd thing to say), so I&amp;#8217;m glad Katy Stoll stepped up the righteous fury.&lt;/p&gt;
+&lt;div class="center"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/YkM_O-7A4R4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;p&gt;OK, she mispronounced &amp;#8220;pellucida&amp;#8221;, but I don&amp;#8217;t care.&lt;/p&gt;
+</content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Cody just wasn’t angry enough for this one (that’s an odd thing to say), so I’m glad Katy Stoll stepped up the righteous fury. OK, she mispronounced “pellucida”, but I don’t care.</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=67035</id>
+    <published>2022-06-29T16:41:23Z</published>
+    <updated>2022-06-29T16:41:23Z</updated>
+    <category term="Abortion"/>
+  </entry>
   <entry>
     <title>It’s never actually about women’s sports</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/06/29/its-never-actually-about-womens-sports/" type="text/html"/>
@@ -121,47 +139,6 @@
     <published>2022-06-28T15:24:39Z</published>
     <updated>2022-06-28T15:24:39Z</updated>
     <category term="Spiders"/>
-  </entry>
-  <entry>
-    <title>Not impressed by the Extended Evolutionary Synthesis</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/06/28/not-impressed-by-the-extended-evolutionary-synthesis/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p class="lead">This article in the Guardian, <a href="https://www.theguardian.com/science/2022/jun/28/do-we-need-a-new-theory-of-evolution">“Do we need a new theory of evolution?”</a> has it’s moments, but I hated the title and didn’t care at all for the opening. It’s true, scientists don’t know everything, but we know more than the author thinks.</p>
-<blockquote><p>Strange as it sounds, scientists still do not know the answers to some of the most basic questions about how life on Earth evolved. Take eyes, for instance. Where do they come from, exactly? The usual explanation of how we got these stupendously complex organs rests upon the theory of natural selection.</p>
-<p>You may recall the gist from school biology lessons. If a creature with poor eyesight happens to produce offspring with slightly better eyesight, thanks to random mutations, then that tiny bit more vision gives them more chance of survival. The longer they survive, the more chance they have to reproduce and pass on the genes that equipped them with slightly better eyesight. Some of their offspring might, in turn, have better eyesight than their parents, making it likelier that they, too, will reproduce. And so on. Generation by generation, over unfathomably long periods of time, tiny advantages add up. Eventually, after a few hundred million years, you have creatures who can see as well as humans, or cats, or owls.</p>
-<p>This is the basic story of evolution, as recounted in countless textbooks and pop-science bestsellers. The problem, according to a growing number of scientists, is that it is absurdly crude and misleading.</p>
-<p>For one thing, it starts midway through the story, taking for granted the existence of light-sensitive cells, lenses and irises, without explaining where they came from in the first place. Nor does it adequately explain how such delicate and easily disrupted components meshed together to form a single organ. And it isn’t just eyes that the traditional theory struggles with. “The first eye, the first wing, the first placenta. How they emerge. Explaining these is the foundational motivation of evolutionary biology,” says Armin Moczek, a biologist at the University of Indiana. “And yet, we still do not have a good answer. This classic idea of gradual change, one happy accident at a time, has so far fallen flat.”</p></blockquote>
-<p>But we don’t take the existence of light sensitive cells for granted at all! It’s biochemistry. There are organic molecules that can absorb the energy of a photon and undergo a conformational change; there are single-celled organisms that can recognize the impact of light and change their behavior or biochemistry. We don’t need to explain any stepwise change in the properties of abiological materials, because that’s just physics or organic chemistry. Is evolutionary biology incomplete if it doesn’t argue that physics evolved? Are we allowed to understand that chemistry existed long before life?</p>
-<p>The article spends a lot of time on the Extended Evolutionary Synthesis, giving it more credibility than it deserves, and plays up the drama of evolutionary theory <em>changing</em>, as if that wasn’t a normal scientific response to new evidence and ideas. Stuff like this doesn’t help.</p>
-<blockquote><p>Then came a devastating series of new findings that called into question the theory’s foundations. These discoveries, which began in the late 60s, came from molecular biologists. While the modern synthesists looked at life as if through a telescope, studying the development of huge populations over immense chunks of time, the molecular biologists looked through a microscope, focusing on individual molecules. And when they looked, they found that natural selection was not the all-powerful force that many had assumed it to be.</p>
-<p>They found that the molecules in our cells – and thus the sequences of the genes behind them – were mutating at a very high rate. This was unexpected, but not necessarily a threat to mainstream evolutionary theory. According to the modern synthesis, even if mutations turned out to be common, natural selection would, over time, still be the primary cause of change, preserving the useful mutations and junking the useless ones. But that isn’t what was happening. The genes were changing – that is, evolving – but natural selection wasn’t playing a part. Some genetic changes were being preserved for no reason apart from pure chance. Natural selection seemed to be asleep at the wheel.</p>
-<p>Evolutionary biologists were stunned.</p></blockquote>
-<p>“Devastating.” “Stunned.” Nah. There’s an ongoing argument about the relative importance of various processes, but no one was emotionally wrecked by the discovery that evolution is complicated. There are conservative scientists who refuse to budge or even acknowledge the existence of stuff like neutral theory, but they’re not particularly interesting. On the other side, there are wacky extremists with their hair on fire screaming that the existence of developmental plasticity means that we have to throw away everything. Most scientists see new phenomena and say, “Cool. Now how does this fit with that?”</p>
-<p>The article links to a Nature article, <a href="https://www.nature.com/articles/514161a">“Does evolutionary theory need a rethink?”</a>, and it takes an odd angle. It only mentions the EES side, but the Nature article had two sides, one answering the question with “YES, URGENTLY,” the other saying “NO, ALL IS WELL.” So the EES side sets everything up as deeply in opposition to the Standard Evolutionary Theory (SET) side.</p>
-<blockquote><p>In our view, this ‘gene-centric’ focus fails to capture the full gamut of processes that direct evolution. Missing pieces include how physical development influences the generation of variation (developmental bias); how the environment directly shapes organisms’ traits (plasticity); how organisms modify environments (niche construction); and how organisms transmit more than genes across generations (extra-genetic inheritance). For SET, these phenomena are just outcomes of evolution. For the EES, they are also causes.</p>
-<p>Valuable insight into the causes of adaptation and the appearance of new traits comes from the field of evolutionary developmental biology (‘evo-devo’). Some of its experimental findings are proving tricky to assimilate into SET. Particularly thorny is the observation that much variation is not random because developmental processes generate certain forms more readily than others. For example, among one group of centipedes, each of the more than 1,000 species has an odd number of leg-bearing segments, because of the mechanisms of segment development.</p></blockquote>
-<p>Maybe I’m an oddball, but nothing there is in conflict. I learned about plasticity, niche construction, and epigenetics and just took them on as part of the process of evolution, working alongside familiar older ideas about changes in allele frequency. How can anyone think evo-devo is some radical competitor to evolutionary theory? It’s got “evolution” in the name! I’ve been following evo-devo for forty years now, and certainly in the early days some were over-enthusiastic, calling it revolutionary, but really, it’s simply part of evolution. I don’t need to chant slogans or demand wild changes in the textbooks, they’ve all been steadily bringing more and more content about these crazy ideas about mechanisms other than selection into the fold. Nusslein-Volhard and Wieschaus are in freshman college biology texts now!</p>
-<p>But the EES fanatics are not satisfied.</p>
-<blockquote><p>The case for EES rests on a simple claim: in the past few decades, we have learned many remarkable things about the natural world – and these things should be given space in biology’s core theory. One of the most fascinating recent areas of research is known as plasticity, which has shown that some organisms have the potential to adapt more rapidly and more radically than was once thought. Descriptions of plasticity are startling, bringing to mind the kinds of wild transformations you might expect to find in comic books and science fiction movies.</p></blockquote>
-<p>Yes, plasticity exists, it’s really neat-o, I’ve read lots of papers on it, and I’m a big fan of Mary Jane West-Eberhard’s work. So? What does it mean, “given space in biology’s core theory”? I don’t understand. I open up an evolutionary biology textbook, and it takes hundreds of pages to explain how evolution works, and it includes plasticity, and punctuated equilibrium, and nearly neutral theory, and lots of ideas that explain a complex process. What is this “core theory”? They talk as if there is some tidy concise kernel that everything is derived from, and they want to wedge in some detail. That’s not how it works. That’s not how anything works. Maybe they should step back and explain accurately what this “core theory” is.</p>
-<p>The Guardian article sort of redeems itself at the end by pointing out the obvious: what is this single “core theory” they want to modify? There isn’t one!</p>
-<blockquote><p>The computational biologist Eugene Koonin thinks people should get used to theories not fitting together. Unification is a mirage. “In my view there is no – can be no – single theory of evolution,” he told me. “There cannot be a single theory of everything. Even physicists do not have a theory of everything.”</p>
-<p>This is true. Physicists agree that the theory of quantum mechanics applies to very tiny particles, and Einstein’s theory of general relativity applies to larger ones. Yet the two theories appear incompatible. Late in life, Einstein hoped to find a way to unify them. He died unsuccessful. In the next few decades, other physicists took up the same task, but progress stalled, and many came to believe it might be impossible. If you ask a physicist today about whether we need a unifying theory, they would probably look at you with puzzlement. What’s the point, they might ask. The field works, the work continues.</p></blockquote>
-<p>I’m not thrilled with bringing physics into the story. Most people don’t understand evolutionary theory, so trying to compare it to another complex field that most people don’t understand (including myself) is not helpful at all. I agree with Koonin on the evolution part, though: there are a lot of messy moving parts to evolution, why even try to claim that it’s all unified in one simple, clear principle? Embrace diversity and complexity. You’ll never get anywhere trying to claim ownership of the “core theory”.</p>
-<p>That might be the real issue here. In 1859, one man, Darwin, could say “This is <em>my</em> theory,” (with a little nod to Wallace). In the mid-20th century, a massive mob of scientists could come up with something called the Neo-Darwinian Synthesis, but no one person could lay claim to it. It was too big and sprawling and crossed multiple sub-disciplines. Now a handful of people want credit for some half-assed idea they call the EES…sorry, people, it’s just some more tasty ingredients for the stew, it’s not replacing anything.</p>
-<p><a href="https://freethoughtblogs.com/pharyngula/files/2022/06/stew.jpg"><img src="https://freethoughtblogs.com/pharyngula/files/2022/06/stew-500x281.jpg" alt="" width="500" height="281" class="aligncenter size-large wp-image-67017" srcset="https://freethoughtblogs.com/pharyngula/files/2022/06/stew-500x281.jpg 500w, https://freethoughtblogs.com/pharyngula/files/2022/06/stew-150x84.jpg 150w, https://freethoughtblogs.com/pharyngula/files/2022/06/stew-300x169.jpg 300w, https://freethoughtblogs.com/pharyngula/files/2022/06/stew-768x432.jpg 768w" sizes="(max-width: 500px) 100vw, 500px"/></a></p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">This article in the Guardian, “Do we need a new theory of evolution?” has it’s moments, but I hated the title and didn’t care at all for the opening. It’s true, scientists don’t know everything, but we know more than the author thinks. Strange as it sounds, scientists still do not know the answers to […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=67016</id>
-    <published>2022-06-28T14:01:17Z</published>
-    <updated>2022-06-28T14:01:17Z</updated>
-    <category term="Evolution"/>
   </entry>
   <entry>
     <title>Study: Can Memes Convince People to Get Vaccinated?</title>
