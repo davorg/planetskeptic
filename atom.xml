@@ -7,9 +7,27 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2022-07-06T21:33:02Z</updated>
+  <updated>2022-07-06T22:34:20Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Are you looking for a fight?</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/07/06/are-you-looking-for-a-fight/" type="text/html"/>
+    <content type="html">&lt;p class="lead"&gt;This video premieres in about 15 minutes. No one has seen it, and it already has 25 comments. There will be Peterson cultists aplenty in the chat.&lt;/p&gt;
+&lt;div class="center"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Q41WWaX_gJs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;p&gt;It should be fun if you like that kind of thing.&lt;/p&gt;
+</content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">This video premieres in about 15 minutes. No one has seen it, and it already has 25 comments. There will be Peterson cultists aplenty in the chat. It should be fun if you like that kind of thing.</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=67106</id>
+    <published>2022-07-06T21:44:49Z</published>
+    <updated>2022-07-06T21:44:49Z</updated>
+    <category term="Fools, Tools, Kooks, and Goons"/>
+  </entry>
   <entry>
     <title>Maybe I should write a parenting book</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/07/06/maybe-i-should-write-a-parenting-book/" type="text/html"/>
@@ -113,33 +131,6 @@
     <published>2022-07-05T21:35:49Z</published>
     <updated>2022-07-05T21:35:49Z</updated>
     <category term="Skepticism"/>
-  </entry>
-  <entry>
-    <title>The worst thing to see on your doorstep</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/07/05/the-worst-thing-to-see-on-your-doorstep/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p><a href="https://freethoughtblogs.com/pharyngula/files/2022/07/mormons.jpeg"><img src="https://freethoughtblogs.com/pharyngula/files/2022/07/mormons-150x100.jpeg" alt="" width="150" height="100" class="alignright size-thumbnail wp-image-67091" srcset="https://freethoughtblogs.com/pharyngula/files/2022/07/mormons-150x100.jpeg 150w, https://freethoughtblogs.com/pharyngula/files/2022/07/mormons-300x200.jpeg 300w, https://freethoughtblogs.com/pharyngula/files/2022/07/mormons.jpeg 500w" sizes="(max-width: 150px) 100vw, 150px"/></a></p>
-<p class="lead">Next time some Libertarian tries to convince you that the government should not be involved in charity, let the churches do it instead, tell them to <a href="https://www.propublica.org/article/utahs-social-safety-net-is-the-church-of-jesus-christ-of-latter-day-saints-what-does-that-mean-if-youre-not-one">read this article about the Mormon church</a>.</p>
-<blockquote><p>Near the start of the pandemic, in a gentrifying neighborhood of Salt Lake City, Utah, visitors from The Church of Jesus Christ of Latter-day Saints arrived at Danielle Bellamy’s doorstep. They were there to have her read out loud from the Book of Mormon, watch LDS videos and set a date to get baptized, all of which she says the church was requiring her to do in exchange for giving her food.</p>
-<p>Bellamy, desperate for help, had tried applying for cash assistance from the state of Utah. But she’d been denied for not being low-income enough, an outcome that has become increasingly common ever since then-President Bill Clinton signed a law, 25 years ago, that he said would end “welfare as we know it.”</p>
-<p>State employees then explicitly recommended to Bellamy that she ask for welfare from the church instead, she and her family members said in interviews.</p></blockquote>
-<p>Get that? <em>State employees</em> told her to go to a church, and the church sent missionaries to her home.</p>
-<p>She is not a Mormon.</p>
-<p>She refused to get baptized as a Mormon.</p>
-<p>So the church denied her the aid she needed.</p>
-<p>It’s a shame. Utah is a beautiful state, but the Mormons have poisoned everything. I lived there for a few years, but would not go back.</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Next time some Libertarian tries to convince you that the government should not be involved in charity, let the churches do it instead, tell them to read this article about the Mormon church. Near the start of the pandemic, in a gentrifying neighborhood of Salt Lake City, Utah, visitors from The Church of Jesus Christ […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=67090</id>
-    <published>2022-07-05T16:34:54Z</published>
-    <updated>2022-07-05T16:34:54Z</updated>
-    <category term="Religion and Government"/>
   </entry>
   <entry>
     <title>Q&amp;A: Victoria Sheperd</title>
