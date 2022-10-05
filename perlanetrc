@@ -5,12 +5,12 @@ author:
   name: Dave Cross
   twitter: davorg
 entries: 50
-opml: opml.xml
+opml: docs/opml.xml
 page:
-  file: index.html
+  file: docs/index.html
   template: index.tt
 feed:
-  file: atom.xml
+  file: docs/atom.xml
   format: Atom
 cache_dir: /tmp/skeptic
 google_ga: UA-56332-20
