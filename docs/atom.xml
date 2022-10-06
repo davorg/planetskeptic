@@ -7,9 +7,29 @@
     <name>Dave Cross</name>
     <email></email>
   </author>
-  <updated>2022-10-06T16:39:17Z</updated>
+  <updated>2022-10-06T17:38:56Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Vaccination mission accomplished</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/10/06/vaccination-mission-accomplished/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p><a href="https://freethoughtblogs.com/pharyngula/files/2022/10/shottime.jpeg"><img src="https://freethoughtblogs.com/pharyngula/files/2022/10/shottime-125x150.jpeg" alt="" width="125" height="150" class="alignright size-thumbnail wp-image-68126" srcset="https://freethoughtblogs.com/pharyngula/files/2022/10/shottime-125x150.jpeg 125w, https://freethoughtblogs.com/pharyngula/files/2022/10/shottime-250x300.jpeg 250w, https://freethoughtblogs.com/pharyngula/files/2022/10/shottime-500x600.jpeg 500w, https://freethoughtblogs.com/pharyngula/files/2022/10/shottime.jpeg 667w" sizes="(max-width: 125px) 100vw, 125px"/></a></p>
+<p class="lead">On top of everything else I’ve got going on today, I got <em>both</em> my yearly flu shot and the COVID booster a few minutes ago. My survivability score just went up a good bit.</p>
+<p>Only bad news is that my previous vaccinations have flattened me the day after. This one will be fine, right? Still worth it if it wasn’t, I’d happily trade one day of fatigue for the opportunity to not die wheezing my lungs out.</p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">On top of everything else I’ve got going on today, I got both my yearly flu shot and the COVID booster a few minutes ago. My survivability score just went up a good bit. Only bad news is that my previous vaccinations have flattened me the day after. This one will be fine, right? Still […]</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=68125</id>
+    <published>2022-10-06T17:33:34Z</published>
+    <updated>2022-10-06T17:33:34Z</updated>
+    <category term="Miscellaneous and Meta"/>
+  </entry>
   <entry>
     <title>Can you teach organic chemistry?</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/10/06/can-you-teach-organic-chemistry/" type="text/html"/>
@@ -135,26 +155,6 @@ And a vocal contingent of parents want forms to stay offline in the name of thei
     <published>2022-10-05T16:43:40Z</published>
     <updated>2022-10-05T16:43:40Z</updated>
     <category term="Feminism, Gender, and Equality"/>
-  </entry>
-  <entry>
-    <title>You won’t believe how easy it is to make a spider feel at home</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/10/05/you-wont-believe-how-easy-it-is-to-make-a-spider-feel-at-home/" type="text/html"/>
-    <content type="html">&lt;p class="lead"&gt;I told you we had a Bold Jumping Spider living in our house. You can have one too, cheap and easy.&lt;/p&gt;
-&lt;blockquote class="twitter-tweet" data-width="500" data-dnt="true"&gt;
-&lt;p lang="en" dir="ltr"&gt;Our friendly Phidippus audax shows off her spacious home.&lt;a href="https://t.co/Xop66uPyVL"&gt;https://t.co/Xop66uPyVL&lt;/a&gt; &lt;a href="https://t.co/q8K8MiqUOw"&gt;pic.twitter.com/q8K8MiqUOw&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&amp;mdash; PZ Spyders &lt;img src="https://s.w.org/images/core/emoji/11/72x72/1f577.png" alt="🕷" class="wp-smiley" style="height: 1em; max-height: 1em;" /&gt; (@pzmyers) &lt;a href="https://twitter.com/pzmyers/status/1577675888539336705?ref_src=twsrc%5Etfw"&gt;October 5, 2022&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;&lt;/p&gt;
-</content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">I told you we had a Bold Jumping Spider living in our house. You can have one too, cheap and easy. Our friendly Phidippus audax shows off her spacious home.https://t.co/Xop66uPyVL pic.twitter.com/q8K8MiqUOw — PZ Spyders 🕷 (@pzmyers) October 5, 2022</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=68111</id>
-    <published>2022-10-05T15:06:41Z</published>
-    <updated>2022-10-05T15:06:41Z</updated>
-    <category term="Spiders"/>
   </entry>
   <entry>
     <title>Time for a new renaissance?</title>
