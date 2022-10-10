@@ -3,6 +3,7 @@ description: Question Everything
 url: https://skeptic.theplanetarium.org/
 author:
   name: Dave Cross
+  email: dave@theplanetarium.org
   twitter: davorg
 entries: 50
 opml: docs/opml.xml
