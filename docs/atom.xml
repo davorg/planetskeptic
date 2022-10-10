@@ -7,9 +7,23 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2022-10-10T15:32:53Z</updated>
+  <updated>2022-10-10T15:36:58Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Scientists Sued for Criticizing COVID-19 Air Purifiers</title>
+    <link rel="alternate" href="https://skepchick.org/2022/10/scientists-sued-for-criticizing-covid-19-air-purifiers/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">This post contains a video, which you can also view here. To support more videos like this, head to patreon.com/rebecca! Almost exactly five years ago, I made a video about air purification. In the blissful year of 2017, the worst thing I could imagine breathing in was wildfire smoke, because I live in the San …</div>
+    </content>
+    <author>
+      <name>Rebecca Watson</name>
+    </author>
+    <id>https://skepchick.org/?p=131722</id>
+    <published>2022-10-10T15:01:40Z</published>
+    <updated>2022-10-10T15:01:40Z</updated>
+    <category term="Skepticism"/>
+  </entry>
   <entry>
     <title>Can we at least try to be better people? Just for today, at least?</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/10/10/can-we-at-least-try-to-be-better-people-just-for-today-at-least/" type="text/html"/>
@@ -259,20 +273,6 @@
     <category term="Religion"/>
     <category term="Science"/>
     <category term="Technology"/>
-  </entry>
-  <entry>
-    <title>Republicans Want to Control Your Body with a National Abortion Ban</title>
-    <link rel="alternate" href="https://skepchick.org/2022/09/republicans-want-to-control-your-body-with-a-national-abortion-ban/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">This post contains a video, which you can also view here. To support more videos like this, head to patreon.com/rebecca! Transcript: Good news, everyone! Lindsey Graham’s mask finally came off! And I’m not talking about the kind of mask one might wear when paying escorts to call one “Lady G”. Remember how when the Democrats …</div>
-    </content>
-    <author>
-      <name>Rebecca Watson</name>
-    </author>
-    <id>https://skepchick.org/?p=131696</id>
-    <published>2022-09-23T16:49:49Z</published>
-    <updated>2022-09-23T16:49:49Z</updated>
-    <category term="Skepticism"/>
   </entry>
   <entry>
     <title>New Book: Why Psychology Matters</title>
