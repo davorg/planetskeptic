@@ -7,9 +7,26 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2022-10-10T20:35:20Z</updated>
+  <updated>2022-10-10T21:33:46Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Ask me questions on Thursday!</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/10/10/ask-me-questions-on-thursday/" type="text/html"/>
+    <content type="html">&lt;p class="lead"&gt;I was contemplating my crowded daily calendar, and I noticed a gap &amp;#8212; there&amp;#8217;s an unfilled time slot on Thursday afternoon! This cannot stand. Therefore, I&amp;#8217;ll fill it with an Open Q&amp;#038;A session from my office at the University of Minnesota Morris, and invite you all to stop by and pester me with questions and comments and complaints. Let&amp;#8217;s try it and see how it goes.&lt;/p&gt;
+&lt;div class="center"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/daDHhgbd-ZQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+</content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">I was contemplating my crowded daily calendar, and I noticed a gap — there’s an unfilled time slot on Thursday afternoon! This cannot stand. Therefore, I’ll fill it with an Open Q&amp;A session from my office at the University of Minnesota Morris, and invite you all to stop by and pester me with questions and […]</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=68157</id>
+    <published>2022-10-10T21:06:28Z</published>
+    <updated>2022-10-10T21:06:28Z</updated>
+    <category term="Miscellaneous and Meta"/>
+  </entry>
   <entry>
     <title>Scientists Sued for Criticizing COVID-19 Air Purifiers</title>
     <link rel="alternate" href="https://skepchick.org/2022/10/scientists-sued-for-criticizing-covid-19-air-purifiers/" type="text/html"/>
@@ -120,30 +137,6 @@
     <published>2022-10-10T11:47:55Z</published>
     <updated>2022-10-10T11:47:55Z</updated>
     <category term="Race, Society, and Social Justice"/>
-  </entry>
-  <entry>
-    <title>Conservatives really hate education</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/10/09/conservatives-really-hate-education/" type="text/html"/>
-    <content type="html">&lt;p&gt;&lt;class ="lead"&gt;Let&amp;#8217;s start &lt;a href="https://www.joemygod.com/2022/10/fox-host-college-isnt-fun-anymore-students-are-ugly/"&gt;calling students names&lt;/a&gt;.&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;“College doesn’t look like it’s fun anymore. I mean, have you seen how miserable and how miserable-looking a lot of the students are?&lt;/p&gt;
-&lt;p&gt;“They’re deliberately like ugly-fying themselves. You see them on TikTok. They’re out of shape, they’re asexual. They’re rejecting the truth in beauty.&lt;/p&gt;
-&lt;p&gt;“They all look like rejects from a loony bin. I’d steer clear of college, too.”&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;I&amp;#8217;ll have you know that all of my students are brilliant, beautiful, and sane. (Near as I can tell &amp;#8212; some of them are just black squares on Zoom.)&lt;/p&gt;
-&lt;p&gt;Keep in mind that the guy talking about students being ugly-fied is Greg Gutfeld.&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://freethoughtblogs.com/pharyngula/files/2022/10/gutfeld.png"&gt;&lt;img src="https://freethoughtblogs.com/pharyngula/files/2022/10/gutfeld.png" alt="" width="284" height="253" class="aligncenter size-full wp-image-68145" srcset="https://freethoughtblogs.com/pharyngula/files/2022/10/gutfeld.png 284w, https://freethoughtblogs.com/pharyngula/files/2022/10/gutfeld-150x134.png 150w" sizes="(max-width: 284px) 100vw, 284px" /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;None of my students look that awful.&lt;/p&gt;
-&lt;p&gt;&lt;/class&gt;&lt;/p&gt;
-</content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Let’s start calling students names. “College doesn’t look like it’s fun anymore. I mean, have you seen how miserable and how miserable-looking a lot of the students are? “They’re deliberately like ugly-fying themselves. You see them on TikTok. They’re out of shape, they’re asexual. They’re rejecting the truth in beauty. “They all look like rejects […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=68144</id>
-    <published>2022-10-09T16:36:00Z</published>
-    <updated>2022-10-09T16:36:00Z</updated>
-    <category term="Politics, History, and Law"/>
   </entry>
   <entry>
     <title>How Corruption Leads to Conspiracy Theories</title>
