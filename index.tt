@@ -15,7 +15,7 @@
     <!-- Bootstrap core CSS -->
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
 
-    <link rel="alternate" type="application/atom+xml" title="Atom" href="http://skeptic.theplanetarium.org/atom.xml" />
+    <link rel="alternate" type="application/atom+xml" title="Atom" href="[% cfg.url %][% cfg.feed.file.split('/').last %]" />
     <style type="text/css">
 body {
   padding-top: 75px;
