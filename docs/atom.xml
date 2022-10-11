@@ -7,9 +7,29 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2022-10-11T11:33:05Z</updated>
+  <updated>2022-10-11T12:40:22Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>So that’s what all the gobbledygook in my spam folder was about</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/10/11/so-thats-what-all-the-gobbledygook-in-my-spam-folder-was-about/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><div id="attachment_68163" style="width: 510px" class="wp-caption aligncenter"><a href="https://freethoughtblogs.com/pharyngula/files/2022/10/aliencommunication.jpg"><img src="https://freethoughtblogs.com/pharyngula/files/2022/10/aliencommunication-500x333.jpg" alt="" width="500" height="333" class="size-large wp-image-68163" srcset="https://freethoughtblogs.com/pharyngula/files/2022/10/aliencommunication.jpg 500w, https://freethoughtblogs.com/pharyngula/files/2022/10/aliencommunication-150x100.jpg 150w, https://freethoughtblogs.com/pharyngula/files/2022/10/aliencommunication-300x200.jpg 300w" sizes="(max-width: 500px) 100vw, 500px"/></a><p class="wp-caption-text"><a href="https://myjetpack.tumblr.com/post/697724758553477120/a-recent-cartoon-for-newscientist-ps-i-have-a">Tom Gauld</a></p></div>
+<p class="lead">Sorry, SETI, I already deleted it all. Maybe Google can recover it?</p>
+<p>I do kind of wonder why so many aliens want to sell me insurance, and others are sending me photos of weird aliens without any clothes on.</p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Sorry, SETI, I already deleted it all. Maybe Google can recover it? I do kind of wonder why so many aliens want to sell me insurance, and others are sending me photos of weird aliens without any clothes on.</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=68162</id>
+    <published>2022-10-11T12:15:05Z</published>
+    <updated>2022-10-11T12:15:05Z</updated>
+    <category term="Miscellaneous and Meta"/>
+  </entry>
   <entry>
     <title>Ask me questions on Thursday!</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/10/10/ask-me-questions-on-thursday/" type="text/html"/>
@@ -121,24 +141,6 @@
     <published>2022-10-10T12:02:50Z</published>
     <updated>2022-10-10T12:02:50Z</updated>
     <category term="Politics, History, and Law"/>
-  </entry>
-  <entry>
-    <title>Never look at Star Wars in the same way again</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/10/10/never-look-at-star-wars-in-the-same-way-again/" type="text/html"/>
-    <content type="html">&lt;p class='lead'&gt;George Lucas claimed he&amp;#8217;d structured the movie around Joseph Campbell&amp;#8217;s idea of the monomyth, that there was a universal human story that underpinned all legends. He should have been more skeptical, because as Maggie Mae Fish explains, Joseph Campbell was dishonest and a colossal asshole. A nazi sympathizer? Yuck.&lt;/p&gt;
-&lt;div class="center"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/ET4BJIdZKa0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-&lt;p&gt;I don&amp;#8217;t think white men are intrinsically bad (I better not, since I am one), but one of the only human universals I&amp;#8217;ll believe in is that if you grant any subgroup particular privileges and power, they&amp;#8217;ll work like mad to consolidate that power, and will enthusiastically support anyone who can persuasively rationalize their status. Campbell was a Gríma Wormtongue for white middle-class Americans in the mid-20th century. As time grants us the distance to see what a cultural nightmare that time was, it shouldn&amp;#8217;t be surprising that the sycophants who built the American myth are looking uglier day by day.&lt;/p&gt;
-</content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">George Lucas claimed he’d structured the movie around Joseph Campbell’s idea of the monomyth, that there was a universal human story that underpinned all legends. He should have been more skeptical, because as Maggie Mae Fish explains, Joseph Campbell was dishonest and a colossal asshole. A nazi sympathizer? Yuck. I don’t think white men are […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=68147</id>
-    <published>2022-10-10T11:47:55Z</published>
-    <updated>2022-10-10T11:47:55Z</updated>
-    <category term="Race, Society, and Social Justice"/>
   </entry>
   <entry>
     <title>How Corruption Leads to Conspiracy Theories</title>
@@ -659,78 +661,6 @@ F: 618/453-3253</p></blockquote>
     <category term="higher education"/>
     <category term="syllabus"/>
     <category term="teaching"/>
-  </entry>
-  <entry>
-    <title>Evidence to House of Commons Sci Tech Select Committee on Research Integrity</title>
-    <link rel="alternate" href="https://www.badscience.net/2017/12/evidence-to-house-of-commons-sci-tech-select-committee-on-research-integrity/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Sorry not to be in regular blogging mode at the moment. Here’s a video of our evidence session to parliament, where they are running an inquiry into research integrity. I think clinical trials are the best possible way to approach this issue. Lots of things in “research integrity” are hard to capture in hard logical […]</div>
-    </content>
-    <author>
-      <name>Ben Goldacre</name>
-    </author>
-    <id>http://www.badscience.net/?p=3498</id>
-    <published>2017-12-05T11:42:17Z</published>
-    <updated>2017-12-05T11:42:17Z</updated>
-    <category term="alltrials campaign"/>
-    <category term="publication bias"/>
-  </entry>
-  <entry>
-    <title>How do the world’s biggest drug companies compare, in their transparency commitments?</title>
-    <link rel="alternate" href="https://www.badscience.net/2017/07/how-do-the-worlds-biggest-drug-companies-compare-in-their-transparency-commitments/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Hereâ€™s a paper, and associated website, that we launch today: we have assessed, and then ranked, all the biggest drug companies in the world, to compare their public commitments on trials transparency. Regular readers will be familiar with this ongoing battle. In medicine we use the results of clinical trials to make informed treatments about […]</div>
-    </content>
-    <author>
-      <name>Ben Goldacre</name>
-    </author>
-    <id>http://www.badscience.net/?p=3485</id>
-    <published>2017-07-27T06:33:23Z</published>
-    <updated>2017-07-27T06:33:23Z</updated>
-    <category term="bad science"/>
-  </entry>
-  <entry>
-    <title>Meaningful Transparency Commitments: the WHO Joint Statement from Trial Funders</title>
-    <link rel="alternate" href="https://www.badscience.net/2017/07/meaningful-transparency-commitments-the-who-joint-statement-from-trial-funders/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">By now I hope you all know about the ongoing global scandal of clinical trial results being left unpublished, and of course our AllTrials campaign. Doctors, researchers, and patients cannot make truly informed choices about which treatments work best if they don’t have access to all the trial results. Earlier this year, I helped out […]</div>
-    </content>
-    <author>
-      <name>Ben Goldacre</name>
-    </author>
-    <id>http://www.badscience.net/?p=3481</id>
-    <published>2017-07-26T16:17:06Z</published>
-    <updated>2017-07-26T16:17:06Z</updated>
-    <category term="bad science"/>
-    <category term="publication bias"/>
-  </entry>
-  <entry>
-    <title>How many epidemiologists does it take to change a lightbulb?</title>
-    <link rel="alternate" href="https://www.badscience.net/2017/02/how-many-epidemiologists-does-it-take-to-change-a-lightbulb/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Robin Ince just asked if I know any epidemiologist lightbulb jokes. I wrote this for him. How many epidemiologists does it take to change a lightbulb? Weâ€™ve found 12,000 switches hidden around the house. Some of them turn this lightbulb on, some of them donâ€™t; some of them only work sometimes; and some of them […]</div>
-    </content>
-    <author>
-      <name>Ben Goldacre</name>
-    </author>
-    <id>http://www.badscience.net/?p=3472</id>
-    <published>2017-02-01T12:49:44Z</published>
-    <updated>2017-02-01T12:49:44Z</updated>
-    <category term="bad science"/>
-  </entry>
-  <entry>
-    <title>“Transparency, Beyond Publication Bias”. A video of my super-speedy talk at IJE.</title>
-    <link rel="alternate" href="https://www.badscience.net/2016/10/transparency-beyond-publication-bias-a-video-of-my-super-speedy-talk-at-ije/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">People oftenÂ talk about “trials transparency” as if this means “all trials must be published in an academic journal”. In reality, true transparency goes much further than this. We need Clinical Study Reports, and individual patient data, of course. But we also need the consent forms, so we can see what patients were told. We need […]</div>
-    </content>
-    <author>
-      <name>Ben Goldacre</name>
-    </author>
-    <id>http://www.badscience.net/?p=3463</id>
-    <published>2016-10-11T08:01:43Z</published>
-    <updated>2016-10-11T08:01:43Z</updated>
-    <category term="bad science"/>
   </entry>
   <entry>
     <title>For any teen atheists who want to be on TV</title>
