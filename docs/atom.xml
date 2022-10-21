@@ -7,9 +7,23 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2022-10-21T15:38:16Z</updated>
+  <updated>2022-10-21T16:39:14Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>No, Ebola is NOT Airborne!</title>
+    <link rel="alternate" href="https://skepchick.org/2022/10/no-ebola-is-not-airborne/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">This post contains a video, which you can also view here. To support more videos like this, head to patreon.com/rebecca! Look, we all went through a pretty traumatic time in 2020 through…today, so it’s understandable if you see things that immediately put you back in February of 2020 and so you start crying and buying …</div>
+    </content>
+    <author>
+      <name>Rebecca Watson</name>
+    </author>
+    <id>https://skepchick.org/?p=131732</id>
+    <published>2022-10-21T15:18:12Z</published>
+    <updated>2022-10-21T15:18:12Z</updated>
+    <category term="Skepticism"/>
+  </entry>
   <entry>
     <title>Thanks for untangling that mess</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/10/21/thanks-for-untangling-that-mess/" type="text/html"/>
@@ -254,20 +268,6 @@
     <updated>2022-10-01T09:44:17Z</updated>
     <category term="Discussion"/>
     <category term="Featured"/>
-  </entry>
-  <entry>
-    <title>Do “Babies in the Womb” Hate Kale?</title>
-    <link rel="alternate" href="https://skepchick.org/2022/09/do-babies-in-the-womb-hate-kale/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">This post contains a video, which you can also view here. To support more videos like this, head to patreon.com/rebecca! Transcript: The other day I got a message from my pal Amanda Marcotte, requesting that I look into something that sounded really fishy, and just from the thumbnail and headline I laughed out loud: “Babies …</div>
-    </content>
-    <author>
-      <name>Rebecca Watson</name>
-    </author>
-    <id>https://skepchick.org/?p=131703</id>
-    <published>2022-09-30T15:01:02Z</published>
-    <updated>2022-09-30T15:01:02Z</updated>
-    <category term="Skepticism"/>
   </entry>
   <entry>
     <title>Seeds of Freethought Sprouting Around the World</title>
