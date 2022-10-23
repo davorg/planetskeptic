@@ -1,5 +1,5 @@
 # Planet Skeptic
-
+<a href="https://github.com/davorg/planetskeptic"> <img src="https://img.shields.io/github/repo-size/davorg/planetskeptic"> <br>
 **The Planet of Skepticism**
 
 This repo contains the code and data that powers the site [Planet Skeptic](https://skeptic.theplanetarium.org).
