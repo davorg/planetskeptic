@@ -7,9 +7,93 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2022-10-24T00:46:32Z</updated>
+  <updated>2022-10-24T02:11:10Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Who the heck is Gilbert Ling?</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/10/23/who-the-heck-is-gilbert-ling/" type="text/html"/>
+    <content type="html">&lt;p class="lead"&gt;I was intrigued by a question I was asked on my last livestream, and I decided to track it down. The question:&lt;/p&gt;
+&lt;p&gt;Who is Gilbert Ling?&lt;/p&gt;
+&lt;div class="center"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/qHnE8yfuT_E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;p&gt;Don&amp;#8217;t be put off by the howling winds at the beginning &amp;#8212; I went into a nice quiet room for the rest of it. If even that is too annoying for you, just read my rough script, below the fold.&lt;/p&gt;
+&lt;p&gt;&lt;span id="more-68270"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Last week, I had a livestream in which I got some questions and comments. I was asked a question that caught me by surprise: &amp;#8220;have you heard of Gilbert Ling?&amp;#8221;&lt;br /&gt;
+I had to admit that no, I&amp;#8217;d never heard of him, and hadn&amp;#8217;t the slightest idea who he was.&lt;br /&gt;
+Later, I looked him up. Then I jumped down the rabbit hole, and that&amp;#8217;s what I&amp;#8217;ll summarize today.&lt;br /&gt;
+I&amp;#8217;ll start with some positives before I talk about how he turned into a tedious crackpot.&lt;/p&gt;
+&lt;p&gt;Ling was clearly a brilliant man. He was born in China in 1919, studied physics and chemistry in the 1940s, a time when China was struggling with the bloody Japanese invasion. He won a prestigious and highly competitive scholarship to come to America and do advanced studies at the University of Chicago.&lt;/p&gt;
+&lt;p&gt;There he worked with Ralph Gerard to perfect the capillary microelectrode, which was for a time called the Gerard-Graham-Ling microelectrode. This is an indispensible tool in cell and membrane physiology, and this was the first time I&amp;#8217;d heard any names associated with it; it&amp;#8217;s ubiquitous and taken for granted, so we just call it a microelectrode, no honorifics.&lt;/p&gt;
+&lt;p&gt;His first GOOD idea was working with Ralph Gerard and figuring out how to reliably make these useful glass electrodes.&lt;/p&gt;
+&lt;p&gt;What it is is an extraordinarily tiny glass needle. They&amp;#8217;re made by taking thin-walled glass tubing, heating it, and then drawing it out to produce a fine, tapered tip. How tiny? The point of the needle is smaller than a wavelength of visible light, so all you see in a microscope is a diffracted blur, and it&amp;#8217;s so sharp that you can stick it through the membrane of a single cell without destroying it. You can then use it to measure voltages and currents across the membrane, or to inject small molecules into the cell, or you can use it as knife to do microsurgery.&lt;/p&gt;
+&lt;p&gt;In my post-doctoral work, for instance, I started every morning by making a dozen or so microelectrodes and filling them with a dye, Lucifer Yellow, and then spending the day sitting down at a microscope, pinning down grasshopper embryos, clamping a microelectrode to a micromanipulator, and microinjecting single cells with glowing fluorescent dyes. So I can be appreciative of the fact that Ling helped develop this incredibly useful tool when he was a graduate student. Thanks, Dr Ling.&lt;/p&gt;
+&lt;p&gt;Unfortunately, his career takes a dismal turn after that high point. He has written extensively and repeatedly about what I consider his Crackpot Origin Story, the moment when he turned to the loony side, and here it is. It was a failed grad student seminar.&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;On a spring afternoon in 1947, I was standing on the podium in the main lecture room of the Department, waiting for my late-coming audience to settle down. The title of my talk was “The Sodium Pump.”&lt;br /&gt;
+I began with an apology. I told my audience that even though I had thoroughly searched the libraries, I had no worthwhile information on the sodium pump to share. It was just a name. I then went on to other related issues. When I finally stepped down from the podium, I was startled by what happened next. Two of my highly respected professors each individually took me aside and used almost the same words to tell me “ Gilbert, you don’t want to make yourself a martyr. Leave the sodium pump alone. It is a sacred cow.” I thanked both warmly for their concern about my personal welfare. At the same time, I also felt that they overly worried. Next thing you know, I was doing some simple bread-and-butter experiments to test the validity of the membrane (pump) theory.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;This is a remarkable claim at an interesting time. In the 1930s, Alan Hodgkin and Andrew Huxley had begun their biophysical research on the electrical properties of the cell membrane, and had hypothesized that those properties were a product of ion fluxes across the membrane via regulated and specific channels, driven by  gradients of concentration differences, with the interior of the cell being low in sodium and high in potassium, and conversely, the exterior environment being high in sodium and low in potassium. They postulated the existence of the ion channels and the sodium pump, but this being well before the development of molecular biology, the actual proteins involved had not been isolated and characterized. It was a sound hypothesis, though, backed up by a solid theoretical framework and many observations of the behavior of ions in isolated cellular preparations.&lt;/p&gt;
+&lt;p&gt;Their work was interrupted by World War II, but resumed promptly afterwards in one of the best known and most successful scientific collaborations of all time.  They would publish their  Hodgkin-Huxley model in the early 1950s, a mathematical description of how changing conductances in the membrane that produced action potentials in nerve and muscle fibers, and would  win the Nobel Prize in 1963. It is an extremely powerful predictive model for how the electrical activity in cells is generated, and has been tested over and over again, and is so successful it&amp;#8217;s mostly taken for granted now. It just works.&lt;/p&gt;
+&lt;p&gt;Be warned, a theme is developing. All these people who had ideas contradicting Ling are going to be winning Nobel prizes. Man, that must have burned.&lt;/p&gt;
+&lt;p&gt;So here&amp;#8217;s Ling in 1947, after the preliminary work had been done and before the grand theory of the Hodgkin-Huxley model had been validated, standing up and boldly declaring that a key piece of the model was nonexistent, and further that the scientific literature was entirely lacking in worthwhile information about it. Yikes. He was wrong that there was nothing in the libraries about it &amp;#8212; there was over a decade of research that demonstrated its existence mathematically and with data about the distribution of ions &amp;#8212; but OK, it&amp;#8217;s 1947, he&amp;#8217;s in that awkward gap between preliminary prediction and physical confirmation. Even in 1947, though, he&amp;#8217;s bucking against the evidence, and his professors know it.&lt;/p&gt;
+&lt;p&gt;I don&amp;#8217;t trust Ling&amp;#8217;s characterization of their response. What I suspect was going on was that his professors were more aware of the evidence than he was, that they knew what data was coming down the pike, and were trying to warn him against unwarranted arrogance.&lt;/p&gt;
+&lt;p&gt;That arrogance is his downfall. He spends the rest of his career cobbling up theories to demonstrate that the sodium pump doesn&amp;#8217;t exist and couldn&amp;#8217;t exist, even as the rest of the scientific community was triumphantly demonstrating its existence. The pump itself, the sodium-potassium ATPase, was isolated and characterized in 1957 by the Danish scientist Jens Christian Skou. Right up to the time of his death in 2019, Ling was still calling it the &amp;#8220;hypothetical&amp;#8221; sodium pump and was denying its existence. I think he refused to accept that he could have been wrong in 1947, and his hubris blighted his entire scientific career. He might have been brilliant, but his ego sidetracked him permanently.&lt;/p&gt;
+&lt;p&gt;What interested me is how someone could deny the overwhelming evidence for the &amp;#8220;membrane (pump) theory&amp;#8221; as he called it. I should be used to this now after years of confronting people who deny evolution. What&amp;#8217;s unique here is that Ling didn&amp;#8217;t build his ideas on a religious presupposition, but assembled increasingly absurd, contrived models for how the cell works to, I think, shelter his ego. That&amp;#8217;s what&amp;#8217;s interesting, his bizarre explanations for how cells generate concentration differences without a pump. So let&amp;#8217;s take a quick look at that.&lt;/p&gt;
+&lt;p&gt;We can distill it down to a simple fact that is not in contention, that Ling agrees to.  Cells have a strong concentration difference in select ions across the membrane: sodium, to name one, is high outside the cell and low inside. How does that happen? The prevailing explanation before Ling&amp;#8217;s seminar, and since ever more strongly confirmed, is that there is a pump in the membrane that burns ATP for energy and exchanges sodium for potassium. Simple, right? And we now know that this pump is a physical protein that has all the properties predicted for it.&lt;/p&gt;
+&lt;p&gt;The question then, is what will Ling propose as an alternative. How do you generate a concentration difference without pushing ions around? He came up with something he called the Association-Induction Hypothesis.&lt;/p&gt;
+&lt;p&gt;One of his first assumptions is that the cytoplasm of the cell is highly structured, a gel-like matrix of proteins that make the inside of the cell less fluid and more like gelatin than a bag of water. This is valid! I don&amp;#8217;t know anyone who would question that. It&amp;#8217;s what I teach, and have for decades. So far, so good.&lt;/p&gt;
+&lt;p&gt;The next claim: that the water in the cell is also highly structured. It forms strong ASSOCIATIONS (that&amp;#8217;s half the name) with the proteins in the cell and is no longer fluid. Then, because water is a dipole, its electrical properties INDUCE (there&amp;#8217;s the second half) changes in the charge distribution in their associated proteins. Now we&amp;#8217;re on shaky ground &amp;#8212; the idea that water molecules have structure and align themselves to the environment isn&amp;#8217;t weird, but the conclusions he draws are.&lt;/p&gt;
+&lt;p&gt;According to Ling, as a consequence of these changes in the cytoplasmic proteins, potassium is attracted to and is bound to the interior of the cell, displacing sodium to the outside. No pump is required, the ions flow in response to the chemistry of the cell to spontaneously generate the concentration difference.&lt;/p&gt;
+&lt;p&gt;That&amp;#8217;s all nonsense, I&amp;#8217;m sorry to say. Water does form structured relationships with proteins and carbohydrates and lipids in the cell, but they&amp;#8217;re transient and exhibit a great deal of flux. Water is not locked up in any way by those structures; it still flows fluidly within the matrix of material. Ling tries to argue that no, water is trapped and unable to flow in the way the &amp;#8220;membrane (pump) theory&amp;#8221; expects by making an analogy.  He compares a sponge and hamburger.&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;Everybody knows what a raw hamburger is like. From its rich water content, it resembles a wet sponge. Yet it is also quite different from a wet sponge. Squeeze a wet sponge, water comes out. Squeeze harder, more water comes out until finally the sponge becomes almost dry. If instead, you take a raw hamburger and try to squeeze the water out from this water-rich material, you will find that it is well nigh impossible to squeeze any water out even after the meat has been chopped into tiny pieces. Indeed we carried on this line of inquiry in a more rigorously controlled manner.&lt;/p&gt;
+&lt;p&gt;…&lt;/p&gt;
+&lt;p&gt;So this exceedingly simple experiment adds yet another set of evidence showing without ambiguity that the basic tenet of free water in membrane-pump theory is wrong. The cell water cannot be normal liquid water. Were the cell water truly normal liquid water, it would have been extracted along with the indisputably normal liquid water (held in between the muscle cells), which is quantitatively squeezed out. What remains would be nothing more than dried proteins like a fully-squeezed out sponge. But that does not happen while the cells are still alive or close to being alive.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;There are a few problems with this rationalization. The first is that it is an invalid analogy incorrectly interpreted. The second is that he&amp;#8217;s reduced to trying to dismiss the mathematics and data of Hodgkin and Huxley with a clumsy analogy.&lt;/p&gt;
+&lt;p&gt;It is true that squeezing a lump of hamburger will not produce as much water as squeezing an equivalent lump of sponge with the same water content, but that&amp;#8217;s not because water is so tightly bound in the hamburger. It&amp;#8217;s a difference in the compressibility of the matrix. The sponge contains large voids full of water surrounded by relatively elastic fibers, and can be crushed down to a much smaller volume. The lump of meat contains many proteins with numerous but much smaller micro-spaces for water. It&amp;#8217;s far less compressible, so you can&amp;#8217;t easily squeeze out the water. But that does not mean water is unable to flow in the tissue, or that it&amp;#8217;s not &amp;#8220;normal liquid water&amp;#8221;! In fact, fluid flow through cells is surprisingly dynamic.&lt;/p&gt;
+&lt;p&gt;Remember when I was making all those microelectrodes and filling them with a fluorescent dye? What I&amp;#8217;d do was poke that needle into a single cell and then use a little current to inject a small amount of dye into the cell; It would then flow almost instantly throughout the cell, even into fine dendrites. It would do so within seconds. The gel-like consistency of the cytoplasm doesn&amp;#8217;t seem to inhibit the free movement of water, ions, and small molecules.&lt;/p&gt;
+&lt;p&gt;Ling also has an unusual perspective on another molecule, ATP. The rest of the world thinks of ATP as a molecule that mediates the transfer of phosphate bonds to other molecules, as an intracellular signaling molecule, as an energy carrier that can be cleaved by hydrolysis to release energy that can drive other chemical reactions. Wrong, you fools.  It&amp;#8217;s job is to act as an adsorbent, to bind water and induce it into an active state.&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;Thus far we have dealt with the &amp;#8220;associative&amp;#8221; aspect of the association-induction hypothesis. Equally important is the &amp;#8220;inductive &amp;#8221; aspect, or electrical polarization. Thus in the AI Hypothesis, the living cell is essentially an electronic machine, where the electronic perturbations are not carried out through long-range ohmic conduction of free electrons along electric wires but by a falling-domino-like propagated short-range interaction. In the association-induction hypothesis, it is this basic electronic mechanism which not only permits such key component, referred to as cardinal adsorbents, to sustain the protoplasm&amp;#8212;of closely associated proteins-ion-water system&amp;#8212;in its normal resting living state. It also provides the mechanism for cardinal adsorbents to control the reversible shifts between active and resting state. The cardinal adsorbent par excellence is the ultimate metabolic product, ATP.&lt;/p&gt;
+&lt;p&gt;This ubiquitous and crucial small molecule was once wrongly believed to carry an extra energy in the so-called high-energy-phosphate bonds. However, there is no doubt that ATP is strongly adsorbed on certain key sites (cardinal sites) on cell proteins. Indeed, the adsorption energy of ATP on the muscle protein, myosin, even exceeds what was once (wrongly) assigned as phosphate bond energy and this high adsorption energy fits like hand in glove in its central role in polarizing the protein-water-ion system maintaining the assembly in the living state.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Don&amp;#8217;t ask me to explain that diagram, it&amp;#8217;s a vague mess. And that&amp;#8217;s a lot of gibberish that ignores the importance of phosphorylation and dephosphorylation in metabolic processes. But it leads into his next bold claim, that the difference between living and dead is how their water is structured.&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;Note also, the concept of the &amp;#8220;living state&amp;#8221;, despite its occasional plebeian usage by other investigators, is uniquely a concept of the AI Hypothesis. Being in the living state specifies what is living. Transition into the dead state specifies what is dead. In the living state, all the major components exist in their closely associated high (negative) energy and low entropy state. In the dead state, water and ions are to a large extent liberated and exist as free water and free ions, with a large entropy gain. In death, the proteins enter an internally neutralized state.&lt;/p&gt;
+&lt;p&gt;As already mentioned, there is no corresponding concept of what is living and what is not living in the membrane-pump theory.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;I guess hamburger must be alive, then.&lt;/p&gt;
+&lt;p&gt;There is a strong element of jealousy and resentment in his tirades. He&amp;#8217;s irate that Skau, who I mentioned earlier for his work in identifying the sodium-potassium ATPase, the pump, won a Nobel prize for his work. They passed over Ling! He doesn&amp;#8217;t like the chemiosmotic hypothesis, which explains how mitochondria use proton gradients &amp;#8212; and proton pumps! &amp;#8212; to drive ATP synthase and make ATP, which is only an adsorbent anyhow, and thinks the Nobel committee was discredited by giving a Nobel to something that is only a hypothesis.&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;A Nobel Prize for Chemistry was awarded in 1978 to English scientist, Peter Mitchell for his &amp;#8220;Chemiosmotic Hypothesis&amp;#8221;. To award a Nobel Prize for an (as-yet-unproven) hypothesis is unheard of. To the best of my knowledge and barring this one, no Noble Prizes has ever been given to authors of hypotheses before they had been proven valid beyond question. The Chemiosmotic Hypothesis was intended to provide a mechanism for the postulated membrane pumps. But Mitchell seemed totally ignorant of the vast amount of experimental evidence against the very existence of such membrane pumps. To what extent he was a victim of Glynn and Karlish&amp;#8217;s &amp;#8220;cooked&amp;#8221; review and other &amp;#8220;cooked&amp;#8221; reviews like it-in which all evidence against the most prominent (sodium) pump was completely left out&amp;#8212; I have no way of knowing. Not surprisingly, the Chemiosmotic theory soon became the target of one disproof after another. But for the reputation and credibility of the Nobel Prize as well as Peter Mitchell, these disproofs came too late. The Prize had already been awarded.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;The chemiosmotic hypothesis has been thoroughly tested experimentally and is still holding up just fine. It was more than just a hypothesis: Mitchell and his colleague Moyle had demonstrated it with multiple elegant experiments. It was far more rigorous than Ling&amp;#8217;s wild ideas.&lt;/p&gt;
+&lt;p&gt;He&amp;#8217;s also mad because the NIH long ago stopped funding his crackpot research, which is particularly awful because…we still haven&amp;#8217;t cured cancer or AIDS. The reason: because researchers haven&amp;#8217;t adopted his Association-Induction Hypothesis.&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;One result of this foot-dragging is that the Wars on cancer, AIDS and other deadly disease have not been guided by a correct cell physiology. Worse, they have been misguided by a wrong one. The reader can figure out for himself/herself the horrendous cost which must be paid for this foot-dragging, recalling that on an average day, one thousand and five hundred men, women and children die from cancer in America alone.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;That&amp;#8217;s what sour grapes looks like.&lt;/p&gt;
+&lt;p&gt;Ling died a few years ago, which means that this foolishness is going to fade away, right? Sorry, no. This kind of stuff is contagious &amp;#8212; whereever grifters lurk, you&amp;#8217;ll find people eager to embrace anything that denies conventional science, so that they can replace it with their patent nonsense. What&amp;#8217;s handy about Ling&amp;#8217;s ideas is that he rejects the role of those pesky proteins in cellular metabolism and makes it all about … water. Structured water. Water is cheap, its structure is invisible, the opportunities for profit are immense.  Get ready for a familiar con.&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt; We are studying the central role of water in health. We are two-thirds water &amp;#8212; by volume. In terms of the percentage of molecules, that two-thirds figure computes to a lot of water molecules: more than 99% of our molecules are water molecules. Evidence suggests that those 99% don&amp;#8217;t merely sit as the background carriers of the more important molecules of life, but are central participants. All that the cell does depends on water.&lt;br /&gt;
+…&lt;br /&gt;
+That leads to the hypothesis that proper hydration is a central feature of function, and therefore of health.
+&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Those are the words of Gerald Pollack, a professor of biomedical engineering at the University of Washington who has bought into Ling&amp;#8217;s notions wholesale. I actually agree with all that: we are mostly water, most of the chemistry of cells involves water, it&amp;#8217;s a good idea to stay hydrated. However, Pollack takes a long step beyond the evidence. He claims to have discovered a new form of water, H3O2, that he calls EZ Water, short for Exclusion Zone Water. He thinks it is a specially structured water that forms wherever water contacts materials, and is also an intermediate step in the conversion of liquid water to ice, and is enriched in glacial melt water.&lt;/p&gt;
+&lt;p&gt;Don&amp;#8217;t be impressed by the fact that he won an Emoto Prize. That&amp;#8217;s a prize handed out by Masaru Emoto, the guy who had a period of some fame for his claim that talking to, or thinking at, or showing pictures to a glass of water would cause it to form appropriate ice crystals when frozen. Think nice thoughts at it, you get esthetically pleasing ice crystals; think negatively, and you get ugly crystals.&lt;/p&gt;
+&lt;p&gt;Alarm bells should be ringing in your head already. Let&amp;#8217;s just seal the deal on whether this is quackery or not.  Here&amp;#8217;s Pollack again:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;Informal discussion of the evidence for the role of water in health appears in an interview with Dr. Mercola. And, a recent lecture dealing with EZ water and health is found here. And, a grant proposal  submitted earlier to the NIH contains a more formal discussion of the evidence.&lt;/p&gt;
+&lt;p&gt;We are actively seeking funding to carry out a comprehensive study on the role of water in health. The public seems hungry for this kind of information. With our background in water chemistry and biology, we feel we&amp;#8217;re well equipped to carry out those studies.&lt;/p&gt;
+&lt;p&gt;Who knows? EZ water may become the next wonder drug.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;That&amp;#8217;s Dr Ling&amp;#8217;s legacy. He has provided a pseudoscientific rationale that quacks and con artists like Joe Mercola can use to sell water as a &amp;#8220;wonder drug&amp;#8221;. This is precisely what Ling wanted, that people would pick up on his notions and spread them far and wide.&lt;/p&gt;
+&lt;p&gt;That&amp;#8217;s what I&amp;#8217;m afraid of, that his crackpot ideas will be passed along to future generations &amp;#8212; and as long as there are frauds trying to make a buck off science denial and bad science, it will happen.&lt;/p&gt;
+&lt;p&gt;Thanks for listening, and don&amp;#8217;t listen to people who try to sell you magic water. I know this kind of thing can be difficult &amp;#8212; Ling was a smart guy, and he was pretty good at bamboozling a few people with elaborately technical biology talk. Let me tell you that all the stuff I said here was basic, well-established cell biology and biochemistry, work that has been acknowledged by some of the most prestigious scientific awards and which is pretty much standard fare in all the textbooks.&lt;/p&gt;
+&lt;p&gt;So do the like and subscribe thing if you want to encourage me to do more exposes of quacks and frauds. Or don&amp;#8217;t, I&amp;#8217;ll probably continue to do it anyway.&lt;/p&gt;
+&lt;p&gt;You can find all the garbage science you could want here:&lt;br /&gt;
+https://gilbertling.org/&lt;br /&gt;
+https://www.pollacklab.org/&lt;br /&gt;
+https://mandarinwater.com/en/science/h3o2&lt;br /&gt;
+https://greensmoothie.com/water/pollack&lt;/p&gt;
+</content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">I was intrigued by a question I was asked on my last livestream, and I decided to track it down. The question: Who is Gilbert Ling? Don’t be put off by the howling winds at the beginning — I went into a nice quiet room for the rest of it. If even that is too […]</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=68270</id>
+    <published>2022-10-24T01:30:34Z</published>
+    <updated>2022-10-24T01:30:34Z</updated>
+    <category term="Bad science"/>
+  </entry>
   <entry>
     <title>No, Ebola is NOT Airborne!</title>
     <link rel="alternate" href="https://skepchick.org/2022/10/no-ebola-is-not-airborne/" type="text/html"/>
@@ -134,26 +218,6 @@
     <id>https://freethoughtblogs.com/pharyngula/?p=68256</id>
     <published>2022-10-20T15:25:06Z</published>
     <updated>2022-10-20T15:25:06Z</updated>
-    <category term="Politics, History, and Law"/>
-  </entry>
-  <entry>
-    <title>Liz Truss resigns!</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/10/20/liz-truss-resigns/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p class="lead">We hardly had any chance to mock her as thoroughly as she deserved, and <a href="https://www.theguardian.com/politics/live/2022/oct/20/uk-politics-live-liz-truss-tories-turmoil-suella-braverman-resigns-fracking">she’s already gone</a>.</p>
-<p>I wonder who will replace her? I’m hoping it’s the lettuce.</p>
-<p><a href="https://freethoughtblogs.com/pharyngula/files/2022/10/truss-lettuce.jpeg"><img src="https://freethoughtblogs.com/pharyngula/files/2022/10/truss-lettuce-500x281.jpeg" alt="" width="500" height="281" class="aligncenter size-large wp-image-68254" srcset="https://freethoughtblogs.com/pharyngula/files/2022/10/truss-lettuce-500x281.jpeg 500w, https://freethoughtblogs.com/pharyngula/files/2022/10/truss-lettuce-150x84.jpeg 150w, https://freethoughtblogs.com/pharyngula/files/2022/10/truss-lettuce-300x169.jpeg 300w, https://freethoughtblogs.com/pharyngula/files/2022/10/truss-lettuce-768x432.jpeg 768w, https://freethoughtblogs.com/pharyngula/files/2022/10/truss-lettuce.jpeg 1280w" sizes="(max-width: 500px) 100vw, 500px"/></a></p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">We hardly had any chance to mock her as thoroughly as she deserved, and she’s already gone. I wonder who will replace her? I’m hoping it’s the lettuce.</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=68253</id>
-    <published>2022-10-20T13:03:09Z</published>
-    <updated>2022-10-20T13:03:09Z</updated>
     <category term="Politics, History, and Law"/>
   </entry>
   <entry>
@@ -456,6 +520,78 @@
     <published>2021-11-01T15:01:20Z</published>
     <updated>2021-11-01T15:01:20Z</updated>
     <category term="Quirky stuff"/>
+  </entry>
+  <entry>
+    <title>Evidence to House of Commons Sci Tech Select Committee on Research Integrity</title>
+    <link rel="alternate" href="https://www.badscience.net/2017/12/evidence-to-house-of-commons-sci-tech-select-committee-on-research-integrity/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Sorry not to be in regular blogging mode at the moment. Here’s a video of our evidence session to parliament, where they are running an inquiry into research integrity. I think clinical trials are the best possible way to approach this issue. Lots of things in “research integrity” are hard to capture in hard logical […]</div>
+    </content>
+    <author>
+      <name>Ben Goldacre</name>
+    </author>
+    <id>http://www.badscience.net/?p=3498</id>
+    <published>2017-12-05T11:42:17Z</published>
+    <updated>2017-12-05T11:42:17Z</updated>
+    <category term="alltrials campaign"/>
+    <category term="publication bias"/>
+  </entry>
+  <entry>
+    <title>How do the world’s biggest drug companies compare, in their transparency commitments?</title>
+    <link rel="alternate" href="https://www.badscience.net/2017/07/how-do-the-worlds-biggest-drug-companies-compare-in-their-transparency-commitments/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Hereâ€™s a paper, and associated website, that we launch today: we have assessed, and then ranked, all the biggest drug companies in the world, to compare their public commitments on trials transparency. Regular readers will be familiar with this ongoing battle. In medicine we use the results of clinical trials to make informed treatments about […]</div>
+    </content>
+    <author>
+      <name>Ben Goldacre</name>
+    </author>
+    <id>http://www.badscience.net/?p=3485</id>
+    <published>2017-07-27T06:33:23Z</published>
+    <updated>2017-07-27T06:33:23Z</updated>
+    <category term="bad science"/>
+  </entry>
+  <entry>
+    <title>Meaningful Transparency Commitments: the WHO Joint Statement from Trial Funders</title>
+    <link rel="alternate" href="https://www.badscience.net/2017/07/meaningful-transparency-commitments-the-who-joint-statement-from-trial-funders/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">By now I hope you all know about the ongoing global scandal of clinical trial results being left unpublished, and of course our AllTrials campaign. Doctors, researchers, and patients cannot make truly informed choices about which treatments work best if they don’t have access to all the trial results. Earlier this year, I helped out […]</div>
+    </content>
+    <author>
+      <name>Ben Goldacre</name>
+    </author>
+    <id>http://www.badscience.net/?p=3481</id>
+    <published>2017-07-26T16:17:06Z</published>
+    <updated>2017-07-26T16:17:06Z</updated>
+    <category term="bad science"/>
+    <category term="publication bias"/>
+  </entry>
+  <entry>
+    <title>How many epidemiologists does it take to change a lightbulb?</title>
+    <link rel="alternate" href="https://www.badscience.net/2017/02/how-many-epidemiologists-does-it-take-to-change-a-lightbulb/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Robin Ince just asked if I know any epidemiologist lightbulb jokes. I wrote this for him. How many epidemiologists does it take to change a lightbulb? Weâ€™ve found 12,000 switches hidden around the house. Some of them turn this lightbulb on, some of them donâ€™t; some of them only work sometimes; and some of them […]</div>
+    </content>
+    <author>
+      <name>Ben Goldacre</name>
+    </author>
+    <id>http://www.badscience.net/?p=3472</id>
+    <published>2017-02-01T12:49:44Z</published>
+    <updated>2017-02-01T12:49:44Z</updated>
+    <category term="bad science"/>
+  </entry>
+  <entry>
+    <title>“Transparency, Beyond Publication Bias”. A video of my super-speedy talk at IJE.</title>
+    <link rel="alternate" href="https://www.badscience.net/2016/10/transparency-beyond-publication-bias-a-video-of-my-super-speedy-talk-at-ije/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">People oftenÂ talk about “trials transparency” as if this means “all trials must be published in an academic journal”. In reality, true transparency goes much further than this. We need Clinical Study Reports, and individual patient data, of course. But we also need the consent forms, so we can see what patients were told. We need […]</div>
+    </content>
+    <author>
+      <name>Ben Goldacre</name>
+    </author>
+    <id>http://www.badscience.net/?p=3463</id>
+    <published>2016-10-11T08:01:43Z</published>
+    <updated>2016-10-11T08:01:43Z</updated>
+    <category term="bad science"/>
   </entry>
   <entry>
     <title>For any teen atheists who want to be on TV</title>
