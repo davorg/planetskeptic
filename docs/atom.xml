@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2022-10-24T15:37:01Z</updated>
+  <updated>2022-10-24T16:39:16Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
   <entry>
@@ -35,6 +35,20 @@
     <published>2022-10-24T15:31:40Z</published>
     <updated>2022-10-24T15:31:40Z</updated>
     <category term="Atheism and Skepticism"/>
+  </entry>
+  <entry>
+    <title>No One Has (or Should Have) a “Right to Sex”</title>
+    <link rel="alternate" href="https://skepchick.org/2022/10/no-one-has-or-should-have-a-right-to-sex/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">This post contains a video, which you can also view here. To support more videos like this, head to patreon.com/rebecca! Transcript: Let’s talk about sex! Oh, but not in, like, a fun and sexy way. I mean in a way that will involve scientific research, bad takes on Twitter, and Latin phrases like post hoc …</div>
+    </content>
+    <author>
+      <name>Rebecca Watson</name>
+    </author>
+    <id>https://skepchick.org/?p=131734</id>
+    <published>2022-10-24T15:02:36Z</published>
+    <updated>2022-10-24T15:02:36Z</updated>
+    <category term="Skepticism"/>
   </entry>
   <entry>
     <title>Is this really the best way to illustrate world population?</title>
@@ -236,20 +250,6 @@
     <id>https://skepchick.org/?p=131722</id>
     <published>2022-10-10T15:01:40Z</published>
     <updated>2022-10-10T15:01:40Z</updated>
-    <category term="Skepticism"/>
-  </entry>
-  <entry>
-    <title>How Corruption Leads to Conspiracy Theories</title>
-    <link rel="alternate" href="https://skepchick.org/2022/10/how-corruption-leads-to-conspiracy-theories/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">This post contains a video, which you can also view here. To support more videos like this, head to patreon.com/rebecca! Last month I stumbled upon a particularly interesting study in the journal Social Psychological and Personality Science, which as you all know I read each morning as I sip my single origin Honduran coffee. It …</div>
-    </content>
-    <author>
-      <name>Rebecca Watson</name>
-    </author>
-    <id>https://skepchick.org/?p=131720</id>
-    <published>2022-10-06T17:37:17Z</published>
-    <updated>2022-10-06T17:37:17Z</updated>
     <category term="Skepticism"/>
   </entry>
   <entry>
