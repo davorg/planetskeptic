@@ -7,9 +7,58 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2022-10-27T11:30:58Z</updated>
+  <updated>2022-10-27T12:40:40Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Now I’m worried about how to escape a python attack</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/10/27/now-im-worried-about-how-to-escape-a-python-attack/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p class="lead">This <a href="https://www.bbc.com/news/world-asia-63396954">poor woman</a>.</p>
+<blockquote><p>Jahrah, a rubber-tapper reportedly in her 50s, had made her way to work at a rubber plantation on Sunday morning.</p>
+<p>She was reported missing after failing to return that night, and search parties sent out to find her. A day later villagers found a python with what appeared to be a large stomach.</p>
+<p>Locals later killed the snake and found her body inside.</p>
+<p>“The victim was found in the snake’s stomach,” Betara Jambi police chief AKP S Harefa told local media outlets, adding that her body appeared to be largely intact when it was found.</p></blockquote>
+<p><a href="https://freethoughtblogs.com/pharyngula/files/2022/10/python.jpg"><img src="https://freethoughtblogs.com/pharyngula/files/2022/10/python-150x141.jpg" alt="" width="150" height="141" class="alignright size-thumbnail wp-image-68320" srcset="https://freethoughtblogs.com/pharyngula/files/2022/10/python-150x141.jpg 150w, https://freethoughtblogs.com/pharyngula/files/2022/10/python-300x282.jpg 300w, https://freethoughtblogs.com/pharyngula/files/2022/10/python.jpg 467w" sizes="(max-width: 150px) 100vw, 150px"/></a></p>
+<p>I have questions. Pythons don’t move that fast, so how do they catch their prey? They just lie in wait and throw coils over their victim? Speaking from ignorance, that doesn’t seem that dangerous. Pigs have tusks, deer have sharp hooves, humans have knives and machetes — it seems like a good way for the snake to be seriously wounded. How quickly can they constrict? There is <a href="https://www.bbc.com/news/world-asia-39427462">another article about how they attack</a>.</p>
+<blockquote><p>They can reach lengths of more than 10m (32ft) and are very powerful. They attack in an ambush, wrapping themselves around their prey and crushing it – squeezing tighter as the victim exhales.</p>
+<p>They kill by suffocation or cardiac arrest within minutes.</p></blockquote>
+<p>I guess I’m mystified by the actual, initial process, in the first few seconds of a python attack, which isn’t well explained. How does a 10m long muscular tube leap into action to surprise an animal? I’m missing something in the mechanism.</p>
+<p>I’d rather not go to Indonesia and find out in person. Any snake experts able to explain it?</p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">This poor woman. Jahrah, a rubber-tapper reportedly in her 50s, had made her way to work at a rubber plantation on Sunday morning. She was reported missing after failing to return that night, and search parties sent out to find her. A day later villagers found a python with what appeared to be a large […]</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=68319</id>
+    <published>2022-10-27T12:14:16Z</published>
+    <updated>2022-10-27T12:14:16Z</updated>
+    <category term="Miscellaneous and Meta"/>
+  </entry>
+  <entry>
+    <title>A good joke</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/10/27/a-good-joke/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p class="lead">This is a mildly amusing xkcd:</p>
+<div id="attachment_68317" style="width: 335px" class="wp-caption aligncenter"><a href="https://freethoughtblogs.com/pharyngula/files/2022/10/cool_s.png"><img src="https://freethoughtblogs.com/pharyngula/files/2022/10/cool_s.png" alt="" width="325" height="327" class="size-full wp-image-68317" srcset="https://freethoughtblogs.com/pharyngula/files/2022/10/cool_s.png 325w, https://freethoughtblogs.com/pharyngula/files/2022/10/cool_s-150x150.png 150w, https://freethoughtblogs.com/pharyngula/files/2022/10/cool_s-298x300.png 298w" sizes="(max-width: 325px) 100vw, 325px"/></a><p class="wp-caption-text"><a href="https://xkcd.com/2690/">xkcd</a></p></div>
+<p>What makes it great, though, is the alt text.</p>
+<p>“Although I hear they were caught cheating off of Rosalind, who sat at a desk in front of them.”</p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">This is a mildly amusing xkcd: What makes it great, though, is the alt text. “Although I hear they were caught cheating off of Rosalind, who sat at a desk in front of them.”</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=68316</id>
+    <published>2022-10-27T11:54:18Z</published>
+    <updated>2022-10-27T11:54:18Z</updated>
+    <category term="Miscellaneous and Meta"/>
+  </entry>
   <entry>
     <title>Humanity’s imminent, mysterious extinction</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/10/26/humanitys-imminent-mysterious-extinction/" type="text/html"/>
@@ -101,48 +150,6 @@
     <published>2022-10-26T12:49:09Z</published>
     <updated>2022-10-26T12:49:09Z</updated>
     <category term="History"/>
-  </entry>
-  <entry>
-    <title>Consult your local school board and city council for all your medical decisions</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/10/26/consult-your-local-school-board-and-city-council-for-all-your-medical-decisions/" type="text/html"/>
-    <content type="html">&lt;p&gt;&lt;a href="https://freethoughtblogs.com/pharyngula/files/2022/10/drnick.jpeg"&gt;&lt;img src="https://freethoughtblogs.com/pharyngula/files/2022/10/drnick-150x150.jpeg" alt="" width="150" height="150" class="alignright size-thumbnail wp-image-68109" srcset="https://freethoughtblogs.com/pharyngula/files/2022/10/drnick-150x150.jpeg 150w, https://freethoughtblogs.com/pharyngula/files/2022/10/drnick-300x300.jpeg 300w, https://freethoughtblogs.com/pharyngula/files/2022/10/drnick-768x768.jpeg 768w, https://freethoughtblogs.com/pharyngula/files/2022/10/drnick-500x500.jpeg 500w, https://freethoughtblogs.com/pharyngula/files/2022/10/drnick.jpeg 900w" sizes="(max-width: 150px) 100vw, 150px" /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p class="lead"&gt;Getting surgery is a lot like requesting a zoning change, you know.&lt;/p&gt;
-&lt;p&gt;Once again, Oz has opened his mouth and willingly given Fetterman a delightful bon mot for his campaign.&lt;/p&gt;
-&lt;blockquote class="twitter-tweet" data-width="500" data-dnt="true"&gt;
-&lt;p lang="en" dir="ltr"&gt;Holy shit: Oz says his abortion position: should be between &amp;quot;a woman, her doctor, and local political leaders&amp;quot; &lt;a href="https://twitter.com/hashtag/PASenDebate?src=hash&amp;amp;ref_src=twsrc%5Etfw"&gt;#PASenDebate&lt;/a&gt; &lt;a href="https://t.co/UDiJvDYHYo"&gt;pic.twitter.com/UDiJvDYHYo&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&amp;mdash; Pat Dennis (@patdennis) &lt;a href="https://twitter.com/patdennis/status/1585066053230809090?ref_src=twsrc%5Etfw"&gt;October 26, 2022&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;&lt;/p&gt;
-&lt;p&gt;A woman can&amp;#8217;t possibly decide to get an abortion on her own! She must have a doctor who decides for her, and a small troop civil servants and bureaucrats crowded into the clinic to vote on the procedure. The authorities must be involved in every step of a pregnancy!&lt;/p&gt;
-</content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Getting surgery is a lot like requesting a zoning change, you know. Once again, Oz has opened his mouth and willingly given Fetterman a delightful bon mot for his campaign. Holy shit: Oz says his abortion position: should be between "a woman, her doctor, and local political leaders" #PASenDebate pic.twitter.com/UDiJvDYHYo — Pat Dennis (@patdennis) October […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=68305</id>
-    <published>2022-10-26T12:23:53Z</published>
-    <updated>2022-10-26T12:23:53Z</updated>
-    <category term="Abortion"/>
-  </entry>
-  <entry>
-    <title>Sviggumeriffic</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/10/26/sviggumeriffic/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><div id="attachment_68227" style="width: 160px" class="wp-caption alignright"><a href="https://freethoughtblogs.com/pharyngula/files/2022/10/ralph-wiggum.jpeg"><img src="https://freethoughtblogs.com/pharyngula/files/2022/10/ralph-wiggum-150x150.jpeg" alt="" width="150" height="150" class="size-thumbnail wp-image-68227" srcset="https://freethoughtblogs.com/pharyngula/files/2022/10/ralph-wiggum-150x150.jpeg 150w, https://freethoughtblogs.com/pharyngula/files/2022/10/ralph-wiggum-300x300.jpeg 300w, https://freethoughtblogs.com/pharyngula/files/2022/10/ralph-wiggum-768x768.jpeg 768w, https://freethoughtblogs.com/pharyngula/files/2022/10/ralph-wiggum-500x500.jpeg 500w, https://freethoughtblogs.com/pharyngula/files/2022/10/ralph-wiggum.jpeg 900w" sizes="(max-width: 150px) 100vw, 150px"/></a><p class="wp-caption-text">Sviggum rhymes with Wiggum, you know.</p></div>
-<p class="lead">Our bigoted regent, Steve Sviggum, has <a href="https://www.mprnews.org/story/2022/10/25/sviggum-steps-down-as-u-regents-vice-chair-after-questioning-morris-campus-diversity">resigned from his position as vice-chair of the board</a>. He’s remaining <em>on</em> the board for the remaining year of his term, so we still have some ‘canceling’ left to do.</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Our bigoted regent, Steve Sviggum, has resigned from his position as vice-chair of the board. He’s remaining on the board for the remaining year of his term, so we still have some ‘canceling’ left to do.</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=68303</id>
-    <published>2022-10-26T12:00:21Z</published>
-    <updated>2022-10-26T12:00:21Z</updated>
-    <category term="Miscellaneous and Meta"/>
   </entry>
   <entry>
     <title>A stranger in your own land</title>
