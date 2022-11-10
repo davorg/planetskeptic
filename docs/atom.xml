@@ -7,9 +7,34 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2022-11-10T13:42:13Z</updated>
+  <updated>2022-11-10T14:38:26Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Google Maps for the Roman Empire</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/11/10/google-maps-for-the-roman-empire/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p class="lead">The last time I was in London, I was so tempted by all the ads for $30 flights to Rome — I could flit off for a weekend in Italy! I could also make a day trip by train to Edinburgh, which was a bit more expensive but a pleasant way to travel anyway. Let’s do a fantasy vacation and see what I could do. Here’s the Edinburgh trip:</p>
+<p><a href="https://freethoughtblogs.com/pharyngula/files/2022/11/london-to-york.png"><img src="https://freethoughtblogs.com/pharyngula/files/2022/11/london-to-york-300x274.png" alt="" width="300" height="274" class="aligncenter size-medium wp-image-68447" srcset="https://freethoughtblogs.com/pharyngula/files/2022/11/london-to-york-300x274.png 300w, https://freethoughtblogs.com/pharyngula/files/2022/11/london-to-york-150x137.png 150w, https://freethoughtblogs.com/pharyngula/files/2022/11/london-to-york.png 359w" sizes="(max-width: 300px) 100vw, 300px"/></a></p>
+<p>What? The closest you can get me is to York, which the British manage to spell funny, and it’s going to take <em>nine days</em>? By <em>donkey</em>? British rail sure has gone downhill.</p>
+<p>What about that weekend trip to Italy, instead? Cheapest route, please.</p>
+<p><a href="https://freethoughtblogs.com/pharyngula/files/2022/11/london-to-rome.png"><img src="https://freethoughtblogs.com/pharyngula/files/2022/11/london-to-rome-295x300.png" alt="" width="295" height="300" class="aligncenter size-medium wp-image-68448" srcset="https://freethoughtblogs.com/pharyngula/files/2022/11/london-to-rome-295x300.png 295w, https://freethoughtblogs.com/pharyngula/files/2022/11/london-to-rome-148x150.png 148w, https://freethoughtblogs.com/pharyngula/files/2022/11/london-to-rome-500x508.png 500w, https://freethoughtblogs.com/pharyngula/files/2022/11/london-to-rome.png 673w" sizes="(max-width: 295px) 100vw, 295px"/></a></p>
+<p>No direct flights available? I have to take a couple of sea cruises, another butt-busting ride on a donkey, and it’s going to take <em>37 days</em>? I haven’t the slightest idea what the conversion rate for denarii is, so I’m not going to guess what it costs. Probably more than $30.</p>
+<p>You’ve probably figured out that I wasn’t using Google Maps, but this cool webpage called <a href="https://orbis.stanford.edu/">Orbis</a>, which uses a historical database to calculate routes and travel times to and from various destinations in 200CE. Apparently, there was no such thing as taking a three day vacation in a different country back then, when you either had to walk, ride a donkey, or pay a lot of money for a carriage.</p>
+<p>I could see how fantasy novelists and fantasy gamers, as well as historians, could use this to get some perspective on how much work was required to move around in the ancient world.</p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">The last time I was in London, I was so tempted by all the ads for $30 flights to Rome — I could flit off for a weekend in Italy! I could also make a day trip by train to Edinburgh, which was a bit more expensive but a pleasant way to travel anyway. Let’s […]</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=68446</id>
+    <published>2022-11-10T14:05:42Z</published>
+    <updated>2022-11-10T14:05:42Z</updated>
+    <category term="History"/>
+  </entry>
   <entry>
     <title>Your religiously-motivated murders must be tidy and conservative!</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/11/10/your-religiously-motivated-murders-must-be-tidy-and-conservative/" type="text/html"/>
@@ -100,30 +125,6 @@
     <published>2022-11-09T11:39:56Z</published>
     <updated>2022-11-09T11:39:56Z</updated>
     <category term="Politics, History, and Law"/>
-  </entry>
-  <entry>
-    <title>It’s all part of the brilliant plan to become profitable</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/11/08/its-all-part-of-the-brilliant-plan-to-become-profitable/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p><a href="https://freethoughtblogs.com/pharyngula/files/2022/11/exodus.jpeg"><img src="https://freethoughtblogs.com/pharyngula/files/2022/11/exodus-131x150.jpeg" alt="" width="131" height="150" class="alignright size-thumbnail wp-image-68434" srcset="https://freethoughtblogs.com/pharyngula/files/2022/11/exodus-131x150.jpeg 131w, https://freethoughtblogs.com/pharyngula/files/2022/11/exodus.jpeg 210w" sizes="(max-width: 131px) 100vw, 131px"/></a></p>
-<p class="lead">The first step in making money with Twitter is to <a href="https://www.science.org/content/article/musk-reshapes-twitter-academics-ponder-taking-flight">drive away all those scientists</a>. They’re so critical!</p>
-<blockquote><p>Still, with uncertainty about how Twitter will change under Musk, many of the thousands of medical and scientific experts on the platform have started to look for alternatives or are considering giving up on social media altogether. For a while the hashtags #GoodbyeTwitter and #TwitterMigration were trending, and many researchers have been posting their new Mastodon handles, encouraging others to follow them to the site, which has gained more than 100,000 new users within days of Musk completing his purchase.</p>
-<p>For the moment, most researchers are waiting to see what happens with Twitter. “I’m hedging my bets with a Mastodon account but not planning to leave in the short term,” says biologist Carl Bergstrom (@CT_Bergstrom, 163,000 followers) of the University of Washington, Seattle. Many other researchers are doing the same. That means even if little changes for now, the groundwork is being laid for what could quickly become a digital mass migration of scientists.</p></blockquote>
-<p>Once those old crotchety stick-in-the-muds are gone, Twitter will prosper. Just like when chasing away those computer scientists made it possible to sell <a href="https://freethoughtblogs.com/pharyngula/2022/10/01/musks-demo-was-bad-and-he-should-be-ashamed-and-his-cheering-stans-should-be-embarrassed/">dancing serfs as robots</a>, and making the neuroscientists <a href="https://freethoughtblogs.com/pharyngula/2019/09/26/neuralink-is-99-hype/">roll their eyes at Neuralink</a> opened the door to brain surgery on his fans, and <a href="https://freethoughtblogs.com/pharyngula/2021/02/26/somebody-else-says-it-musk-is-a-charlatan/">horrifying space science realists</a> makes it possible to sell seats on a rocket to millionaires, Musk has a grand plan. By antagonizing all the rational people, he’s left with a market packed with fools — it’s like those Nigerian prince scams, where the skeptics get turned off by the subject line, but if the mark reads through a whole paragraph, you know you’ve got a potential sucker.</p>
-<p>Like Bergstrom, I’m staying on Twitter for now — for the lulz, if nothing else — but I also have a backup plan with an account on mastodon that I set up 5 years ago (I’m on <a href="https://octodon.social/@pzmyers">octodon.social/@pzmyers</a>, if you want to track me down). There, I’ve noticed a recent flood of familiar science-related names showing up, which is nice. It’s always been a pleasant crowd over there, but I was sad that I had to go to Twitter to hang out with most of my science-related online pals, and now Twitter is becoming less and less essential.</p>
-<p>By the way, if you find Mastodon confusing, <a href="https://skullsinthestars.com/2022/11/07/an-intro-to-mastodon-from-a-relative-newcomer/">DrSkySkull has written a short guide</a>.</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">The first step in making money with Twitter is to drive away all those scientists. They’re so critical! Still, with uncertainty about how Twitter will change under Musk, many of the thousands of medical and scientific experts on the platform have started to look for alternatives or are considering giving up on social media altogether. […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=68433</id>
-    <published>2022-11-08T17:06:39Z</published>
-    <updated>2022-11-08T17:06:39Z</updated>
-    <category term="Miscellaneous and Meta"/>
   </entry>
   <entry>
     <title>Close cousins</title>
@@ -385,78 +386,6 @@
     <published>2021-11-01T15:01:20Z</published>
     <updated>2021-11-01T15:01:20Z</updated>
     <category term="Quirky stuff"/>
-  </entry>
-  <entry>
-    <title>Evidence to House of Commons Sci Tech Select Committee on Research Integrity</title>
-    <link rel="alternate" href="https://www.badscience.net/2017/12/evidence-to-house-of-commons-sci-tech-select-committee-on-research-integrity/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Sorry not to be in regular blogging mode at the moment. Here’s a video of our evidence session to parliament, where they are running an inquiry into research integrity. I think clinical trials are the best possible way to approach this issue. Lots of things in “research integrity” are hard to capture in hard logical […]</div>
-    </content>
-    <author>
-      <name>Ben Goldacre</name>
-    </author>
-    <id>http://www.badscience.net/?p=3498</id>
-    <published>2017-12-05T11:42:17Z</published>
-    <updated>2017-12-05T11:42:17Z</updated>
-    <category term="alltrials campaign"/>
-    <category term="publication bias"/>
-  </entry>
-  <entry>
-    <title>How do the world’s biggest drug companies compare, in their transparency commitments?</title>
-    <link rel="alternate" href="https://www.badscience.net/2017/07/how-do-the-worlds-biggest-drug-companies-compare-in-their-transparency-commitments/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Hereâ€™s a paper, and associated website, that we launch today: we have assessed, and then ranked, all the biggest drug companies in the world, to compare their public commitments on trials transparency. Regular readers will be familiar with this ongoing battle. In medicine we use the results of clinical trials to make informed treatments about […]</div>
-    </content>
-    <author>
-      <name>Ben Goldacre</name>
-    </author>
-    <id>http://www.badscience.net/?p=3485</id>
-    <published>2017-07-27T06:33:23Z</published>
-    <updated>2017-07-27T06:33:23Z</updated>
-    <category term="bad science"/>
-  </entry>
-  <entry>
-    <title>Meaningful Transparency Commitments: the WHO Joint Statement from Trial Funders</title>
-    <link rel="alternate" href="https://www.badscience.net/2017/07/meaningful-transparency-commitments-the-who-joint-statement-from-trial-funders/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">By now I hope you all know about the ongoing global scandal of clinical trial results being left unpublished, and of course our AllTrials campaign. Doctors, researchers, and patients cannot make truly informed choices about which treatments work best if they don’t have access to all the trial results. Earlier this year, I helped out […]</div>
-    </content>
-    <author>
-      <name>Ben Goldacre</name>
-    </author>
-    <id>http://www.badscience.net/?p=3481</id>
-    <published>2017-07-26T16:17:06Z</published>
-    <updated>2017-07-26T16:17:06Z</updated>
-    <category term="bad science"/>
-    <category term="publication bias"/>
-  </entry>
-  <entry>
-    <title>How many epidemiologists does it take to change a lightbulb?</title>
-    <link rel="alternate" href="https://www.badscience.net/2017/02/how-many-epidemiologists-does-it-take-to-change-a-lightbulb/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Robin Ince just asked if I know any epidemiologist lightbulb jokes. I wrote this for him. How many epidemiologists does it take to change a lightbulb? Weâ€™ve found 12,000 switches hidden around the house. Some of them turn this lightbulb on, some of them donâ€™t; some of them only work sometimes; and some of them […]</div>
-    </content>
-    <author>
-      <name>Ben Goldacre</name>
-    </author>
-    <id>http://www.badscience.net/?p=3472</id>
-    <published>2017-02-01T12:49:44Z</published>
-    <updated>2017-02-01T12:49:44Z</updated>
-    <category term="bad science"/>
-  </entry>
-  <entry>
-    <title>“Transparency, Beyond Publication Bias”. A video of my super-speedy talk at IJE.</title>
-    <link rel="alternate" href="https://www.badscience.net/2016/10/transparency-beyond-publication-bias-a-video-of-my-super-speedy-talk-at-ije/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">People oftenÂ talk about “trials transparency” as if this means “all trials must be published in an academic journal”. In reality, true transparency goes much further than this. We need Clinical Study Reports, and individual patient data, of course. But we also need the consent forms, so we can see what patients were told. We need […]</div>
-    </content>
-    <author>
-      <name>Ben Goldacre</name>
-    </author>
-    <id>http://www.badscience.net/?p=3463</id>
-    <published>2016-10-11T08:01:43Z</published>
-    <updated>2016-10-11T08:01:43Z</updated>
-    <category term="bad science"/>
   </entry>
   <entry>
     <title>For any teen atheists who want to be on TV</title>
