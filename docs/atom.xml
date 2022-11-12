@@ -7,9 +7,30 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2022-11-12T12:39:15Z</updated>
+  <updated>2022-11-12T13:36:00Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>A sign of disarray</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/11/12/a-sign-of-disarray/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p class="lead">Uh-oh. Trump has lost <a href="https://grrrgraphics.com/#!" rel="nofollow">Ben Garrison</a>!</p>
+<p><a href="https://freethoughtblogs.com/pharyngula/files/2022/11/desantis.png"><img src="https://freethoughtblogs.com/pharyngula/files/2022/11/desantis.png" alt="" width="458" height="366" class="aligncenter size-full wp-image-68466" srcset="https://freethoughtblogs.com/pharyngula/files/2022/11/desantis.png 458w, https://freethoughtblogs.com/pharyngula/files/2022/11/desantis-150x120.png 150w, https://freethoughtblogs.com/pharyngula/files/2022/11/desantis-300x240.png 300w" sizes="(max-width: 458px) 100vw, 458px"/></a></p>
+<p>In the past, Garrison has always drawn Trump as a broad-shouldered, muscular macho man. Now the mantle has passed, and Ron Desantis is the one drawn with the beefcake bod!</p>
+<p>That must sting.</p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Uh-oh. Trump has lost Ben Garrison! In the past, Garrison has always drawn Trump as a broad-shouldered, muscular macho man. Now the mantle has passed, and Ron Desantis is the one drawn with the beefcake bod! That must sting.</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=68465</id>
+    <published>2022-11-12T13:21:42Z</published>
+    <updated>2022-11-12T13:21:42Z</updated>
+    <category term="Politics, History, and Law"/>
+  </entry>
   <entry>
     <title>Billionaires aren’t real</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/11/11/billionaires-arent-real/" type="text/html"/>
@@ -105,31 +126,6 @@
     <published>2022-11-11T13:21:47Z</published>
     <updated>2022-11-11T13:21:47Z</updated>
     <category term="Spiders"/>
-  </entry>
-  <entry>
-    <title>Google Maps for the Roman Empire</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/11/10/google-maps-for-the-roman-empire/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p class="lead">The last time I was in London, I was so tempted by all the ads for $30 flights to Rome — I could flit off for a weekend in Italy! I could also make a day trip by train to Edinburgh, which was a bit more expensive but a pleasant way to travel anyway. Let’s do a fantasy vacation and see what I could do. Here’s the Edinburgh trip:</p>
-<p><a href="https://freethoughtblogs.com/pharyngula/files/2022/11/london-to-york.png"><img src="https://freethoughtblogs.com/pharyngula/files/2022/11/london-to-york-300x274.png" alt="" width="300" height="274" class="aligncenter size-medium wp-image-68447" srcset="https://freethoughtblogs.com/pharyngula/files/2022/11/london-to-york-300x274.png 300w, https://freethoughtblogs.com/pharyngula/files/2022/11/london-to-york-150x137.png 150w, https://freethoughtblogs.com/pharyngula/files/2022/11/london-to-york.png 359w" sizes="(max-width: 300px) 100vw, 300px"/></a></p>
-<p>What? The closest you can get me is to York, which the British manage to spell funny, and it’s going to take <em>nine days</em>? By <em>donkey</em>? British rail sure has gone downhill.</p>
-<p>What about that weekend trip to Italy, instead? Cheapest route, please.</p>
-<p><a href="https://freethoughtblogs.com/pharyngula/files/2022/11/london-to-rome.png"><img src="https://freethoughtblogs.com/pharyngula/files/2022/11/london-to-rome-295x300.png" alt="" width="295" height="300" class="aligncenter size-medium wp-image-68448" srcset="https://freethoughtblogs.com/pharyngula/files/2022/11/london-to-rome-295x300.png 295w, https://freethoughtblogs.com/pharyngula/files/2022/11/london-to-rome-148x150.png 148w, https://freethoughtblogs.com/pharyngula/files/2022/11/london-to-rome-500x508.png 500w, https://freethoughtblogs.com/pharyngula/files/2022/11/london-to-rome.png 673w" sizes="(max-width: 295px) 100vw, 295px"/></a></p>
-<p>No direct flights available? I have to take a couple of sea cruises, another butt-busting ride on a donkey, and it’s going to take <em>37 days</em>? I haven’t the slightest idea what the conversion rate for denarii is, so I’m not going to guess what it costs. Probably more than $30.</p>
-<p>You’ve probably figured out that I wasn’t using Google Maps, but this cool webpage called <a href="https://orbis.stanford.edu/">Orbis</a>, which uses a historical database to calculate routes and travel times to and from various destinations in 200CE. Apparently, there was no such thing as taking a three day vacation in a different country back then, when you either had to walk, ride a donkey, or pay a lot of money for a carriage.</p>
-<p>I could see how fantasy novelists and fantasy gamers, as well as historians, could use this to get some perspective on how much work was required to move around in the ancient world.</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">The last time I was in London, I was so tempted by all the ads for $30 flights to Rome — I could flit off for a weekend in Italy! I could also make a day trip by train to Edinburgh, which was a bit more expensive but a pleasant way to travel anyway. Let’s […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=68446</id>
-    <published>2022-11-10T14:05:42Z</published>
-    <updated>2022-11-10T14:05:42Z</updated>
-    <category term="History"/>
   </entry>
   <entry>
     <title>Close cousins</title>
@@ -391,78 +387,6 @@
     <published>2021-11-01T15:01:20Z</published>
     <updated>2021-11-01T15:01:20Z</updated>
     <category term="Quirky stuff"/>
-  </entry>
-  <entry>
-    <title>Evidence to House of Commons Sci Tech Select Committee on Research Integrity</title>
-    <link rel="alternate" href="https://www.badscience.net/2017/12/evidence-to-house-of-commons-sci-tech-select-committee-on-research-integrity/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Sorry not to be in regular blogging mode at the moment. Here’s a video of our evidence session to parliament, where they are running an inquiry into research integrity. I think clinical trials are the best possible way to approach this issue. Lots of things in “research integrity” are hard to capture in hard logical […]</div>
-    </content>
-    <author>
-      <name>Ben Goldacre</name>
-    </author>
-    <id>http://www.badscience.net/?p=3498</id>
-    <published>2017-12-05T11:42:17Z</published>
-    <updated>2017-12-05T11:42:17Z</updated>
-    <category term="alltrials campaign"/>
-    <category term="publication bias"/>
-  </entry>
-  <entry>
-    <title>How do the world’s biggest drug companies compare, in their transparency commitments?</title>
-    <link rel="alternate" href="https://www.badscience.net/2017/07/how-do-the-worlds-biggest-drug-companies-compare-in-their-transparency-commitments/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Hereâ€™s a paper, and associated website, that we launch today: we have assessed, and then ranked, all the biggest drug companies in the world, to compare their public commitments on trials transparency. Regular readers will be familiar with this ongoing battle. In medicine we use the results of clinical trials to make informed treatments about […]</div>
-    </content>
-    <author>
-      <name>Ben Goldacre</name>
-    </author>
-    <id>http://www.badscience.net/?p=3485</id>
-    <published>2017-07-27T06:33:23Z</published>
-    <updated>2017-07-27T06:33:23Z</updated>
-    <category term="bad science"/>
-  </entry>
-  <entry>
-    <title>Meaningful Transparency Commitments: the WHO Joint Statement from Trial Funders</title>
-    <link rel="alternate" href="https://www.badscience.net/2017/07/meaningful-transparency-commitments-the-who-joint-statement-from-trial-funders/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">By now I hope you all know about the ongoing global scandal of clinical trial results being left unpublished, and of course our AllTrials campaign. Doctors, researchers, and patients cannot make truly informed choices about which treatments work best if they don’t have access to all the trial results. Earlier this year, I helped out […]</div>
-    </content>
-    <author>
-      <name>Ben Goldacre</name>
-    </author>
-    <id>http://www.badscience.net/?p=3481</id>
-    <published>2017-07-26T16:17:06Z</published>
-    <updated>2017-07-26T16:17:06Z</updated>
-    <category term="bad science"/>
-    <category term="publication bias"/>
-  </entry>
-  <entry>
-    <title>How many epidemiologists does it take to change a lightbulb?</title>
-    <link rel="alternate" href="https://www.badscience.net/2017/02/how-many-epidemiologists-does-it-take-to-change-a-lightbulb/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Robin Ince just asked if I know any epidemiologist lightbulb jokes. I wrote this for him. How many epidemiologists does it take to change a lightbulb? Weâ€™ve found 12,000 switches hidden around the house. Some of them turn this lightbulb on, some of them donâ€™t; some of them only work sometimes; and some of them […]</div>
-    </content>
-    <author>
-      <name>Ben Goldacre</name>
-    </author>
-    <id>http://www.badscience.net/?p=3472</id>
-    <published>2017-02-01T12:49:44Z</published>
-    <updated>2017-02-01T12:49:44Z</updated>
-    <category term="bad science"/>
-  </entry>
-  <entry>
-    <title>“Transparency, Beyond Publication Bias”. A video of my super-speedy talk at IJE.</title>
-    <link rel="alternate" href="https://www.badscience.net/2016/10/transparency-beyond-publication-bias-a-video-of-my-super-speedy-talk-at-ije/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">People oftenÂ talk about “trials transparency” as if this means “all trials must be published in an academic journal”. In reality, true transparency goes much further than this. We need Clinical Study Reports, and individual patient data, of course. But we also need the consent forms, so we can see what patients were told. We need […]</div>
-    </content>
-    <author>
-      <name>Ben Goldacre</name>
-    </author>
-    <id>http://www.badscience.net/?p=3463</id>
-    <published>2016-10-11T08:01:43Z</published>
-    <updated>2016-10-11T08:01:43Z</updated>
-    <category term="bad science"/>
   </entry>
   <entry>
     <title>For any teen atheists who want to be on TV</title>
