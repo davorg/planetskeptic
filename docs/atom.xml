@@ -7,9 +7,26 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2022-11-15T11:29:19Z</updated>
+  <updated>2022-11-15T12:39:47Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Talking about evidence</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/11/15/talking-about-evidence/" type="text/html"/>
+    <content type="html">&lt;p class='lead'&gt;Have you ever noticed that Christians and creationists have a weird obsession with something they clearly don&amp;#8217;t understand? Josh McDowell, J. Warner Wallace, Lee Strobel…they&amp;#8217;ve built careers around writing books that purport to provide &amp;#8220;evidence&amp;#8221; for Jesus, yet when you look at the cases they make, they fall apart pathetically. Let&amp;#8217;s talk about what good evidence is on Thursday.&lt;/p&gt;
+&lt;div class="center"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/60awe9Pw-IQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+</content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Have you ever noticed that Christians and creationists have a weird obsession with something they clearly don’t understand? Josh McDowell, J. Warner Wallace, Lee Strobel…they’ve built careers around writing books that purport to provide “evidence” for Jesus, yet when you look at the cases they make, they fall apart pathetically. Let’s talk about what good […]</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=68482</id>
+    <published>2022-11-15T12:32:29Z</published>
+    <updated>2022-11-15T12:32:29Z</updated>
+    <category term="Bad science"/>
+  </entry>
   <entry>
     <title>But what if all of my students are hot?</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/11/14/but-what-if-all-of-my-students-are-hot/" type="text/html"/>
@@ -120,25 +137,6 @@
     <id>https://freethoughtblogs.com/pharyngula/?p=68471</id>
     <published>2022-11-13T14:35:14Z</published>
     <updated>2022-11-13T14:35:14Z</updated>
-    <category term="Politics, History, and Law"/>
-  </entry>
-  <entry>
-    <title>Oh, no, they oxidized Blake Masters!</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/11/12/oh-no-they-oxidized-blake-masters/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p><a href="https://freethoughtblogs.com/pharyngula/files/2022/11/stole-the-electron.jpg"><img src="https://freethoughtblogs.com/pharyngula/files/2022/11/stole-the-electron-500x482.jpg" alt="" width="500" height="482" class="aligncenter size-large wp-image-68469" srcset="https://freethoughtblogs.com/pharyngula/files/2022/11/stole-the-electron-500x482.jpg 500w, https://freethoughtblogs.com/pharyngula/files/2022/11/stole-the-electron-150x145.jpg 150w, https://freethoughtblogs.com/pharyngula/files/2022/11/stole-the-electron-300x289.jpg 300w, https://freethoughtblogs.com/pharyngula/files/2022/11/stole-the-electron-768x740.jpg 768w, https://freethoughtblogs.com/pharyngula/files/2022/11/stole-the-electron.jpg 960w" sizes="(max-width: 500px) 100vw, 500px"/></a></p>
-<p class="lead">Curious minds want to know what he’s going to do with that extra electron. Probably gonna reduce something.</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Curious minds want to know what he’s going to do with that extra electron. Probably gonna reduce something.</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=68468</id>
-    <published>2022-11-12T16:41:00Z</published>
-    <updated>2022-11-12T16:41:00Z</updated>
     <category term="Politics, History, and Law"/>
   </entry>
   <entry>
