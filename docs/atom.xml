@@ -7,9 +7,24 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2022-11-23T11:28:41Z</updated>
+  <updated>2022-11-23T12:39:17Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>CFI: Last Chance to Stick Up For Science</title>
+    <link rel="alternate" href="https://richarddawkins.net/2022/11/cfi-last-chance-to-stick-up-for-science/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Dear friend, When we look at how far we’ve come in bettering human health, lengthening lifespans, and increasing prosperity, one thing stands out: science saves.  Lifespans have doubled, modern medicine makes us healthier, and most of us have the food and basic comforts we need to do better than survive—to thrive. And it’s all due …</div>
+    </content>
+    <author>
+      <name>Moderator</name>
+    </author>
+    <id>https://richarddawkins.net/?p=978453</id>
+    <published>2022-11-23T12:09:06Z</published>
+    <updated>2022-11-23T12:09:06Z</updated>
+    <category term="Featured"/>
+    <category term="Original"/>
+  </entry>
   <entry>
     <title>Deputy Editor job listing, New Humanist magazine</title>
     <link rel="alternate" href="https://newhumanist.org.uk/articles/6046/deputy-editor-job-listing-new-humanist-magazine#utm_source=rss" type="text/html"/>
@@ -142,21 +157,6 @@
     <published>2022-09-14T14:27:39Z</published>
     <updated>2022-09-14T14:27:39Z</updated>
     <category term="Quirky stuff"/>
-  </entry>
-  <entry>
-    <title>CFI: Secular Rescue – Saving Freedom, Saving Lives</title>
-    <link rel="alternate" href="https://richarddawkins.net/2022/09/978409/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Supporter, “I’m just waiting for my physical death. I have no one to help me.” This was the plea to Secular Rescue from an ex-Muslim journalist, rights activist, and founder of a civil society group in Afghanistan. When I first learned about this case, Pasoon [an alias] was struggling to survive, living off the remnants …</div>
-    </content>
-    <author>
-      <name>Moderator</name>
-    </author>
-    <id>https://richarddawkins.net/?p=978409</id>
-    <published>2022-09-13T16:19:43Z</published>
-    <updated>2022-09-13T16:19:43Z</updated>
-    <category term="Featured"/>
-    <category term="Original"/>
   </entry>
   <entry>
     <title>More magic &amp; mystery</title>
