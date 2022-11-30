@@ -7,9 +7,26 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2022-11-30T16:36:12Z</updated>
+  <updated>2022-11-30T17:30:53Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Highs, Lows, and the Cosmic Perspective</title>
+    <link rel="alternate" href="https://richarddawkins.net/2022/11/highs-lows-and-the-cosmic-perspective/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">From the Richard Dawkins Foundation Newsletter. Subscribe here. Hello! It’s been an eventful few weeks since our last update; weeks that have seen both remarkable highs and terrible lows. It’s been, to paraphrase Charles Dickens, both the best and worst of times. We closed October with CSICon 2022, which returned to being in-person for the first …</div>
+    </content>
+    <author>
+      <name>Jeff Dellinger</name>
+    </author>
+    <id>https://richarddawkins.net/?p=978460</id>
+    <published>2022-11-30T16:38:06Z</published>
+    <updated>2022-11-30T16:38:06Z</updated>
+    <category term="Original"/>
+    <category term="Politics"/>
+    <category term="Religion"/>
+    <category term="Science"/>
+  </entry>
   <entry>
     <title>Well, that turned me away from Post pretty quick</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/11/30/well-that-turned-me-away-from-post-pretty-quick/" type="text/html"/>
@@ -231,24 +248,6 @@
     <published>2022-10-01T09:44:17Z</published>
     <updated>2022-10-01T09:44:17Z</updated>
     <category term="Discussion"/>
-  </entry>
-  <entry>
-    <title>Seeds of Freethought Sprouting Around the World</title>
-    <link rel="alternate" href="https://richarddawkins.net/2022/09/seeds-of-freethought-sprouting-around-the-world/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">From the Richard Dawkins Foundation Newsletter. Subscribe here. Hello! If the study of evolution teaches us anything, it’s that change takes time. Whether it’s the natural evolution of flight or human-made technological advances, it’s a long, complex process that comes from an accumulation of small things, rather than a single quantum leap. There are, however, several …</div>
-    </content>
-    <author>
-      <name>Jeff Dellinger</name>
-    </author>
-    <id>https://richarddawkins.net/?p=978421</id>
-    <published>2022-09-23T17:08:14Z</published>
-    <updated>2022-09-23T17:08:14Z</updated>
-    <category term="Original"/>
-    <category term="Politics"/>
-    <category term="Religion"/>
-    <category term="Science"/>
-    <category term="Technology"/>
   </entry>
   <entry>
     <title>New Book: Why Psychology Matters</title>
