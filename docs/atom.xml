@@ -7,9 +7,30 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2022-12-05T13:32:32Z</updated>
+  <updated>2022-12-05T14:30:04Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>I’m guessing…Australia?</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/12/05/im-guessingaustralia/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p class="lead">That’s where I expect this photo of unknown provenance was taken.</p>
+<p>If you can already guess what kind of large critter you’d find in Australia might be, you don’t have to look below the fold.</p>
+<p><span id="more-68667"/></p>
+<p><a href="https://freethoughtblogs.com/pharyngula/files/2022/12/big-ol-spider.jpg"><img src="https://freethoughtblogs.com/pharyngula/files/2022/12/big-ol-spider-500x394.jpg" alt="" width="500" height="394" class="aligncenter size-large wp-image-68668" srcset="https://freethoughtblogs.com/pharyngula/files/2022/12/big-ol-spider-500x394.jpg 500w, https://freethoughtblogs.com/pharyngula/files/2022/12/big-ol-spider-150x118.jpg 150w, https://freethoughtblogs.com/pharyngula/files/2022/12/big-ol-spider-300x237.jpg 300w, https://freethoughtblogs.com/pharyngula/files/2022/12/big-ol-spider.jpg 720w" sizes="(max-width: 500px) 100vw, 500px"/></a></p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">That’s where I expect this photo of unknown provenance was taken. If you can already guess what kind of large critter you’d find in Australia might be, you don’t have to look below the fold.</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=68667</id>
+    <published>2022-12-05T14:20:40Z</published>
+    <updated>2022-12-05T14:20:40Z</updated>
+    <category term="Spiders"/>
+  </entry>
   <entry>
     <title>If it weren’t so dizzying, it might be entertaining</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/12/05/if-it-werent-so-dizzying-it-might-be-entertaining/" type="text/html"/>
@@ -137,26 +158,6 @@ A Massive Fraud of this type and magnitude allows for the termination of all rul
     <published>2022-12-03T16:33:09Z</published>
     <updated>2022-12-03T16:33:09Z</updated>
     <category term="Politics, History, and Law"/>
-  </entry>
-  <entry>
-    <title>Do you need a laugh this morning?</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/12/02/do-you-need-a-laugh-this-morning/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p class="lead">Science!</p>
-<p><a href="https://freethoughtblogs.com/pharyngula/files/2022/12/femalesfirst.jpg"><img src="https://freethoughtblogs.com/pharyngula/files/2022/12/femalesfirst.jpg" alt="" width="480" height="714" class="aligncenter size-full wp-image-68645" srcset="https://freethoughtblogs.com/pharyngula/files/2022/12/femalesfirst.jpg 480w, https://freethoughtblogs.com/pharyngula/files/2022/12/femalesfirst-101x150.jpg 101w, https://freethoughtblogs.com/pharyngula/files/2022/12/femalesfirst-202x300.jpg 202w" sizes="(max-width: 480px) 100vw, 480px"/></a></p>
-<p>Eight sentences, eight of them totally wrong. (The X chromosome is 3 times larger than Y, and has 16 times as many genes, so even where they were going in the right direction they got all the details wrong.) That sounds like the <a href="https://freethoughtblogs.com/pharyngula/2008/12/01/ray-comfort-gets-it-half-right/">Ray Comfort school of sexual education</a>.</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Science! Eight sentences, eight of them totally wrong. (The X chromosome is 3 times larger than Y, and has 16 times as many genes, so even where they were going in the right direction they got all the details wrong.) That sounds like the Ray Comfort school of sexual education.</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=68644</id>
-    <published>2022-12-02T12:50:34Z</published>
-    <updated>2022-12-02T12:50:34Z</updated>
-    <category term="Bad science"/>
   </entry>
   <entry>
     <title>Rethinking the origins of life</title>
