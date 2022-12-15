@@ -7,9 +7,31 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2022-12-15T11:28:44Z</updated>
+  <updated>2022-12-15T12:39:06Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Another snowstorm</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/12/15/another-snowstorm/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p class="lead">I stepped out into the darkness this morning — we’re trapped at home in another wet, sloppy snowstorm.</p>
+<p><a href="https://freethoughtblogs.com/pharyngula/files/2022/12/15DecSnow.jpg"><img src="https://freethoughtblogs.com/pharyngula/files/2022/12/15DecSnow-500x667.jpg" alt="" width="500" height="667" class="aligncenter size-large wp-image-68771" srcset="https://freethoughtblogs.com/pharyngula/files/2022/12/15DecSnow-500x667.jpg 500w, https://freethoughtblogs.com/pharyngula/files/2022/12/15DecSnow-113x150.jpg 113w, https://freethoughtblogs.com/pharyngula/files/2022/12/15DecSnow-225x300.jpg 225w, https://freethoughtblogs.com/pharyngula/files/2022/12/15DecSnow-768x1024.jpg 768w, https://freethoughtblogs.com/pharyngula/files/2022/12/15DecSnow.jpg 1000w" sizes="(max-width: 500px) 100vw, 500px"/></a></p>
+<p>Then I read this account of a <a href="https://www.mcsweeneys.net/articles/a-romance-novelist-desperately-tries-to-romanticize-midwestern-winter">Midwestern winter romance</a>.</p>
+<blockquote><p>“When I’m around you, I can’t think straight,” he said. Actually, it was hypothermia.</p></blockquote>
+<p>It’s all too true. Every word of it.</p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">I stepped out into the darkness this morning — we’re trapped at home in another wet, sloppy snowstorm. Then I read this account of a Midwestern winter romance. “When I’m around you, I can’t think straight,” he said. Actually, it was hypothermia. It’s all too true. Every word of it.</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=68770</id>
+    <published>2022-12-15T12:19:06Z</published>
+    <updated>2022-12-15T12:19:06Z</updated>
+    <category term="Miscellaneous and Meta"/>
+  </entry>
   <entry>
     <title>He’s making a list…</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/12/14/hes-making-a-list/" type="text/html"/>
@@ -100,45 +122,6 @@
     <published>2022-12-14T13:39:34Z</published>
     <updated>2022-12-14T13:39:34Z</updated>
     <category term="Science"/>
-  </entry>
-  <entry>
-    <title>Well, well, well…look what just got published in Nature</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/12/13/well-well-welllook-what-just-got-published-in-nature/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p class="lead"><i>Nature</i>‘s Journal of Human Genetics, that is. It’s a little piece titled “The collective effects of genetic variants and complex traits” by Mingrui Wang &amp; Shi Huang, and the abstract is a bit odd.</p>
-<blockquote><p>Traditional approaches in studying the genetics of complex traits have focused on identifying specific genetic variants. However, the collective effects of variants have remained largely unexplored. Here, we evaluated whether traits could be influenced by the collective effects of variants across the entire protein coding-region of the genome or the entire genome. We studied the UK Biobank exome sequencing data of 167,246 individuals as well as the genome-wide SNP array data of 408,868 individuals. We calculated for each individual four different measures of genetic variation such as heterozygosity and number of variants and two different measures of the overall deleteriousness of all variants, and performed correlations with 17 representative traits that have been studied previously. Linear regression analysis was performed with adjustment for age, sex, and genetic principal components. The results showed a high correlation among the six different measures and an inverse association of two well-correlated traits (educational attainment and height) with the total number of all variants as well as the overall deleteriousness of all variants. We have also categorized the genes based on whether they are expressed in the brain and found that the association with educational attainment only held for the brain-expressed genes. No other traits examined showed a significant correlation with the brain-expressed genes. The study demonstrates that common traits could be studied by analyzing the overall genetic variation and suggests that educational attainment is inversely related to genetic variation.</p></blockquote>
-<p>Basically, the authors did some correlations on genomic data in a database, and they think they’ve found an inverse association — high <em>genetic diversity</em> in a population is coupled with low <em>educational attainment</em>. That is, coming from a region with high genetic diversity, like say, <em>Africa</em>, is correlated with, for instance, lower education. To which I would suggest that maybe that’s not surprising, that a continent that has been exploited and colonized for centuries, might have historical reasons for its people not having the advantages of the colonizer countries. But this paper wants to imply that that educational handicap is <em>genetic</em>.</p>
-<p>Who reviewed this thing, anyway?</p>
-<p>The authors use cautious wording in the abstract. The corresponding author, Shi Huang, is letting his racist freak flag fly on Twitter, though. He’s explaining how we’re supposed to interpret it.</p>
-<div id="attachment_68753" style="width: 510px" class="wp-caption aligncenter"><a href="https://freethoughtblogs.com/pharyngula/files/2022/12/huang1.png"><img src="https://freethoughtblogs.com/pharyngula/files/2022/12/huang1-500x575.png" alt="" width="500" height="575" class="size-large wp-image-68753" srcset="https://freethoughtblogs.com/pharyngula/files/2022/12/huang1-500x575.png 500w, https://freethoughtblogs.com/pharyngula/files/2022/12/huang1-130x150.png 130w, https://freethoughtblogs.com/pharyngula/files/2022/12/huang1-261x300.png 261w, https://freethoughtblogs.com/pharyngula/files/2022/12/huang1.png 586w" sizes="(max-width: 500px) 100vw, 500px"/></a><p class="wp-caption-text">Our latest paper. We show that genetic diversity is a new genetic factor in cognition, challenging the Out of Africa model. GD in human is under selection and has little to do with long evolutionary time or being human ancestors.</p></div>
-<p>Excuse me? We’ve already gone from “educational attainment” to “cognition,” which is enough of a leap, but he’s somehow using these correlations to claim that modern humans did not evolve from African ancestors? Data not shown. Then, remarkably, he claims that genetic diversity is somehow selected for, that it has nothing to do with history or ancestry. Fucking data not fucking shown. This makes no sense. How does he get to this conclusion?</p>
-<div id="attachment_68754" style="width: 510px" class="wp-caption aligncenter"><a href="https://freethoughtblogs.com/pharyngula/files/2022/12/huang2.png"><img src="https://freethoughtblogs.com/pharyngula/files/2022/12/huang2-500x146.png" alt="" width="500" height="146" class="size-large wp-image-68754" srcset="https://freethoughtblogs.com/pharyngula/files/2022/12/huang2-500x146.png 500w, https://freethoughtblogs.com/pharyngula/files/2022/12/huang2-150x44.png 150w, https://freethoughtblogs.com/pharyngula/files/2022/12/huang2-300x88.png 300w, https://freethoughtblogs.com/pharyngula/files/2022/12/huang2.png 586w" sizes="(max-width: 500px) 100vw, 500px"/></a><p class="wp-caption-text">The San have the highest GD and the lowest cognition/civilization in humans and are believed to be the ancestors, i.e., Out of Africa. The only alternative is the maximum GD theory that GD has an upper limit, which is inversely proportional to brain function or complexity.</p></div>
-<p>That this African group have high genetic diversity compared to other populations has been noted before, but “lowest cognition”? That’s absurd. This smacks of the discredited pseudo-scientific racism of Shockley and Lynn. “Lowest civilization”…again, how do you measure that? It’s more Western bias.</p>
-<p>Then he completely demolishes his credibility. No one believes the San are the ancestors of other groups of people; they can’t be. They’re a modern human culture. They’re as derived as any other population on the planet, equally divergent from our shared distant ancestors. This guy is a professor of genetics? And there he goes again, blithely transforming “educational attainment” into “brain function or complexity.” That’s not valid.</p>
-<p>The thread just goes haring after all kinds of absurdities.</p>
-<div id="attachment_68755" style="width: 510px" class="wp-caption aligncenter"><a href="https://freethoughtblogs.com/pharyngula/files/2022/12/huang3.png"><img src="https://freethoughtblogs.com/pharyngula/files/2022/12/huang3-500x144.png" alt="" width="500" height="144" class="size-large wp-image-68755" srcset="https://freethoughtblogs.com/pharyngula/files/2022/12/huang3-500x144.png 500w, https://freethoughtblogs.com/pharyngula/files/2022/12/huang3-150x43.png 150w, https://freethoughtblogs.com/pharyngula/files/2022/12/huang3-300x87.png 300w, https://freethoughtblogs.com/pharyngula/files/2022/12/huang3.png 586w" sizes="(max-width: 500px) 100vw, 500px"/></a><p class="wp-caption-text">This inverse relationship holds well among species (the higher the complexity, the lower the GD), which means that the highest GD of the San may be the reason for their cognition level being the lowest. The origin of humans may actually not be in Africa but in E Asia.</p></div>
-<p>Wait wait wait. So he’s arguing that highly inbred species with high degrees of homozygosity, like many lab animals, are going to have a higher “cognition level” than wild and genetically diverse animals? How did he measure “complexity”? He’s claiming a correlation throughout the animal kingdom, did he really measure the genetic diversity of a large number of species and show that small-brained species are a causal consequence of having greater genetic diversity? Alternative hypothesis: the larger your brain, the more specialized in that category you have to be, and the smaller your population size can be, thereby limiting the number of variants that can exist in the population. You aren’t large-brained <em>because</em> your population has limited diversity, and also, because all Shi Huang has done here is a correlational analysis, he can’t claim causality.</p>
-<p>He really has a bug up his butt about the out-of-Africa model. I suspect it’s more about not wanting to have African ancestors, and is fundamentally a racist bias.</p>
-<p>For completeness’ sake, here are the rest of his claims. I don’t care anymore. He’s a fool.</p>
-<div id="attachment_68756" style="width: 510px" class="wp-caption aligncenter"><a href="https://freethoughtblogs.com/pharyngula/files/2022/12/huang4-6.png"><img src="https://freethoughtblogs.com/pharyngula/files/2022/12/huang4-6-500x404.png" alt="" width="500" height="404" class="size-large wp-image-68756" srcset="https://freethoughtblogs.com/pharyngula/files/2022/12/huang4-6-500x404.png 500w, https://freethoughtblogs.com/pharyngula/files/2022/12/huang4-6-150x121.png 150w, https://freethoughtblogs.com/pharyngula/files/2022/12/huang4-6-300x243.png 300w, https://freethoughtblogs.com/pharyngula/files/2022/12/huang4-6.png 586w" sizes="(max-width: 500px) 100vw, 500px"/></a><p class="wp-caption-text">Our study analyzed genotype/phenotype from more &gt;400,000 people in the UK, calculated multiple measures of GD for each individual, and examined which traits these measures were associated with using linear regression analysis that has controlled for confounding factors.<br/>Among 17 traits examined, only education attainment, a proxy of IQ, has the best association (inverse) with GD. Only brain-expressed genes, but not brain-non-expressed, showed an association. The association of non-syn variants is higher than that of syn or intronic variants.<br/>Low cognition is subject to natural selection, and so the underlying GD must be also rather than being time-related and not subject to natural selection as assumed by the molecular clock and neutral theory. The finding challenges the assumption of the OOA model.</p></div>
-<p>I tried to dig deeper into who this guy is, but was repelled because he seems to be beloved by the scientific racists. For instance, I got a little of his background from the <a href="https://sv.wikipedia.org/wiki/Fria_Tider">Free Times (FriaTider)</a>, a radical right wing newspaper in Sweden.</p>
-<blockquote><p>Shi Huang received his doctorate from the Univ. of California… and then worked… for a couple of decades, including as an associate professor at The Sanford-Burnham Institute. In 2009 he moved back to China and has since been a professor at Central South University in Hunan. Today he has a professorship in genetics, epigenetics and evolution…</p></blockquote>
-<p>Unfortunately, I got there from a horrible racist blog called “subspecieist”, which, I’m sorry to say, I won’t link to because it is so deeply despicable, but I will mention a previous “discovery” by Shi Huang that got them extremely excited.</p>
-<div id="attachment_68757" style="width: 510px" class="wp-caption aligncenter"><a href="https://freethoughtblogs.com/pharyngula/files/2022/12/ignorant-geneticist.png"><img src="https://freethoughtblogs.com/pharyngula/files/2022/12/ignorant-geneticist-500x286.png" alt="" width="500" height="286" class="size-large wp-image-68757" srcset="https://freethoughtblogs.com/pharyngula/files/2022/12/ignorant-geneticist-500x286.png 500w, https://freethoughtblogs.com/pharyngula/files/2022/12/ignorant-geneticist-150x86.png 150w, https://freethoughtblogs.com/pharyngula/files/2022/12/ignorant-geneticist-300x172.png 300w, https://freethoughtblogs.com/pharyngula/files/2022/12/ignorant-geneticist-768x440.png 768w, https://freethoughtblogs.com/pharyngula/files/2022/12/ignorant-geneticist.png 1177w" sizes="(max-width: 500px) 100vw, 500px"/></a><p class="wp-caption-text">Geneticist Dr. Shi Huang: Shocking evidence, Africans closer genetically to Chimpanzees than Eurasians</p></div>
-<p>Jesus. What an ignorant crock of shit. No. That makes no sense at all. Both modern Africans and modern Eurasians are equally distantly removed from our chimpanzee ancestors. Shi Huang really desperately wants to argue that he didn’t have any black ancestors, I guess, and he’ll make all kinds of illogical leaps to demonstrate that.</p>
-<p>And this crank still gets published by <i>Nature</i>.</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Nature‘s Journal of Human Genetics, that is. It’s a little piece titled “The collective effects of genetic variants and complex traits” by Mingrui Wang &amp; Shi Huang, and the abstract is a bit odd. Traditional approaches in studying the genetics of complex traits have focused on identifying specific genetic variants. However, the collective effects of […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=68752</id>
-    <published>2022-12-13T23:04:48Z</published>
-    <updated>2022-12-13T23:04:48Z</updated>
-    <category term="Bad science"/>
   </entry>
   <entry>
     <title>Secular Rescue – Saving Freedom, Saving Lives</title>
@@ -395,78 +378,6 @@
     <published>2021-11-01T15:01:20Z</published>
     <updated>2021-11-01T15:01:20Z</updated>
     <category term="Quirky stuff"/>
-  </entry>
-  <entry>
-    <title>Evidence to House of Commons Sci Tech Select Committee on Research Integrity</title>
-    <link rel="alternate" href="https://www.badscience.net/2017/12/evidence-to-house-of-commons-sci-tech-select-committee-on-research-integrity/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Sorry not to be in regular blogging mode at the moment. Here’s a video of our evidence session to parliament, where they are running an inquiry into research integrity. I think clinical trials are the best possible way to approach this issue. Lots of things in “research integrity” are hard to capture in hard logical […]</div>
-    </content>
-    <author>
-      <name>Ben Goldacre</name>
-    </author>
-    <id>http://www.badscience.net/?p=3498</id>
-    <published>2017-12-05T11:42:17Z</published>
-    <updated>2017-12-05T11:42:17Z</updated>
-    <category term="alltrials campaign"/>
-    <category term="publication bias"/>
-  </entry>
-  <entry>
-    <title>How do the world’s biggest drug companies compare, in their transparency commitments?</title>
-    <link rel="alternate" href="https://www.badscience.net/2017/07/how-do-the-worlds-biggest-drug-companies-compare-in-their-transparency-commitments/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Hereâ€™s a paper, and associated website, that we launch today: we have assessed, and then ranked, all the biggest drug companies in the world, to compare their public commitments on trials transparency. Regular readers will be familiar with this ongoing battle. In medicine we use the results of clinical trials to make informed treatments about […]</div>
-    </content>
-    <author>
-      <name>Ben Goldacre</name>
-    </author>
-    <id>http://www.badscience.net/?p=3485</id>
-    <published>2017-07-27T06:33:23Z</published>
-    <updated>2017-07-27T06:33:23Z</updated>
-    <category term="bad science"/>
-  </entry>
-  <entry>
-    <title>Meaningful Transparency Commitments: the WHO Joint Statement from Trial Funders</title>
-    <link rel="alternate" href="https://www.badscience.net/2017/07/meaningful-transparency-commitments-the-who-joint-statement-from-trial-funders/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">By now I hope you all know about the ongoing global scandal of clinical trial results being left unpublished, and of course our AllTrials campaign. Doctors, researchers, and patients cannot make truly informed choices about which treatments work best if they don’t have access to all the trial results. Earlier this year, I helped out […]</div>
-    </content>
-    <author>
-      <name>Ben Goldacre</name>
-    </author>
-    <id>http://www.badscience.net/?p=3481</id>
-    <published>2017-07-26T16:17:06Z</published>
-    <updated>2017-07-26T16:17:06Z</updated>
-    <category term="bad science"/>
-    <category term="publication bias"/>
-  </entry>
-  <entry>
-    <title>How many epidemiologists does it take to change a lightbulb?</title>
-    <link rel="alternate" href="https://www.badscience.net/2017/02/how-many-epidemiologists-does-it-take-to-change-a-lightbulb/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Robin Ince just asked if I know any epidemiologist lightbulb jokes. I wrote this for him. How many epidemiologists does it take to change a lightbulb? Weâ€™ve found 12,000 switches hidden around the house. Some of them turn this lightbulb on, some of them donâ€™t; some of them only work sometimes; and some of them […]</div>
-    </content>
-    <author>
-      <name>Ben Goldacre</name>
-    </author>
-    <id>http://www.badscience.net/?p=3472</id>
-    <published>2017-02-01T12:49:44Z</published>
-    <updated>2017-02-01T12:49:44Z</updated>
-    <category term="bad science"/>
-  </entry>
-  <entry>
-    <title>“Transparency, Beyond Publication Bias”. A video of my super-speedy talk at IJE.</title>
-    <link rel="alternate" href="https://www.badscience.net/2016/10/transparency-beyond-publication-bias-a-video-of-my-super-speedy-talk-at-ije/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">People oftenÂ talk about “trials transparency” as if this means “all trials must be published in an academic journal”. In reality, true transparency goes much further than this. We need Clinical Study Reports, and individual patient data, of course. But we also need the consent forms, so we can see what patients were told. We need […]</div>
-    </content>
-    <author>
-      <name>Ben Goldacre</name>
-    </author>
-    <id>http://www.badscience.net/?p=3463</id>
-    <published>2016-10-11T08:01:43Z</published>
-    <updated>2016-10-11T08:01:43Z</updated>
-    <category term="bad science"/>
   </entry>
   <entry>
     <title>For any teen atheists who want to be on TV</title>
