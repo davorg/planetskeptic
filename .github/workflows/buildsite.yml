@@ -23,9 +23,9 @@ jobs:
     - name: Commit new page
       if: github.repository == 'davorg/planetskeptic'
       run: |
+        git config --global --add safe.directory /__w/planetskeptic/planetskeptic
         GIT_STATUS=$(git status --porcelain)
         echo $GIT_STATUS
-        git config --global --add safe.directory /__w/planetskeptic/planetskeptic
         git config --global user.name 'Automated Workflow'
         git config --global user.email "${GITHUB_ACTOR}@users.noreply.github.com"
         git add docs/index.html docs/atom.xml
