@@ -14,7 +14,7 @@ feed:
   file: docs/atom.xml
   format: Atom
 cache_dir: /tmp/skeptic
-google_ga: UA-56332-20
+google_ga: G-D2YESV1XLK
 feeds:
   - url: https://www.badscience.net/feed/
     title: bad science
