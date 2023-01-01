@@ -7,9 +7,39 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-01-01T10:30:03Z</updated>
+  <updated>2023-01-01T11:28:47Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>OPEN DISCUSSION JANUARY 2023</title>
+    <link rel="alternate" href="https://richarddawkins.net/2023/01/open-discussion-january-2023/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">This thread has been created for thoughtful, rational discussion on subjects for which there are not currently any dedicated threads. Please note that our Comment Policy applies as usual. There is a link to this at the foot of the page. If you would like to refer back to previous open discussion threads, the most …</div>
+    </content>
+    <author>
+      <name>Moderator</name>
+    </author>
+    <id>https://richarddawkins.net/?p=978482</id>
+    <published>2023-01-01T10:47:01Z</published>
+    <updated>2023-01-01T10:47:01Z</updated>
+    <category term="Discussion"/>
+    <category term="Featured"/>
+  </entry>
+  <entry>
+    <title>BOOK CLUB 2023</title>
+    <link rel="alternate" href="https://richarddawkins.net/2023/01/book-club-2023/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">This is the 2023 follow-on from the 2022 BOOK CLUB thread, which is now closed, though you can easily refer back to earlier discussions by clicking on the link. BOOK CLUB 2023 has been created to provide a dedicated space for the discussion of books. Pretty much any kind of book – it doesn’t have …</div>
+    </content>
+    <author>
+      <name>Moderator</name>
+    </author>
+    <id>https://richarddawkins.net/?p=978479</id>
+    <published>2023-01-01T10:40:58Z</published>
+    <updated>2023-01-01T10:40:58Z</updated>
+    <category term="Featured"/>
+    <category term="Special Topic"/>
+  </entry>
   <entry>
     <title>Even skeptical science guys sometimes make mistakes</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/12/31/even-skeptical-science-guys-sometimes-make-mistakes/" type="text/html"/>
@@ -242,35 +272,6 @@ We make it clear that during the entire criminal process, the investigated perso
     <category term="Politics"/>
     <category term="Religion"/>
     <category term="Science"/>
-  </entry>
-  <entry>
-    <title>CFI: Last Chance to Stick Up For Science</title>
-    <link rel="alternate" href="https://richarddawkins.net/2022/11/cfi-last-chance-to-stick-up-for-science/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Dear friend, When we look at how far we’ve come in bettering human health, lengthening lifespans, and increasing prosperity, one thing stands out: science saves.  Lifespans have doubled, modern medicine makes us healthier, and most of us have the food and basic comforts we need to do better than survive—to thrive. And it’s all due …</div>
-    </content>
-    <author>
-      <name>Moderator</name>
-    </author>
-    <id>https://richarddawkins.net/?p=978453</id>
-    <published>2022-11-23T12:09:06Z</published>
-    <updated>2022-11-23T12:09:06Z</updated>
-    <category term="Featured"/>
-    <category term="Original"/>
-  </entry>
-  <entry>
-    <title>OPEN DISCUSSION NOVEMBER 2022</title>
-    <link rel="alternate" href="https://richarddawkins.net/2022/11/open-discussion-november-2022/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">This thread has been created for thoughtful, rational discussion on subjects for which there are not currently any dedicated threads. Please note that our Comment Policy applies as usual. There is a link to this at the foot of the page. If you would like to refer back to previous open discussion threads, the most …</div>
-    </content>
-    <author>
-      <name>Moderator</name>
-    </author>
-    <id>https://richarddawkins.net/?p=978443</id>
-    <published>2022-11-01T09:48:19Z</published>
-    <updated>2022-11-01T09:48:19Z</updated>
-    <category term="Discussion"/>
   </entry>
   <entry>
     <title>New Book: Why Psychology Matters</title>
