@@ -7,9 +7,30 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-01-02T17:28:50Z</updated>
+  <updated>2023-01-02T18:31:12Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Grow a segmented spine!</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/01/02/grow-a-segmented-spine/" type="text/html"/>
+    <content type="html">&lt;p class="lead"&gt;You want to see something awesome? This is a video of human embryonic cells developing in a dish and activating the &lt;a href="https://www.nature.com/articles/s41586-022-05649-2"&gt;segmentation clock&lt;/a&gt; to build a series of somites.&lt;/p&gt;
+&lt;div class="center"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/kYZt5ygmaTA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;p&gt;That embryos do this is pretty neat but not surprising. It&amp;#8217;s easy to see that process going on in zebrafish embryos, where a new segmental blob pinches off every 20 minutes.  What&amp;#8217;s cool is that they&amp;#8217;ve pared down the system to just what looks like presomitic mesoderm &amp;#8212; no gut endoderm, no nervous system or ectoderm, just those mesodermal cells grouping and organizing to make pre-muscle tissue. At first, I thought, no big deal. We&amp;#8217;ve observed vertebrate segmentation in fish and frogs and chicks for many decades, why would we need to look at it in human embryos? They almost certainly use the same molecules and interactions as mice or any other vertebrate. It&amp;#8217;s got to be using &lt;i&gt;Notch&lt;/i&gt; signaling, after all.&lt;/p&gt;
+&lt;p&gt;What&amp;#8217;s special here, though, is that they&amp;#8217;ve reduced the complexity of the system to a remarkable degree. You don&amp;#8217;t need a nervous system or a gut or even, it seems, a notochord to assemble segmental organization. They&amp;#8217;re even getting colinear expression of HOX genes! That&amp;#8217;s the surprise to me, that so little is required to trigger oscillatory expression and patterning. And that&amp;#8217;s the point the authors emphasize.&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;Our bottom-up experimental approach demonstrates that complex developmental events such as somitogenesis, can be deconstructed and dissected into discrete “building blocks” of developmental principles which are usually intricately connected and cannot be easily uncoupled in vivo. Axioloids, a self-organizing in vitro model of human axial development allowed us to individually assess and manipulate such building blocks at the molecular, cellular and morphogenetic level. Axioloids -a surrogate model of the human embryonic tail and forming axis- are capable of recapitulating core features of human somitogenesis, and represent an exciting new platform to investigate axial development and disease in a human context.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Don&amp;#8217;t read the YouTube comments. There are people complaining that &lt;q&gt;it&amp;#8217;s a human life with a unique genetic code&lt;/q&gt; (no, it&amp;#8217;s not a person, and these embryonic cultures cannot develop into a person &amp;#8212; while scraps of mesoderm might be enough to make somites, it&amp;#8217;s not sufficient to build a whole human being) and &lt;q&gt;Stop trying to PLAY GOD!!!&lt;/q&gt; (this isn&amp;#8217;t god-like, it&amp;#8217;s &lt;em&gt;biology&lt;/em&gt;).&lt;/p&gt;
+</content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">You want to see something awesome? This is a video of human embryonic cells developing in a dish and activating the segmentation clock to build a series of somites. That embryos do this is pretty neat but not surprising. It’s easy to see that process going on in zebrafish embryos, where a new segmental blob […]</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=68942</id>
+    <published>2023-01-02T18:03:54Z</published>
+    <updated>2023-01-02T18:03:54Z</updated>
+    <category term="Development"/>
+  </entry>
   <entry>
     <title>Funzies in the grandparent’s house</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/01/02/funzies-in-the-grandparents-house/" type="text/html"/>
@@ -156,25 +177,6 @@
     <published>2023-01-01T18:55:15Z</published>
     <updated>2023-01-01T18:55:15Z</updated>
     <category term="Atheism and Skepticism"/>
-  </entry>
-  <entry>
-    <title>Happy New Year, I guess</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/01/01/happy-new-year-i-guess/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><div id="attachment_68926" style="width: 510px" class="wp-caption aligncenter"><a href="https://freethoughtblogs.com/pharyngula/files/2023/01/newyear.jpg"><img src="https://freethoughtblogs.com/pharyngula/files/2023/01/newyear-500x333.jpg" alt="" width="500" height="333" class="size-large wp-image-68926" srcset="https://freethoughtblogs.com/pharyngula/files/2023/01/newyear.jpg 500w, https://freethoughtblogs.com/pharyngula/files/2023/01/newyear-150x100.jpg 150w, https://freethoughtblogs.com/pharyngula/files/2023/01/newyear-300x200.jpg 300w" sizes="(max-width: 500px) 100vw, 500px"/></a><p class="wp-caption-text"><a href="https://myjetpack.tumblr.com/post/705164351457411072/for-new-scientist">Tom Gauld</a></p></div>
-<p class="lead">My daughter and granddaughter went back home the day before yesterday, my wife caught the kiddie crud from them (I’m a little sniffly myself), and today I have to start prepping to teach genetics again. How’s your year starting out?</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">My daughter and granddaughter went back home the day before yesterday, my wife caught the kiddie crud from them (I’m a little sniffly myself), and today I have to start prepping to teach genetics again. How’s your year starting out?</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=68925</id>
-    <published>2023-01-01T13:51:08Z</published>
-    <updated>2023-01-01T13:51:08Z</updated>
-    <category term="Miscellaneous and Meta"/>
   </entry>
   <entry>
     <title>OPEN DISCUSSION JANUARY 2023</title>
