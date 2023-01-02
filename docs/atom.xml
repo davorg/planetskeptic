@@ -7,9 +7,31 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-01-02T16:34:03Z</updated>
+  <updated>2023-01-02T17:28:50Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Funzies in the grandparent’s house</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/01/02/funzies-in-the-grandparents-house/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p class="lead">It’s a Masque of the Red Death scenario. I’ve been happily free of infectious disease for the last few years, thanks to social distancing/masking and excessive caution. No colds! No sniffles! No lying abed with the blinds closed all day! It’s been nice. All that has changed.</p>
+<p>Earlier this week, my daughter and granddaughter came to visit and brought back memories of when our kids would bring home all kinds of crud from school every day. Mary has been hit hardest with snot and phlegm and goo and sore throat and muscle aches, and has been laid flat for a few days. I got a sniffle. This is an unusual situation — usually I’m the one lying in bed crying and weeping, and she has to take care of me.</p>
+<p>She’s starting to feel better now, she says, and of course we’d be happy to have the cheerful little plague rat come back again. Even if she was beating me at checkers all the time. She didn’t even know how to play the game until I taught it to her!</p>
+<p><a href="https://freethoughtblogs.com/pharyngula/files/2023/01/iliana-checkers.png"><img src="https://freethoughtblogs.com/pharyngula/files/2023/01/iliana-checkers-500x546.png" alt="" width="500" height="546" class="aligncenter size-large wp-image-68940" srcset="https://freethoughtblogs.com/pharyngula/files/2023/01/iliana-checkers.png 500w, https://freethoughtblogs.com/pharyngula/files/2023/01/iliana-checkers-137x150.png 137w, https://freethoughtblogs.com/pharyngula/files/2023/01/iliana-checkers-275x300.png 275w" sizes="(max-width: 500px) 100vw, 500px"/></a></p>
+<p>She was probably oozing brain-eating viruses the whole visit, and that’s the only reason she could win.</p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">It’s a Masque of the Red Death scenario. I’ve been happily free of infectious disease for the last few years, thanks to social distancing/masking and excessive caution. No colds! No sniffles! No lying abed with the blinds closed all day! It’s been nice. All that has changed. Earlier this week, my daughter and granddaughter came […]</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=68939</id>
+    <published>2023-01-02T17:01:47Z</published>
+    <updated>2023-01-02T17:01:47Z</updated>
+    <category term="Miscellaneous and Meta"/>
+  </entry>
   <entry>
     <title>You don’t have to bring back blogging</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/01/02/you-dont-have-to-bring-back-blogging/" type="text/html"/>
@@ -183,23 +205,6 @@
     <updated>2023-01-01T10:40:58Z</updated>
     <category term="Featured"/>
     <category term="Special Topic"/>
-  </entry>
-  <entry>
-    <title>Even skeptical science guys sometimes make mistakes</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2022/12/31/even-skeptical-science-guys-sometimes-make-mistakes/" type="text/html"/>
-    <content type="html">&lt;p class="lead"&gt;SciManDan (a much better known YouTuber than myself) made some serious errors of the evolutionary biology kind in a recent video. I had to speak out about eye evolution and junk DNA.&lt;/p&gt;
-&lt;div class="center"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/E4DCR-69EK4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-</content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">SciManDan (a much better known YouTuber than myself) made some serious errors of the evolutionary biology kind in a recent video. I had to speak out about eye evolution and junk DNA.</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=68923</id>
-    <published>2022-12-31T18:44:09Z</published>
-    <updated>2022-12-31T18:44:09Z</updated>
-    <category term="Science"/>
   </entry>
   <entry>
     <title>Looking back on 2022: blind faith comes in many forms</title>
