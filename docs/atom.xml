@@ -7,9 +7,28 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-01-04T16:37:50Z</updated>
+  <updated>2023-01-04T17:30:57Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Photoreceptor evolution</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/01/04/photoreceptor-evolution/" type="text/html"/>
+    <content type="html">&lt;p class="lead"&gt;There was a fair amount of interest in my discussion of eye evolution last week, so let&amp;#8217;s get a little more in-depth. This is a lecture on the level of what I tell my first year students in intro biology, so let&amp;#8217;s see if I can put you to sleep, too.&lt;/p&gt;
+&lt;p&gt;Premieres at 2pm Central this afternoon. I&amp;#8217;ll check in then to answer any questions, if any.&lt;/p&gt;
+&lt;div class="center"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/jhexF9rEo-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;p&gt;I&amp;#8217;ve got a nasty cold, but I think my voice held up as well as could be expected &amp;#8212; at least I held off the sneezing &amp;amp; coughing &amp;amp; vulgar snerks.&lt;/p&gt;
+</content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">There was a fair amount of interest in my discussion of eye evolution last week, so let’s get a little more in-depth. This is a lecture on the level of what I tell my first year students in intro biology, so let’s see if I can put you to sleep, too. Premieres at 2pm Central […]</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=68959</id>
+    <published>2023-01-04T16:55:08Z</published>
+    <updated>2023-01-04T16:55:08Z</updated>
+    <category term="Science"/>
+  </entry>
   <entry>
     <title>Pro-natalists, long-termists, the Church of the Future Police…what a nightmare</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/01/03/pro-natalists-long-termists-the-church-of-the-future-policewhat-a-nightmare/" type="text/html"/>
@@ -129,27 +148,6 @@
     <published>2023-01-03T13:42:28Z</published>
     <updated>2023-01-03T13:42:28Z</updated>
     <category term="Miscellaneous and Meta"/>
-  </entry>
-  <entry>
-    <title>Grow a segmented spine!</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/01/02/grow-a-segmented-spine/" type="text/html"/>
-    <content type="html">&lt;p class="lead"&gt;You want to see something awesome? This is a video of human embryonic cells developing in a dish and activating the &lt;a href="https://www.nature.com/articles/s41586-022-05649-2"&gt;segmentation clock&lt;/a&gt; to build a series of somites.&lt;/p&gt;
-&lt;div class="center"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/kYZt5ygmaTA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-&lt;p&gt;That embryos do this is pretty neat but not surprising. It&amp;#8217;s easy to see that process going on in zebrafish embryos, where a new segmental blob pinches off every 20 minutes.  What&amp;#8217;s cool is that they&amp;#8217;ve pared down the system to just what looks like presomitic mesoderm &amp;#8212; no gut endoderm, no nervous system or ectoderm, just those mesodermal cells grouping and organizing to make pre-muscle tissue. At first, I thought, no big deal. We&amp;#8217;ve observed vertebrate segmentation in fish and frogs and chicks for many decades, why would we need to look at it in human embryos? They almost certainly use the same molecules and interactions as mice or any other vertebrate. It&amp;#8217;s got to be using &lt;i&gt;Notch&lt;/i&gt; signaling, after all.&lt;/p&gt;
-&lt;p&gt;What&amp;#8217;s special here, though, is that they&amp;#8217;ve reduced the complexity of the system to a remarkable degree. You don&amp;#8217;t need a nervous system or a gut or even, it seems, a notochord to assemble segmental organization. They&amp;#8217;re even getting colinear expression of HOX genes! That&amp;#8217;s the surprise to me, that so little is required to trigger oscillatory expression and patterning. And that&amp;#8217;s the point the authors emphasize.&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;Our bottom-up experimental approach demonstrates that complex developmental events such as somitogenesis, can be deconstructed and dissected into discrete “building blocks” of developmental principles which are usually intricately connected and cannot be easily uncoupled in vivo. Axioloids, a self-organizing in vitro model of human axial development allowed us to individually assess and manipulate such building blocks at the molecular, cellular and morphogenetic level. Axioloids -a surrogate model of the human embryonic tail and forming axis- are capable of recapitulating core features of human somitogenesis, and represent an exciting new platform to investigate axial development and disease in a human context.&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;Don&amp;#8217;t read the YouTube comments. There are people complaining that &lt;q&gt;it&amp;#8217;s a human life with a unique genetic code&lt;/q&gt; (no, it&amp;#8217;s not a person, and these embryonic cultures cannot develop into a person &amp;#8212; while scraps of mesoderm might be enough to make somites, it&amp;#8217;s not sufficient to build a whole human being) and &lt;q&gt;Stop trying to PLAY GOD!!!&lt;/q&gt; (this isn&amp;#8217;t god-like, it&amp;#8217;s &lt;em&gt;biology&lt;/em&gt;).&lt;/p&gt;
-</content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">You want to see something awesome? This is a video of human embryonic cells developing in a dish and activating the segmentation clock to build a series of somites. That embryos do this is pretty neat but not surprising. It’s easy to see that process going on in zebrafish embryos, where a new segmental blob […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=68942</id>
-    <published>2023-01-02T18:03:54Z</published>
-    <updated>2023-01-02T18:03:54Z</updated>
-    <category term="Development"/>
   </entry>
   <entry>
     <title>Book review: Escape</title>
