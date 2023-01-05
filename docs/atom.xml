@@ -7,9 +7,32 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-01-05T13:33:03Z</updated>
+  <updated>2023-01-05T14:30:29Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Student Evaluation of Teaching</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/01/05/student-evaluation-of-teaching/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p><a href="https://freethoughtblogs.com/pharyngula/files/2023/01/grades.jpeg"><img src="https://freethoughtblogs.com/pharyngula/files/2023/01/grades-150x142.jpeg" alt="" width="150" height="142" class="alignright size-thumbnail wp-image-68962" srcset="https://freethoughtblogs.com/pharyngula/files/2023/01/grades-150x142.jpeg 150w, https://freethoughtblogs.com/pharyngula/files/2023/01/grades-300x284.jpeg 300w, https://freethoughtblogs.com/pharyngula/files/2023/01/grades-500x474.jpeg 500w, https://freethoughtblogs.com/pharyngula/files/2023/01/grades.jpeg 652w" sizes="(max-width: 150px) 100vw, 150px"/></a></p>
+<p class="lead">For you non-academics unfamiliar with life at the university, yesterday was the day I got my evaluations. Yes, it’s true, the students get to turn everything around and grade the faculty on their performance. I can’t actually fail — tenure, you know — but these things do matter when it’s time to determine raises and that sort of thing (which will be roughly in mid-March). The department gets a tiny pot of money that the chair will dole out to the good little boys and girls, and she will use student evals as part of the determination, which also includes research and service.</p>
+<p>So yesterday I cracked the virtual envelope to get the results, and they were fine. On a scale of 0 to 6, I got all 5s and 6s, which might translate into a raise of a few tens of dollars in a few months. It probably isn’t worth it, because I have to bust my ass for a year to get biology across to the students.</p>
+<p>What’s more interesting is the comments students write, which I take far more seriously than numbers punched into a Likert scale, and are far more likely to get me to change things in the course. I got a few criticisms that made me happy.</p>
+<p>Students said, “wasted too much time on creationism” and “I want to learn more biology, not creationism.” For context, I give ONE(1) lecture out of 30 that addresses religious objections to evolutionary theory. One. And this audience of smart millennials is just completely over it. That makes me so happy.</p>
+<p>OK, have it your way. I’m cutting that lecture out of next year’s curriculum, and replacing it with more straight-up unvarnished biology, with no regrets. I hope this class is representative of their generation, because it’s about time we could ignore that nonsense.</p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">For you non-academics unfamiliar with life at the university, yesterday was the day I got my evaluations. Yes, it’s true, the students get to turn everything around and grade the faculty on their performance. I can’t actually fail — tenure, you know — but these things do matter when it’s time to determine raises and […]</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=68961</id>
+    <published>2023-01-05T14:06:58Z</published>
+    <updated>2023-01-05T14:06:58Z</updated>
+    <category term="My classes"/>
+  </entry>
   <entry>
     <title>Photoreceptor evolution</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/01/04/photoreceptor-evolution/" type="text/html"/>
@@ -128,26 +151,6 @@
     <published>2023-01-03T14:21:23Z</published>
     <updated>2023-01-03T14:21:23Z</updated>
     <category term="Politics, History, and Law"/>
-  </entry>
-  <entry>
-    <title>The House of Silence</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/01/03/the-house-of-silence/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p><a href="https://freethoughtblogs.com/pharyngula/files/2023/01/silencio.jpeg"><img src="https://freethoughtblogs.com/pharyngula/files/2023/01/silencio-150x150.jpeg" alt="" width="150" height="150" class="alignright size-thumbnail wp-image-68945" srcset="https://freethoughtblogs.com/pharyngula/files/2023/01/silencio-150x150.jpeg 150w, https://freethoughtblogs.com/pharyngula/files/2023/01/silencio-300x300.jpeg 300w, https://freethoughtblogs.com/pharyngula/files/2023/01/silencio.jpeg 400w" sizes="(max-width: 150px) 100vw, 150px"/></a></p>
-<p class="lead">The disease afflicting our house has now descended into the quiet hush phase. Our throats are sore, it hurts to talk; my wife <em>waved</em> good morning to me, we haven’t said a single word yet. It’s a bit eerie.</p>
-<p>Don’t bother to visit, it’s like popping into a monastery where all the monks have taken vows of silence. You will get only gestures, and you will be turned away.</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">The disease afflicting our house has now descended into the quiet hush phase. Our throats are sore, it hurts to talk; my wife waved good morning to me, we haven’t said a single word yet. It’s a bit eerie. Don’t bother to visit, it’s like popping into a monastery where all the monks have taken […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=68944</id>
-    <published>2023-01-03T13:42:28Z</published>
-    <updated>2023-01-03T13:42:28Z</updated>
-    <category term="Miscellaneous and Meta"/>
   </entry>
   <entry>
     <title>Book review: Escape</title>
