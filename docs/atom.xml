@@ -7,9 +7,41 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-01-09T12:38:58Z</updated>
+  <updated>2023-01-09T13:32:48Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Turning point in the war against my personal virus</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/01/09/turning-point-in-the-war-against-my-personal-virus/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p><a href="https://freethoughtblogs.com/pharyngula/files/2021/05/covid.jpg"><img src="https://freethoughtblogs.com/pharyngula/files/2021/05/covid-150x100.jpg" alt="" width="150" height="100" class="alignright size-thumbnail wp-image-62859" srcset="https://freethoughtblogs.com/pharyngula/files/2021/05/covid-150x100.jpg 150w, https://freethoughtblogs.com/pharyngula/files/2021/05/covid-300x201.jpg 300w, https://freethoughtblogs.com/pharyngula/files/2021/05/covid-768x514.jpg 768w, https://freethoughtblogs.com/pharyngula/files/2021/05/covid-500x334.jpg 500w, https://freethoughtblogs.com/pharyngula/files/2021/05/covid.jpg 1280w" sizes="(max-width: 150px) 100vw, 150px"/></a></p>
+<p class="lead">I have been cold-free for the last couple of years, which is a desirable condition to be in. Then, almost a week and a half ago, my granddaughter showed up at my doorstep with a face full of snot. We let her in. We knew the price we would pay.</p>
+<p>I’ve been miserably clogged up ever since. I was waking up 3 or 4 times a night, struggling to breathe. I was horking up thick, slimy mucus all the time, feeling exhausted and disgusting.</p>
+<p>Last night, though was a welcome turning point. I slept a continuous 8 hours! I woke up still able to breathe! I’m still messily congested, but it’s clearly at the mop-up phase where I send macrophages armed with flamethrowers into the caves and tunnels of my face to torch the invaders. Yay! I might be back to normal in time for back-to-school.</p>
+<p>Unfortunately, there is a more worrisome virus waiting in the wings: <a href="https://www.washingtonpost.com/health/2023/01/08/new-covid-variant-xbb15/">XBB-1.5</a>.</p>
+<blockquote><p>Three years after the novel coronavirus emerged, a new variant, XBB.1.5, is quickly becoming the dominant strain in parts of the United States because of a potent mix of mutations that makes it easier to spread broadly, including among those who have been previously infected or vaccinated.</p>
+<p>XBB.1.5, pegged by the World Health Organization as “the most transmissible” descendant yet of the omicron variant, rose from barely 2 percent of U.S. cases at the start of December to more than 27 percent the first week of January, according to new estimates by the Centers for Disease Control and Prevention.</p>
+<p>More than 70 percent of cases in the Northeast are believed to be XBB.1.5.</p></blockquote>
+<p>We must remain ever-vigilant. Mask up, everyone! I’m afraid my university administration, as well as the federal administration, are committed to downplaying all concerns. My university hasn’t changed their policies since last May, when they decided that nobody needed to wear a mask at all.</p>
+<p>We’ve also got the usual idiots who understand neither evolution nor public health who have decided that new variants are <em>caused</em> by vaccination.</p>
+<blockquote><p>While there is no evidence so far that XBB.1.5 is more virulent than its predecessors, a recent swirl of misinformation linking the rise of new variants to vaccination has cast a spotlight on this latest strain and raised concern among some health experts that it could further limit booster uptake.</p>
+<p>“XBB did not evolve because people were vaccinated,” said Vaughn Cooper, a professor of evolutionary biology at the University of Pittsburgh. “The way it evolved, let’s be straight, is because people were infected by multiple viruses at the same time.”</p>
+<p>Since the omicron variant ignited an explosion of cases last winter, it spawned a host of descendants that are even more adept at slipping past antibodies and caused most infections in the United States. The XBB line emerged as a result of two other omicron subvariants swapping parts.</p></blockquote>
+<p>Isn’t that obvious? I mean, you’ve got the responsible people who take every measure to avoid the disease, and then you’ve got the people who go to football games and Walmart without taking precautions, who end up being little ambulatory cauldrons mixing up multiple variants simultaneously, and then some bozo decides the emergence of the explosion of new mix-and-match variants must be the fault of the guy who got the vaccines and stayed home in a safe little bubble.</p>
+<p>You know that bozo is going to be featured almost every night on Fox News and Newsmax, and is going to have a popular Facebook page, because the media are fucked.</p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">I have been cold-free for the last couple of years, which is a desirable condition to be in. Then, almost a week and a half ago, my granddaughter showed up at my doorstep with a face full of snot. We let her in. We knew the price we would pay. I’ve been miserably clogged up […]</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=68973</id>
+    <published>2023-01-09T12:40:47Z</published>
+    <updated>2023-01-09T12:40:47Z</updated>
+    <category term="Science"/>
+  </entry>
   <entry>
     <title>Back to normal!</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/01/08/back-to-normal/" type="text/html"/>
@@ -119,25 +151,6 @@
     <published>2023-01-05T14:06:58Z</published>
     <updated>2023-01-05T14:06:58Z</updated>
     <category term="My classes"/>
-  </entry>
-  <entry>
-    <title>Photoreceptor evolution</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/01/04/photoreceptor-evolution/" type="text/html"/>
-    <content type="html">&lt;p class="lead"&gt;There was a fair amount of interest in my discussion of eye evolution last week, so let&amp;#8217;s get a little more in-depth. This is a lecture on the level of what I tell my first year students in intro biology, so let&amp;#8217;s see if I can put you to sleep, too.&lt;/p&gt;
-&lt;p&gt;Premieres at 2pm Central this afternoon. I&amp;#8217;ll check in then to answer any questions, if any.&lt;/p&gt;
-&lt;div class="center"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/jhexF9rEo-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-&lt;p&gt;I&amp;#8217;ve got a nasty cold, but I think my voice held up as well as could be expected &amp;#8212; at least I held off the sneezing &amp;amp; coughing &amp;amp; vulgar snerks.&lt;/p&gt;
-</content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">There was a fair amount of interest in my discussion of eye evolution last week, so let’s get a little more in-depth. This is a lecture on the level of what I tell my first year students in intro biology, so let’s see if I can put you to sleep, too. Premieres at 2pm Central […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=68959</id>
-    <published>2023-01-04T16:55:08Z</published>
-    <updated>2023-01-04T16:55:08Z</updated>
-    <category term="Science"/>
   </entry>
   <entry>
     <title>Book review: Escape</title>
