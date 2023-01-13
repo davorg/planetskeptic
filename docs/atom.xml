@@ -7,9 +7,54 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-01-13T13:32:27Z</updated>
+  <updated>2023-01-13T14:30:21Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Another podcast?</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/01/13/another-podcast-2/" type="text/html"/>
+    <content type="html">&lt;p class="lead"&gt;This weekend, the crew at Freethoughtblogs is going to be all sweetness and light for an hour, as relief from the drudgery of winter.&lt;/p&gt;
+&lt;div class="center"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/9Zxl-DTZ8pw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+</content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">This weekend, the crew at Freethoughtblogs is going to be all sweetness and light for an hour, as relief from the drudgery of winter.</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=69010</id>
+    <published>2023-01-13T14:09:53Z</published>
+    <updated>2023-01-13T14:09:53Z</updated>
+    <category term="Miscellaneous and Meta"/>
+  </entry>
+  <entry>
+    <title>Rot in hell, Pell</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/01/13/rot-in-hell-pell/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p class="lead">Admire this work of art.</p>
+<p><a href="https://freethoughtblogs.com/pharyngula/files/2023/01/rotinhellpell.jpg"><img src="https://freethoughtblogs.com/pharyngula/files/2023/01/rotinhellpell-500x495.jpg" alt="" width="500" height="495" class="aligncenter size-large wp-image-69008" srcset="https://freethoughtblogs.com/pharyngula/files/2023/01/rotinhellpell-500x495.jpg 500w, https://freethoughtblogs.com/pharyngula/files/2023/01/rotinhellpell-150x150.jpg 150w, https://freethoughtblogs.com/pharyngula/files/2023/01/rotinhellpell-300x297.jpg 300w, https://freethoughtblogs.com/pharyngula/files/2023/01/rotinhellpell-768x761.jpg 768w, https://freethoughtblogs.com/pharyngula/files/2023/01/rotinhellpell.jpg 960w" sizes="(max-width: 500px) 100vw, 500px"/></a></p>
+<p>That’s beautiful.</p>
+<p>As you’ve probably heard, Cardinal Pell is dead and will be buried in the Vatican tomorrow. The news has been strange — I’m not seeing much talk about his child sex abuse history, since he was acquitted, after all.  All was forgiven, the Catholic church was <a href="https://news.yahoo.com/australian-cardinal-george-pell-died-225429184.html">relieved to be let off the hook</a>.</p>
+<blockquote><p>On the day of Pell’s acquittal in 2020, Francis offered his morning Mass for all those who suffer from unjust sentences, which he compared to the persecution of Jesus.</p></blockquote>
+<p>Ironic, then, that the latest scandal is the <a href="https://www.usnews.com/news/world/articles/2023-01-13/cardinal-pell-lies-in-state-funeral-plans-overshadowed-by-memo-revelation">discovery of a memo written by Pell</a>.</p>
+<blockquote><p>Australian Cardinal George Pell was lying in state on Friday, with funeral preparations overshadowed by revelations that he was the author of an anonymous memo that branded Pope Francis’ pontificate a catastrophe.</p></blockquote>
+<p>You don’t expect loyalty from a junkyard dog, do you? He was just a mean-spirited, nasty little man. He was the kind of <a href="https://www.theguardian.com/australia-news/2023/jan/13/george-pell-saw-climate-science-as-a-dangerous-religious-dogma-in-the-end-his-hardline-stance-held-the-church-back">rabid conservative who hated science and did immense harm to society</a>.</p>
+<blockquote><p>The late Cardinal George Pell left a legacy of climate science denial which – in his later years – became ever more distanced from reality and the position of the Catholic church.</p>
+<p>For decades in newspaper columns and speeches, Pell popularised climate denial talking points to dismiss the science of global heating and to brand environmentalists as hysterical and in the grip of a pseudo-religion.</p></blockquote>
+<p>What’s impressive is that Pell was one of the few people who could make a positive contribution to humanity by simply dropping dead.</p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Admire this work of art. That’s beautiful. As you’ve probably heard, Cardinal Pell is dead and will be buried in the Vatican tomorrow. The news has been strange — I’m not seeing much talk about his child sex abuse history, since he was acquitted, after all. All was forgiven, the Catholic church was relieved to […]</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=69007</id>
+    <published>2023-01-13T13:52:01Z</published>
+    <updated>2023-01-13T13:52:01Z</updated>
+    <category term="Uncategorized"/>
+  </entry>
   <entry>
     <title>Nick Bostrom wrote an email</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/01/12/nick-bostrom-wrote-an-email/" type="text/html"/>
@@ -112,52 +157,6 @@
     <published>2023-01-12T14:13:10Z</published>
     <updated>2023-01-12T14:13:10Z</updated>
     <category term="Science"/>
-  </entry>
-  <entry>
-    <title>Sarah Huckabee Sanders is the governor of Arkansas now</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/01/12/sarah-huckabee-sanders-is-the-governor-of-arkansas-now/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p><a href="https://freethoughtblogs.com/pharyngula/files/2023/01/sarahsanders.png"><img src="https://freethoughtblogs.com/pharyngula/files/2023/01/sarahsanders-105x150.png" alt="" width="105" height="150" class="alignright size-thumbnail wp-image-68994" srcset="https://freethoughtblogs.com/pharyngula/files/2023/01/sarahsanders-105x150.png 105w, https://freethoughtblogs.com/pharyngula/files/2023/01/sarahsanders-209x300.png 209w, https://freethoughtblogs.com/pharyngula/files/2023/01/sarahsanders.png 347w" sizes="(max-width: 105px) 100vw, 105px"/></a></p>
-<p class="lead">It sort of tells you all you need to know about the Republicans of Arkansas — that they would elect a whiny, lying, thin-skinned mouthpiece for the status quo with no administrative experience to a high position. What’s even more revealing, though, are <a href="https://www.nbcnews.com/news/latino/arkansas-gov-sarah-huckabee-sanders-bans-term-latinx-first-day-office-rcna65351">her first acts in office</a>.</p>
-<blockquote><p>Within hours of being sworn in as the new governor of Arkansas, Sarah Huckabee Sanders signed an executive order Tuesday banning the term “Latinx” from official use in the state government.</p>
-<p>It is one of the first, if not the first, executive order of its kind, Tabitha Bonilla, an associate professor of human development and social policy at Northwestern University, told NBC News.</p>
-<p>It was one of seven orders signed by Sanders, a Republican, right after taking the oath. The other ones focused on prohibiting Arkansas schools from teaching critical race theory, budgeting and spending as well as other government affairs.</p></blockquote>
-<p>That seems petty, that the first thing she does is have a snit over what some people call themselves. We must police the language, apparently, and that means dictating what words may be spoken and written in her presence, probably all in the name of free speech. It’s all about the “anti-woke agenda”.</p>
-<blockquote><p>For Ed Morales, the author of the book “Latinx: The New Force in American Politics and Culture,” the governor’s seemingly sudden interest to ban the term Latinx — which is often derided by conservatives and debated among some Latinos — speaks to “this anti-woke agenda” the Republican Party has increasingly adopted.</p>
-<p>“It is something that seems to be tied to things that they object to, which is really anything that prioritizes marginalized people and marginalized points of view,” Morales said.</p></blockquote>
-<p>Anti-woke is just another way of saying white supremacy. Every little thing she does is going to be about white supremacy, as you can tell from her first priorities.</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">It sort of tells you all you need to know about the Republicans of Arkansas — that they would elect a whiny, lying, thin-skinned mouthpiece for the status quo with no administrative experience to a high position. What’s even more revealing, though, are her first acts in office. Within hours of being sworn in as […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=68993</id>
-    <published>2023-01-12T13:44:27Z</published>
-    <updated>2023-01-12T13:44:27Z</updated>
-    <category term="Politics, History, and Law"/>
-  </entry>
-  <entry>
-    <title>Infinite Thread XXVI</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/01/11/infinite-thread-xxvi/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p class="lead">We are building a red republic in the comments. Join in!</p>
-<p><a href="https://freethoughtblogs.com/pharyngula/files/2023/01/redcity.jpeg"><img src="https://freethoughtblogs.com/pharyngula/files/2023/01/redcity-500x281.jpeg" alt="" width="500" height="281" class="aligncenter size-large wp-image-68990" srcset="https://freethoughtblogs.com/pharyngula/files/2023/01/redcity-500x281.jpeg 500w, https://freethoughtblogs.com/pharyngula/files/2023/01/redcity-150x84.jpeg 150w, https://freethoughtblogs.com/pharyngula/files/2023/01/redcity-300x169.jpeg 300w, https://freethoughtblogs.com/pharyngula/files/2023/01/redcity-768x432.jpeg 768w" sizes="(max-width: 500px) 100vw, 500px"/></a></p>
-<p><a href="https://freethoughtblogs.com/pharyngula/2022/10/13/infinite-thread-xxv/">Previous Thread</a></p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">We are building a red republic in the comments. Join in! Previous Thread</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=68989</id>
-    <published>2023-01-11T19:34:55Z</published>
-    <updated>2023-01-11T19:34:55Z</updated>
-    <category term="Miscellaneous and Meta"/>
   </entry>
   <entry>
     <title>"The romantic mystique is a force for social conservatism"</title>
