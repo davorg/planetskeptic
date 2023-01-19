@@ -7,9 +7,35 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-01-19T15:31:38Z</updated>
+  <updated>2023-01-19T16:35:08Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>It’ll be great when they work out the quirks in AI</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/01/19/itll-be-great-when-they-work-out-the-quirks-in-ai/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p><a href="https://freethoughtblogs.com/pharyngula/files/2023/01/aiart.png"><img src="https://freethoughtblogs.com/pharyngula/files/2023/01/aiart-150x150.png" alt="" width="150" height="150" class="alignright size-thumbnail wp-image-69066" srcset="https://freethoughtblogs.com/pharyngula/files/2023/01/aiart-150x150.png 150w, https://freethoughtblogs.com/pharyngula/files/2023/01/aiart-300x300.png 300w, https://freethoughtblogs.com/pharyngula/files/2023/01/aiart-500x500.png 500w, https://freethoughtblogs.com/pharyngula/files/2023/01/aiart.png 512w" sizes="(max-width: 150px) 100vw, 150px"/></a></p>
+<p class="lead">For instance, the Arabian Journal of Geosciences has a problem: <a href="https://gizmodo.com/science-publisher-retracts-44-papers-for-being-utter-no-1848004690">their articles are too obviously fake</a>.</p>
+<blockquote><p>Some titles of the farkakte research: “Simulation of sea surface temperature based on non-sampling error and psychological intervention of music education”; “Distribution of earthquake activity in mountain area based on embedded system and physical fitness detection of basketball”; “The stability of rainfall conditions based on sensor networks and the effect of psychological intervention for patients with urban anxiety disorder.” A complete list of the retracted papers can be found <a href="https://retractionwatch.com/wp-content/uploads/2021/11/Arabian-Journal-of-Geosciences-retractions.pdf">here</a>.</p>
+<p>They read a bit like a college student throwing around big words to cover up a lack of understanding. Though purportedly written by humans, the content of each paper definitely reads as if it were put together by a computer that doesn’t quite grasp speech patterns or grammar. The papers are filled with redundancies and generally lack logic.</p></blockquote>
+<p>Right away, I noticed a problem: they should have used the more formal German “verkakte” rather than the alternative Yiddish spelling. Oh, right, and the paper titles are absurd, too.</p>
+<p>I see two sources of problems: institutions that demand frequent publications, even where it isn’t warranted, and extremely lazy journal editors who rubberstamp everything.</p>
+<blockquote><p>As amusing (or alarming) as the idea of earthquakes being connected to basketball might be, the screwup highlights issues in science publishing that let farcical research slip into the realm of real work. As highlighted by the Chronicle of Higher Education in August, when the 400-odd papers in the geosciences journal got expressions of concern attached to them, many suspicious papers appear to have been written by scholars affiliated with Chinese institutions, where researchers are incentivized (sometimes financially) to publish in notable journals and where many doctoral students must publish a paper before graduation. The founder and editor-in-chief of the Arabian Journal of Geosciences told the Chronicle at the time that he reads every paper published in the journal each month (which would mean about 10 papers per day, including weekends), and that he thinks the fabricated research got into the journal through hacking.</p></blockquote>
+<p>Sure. Abdullah M. Al-Amri, editor-in-chief of the journal, reads <em>every</em> submission, and all those ridiculous papers must have been hacked into place. He reads every article, except he never takes a look at the journal once it’s been published. And he never reads the correspondence from legit researchers who point out the kind of crap getting splattered all over the pages. He just failed to notice that “Structure of plain granular rock mass based on motion sensor and movement evaluation of dancers” got published.</p>
+<p>Just wait until Chinese researchers discover ChatGPT. We desperately need our pseudoscientific garbage to be more readable.</p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">For instance, the Arabian Journal of Geosciences has a problem: their articles are too obviously fake. Some titles of the farkakte research: “Simulation of sea surface temperature based on non-sampling error and psychological intervention of music education”; “Distribution of earthquake activity in mountain area based on embedded system and physical fitness detection of basketball”; “The […]</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=69065</id>
+    <published>2023-01-19T16:11:18Z</published>
+    <updated>2023-01-19T16:11:18Z</updated>
+    <category term="Bad science"/>
+  </entry>
   <entry>
     <title>The stark truth</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/01/19/the-stark-truth/" type="text/html"/>
@@ -113,39 +139,6 @@
     <published>2023-01-18T16:54:42Z</published>
     <updated>2023-01-18T16:54:42Z</updated>
     <category term="Spiders"/>
-  </entry>
-  <entry>
-    <title>Highways are already scary, self-driving cars won’t help</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/01/18/highways-are-already-scary-self-driving-cars-wont-help/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p><a href="https://freethoughtblogs.com/pharyngula/files/2023/01/selfdriving.png"><img src="https://freethoughtblogs.com/pharyngula/files/2023/01/selfdriving-150x127.png" alt="" width="150" height="127" class="alignright size-thumbnail wp-image-69050" srcset="https://freethoughtblogs.com/pharyngula/files/2023/01/selfdriving-150x127.png 150w, https://freethoughtblogs.com/pharyngula/files/2023/01/selfdriving-300x254.png 300w, https://freethoughtblogs.com/pharyngula/files/2023/01/selfdriving-500x424.png 500w, https://freethoughtblogs.com/pharyngula/files/2023/01/selfdriving.png 702w" sizes="(max-width: 150px) 100vw, 150px"/></a></p>
-<p class="lead">An amusing anecdote: an engineer is out with the family of a man she was dating, and the father tried to turn on the full self-driving option of his Tesla, so <a href="https://www.reddit.com/r/AmItheAsshole/comments/10bupta/aita_for_yelling_to_be_let_out_of_the_car_when_my/">she’s practically clawing her way out of the car</a>.</p>
-<blockquote><p>But on the way back his dad started asking me “you work on self driving cars, yeah?” (I do, I’m a systems engineer and have job hopped between a handful of autonomy companies.)</p>
-<p>He started asking me how I liked his Tesla and I joked “just fine as long as you’re the one driving it!” And he asked me what I thought about FSD which he’d just bought. He asked if he should turn it on. I said “not with me in the car” and he then laughed and asked how I was still so scared when I work with this stuff everyday.</p>
-<p>I was like “Uhh it’s because I…” But stopped when he pulled over and literally started turning it on. I was like “I’m not kidding, let me out of the car if you’re gonna do this” and my boyfriend’s dad and brother started laughing at me, and my boyfriend still wasn’t saying anything.</p>
-<p>His dad was like “It’ll be fine” and I reached over my boyfriend’s little brother and tried the door handle which was locked. I was getting mad, and probably moreso because I was tipsy, and I yelled at him “Let me the fuck out”</p></blockquote>
-<p>She’s a systems engineer who works on these self-driving cars, and she wants nothing to do with it? Does she know something the rest of us don’t?</p>
-<p>Apparently, she does. <a href="https://www.reuters.com/technology/tesla-video-promoting-self-driving-was-staged-engineer-testifies-2023-01-17/">Tesla has been faking demos of its self-driving cars</a>, which I guess shouldn’t be a surprise to anyone following Elon Musk’s hype parade.</p>
-<blockquote><p>A 2016 video that Tesla (TSLA.O) used to promote its self-driving technology was staged to show capabilities like stopping at a red light and accelerating at a green light that the system did not have, according to testimony by a senior engineer.</p>
-<p>The video, which remains archived on Tesla’s website, was released in October 2016 and promoted on Twitter by Chief Executive Elon Musk as evidence that “Tesla drives itself.”</p>
-<p>But the Model X was not driving itself with technology Tesla had deployed, Ashok Elluswamy, director of Autopilot software at Tesla, said in the transcript of a July deposition taken as evidence in a lawsuit against Tesla for a 2018 fatal crash involving a former Apple (AAPL.O) engineer.</p></blockquote>
-<p>It’s OK, though, because they were trying to show what was possible, rather than what the car could actually do, even if Musk was claiming the car was driving itself.</p>
-<blockquote><p>“The intent of the video was not to accurately portray what was available for customers in 2016. It was to portray what was possible to build into the system,” Elluswamy said, according to a transcript of his testimony seen by Reuters.</p></blockquote>
-<p>Like, the <em>idea</em> of cars driving themselves and bypassing the fallibility of human drivers sounds nice, but it’s clear that the car’s software can be even more stupid and flawed than people. I wouldn’t want to share the road with these things, let alone be in a car controlled by some engineering gadget.</p>
-<p>You know what I think would be far more useful? Software that detected when the driver was significantly impaired. You’re weaving all over the road, or you’re exceeding the speed limit, or it senses that you’re nodding off, and it fires off alarms to let you know you’re not safe, and if you exceed a certain frequency of warnings, it transmits alerts to the police. That would be a smart car, making sure that the driving software in the human’s head was operating adequately.</p>
-<p>Knowing humans, though, there’d be a huge aftermarket in mechanics ripping out the safety measures.</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">An amusing anecdote: an engineer is out with the family of a man she was dating, and the father tried to turn on the full self-driving option of his Tesla, so she’s practically clawing her way out of the car. But on the way back his dad started asking me “you work on self driving […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=69049</id>
-    <published>2023-01-18T14:25:37Z</published>
-    <updated>2023-01-18T14:25:37Z</updated>
-    <category term="Technology"/>
   </entry>
   <entry>
     <title>Jocelyn Bell, woman of steel</title>
