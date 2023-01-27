@@ -7,9 +7,31 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-01-27T17:29:22Z</updated>
+  <updated>2023-01-27T18:31:24Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Lovely eggs!</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/01/27/lovely-eggs/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p class="lead">It’s been one of those days. We’ve got another chemistry job candidate today with a busy schedule, and we’re making him suffer for this position. Flight delays, bad weather, drifting snow…I’m impressed that he made it all. Shortly I have to do my own bit of suffering, attending his job talk. I’m sure it will be good, but I’m not a chemist, and I know what to expect. It’ll start off gently enough, with alcohols &amp; alkenes &amp; alkynes, names I’ll recognize, and then within minutes I’ll be lost in exotic reactions with wild catalysts and I’ll have no idea what’s going on.</p>
+<p>But before that, happy news from the lab: after a long dry spell, we have a new egg sac!</p>
+<p><a href="https://freethoughtblogs.com/pharyngula/files/2023/01/eggs-small.jpeg"><img src="https://freethoughtblogs.com/pharyngula/files/2023/01/eggs-small-500x750.jpeg" alt="" width="500" height="750" class="aligncenter size-large wp-image-69137" srcset="https://freethoughtblogs.com/pharyngula/files/2023/01/eggs-small-500x750.jpeg 500w, https://freethoughtblogs.com/pharyngula/files/2023/01/eggs-small-100x150.jpeg 100w, https://freethoughtblogs.com/pharyngula/files/2023/01/eggs-small-200x300.jpeg 200w, https://freethoughtblogs.com/pharyngula/files/2023/01/eggs-small-768x1152.jpeg 768w, https://freethoughtblogs.com/pharyngula/files/2023/01/eggs-small.jpeg 1500w" sizes="(max-width: 500px) 100vw, 500px"/></a></p>
+<p>Are they not luscious and beautiful? I think two things might have uncorked an oviduct: I’m teaching fly genetics, which means we get an excess of flies, and everything that doesn’t get used in our crosses gets showered upon the happy spiders; and we spent a day adjusting humidity in the cages, which seems to have been one of the triggers.</p>
+<p>Now…off to organic chemistry.</p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">It’s been one of those days. We’ve got another chemistry job candidate today with a busy schedule, and we’re making him suffer for this position. Flight delays, bad weather, drifting snow…I’m impressed that he made it all. Shortly I have to do my own bit of suffering, attending his job talk. I’m sure it will […]</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=69136</id>
+    <published>2023-01-27T18:19:59Z</published>
+    <updated>2023-01-27T18:19:59Z</updated>
+    <category term="Spiders"/>
+  </entry>
   <entry>
     <title>Book review: Haramacy</title>
     <link rel="alternate" href="https://newhumanist.org.uk/articles/6062/book-review-haramacy#utm_source=rss" type="text/html"/>
@@ -138,26 +160,6 @@ From what I&amp;#8217;ve seen of Stavrakopoulou, she seems professional and comp
     <published>2023-01-25T15:20:08Z</published>
     <updated>2023-01-25T15:20:08Z</updated>
     <category term="Fools, Tools, Kooks, and Goons"/>
-  </entry>
-  <entry>
-    <title>About how I feel about the latest political contretemps</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/01/25/about-how-i-feel-about-the-latest-political-contretemps/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p><a href="https://freethoughtblogs.com/pharyngula/files/2023/01/document-scandal.png"><img src="https://freethoughtblogs.com/pharyngula/files/2023/01/document-scandal-500x368.png" alt="" width="500" height="368" class="aligncenter size-large wp-image-69115" srcset="https://freethoughtblogs.com/pharyngula/files/2023/01/document-scandal-500x368.png 500w, https://freethoughtblogs.com/pharyngula/files/2023/01/document-scandal-150x110.png 150w, https://freethoughtblogs.com/pharyngula/files/2023/01/document-scandal-300x221.png 300w, https://freethoughtblogs.com/pharyngula/files/2023/01/document-scandal.png 759w" sizes="(max-width: 500px) 100vw, 500px"/></a></p>
-<p class="lead">I’m not impressed with the fools who think the two on the left are equivalent to the crook on the right. Those two tell us that the <em>system</em> is sloppier and leakier than it ought to be, the guy on the right is directly practicing his personal criminal intent. It’s that simple.</p>
-<p>Also, I think Luckovich’s caricature of Trump is the best out there.</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">I’m not impressed with the fools who think the two on the left are equivalent to the crook on the right. Those two tell us that the system is sloppier and leakier than it ought to be, the guy on the right is directly practicing his personal criminal intent. It’s that simple. Also, I think […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=69114</id>
-    <published>2023-01-25T13:54:15Z</published>
-    <updated>2023-01-25T13:54:15Z</updated>
-    <category term="Politics, History, and Law"/>
   </entry>
   <entry>
     <title>Intelligence is everywhere</title>
