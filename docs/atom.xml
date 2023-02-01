@@ -7,9 +7,24 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-02-01T09:29:26Z</updated>
+  <updated>2023-02-01T10:31:38Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>OPEN DISCUSSION FEBRUARY 2023</title>
+    <link rel="alternate" href="https://richarddawkins.net/2023/02/open-discussion-february-2023/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">This thread has been created for thoughtful, rational discussion on subjects for which there are not currently any dedicated threads. Please note that our Comment Policy applies as usual. There is a link to this at the foot of the page. If you would like to refer back to previous open discussion threads, the most …</div>
+    </content>
+    <author>
+      <name>Moderator</name>
+    </author>
+    <id>https://richarddawkins.net/?p=978493</id>
+    <published>2023-02-01T09:46:27Z</published>
+    <updated>2023-02-01T09:46:27Z</updated>
+    <category term="Discussion"/>
+    <category term="Featured"/>
+  </entry>
   <entry>
     <title>Good work, Minnesota</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/01/31/good-work-minnesota/" type="text/html"/>
@@ -201,7 +216,6 @@ PLUS, pick up your copy from Vanishing Inc and you’ll also receive a copy of t
     <published>2023-01-01T10:47:01Z</published>
     <updated>2023-01-01T10:47:01Z</updated>
     <category term="Discussion"/>
-    <category term="Featured"/>
   </entry>
   <entry>
     <title>BOOK CLUB 2023</title>
@@ -246,23 +260,6 @@ PLUS, pick up your copy from Vanishing Inc and you’ll also receive a copy of t
     <updated>2022-12-01T09:59:32Z</updated>
     <category term="Discussion"/>
     <category term="Featured"/>
-  </entry>
-  <entry>
-    <title>Highs, Lows, and the Cosmic Perspective</title>
-    <link rel="alternate" href="https://richarddawkins.net/2022/11/highs-lows-and-the-cosmic-perspective/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">From the Richard Dawkins Foundation Newsletter. Subscribe here. Hello! It’s been an eventful few weeks since our last update; weeks that have seen both remarkable highs and terrible lows. It’s been, to paraphrase Charles Dickens, both the best and worst of times. We closed October with CSICon 2022, which returned to being in-person for the first …</div>
-    </content>
-    <author>
-      <name>Jeff Dellinger</name>
-    </author>
-    <id>https://richarddawkins.net/?p=978460</id>
-    <published>2022-11-30T16:38:06Z</published>
-    <updated>2022-11-30T16:38:06Z</updated>
-    <category term="Original"/>
-    <category term="Politics"/>
-    <category term="Religion"/>
-    <category term="Science"/>
   </entry>
   <entry>
     <title>New Book: Why Psychology Matters</title>
