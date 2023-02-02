@@ -7,9 +7,26 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-02-02T19:28:54Z</updated>
+  <updated>2023-02-02T20:29:51Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Demanding the Ability to Live and Think Freely</title>
+    <link rel="alternate" href="https://richarddawkins.net/2023/02/demanding-the-ability-to-live-and-think-freely/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">From the Richard Dawkins Foundation Newsletter. Subscribe here. Hello! The rights, beliefs, and freedoms of nonbelievers are just as important as those of the religious faithful. We should strive for—we should demand—a world where the ability to live and think freely is available to everyone. It’s a remarkably straightforward premise, but it seems like there’s a …</div>
+    </content>
+    <author>
+      <name>Jeff Dellinger</name>
+    </author>
+    <id>https://richarddawkins.net/?p=978497</id>
+    <published>2023-02-02T19:52:18Z</published>
+    <updated>2023-02-02T19:52:18Z</updated>
+    <category term="Original"/>
+    <category term="Politics"/>
+    <category term="Religion"/>
+    <category term="Science"/>
+  </entry>
   <entry>
     <title>Felicia Entwhistle has the deets</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/02/02/felicia-entwhistle-has-the-deets/" type="text/html"/>
@@ -261,21 +278,6 @@ PLUS, pick up your copy from Vanishing Inc and you’ll also receive a copy of t
     <published>2022-12-12T14:57:27Z</published>
     <updated>2022-12-12T14:57:27Z</updated>
     <category term="Original"/>
-  </entry>
-  <entry>
-    <title>OPEN DISCUSSION DECEMBER 2022</title>
-    <link rel="alternate" href="https://richarddawkins.net/2022/12/open-discussion-december-2022/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">This thread has been created for thoughtful, rational discussion on subjects for which there are not currently any dedicated threads. Please note that our Comment Policy applies as usual. There is a link to this at the foot of the page. If you would like to refer back to previous open discussion threads, the most …</div>
-    </content>
-    <author>
-      <name>Moderator</name>
-    </author>
-    <id>https://richarddawkins.net/?p=978465</id>
-    <published>2022-12-01T09:59:32Z</published>
-    <updated>2022-12-01T09:59:32Z</updated>
-    <category term="Discussion"/>
-    <category term="Featured"/>
   </entry>
   <entry>
     <title>New Book: Why Psychology Matters</title>
