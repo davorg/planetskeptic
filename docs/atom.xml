@@ -7,9 +7,31 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-02-05T15:29:07Z</updated>
+  <updated>2023-02-05T16:33:31Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>This is not normal</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/02/05/this-is-not-normal/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p class="lead">Do you get days off? It’s sort of sinking in that what I take for granted might be a little odd to most people.</p>
+<p>I spent all day Saturday preparing my lectures for the coming week. That’s routine. I’ve heard rumors that most people can relax on weekends.</p>
+<p>This morning I went into the lab early. I needed to feed the spiders and shuffle the males around to new females and replenish their water supply and check on the egg sacs (there was a new one today!), and then I’ll spend the time crunching data. This is Sunday, the day of rest, I hear?</p>
+<p>Weekends are just the time I don’t have committee meetings or classes or lab sessions or meeting with students so I can get all the work done I’ll need to have complete for the weekdays.</p>
+<p>It’s not all pain, though. I’m setting aside time to watch <i>The Last of Us</i> at 8pm tonight, and I usually read for half an hour to an hour before I go to bed.</p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Do you get days off? It’s sort of sinking in that what I take for granted might be a little odd to most people. I spent all day Saturday preparing my lectures for the coming week. That’s routine. I’ve heard rumors that most people can relax on weekends. This morning I went into the lab […]</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=69214</id>
+    <published>2023-02-05T16:26:27Z</published>
+    <updated>2023-02-05T16:26:27Z</updated>
+    <category term="Miscellaneous and Meta"/>
+  </entry>
   <entry>
     <title>Who was afraid of the big bad balloon?</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/02/04/who-was-afraid-of-the-big-bad-balloon/" type="text/html"/>
@@ -117,32 +139,6 @@ It’s OK if you don’t find everything instantly obvious. There are always sma
     <published>2023-02-03T13:38:26Z</published>
     <updated>2023-02-03T13:38:26Z</updated>
     <category term="My classes"/>
-  </entry>
-  <entry>
-    <title>Big win for the University of Minnesota Morris</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/02/03/big-win-for-the-university-of-minnesota-morris/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p><a href="https://freethoughtblogs.com/pharyngula/files/2023/02/HHMI-logo-color.jpg"><img src="https://freethoughtblogs.com/pharyngula/files/2023/02/HHMI-logo-color-150x63.jpg" alt="" width="150" height="63" class="alignright size-thumbnail wp-image-69199" srcset="https://freethoughtblogs.com/pharyngula/files/2023/02/HHMI-logo-color-150x63.jpg 150w, https://freethoughtblogs.com/pharyngula/files/2023/02/HHMI-logo-color-300x127.jpg 300w, https://freethoughtblogs.com/pharyngula/files/2023/02/HHMI-logo-color-768x325.jpg 768w, https://freethoughtblogs.com/pharyngula/files/2023/02/HHMI-logo-color-500x211.jpg 500w, https://freethoughtblogs.com/pharyngula/files/2023/02/HHMI-logo-color.jpg 1479w" sizes="(max-width: 150px) 100vw, 150px"/></a></p>
-<p class="lead">My colleagues here have earned <a href="https://morris.umn.edu/news-events/news/umn-morris-included-60-million-hhmi-grant">a major award from HHMI</a>.</p>
-<blockquote><p>The University of Minnesota Morris is one of 104 colleges and universities from throughout the U.S. that will receive a six-year grant through the Howard Hughes Medical Institute’s (HHMI) Inclusive Excellence (IE3) initiative.</p>
-<p>This grant challenges US colleges and universities to substantially and sustainably build capacity for student belonging, especially for those who have been historically excluded from the sciences. The IE3 grants total more than $60 million over six years and are a part of HHMI’s national portfolio of experiments aimed at improving the introductory undergraduate science experience.</p>
-<p>…</p>
-<p>Associate Professor of Biology Heather Waye is leading the IE3 efforts at Morris, along with colleagues Rachel Johnson, Shaina Philpot, Barry McQuarrie, and Kerri Barnstuble.</p>
-<p>“Our goal is to find the barriers that STEM students are facing and figure out how to tackle them,” Waye said. “This is an opportunity for us to change the system, not the student, so that the benefit of the grant will last beyond the scope of the grant.”</p>
-<p>One of the first goals is to establish a Quantitative Learning Center (QLC) on campus, a dedicated space where students can build their quantitative skills with technologies used in their STEM classes. Waye stressed that student input is a key part of planning for this. In addition to providing practical help, the QLC would help students feel supported, valued and confident in their STEM abilities.</p></blockquote>
-<p>This is excellent news! All of my classes are heavy in the quantitative skills department, so having a campus initiative to get incoming students up to speed on math and stats will make my life easier, and I’m all about the easy life.</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">My colleagues here have earned a major award from HHMI. The University of Minnesota Morris is one of 104 colleges and universities from throughout the U.S. that will receive a six-year grant through the Howard Hughes Medical Institute’s (HHMI) Inclusive Excellence (IE3) initiative. This grant challenges US colleges and universities to substantially and sustainably build […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=69198</id>
-    <published>2023-02-03T12:37:44Z</published>
-    <updated>2023-02-03T12:37:44Z</updated>
-    <category term="Science"/>
   </entry>
   <entry>
     <title>Demanding the Ability to Live and Think Freely</title>
