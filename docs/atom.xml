@@ -7,9 +7,28 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-02-07T13:31:46Z</updated>
+  <updated>2023-02-07T14:29:48Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Could we come up with a more boring title?</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/02/07/could-we-come-up-with-a-more-boring-title/" type="text/html"/>
+    <content type="html">&lt;p class="lead"&gt;This weekend, it&amp;#8217;s time for another Podish-Sortacast, and this one is called &amp;#8220;Organizations&amp;#8221;.&lt;/p&gt;
+&lt;div class="center"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/E2xC2kYF3HE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;p&gt;OK, I&amp;#8217;m falling asleep already. It&amp;#8217;s all a ruse, though, to lure everyone into a false sense of security: the plan is to talk about all those &lt;em&gt;organizations&lt;/em&gt; that have failed us, discussing things like the Andrew Torrez case.&lt;/p&gt;
+&lt;p&gt;Uh-oh, I just realized…Freethoughtblogs is an organization, of sorts. A very loose organization, with me as the nominal head. This could take an ominous turn, becoming a revolution and a coup, all in real time during the broadcast. Maybe it&amp;#8217;ll be painfully exciting after all!&lt;/p&gt;
+</content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">This weekend, it’s time for another Podish-Sortacast, and this one is called “Organizations”. OK, I’m falling asleep already. It’s all a ruse, though, to lure everyone into a false sense of security: the plan is to talk about all those organizations that have failed us, discussing things like the Andrew Torrez case. Uh-oh, I just […]</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=69230</id>
+    <published>2023-02-07T13:51:21Z</published>
+    <updated>2023-02-07T13:51:21Z</updated>
+    <category term="Miscellaneous and Meta"/>
+  </entry>
   <entry>
     <title>Science fiction isn’t gendered anymore</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/02/07/science-fiction-isnt-gendered-anymore/" type="text/html"/>
@@ -98,40 +117,6 @@
     <published>2023-02-06T15:32:59Z</published>
     <updated>2023-02-06T15:32:59Z</updated>
     <category term="Politics, History, and Law"/>
-  </entry>
-  <entry>
-    <title>No evil deed goes unrewarded</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/02/06/no-evil-deed-goes-unrewarded/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p><a href="https://freethoughtblogs.com/pharyngula/files/2021/08/sabatini.jpeg"><img src="https://freethoughtblogs.com/pharyngula/files/2021/08/sabatini-100x150.jpeg" alt="" width="100" height="150" class="alignright size-thumbnail wp-image-63691" srcset="https://freethoughtblogs.com/pharyngula/files/2021/08/sabatini-100x150.jpeg 100w, https://freethoughtblogs.com/pharyngula/files/2021/08/sabatini-201x300.jpeg 201w, https://freethoughtblogs.com/pharyngula/files/2021/08/sabatini.jpeg 768w, https://freethoughtblogs.com/pharyngula/files/2021/08/sabatini-500x748.jpeg 500w" sizes="(max-width: 100px) 100vw, 100px"/></a></p>
-<p class="lead">I wrote about <a href="https://freethoughtblogs.com/pharyngula/2021/08/21/i-guess-david-sabatini-is-a-failed-scientist-now/">David Sabatini</a> last year, the molecular biologist who’d left a string of failed positions, being fired, dismissed, cut loose, kicked out of multiple prestigious institutions for publishing fake data, repeatedly harassing women, and running his lab like it was <i>Animal House</i>. Then it looked like <a href="https://freethoughtblogs.com/pharyngula/2022/04/28/why-would-anyone-hire-sabatini/">he was going to be hired by NYU</a>, which left me gobsmacked. I had even made a prediction.</p>
-<blockquote><p>David Sabatini, the molecular biologist who sexually harassed students and faked data, was first fired from HHMI and the Whitehead Institute, and then resigned from MIT as his behavior was exposed. We’re done with him, right? He’ll go get a job in construction or pharmaceutical sales and we won’t have to worry about his unpleasant influence on academia anymore.</p></blockquote>
-<p>Sabatini has <em>proven</em> himself unsuited for the profession multiple times. For most people, losing one position makes landing a second one exponentially more difficult (this is a career that judges you harshly), and here was this guy who’d lost one, two, three positions — and didn’t get hired by NYU. This was a scientist who’d been the <a href="https://www.science.org/content/article/sabatini-biologist-fired-sexual-misconduct-lands-millions-private-donors-start-new-lab">subject of a scathing exposé by the Boston Globe and various independent probes</a>.</p>
-<blockquote><p>The controversy over Sabatini was reignited recently when The Boston Globe published a two-part investigation into the scandal. But it first erupted in August 2021, when Sabatini resigned from Whitehead after an investigation it commissioned from outside lawyers. At the time, Sabatini ran a lab of nearly 40 people and was an HHMI investigator and the lead scientist on five National Institutes of Health grants totaling nearly $2 million.</p>
-<p>The Whitehead probe concluded that Sabatini fostered a sexualized lab environment in which he rewarded those who participated in sexual banter, threatened retaliation against lab members if they raised questions about his conduct, and threatened another faculty member who refused to hire a young visiting scientist whom Sabatini would later marry. It also found that he and Knouse carried on a sexual relationship against Whitehead rules.</p>
-<p>She was a new Whitehead scientist operating in an educational program he supervised and for whom he would be expected to write recommendation letters. Their relationship began before Knouse arrived at Whitehead, when she was an MIT graduate student. That was a breach of an MIT policy that had recently been announced with fanfare.</p>
-<p>Knouse has said she was coerced into the relationship, but Sabatini has argued otherwise and said the Whitehead investigation was flawed and unfair. </p></blockquote>
-<p>That man is a walking disaster. No sane institution would take on someone with that kind of record, but they did, repeatedly. And now he has <a href="https://www.science.org/content/article/sabatini-biologist-fired-sexual-misconduct-lands-millions-private-donors-start-new-lab">fallen upwards once again</a>, thanks to an asshole billionaire or two.</p>
-<blockquote><p>David Sabatini, the prominent biologist who was fired by the Howard Hughes Medical Institute (HHMI) and resigned from the Whitehead Institute for Biomedical Research in 2021 after a probe found he committed sexual misconduct, is getting a second chance. Billionaire Bill Ackman, CEO of Pershing Square Capital Management, and another, anonymous financial backer will each give Sabatini $2.5 million annually for the next 5 years to relaunch his research on cell signaling, cancer, and other topics. The move is stirring controversy.</p>
-<p>The biologist, who also resigned from a tenured faculty position at the Massachusetts Institute of Technology (MIT) last year, is a scientific reviewer for Ackman’s Pershing Square Foundation. Ackman, meanwhile, is among a vocal contingent of Sabatini supporters who have argued that his punishment has been disproportionate. Ackman’s move “sends the message that some high-profile and ethical people are willing to support David Sabatini reengaging his brilliant career as a scientist and mentor of other scientists, despite the risk that by doing so they themselves will be falsely attacked,” says Jeffrey Flier, an endocrinologist at Harvard Medical School and former dean there.</p></blockquote>
-<p><strong>$5 million/year for five years!!!</strong> For a failed bad boy of molecular biology! What kind of connections does Sabatini have with billionaires? It’s a catastrophe that we’re going to reward such rotten behavior — the rich are going to make an end run around peer review and install terrible, abusive people into positions at institutions of higher education where they can poison and squash the careers of young women. </p>
-<p>Ackman made a curious statement, too.</p>
-<blockquote><p>As to whether his investment in Sabatini telegraphs that powerful men help other powerful men land on their feet, never mind their misdeeds, Ackman said: “If the situation were reversed, we would be backing [Knouse]. It’s not bro culture backing up the guys. That’s really really important.”  Then he added: “By the way, it’s my wife and I who made this decision.” Ackman’s wife, Neri Oxman, a designer and former MIT professor, serves as a co-trustee of the Pershing Square Foundation.</p></blockquote>
-<p>So he’s saying that if there were a powerful woman who was an abusive bully and who faked data, he’d also be supporting her? That’s not reassuring.</p>
-<p>The only good news so far is that they haven’t actually announced <em>where</em> this pampered incompetent is going to work — they’re just handing him $5 million for his first year and telling him to set up a lab somewhere, anywhere and start churning out data. That’s not how it works. You don’t work alone, science is highly collaborative, and it’s silly to think you can build up a successful lab from scratch. With that much money, I suspect some wealthy university is going to ignore any scruples and find him a spot, though, despite the fact that it will bring them much shame.</p>
-<p>Wait…I have an idea! They need a shameless institution (which is sort of true for any rich, elitist college), but the one that leaps to mind is…<a href="https://freethoughtblogs.com/pharyngula/2021/12/02/while-were-all-waiting-for-the-university-of-austin-to-die/">The University of Austin</a>! There’s a match made in Hell, it’s perfect.</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">I wrote about David Sabatini last year, the molecular biologist who’d left a string of failed positions, being fired, dismissed, cut loose, kicked out of multiple prestigious institutions for publishing fake data, repeatedly harassing women, and running his lab like it was Animal House. Then it looked like he was going to be hired by […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=69216</id>
-    <published>2023-02-06T13:55:24Z</published>
-    <updated>2023-02-06T13:55:24Z</updated>
-    <category term="Miscellaneous and Meta"/>
   </entry>
   <entry>
     <title>Demanding the Ability to Live and Think Freely</title>
