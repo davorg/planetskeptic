@@ -7,9 +7,37 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-02-10T12:38:47Z</updated>
+  <updated>2023-02-10T13:33:41Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>So that’s what it’s like to work with Musk</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/02/10/so-thats-what-its-like-to-work-with-musk/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p><a href="https://freethoughtblogs.com/pharyngula/files/2022/12/muskclown.jpg"><img src="https://freethoughtblogs.com/pharyngula/files/2022/12/muskclown-150x142.jpg" alt="" width="150" height="142" class="alignright size-thumbnail wp-image-68762" srcset="https://freethoughtblogs.com/pharyngula/files/2022/12/muskclown-150x142.jpg 150w, https://freethoughtblogs.com/pharyngula/files/2022/12/muskclown.jpg 200w" sizes="(max-width: 150px) 100vw, 150px"/></a></p>
+<p class="lead">He’s just  a horrible man, and <a href="https://www.theverge.com/2023/2/9/23593099/elon-musk-twitter-fires-engineer-declining-reach-ftc-concerns">he’ll fire you for telling the truth</a>.</p>
+<blockquote><p>On Tuesday, Musk gathered a group of engineers and advisors into a room at Twitter’s headquarters looking for answers. Why are his engagement numbers tanking?</p>
+<p><q>This is ridiculous,</q> he said, according to multiple sources with direct knowledge of the meeting. <q>I have more than 100 million followers, and I’m only getting tens of thousands of impressions.</q></p></blockquote>
+<p>Uh-oh. He’s got socialmediaitis. The first sign of the problem is when you get obsessed with your numbers, and then you start believing that the number of people who look at you is a measure of your personal worth, and then your head starts to swell and you begin to believe you <em>deserve</em> every bit of attention. Musk is exhibiting ‘influencer’ ego.</p>
+<blockquote><p>One of the company’s two remaining principal engineers offered a possible explanation for Musk’s declining reach: just under a year after the Tesla CEO made his surprise offer to buy Twitter for $44 billion, public interest in his antics is waning.</p>
+<p>Employees showed Musk internal data regarding engagement with his account along with a Google Trends chart. Last April, they told him, Musk was at “peak” popularity in search rankings, indicated by a score of “100.” Today, he’s at a score of nine. Engineers had previously investigated whether Musk’s reach had somehow been artificially restricted but found no evidence that the algorithm was biased against him.</p></blockquote>
+<p>Yes. He’s demonstrated beyond any doubt that he’s a hardcore twit, and has become much less interesting. His critics (like me) are realizing that he’s substanceless, and I suspect many of his fans are becoming uncomfortable at seeing their hero’s frequent gaffes. All the news about Musk is bad news nowadays.</p>
+<blockquote><p>Musk did not take the news well. </p>
+<p><q>You’re fired, you’re fired,</q> Musk told the engineer.</p></blockquote>
+<p>And that’s how an incompetent boss drives his company into a crater.</p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">He’s just a horrible man, and he’ll fire you for telling the truth. On Tuesday, Musk gathered a group of engineers and advisors into a room at Twitter’s headquarters looking for answers. Why are his engagement numbers tanking? This is ridiculous, he said, according to multiple sources with direct knowledge of the meeting. I have […]</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=69253</id>
+    <published>2023-02-10T13:26:56Z</published>
+    <updated>2023-02-10T13:26:56Z</updated>
+    <category term="Miscellaneous and Meta"/>
+  </entry>
   <entry>
     <title>Liars lying getting hysterical about it</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/02/09/liars-lying-getting-hysterical-about-it/" type="text/html"/>
@@ -142,38 +170,6 @@
     <published>2023-02-08T22:20:00Z</published>
     <updated>2023-02-08T22:20:00Z</updated>
     <category term="Miscellaneous and Meta"/>
-  </entry>
-  <entry>
-    <title>It takes multiple mechanisms to drive evolution</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/02/08/it-takes-multiple-mechanisms-to-drive-evolution/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p><a href="https://freethoughtblogs.com/pharyngula/files/2023/02/mutation-drift-selection.jpeg"><img src="https://freethoughtblogs.com/pharyngula/files/2023/02/mutation-drift-selection-300x300.jpeg" alt="" width="300" height="300" class="alignright size-medium wp-image-69240" srcset="https://freethoughtblogs.com/pharyngula/files/2023/02/mutation-drift-selection-300x300.jpeg 300w, https://freethoughtblogs.com/pharyngula/files/2023/02/mutation-drift-selection-150x150.jpeg 150w, https://freethoughtblogs.com/pharyngula/files/2023/02/mutation-drift-selection-768x771.jpeg 768w, https://freethoughtblogs.com/pharyngula/files/2023/02/mutation-drift-selection-500x502.jpeg 500w, https://freethoughtblogs.com/pharyngula/files/2023/02/mutation-drift-selection.jpeg 900w" sizes="(max-width: 300px) 100vw, 300px"/></a></p>
-<p class="lead">I went through high school thinking that evolution was pretty neat. I read all the popular treatments — those Time/Life books, National Geographic, science magazines, etc. — and they made it sound like Darwin had got everything right in 1859. I could go along with that.</p>
-<p>But then, in 1975, I went off to college and had access to a university library and started reading the real hardcore stuff. I was just mainlining PNAS &amp; Science &amp; Nature &amp; Evolution &amp; the Journal of Embryology and Experimental Morphology and soaking in all this exciting stuff, and that’s when I discovered the concept of genetic drift (specifically, thanks to Lewontin). My mind was blown. Suddenly, questions I had never even thought to ask were answered with clarity. Certainly nothing in biology makes sense except in the light of evolution, but likewise nothing in evolution makes sense except in the light of neutral genetic drift.</p>
-<p>I guess <a href="https://ecodevoevo.blogspot.com/2021/07/lets-get-genetic-drift-in-k-12.html">Holly Dunsworth had the same revelation</a>, and also noticed the sad gap in public education.</p>
-<blockquote><p>In the USA, K-12 evolution education standards are missing GENETIC DRIFT as well as the word NEUTRAL.</p>
-<p>(see here: <a href="https://www.nextgenscience.org/topic-arrangement/hsnatural-selection-and-evolution">https://www.nextgenscience.org/topic-arrangement/hsnatural-selection-and-evolution</a>)</p>
-<p>I don’t know how to understand life’s perpetual change without those fundamentals.</p>
-<p>If students know about meiosis (which *is* in the standards), then they know about genetic drift. It’s just a matter of linking meiosis to evolution. </p>
-<p>Genetic drift is a very simple concept and makes natural selection make a whole lot more sense!</p>
-<p>I shout about this on Twitter and I get “just be happy anyone teaches evolution in K-12 at all” and “teachers don’t know about drift” in response. But evolution without genetic drift is not evolution, and if teachers knew about drift, then they’d be more comfortable teaching evolution. I guarantee it! </p>
-<p>Without drift, it’s too easy to just replace God with natural selection. And that habit of narrating evolution by giving agency to natural selection is super-duper weird for non-believers let alone for believers! (This a no hatred of religion, faith, or creationism zone.)</p>
-<p>Genetic drift paves the way for thinking about and then narrating evolution as the constant change that life/nature/biology is. Everyone gets that time is just constant change and they will get that  nature/biology/life is too. They embody it themselves, being different from their parents. </p>
-<p>Plus, continuing to teach evolution as only being natural selection (which is what the standards are doing), is also dangerous. That selection-obsessed mindset is tied to racism, sexism, essentialism… all the stuff that we have to remove from our species’ shared origin story. Darwin only had selection (not drift, etc) to work with and look what his imagination did with evolution: racism, sexism, essentialism</p></blockquote>
-<p>Oh wow, yes. I’ve got to stand up and cheer at that. Also specifically the bit about meiosis, because I’m teaching genetics right now and am constantly emphasizing the role of chance in inheritance. We’re built on a platform of coin flips and die rolls and long shots in heredity, yet somehow in our public education, that all vanishes and is replaced with something close to fixed destiny (in higher ed, that isn’t true, fortunately. Usually.)</p>
-<p>Also, drift nicely bridges all those gaps in comprehension the creationists love to inflict on us.</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">I went through high school thinking that evolution was pretty neat. I read all the popular treatments — those Time/Life books, National Geographic, science magazines, etc. — and they made it sound like Darwin had got everything right in 1859. I could go along with that. But then, in 1975, I went off to college […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=69239</id>
-    <published>2023-02-08T21:56:35Z</published>
-    <updated>2023-02-08T21:56:35Z</updated>
-    <category term="Evolution"/>
   </entry>
   <entry>
     <title>Demanding the Ability to Live and Think Freely</title>
