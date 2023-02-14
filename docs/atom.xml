@@ -7,9 +7,29 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-02-14T13:34:00Z</updated>
+  <updated>2023-02-14T14:30:33Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>True Love</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/02/14/true-love-2/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p class="lead">My kind of Valentine’s Day.</p>
+<div id="attachment_69294" style="width: 510px" class="wp-caption aligncenter"><a href="https://freethoughtblogs.com/pharyngula/files/2023/02/truelove.png"><img src="https://freethoughtblogs.com/pharyngula/files/2023/02/truelove-500x660.png" alt="" width="500" height="660" class="size-large wp-image-69294" srcset="https://freethoughtblogs.com/pharyngula/files/2023/02/truelove-500x660.png 500w, https://freethoughtblogs.com/pharyngula/files/2023/02/truelove-114x150.png 114w, https://freethoughtblogs.com/pharyngula/files/2023/02/truelove-227x300.png 227w, https://freethoughtblogs.com/pharyngula/files/2023/02/truelove.png 752w" sizes="(max-width: 500px) 100vw, 500px"/></a><p class="wp-caption-text"><a href="https://www.thefarside.com/2023/02/14/1">The Far Side</a></p></div>
+<p>My wife gave me three spiders she caught around the house. Did you get any signs of affection today?</p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">My kind of Valentine’s Day. My wife gave me three spiders she caught around the house. Did you get any signs of affection today?</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=69293</id>
+    <published>2023-02-14T13:35:41Z</published>
+    <updated>2023-02-14T13:35:41Z</updated>
+    <category term="Miscellaneous and Meta"/>
+  </entry>
   <entry>
     <title>Creepy Uncle Jordy has some advice about rape</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/02/14/creepy-uncle-jordy-has-some-advice-about-rape/" type="text/html"/>
@@ -113,33 +133,6 @@
     <published>2023-02-13T13:37:05Z</published>
     <updated>2023-02-13T13:37:05Z</updated>
     <category term="Politics, History, and Law"/>
-  </entry>
-  <entry>
-    <title>ChatGPT totally fails my one-question exam on Junk DNA</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/02/13/chatgpt-totally-fails-my-one-question-exam-on-junk-dna/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p><a href="https://freethoughtblogs.com/pharyngula/files/2023/02/whats-in-your-genome.png"><img src="https://freethoughtblogs.com/pharyngula/files/2023/02/whats-in-your-genome-199x300.png" alt="" width="199" height="300" class="alignright size-medium wp-image-69277" srcset="https://freethoughtblogs.com/pharyngula/files/2023/02/whats-in-your-genome-199x300.png 199w, https://freethoughtblogs.com/pharyngula/files/2023/02/whats-in-your-genome-99x150.png 99w, https://freethoughtblogs.com/pharyngula/files/2023/02/whats-in-your-genome.png 212w" sizes="(max-width: 199px) 100vw, 199px"/></a></p>
-<p class="lead">I was chatting with <a href="https://freethoughtblogs.com/reprobate/">HJ Hornbeck</a> and <a href="https://freethoughtblogs.com/geekyhumanist/">Dr Sarah</a> yesterday, and we were tinkering with ChatGPT. We asked it for some simple medical advice, of the sort you might consult WebMD for, and Dr Sarah confirmed that it was close to what she would recommend. Then we asked it a simple question of the sort I might throw out in a college classroom.</p>
-<p>We asked, “<strong>What is junk DNA?</strong>” Uh-oh.</p>
-<blockquote class="creationist"><p>Junk DNA is a term used to describe the non-coding regions of the genome, which do not encode proteins. For many years, it was believed that these regions of the genome had no function and were simply “leftover” DNA that accumulated over evolutionary time. This led to the term “junk DNA” being used to describe these regions, as they were thought to be of no consequence to the organism.</p>
-<p>However, more recent research has shown that many of these non-coding regions actually play important roles in regulating gene expression and controlling the activity of specific genes. They can act as molecular “switches” that turn genes on or off in response to different environmental signals, and they can also act as spacers that help to organize the genome into distinct functional regions.</p>
-<p>In addition, some non-coding regions of the genome contain functional elements such as transposable elements, ribosomal DNA, and small RNA molecules, which play important roles in regulating gene expression and controlling the activity of specific genes.</p>
-<p>In light of these findings, the term “junk DNA” is no longer used in a scientifically accurate context, and has been largely replaced by the more accurate terms “non-coding DNA” or “regulatory DNA.” These non-coding regions of the genome are now recognized as playing important roles in shaping the phenotype and evolution of organisms.</p></blockquote>
-<p>Holy crap, that is a <em>terrible</em> answer, from the very first sentence. It conflates junk DNA with non-coding DNA, and builds its entire argument on that premise. It then claims that the discovery of regulatory sequences undermined the concept…but regulatory sequences have never been regarded as junk, and neither have ribosomal DNA or these unspecified “small RNA molecules” (what? like tRNA or siRNA?) And now transposable elements are just assumed to be functional? Some have acquired functional roles, but most are not, which is kind of significant given that they make up around half the mammalian genome.</p>
-<p>Then the grand conclusion is that “junk DNA” is no longer used, and has been replaced by the terms “non-coding DNA” or “regulatory DNA.” No, it has not. Those are not the same thing at all. I note that much of the answer seems to have been cribbed from the kind of thing you get in a random Google search, which is polluted with all kinds of pseudoscience, creationist sources, and general denial that our DNA could be less than perfect. For instance, even <a href="https://www.scientificamerican.com/article/what-is-junk-dna-and-what/">Scientific American has a trash article</a> that concludes that <q>evolution is too wise to waste this valuable information</q>. Maybe ChatGPT should have exercised a little discrimination, and looked at qualified sources like Graur, and Palazzo, and Moran? Because I’d give this answer a big fat “F” and comment that apparently the author hadn’t listened in lecture or read the textbook.</p>
-<p>Speaking of Moran, his long awaited book, <a href="https://sandwalk.blogspot.com/2023/02/i-finished-my-book.html"><i>What’s in Your Genome?: 90% of Your Genome Is Junk</i></a>, is off to the printers, with an expected release date of 16 May. Maybe that will help ChatGPT correct its bad science. That’s <a href="https://amzn.to/3Xpz11G">a book I’m looking forward to</a>.</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">I was chatting with HJ Hornbeck and Dr Sarah yesterday, and we were tinkering with ChatGPT. We asked it for some simple medical advice, of the sort you might consult WebMD for, and Dr Sarah confirmed that it was close to what she would recommend. Then we asked it a simple question of the sort […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=69276</id>
-    <published>2023-02-13T13:02:32Z</published>
-    <updated>2023-02-13T13:02:32Z</updated>
-    <category term="Bad science"/>
   </entry>
   <entry>
     <title>New hope for less controversial Alzheimer’s drug</title>
