@@ -7,9 +7,26 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-02-17T03:32:42Z</updated>
+  <updated>2023-02-17T04:32:37Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>We have become a spider-breeding machine!</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/02/16/we-have-become-a-spider-breeding-machine/" type="text/html"/>
+    <content type="html">&lt;p class="lead"&gt;So many spiders, and with many more to come. They&amp;#8217;re keeping me busy!&lt;/p&gt;
+&lt;div class="center"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/x3DRoxe7Pik" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+</content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">So many spiders, and with many more to come. They’re keeping me busy!</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=69329</id>
+    <published>2023-02-17T03:59:26Z</published>
+    <updated>2023-02-17T03:59:26Z</updated>
+    <category term="Spiders"/>
+  </entry>
   <entry>
     <title>Science apologizes</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/02/16/science-apologizes/" type="text/html"/>
@@ -127,35 +144,6 @@ Make no mistake. Shockley was a racist. Shockley was a eugenicist. That’s all.
     <published>2023-02-15T15:00:14Z</published>
     <updated>2023-02-15T15:00:14Z</updated>
     <category term="Politics, History, and Law"/>
-  </entry>
-  <entry>
-    <title>I agree with Blake Stacey</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/02/15/i-agree-with-blake-stacey/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p class="lead">This is also <a href="https://icosahedron.website/@bstacey/109798526271267537">what I think of chatGPT</a>.</p>
-<p><a href="https://freethoughtblogs.com/pharyngula/files/2023/02/bullshitfountain.jpg"><img src="https://freethoughtblogs.com/pharyngula/files/2023/02/bullshitfountain-500x741.jpg" alt="" width="500" height="741" class="aligncenter size-large wp-image-69314" srcset="https://freethoughtblogs.com/pharyngula/files/2023/02/bullshitfountain-500x741.jpg 500w, https://freethoughtblogs.com/pharyngula/files/2023/02/bullshitfountain-101x150.jpg 101w, https://freethoughtblogs.com/pharyngula/files/2023/02/bullshitfountain-202x300.jpg 202w, https://freethoughtblogs.com/pharyngula/files/2023/02/bullshitfountain.jpg 569w" sizes="(max-width: 500px) 100vw, 500px"/></a></p>
-<blockquote><p>I confess myself a bit baffled by people who act like “how to interact with ChatGPT” is a useful classroom skill. It’s not a word processor or a spreadsheet; it doesn’t have documented, well-defined, reproducible behaviors. No, it’s not remotely analogous to a calculator. Calculators are built to be *right*, not to sound convincing. It’s a bullshit fountain. Stop acting like you’re a waterbender making emotive shapes by expressing your will in the medium of liquid bullshit. The lesson one needs about a bullshit fountain is *not to swim in it*.</p>
-<p>“Oh, but it’s a source of inspiration!”</p>
-<p>So, you’ve never been to a writers’ workshop, spent 30 minutes with the staff on the school literary magazine, seen the original “You’re the man now, dog!” scene, or had any other exposure to the thousand and one gimmicks invented over the centuries to get people to put one word after another.</p>
-<p>“It provides examples for teaching the art of critique!”</p>
-<p>Why not teach with examples, just hear me out here, by actual humans?</p>
-<p>“Students can learn to write by rewriting the output!”</p>
-<p>Am I the only one who finds passing off an edit of an unattributable mishmash as one’s own work to be, well, flagrantly unethical?</p>
-<p>“You’re just yelling at a cloud! What’s next, calling for us to reject modernity and embrace tradition?”</p>
-<p>I’d rather we built our future using the best parts of our present rather than the worst.</p></blockquote>
-<p>I’m going to call it a bullshit fountain from now on.</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">This is also what I think of chatGPT. I confess myself a bit baffled by people who act like “how to interact with ChatGPT” is a useful classroom skill. It’s not a word processor or a spreadsheet; it doesn’t have documented, well-defined, reproducible behaviors. No, it’s not remotely analogous to a calculator. Calculators are built […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=69313</id>
-    <published>2023-02-15T14:41:46Z</published>
-    <updated>2023-02-15T14:41:46Z</updated>
-    <category term="Technology"/>
   </entry>
   <entry>
     <title>New hope for less controversial Alzheimer’s drug</title>
