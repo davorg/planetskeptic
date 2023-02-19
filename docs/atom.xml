@@ -7,9 +7,26 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-02-19T19:28:53Z</updated>
+  <updated>2023-02-19T20:29:19Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>The horde awakens</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/02/19/the-horde-awakens/" type="text/html"/>
+    <content type="html">&lt;p class="lead"&gt;The egg sac is getting quite active.&lt;/p&gt;
+&lt;div class="center"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/npPKOJNqhEg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+</content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">The egg sac is getting quite active.</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=69352</id>
+    <published>2023-02-19T19:38:43Z</published>
+    <updated>2023-02-19T19:38:43Z</updated>
+    <category term="Spiders"/>
+  </entry>
   <entry>
     <title>Why not just skip ahead and try them for witchcraft?</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/02/19/why-not-just-skip-ahead-and-try-them-for-witchcraft/" type="text/html"/>
@@ -131,27 +148,6 @@
     <id>https://freethoughtblogs.com/pharyngula/?p=69334</id>
     <published>2023-02-18T14:05:19Z</published>
     <updated>2023-02-18T14:05:19Z</updated>
-    <category term="Miscellaneous and Meta"/>
-  </entry>
-  <entry>
-    <title>Looks like you might have me to kick around for a while</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/02/17/looks-like-you-might-have-me-to-kick-around-for-a-while/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p><a href="https://freethoughtblogs.com/pharyngula/files/2023/02/oldman.jpeg"><img src="https://freethoughtblogs.com/pharyngula/files/2023/02/oldman-150x150.jpeg" alt="" width="150" height="150" class="alignright size-thumbnail wp-image-69332" srcset="https://freethoughtblogs.com/pharyngula/files/2023/02/oldman-150x150.jpeg 150w, https://freethoughtblogs.com/pharyngula/files/2023/02/oldman-300x300.jpeg 300w, https://freethoughtblogs.com/pharyngula/files/2023/02/oldman-500x501.jpeg 500w, https://freethoughtblogs.com/pharyngula/files/2023/02/oldman.jpeg 650w" sizes="(max-width: 150px) 100vw, 150px"/></a></p>
-<p class="lead">This morning was my yearly checkup, and I’m afraid everything was normal. Cholesterol was down, blood pressure 120/70, not a hint of prostate cancer, probably going to live for a little while longer.</p>
-<p>There was some funny business with my thyroid, so I have to go in next week for an ultrasound. Also I get to get another colonoscopy in the summer of 2024.</p>
-<p>I’m home briefly, but I have to go teach a new class. Oh boy. And then I’m coming home again to cook for a potluck this evening.</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">This morning was my yearly checkup, and I’m afraid everything was normal. Cholesterol was down, blood pressure 120/70, not a hint of prostate cancer, probably going to live for a little while longer. There was some funny business with my thyroid, so I have to go in next week for an ultrasound. Also I get […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=69331</id>
-    <published>2023-02-17T16:54:04Z</published>
-    <updated>2023-02-17T16:54:04Z</updated>
     <category term="Miscellaneous and Meta"/>
   </entry>
   <entry>
