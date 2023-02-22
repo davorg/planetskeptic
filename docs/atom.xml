@@ -7,9 +7,27 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-02-21T23:30:02Z</updated>
+  <updated>2023-02-22T00:42:47Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Are they making a show of my life?</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/02/21/are-they-making-a-show-of-my-life/" type="text/html"/>
+    <content type="html">&lt;p class="lead"&gt;A series about an asshole college professor at a small liberal arts university? It must be my biography. And they got Bob Odenkirk to play me? I&amp;#8217;m flattered.&lt;/p&gt;
+&lt;div class="center"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/igDGzQLfrEQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;p&gt;Oh, never mind. He&amp;#8217;s an &lt;em&gt;English&lt;/em&gt; professor. Not a single spider in sight.&lt;/p&gt;
+</content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">A series about an asshole college professor at a small liberal arts university? It must be my biography. And they got Bob Odenkirk to play me? I’m flattered. Oh, never mind. He’s an English professor. Not a single spider in sight.</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=69377</id>
+    <published>2023-02-21T23:37:52Z</published>
+    <updated>2023-02-21T23:37:52Z</updated>
+    <category term="Miscellaneous and Meta"/>
+  </entry>
   <entry>
     <title>Another malignant billionaire cheating on their taxes</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/02/21/another-malignant-billionaire-cheating-on-their-taxes/" type="text/html"/>
@@ -97,34 +115,6 @@
     <updated>2023-02-21T14:11:56Z</updated>
     <category term="Atheism and Skepticism"/>
     <category term="Feminism, Gender, and Equality"/>
-  </entry>
-  <entry>
-    <title>IOKIYAR</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/02/21/iokiyar/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p><a href="https://freethoughtblogs.com/pharyngula/files/2023/02/matt-grossell.jpeg"><img src="https://freethoughtblogs.com/pharyngula/files/2023/02/matt-grossell-120x150.jpeg" alt="" width="120" height="150" class="alignright size-thumbnail wp-image-69361" srcset="https://freethoughtblogs.com/pharyngula/files/2023/02/matt-grossell-120x150.jpeg 120w, https://freethoughtblogs.com/pharyngula/files/2023/02/matt-grossell.jpeg 180w" sizes="(max-width: 120px) 100vw, 120px"/></a></p>
-<p class="lead">I fell for another tease. Remember <a href="https://freethoughtblogs.com/pharyngula/2023/02/19/theyre-lying-to-us-news-at-11/">Matt Grossell</a>, the Minnesota state representative who was a sullen drunk picking fights in hotels and bars and hospitals when he got arrested for being falling down snockered? Here’s a non-update. </p>
-<p>There was talk at the time about taking him off his committee assignments. Surprise: they did not. The Democrat in charge of that sort of thing is sill waffling. Worse yet, this bozo has <a href="https://www.rawstory.com/minnesota-republican-may-be-stripped-of-committee-assignments-after-drunk-driving-arrest/">a history of this sort of behavior</a>.</p>
-<blockquote><p>Grossell had previously been arrested in 2019 on charges of disorderly conduct and trespassing after a drunken incident at a hotel bar in St. Paul.</p>
-<p>The House Democratic leadership stripped Grossell of his committee assignments following his 2019 arrest. Part of the reason was that after he got out of jail he walked into St. Paul police headquarters and announced to officers that he was a state representative and that there would be “hell to pay.”</p>
-<p>His committee assignments have since been reinstated. Grossell is a member of the public safety, judiciary and capital investment committees.</p></blockquote>
-<p>He’s done this before? He got a little temporary slap and was then reinstated? I think we can guess how this is going to go.</p>
-<p>I did learn something in this non-update.</p>
-<blockquote><p>Alcohol is a factor in more than a quarter of Minnesota traffic deaths each year, according to state data, and drunk driving costs the state more than a quarter billion dollars annually. But neither the lawmakers getting arrested on alcohol-related charges, nor the voters who keep sending them back, seem to care a whole lot.</p></blockquote>
-<p>Yeah, you learn fast that going for a drive on these remote rural roads late on a Friday or Saturday night isn’t a great idea.</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">I fell for another tease. Remember Matt Grossell, the Minnesota state representative who was a sullen drunk picking fights in hotels and bars and hospitals when he got arrested for being falling down snockered? Here’s a non-update. There was talk at the time about taking him off his committee assignments. Surprise: they did not. The […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=69360</id>
-    <published>2023-02-21T13:29:27Z</published>
-    <updated>2023-02-21T13:29:27Z</updated>
-    <category term="Local"/>
-    <category term="Miscellaneous and Meta"/>
   </entry>
   <entry>
     <title>Better, faster, stronger: New Humanist spring 2023 out now</title>
