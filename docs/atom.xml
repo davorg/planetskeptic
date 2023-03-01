@@ -7,9 +7,24 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-03-01T09:30:33Z</updated>
+  <updated>2023-03-01T10:32:40Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>OPEN DISCUSSION MARCH 2023</title>
+    <link rel="alternate" href="https://richarddawkins.net/2023/03/open-discussion-march-2023/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">This thread has been created for thoughtful, rational discussion on subjects for which there are not currently any dedicated threads. Please note that our Comment Policy applies as usual. There is a link to this at the foot of the page. If you would like to refer back to previous open discussion threads, the most …</div>
+    </content>
+    <author>
+      <name>Moderator</name>
+    </author>
+    <id>https://richarddawkins.net/?p=978514</id>
+    <published>2023-03-01T09:44:26Z</published>
+    <updated>2023-03-01T09:44:26Z</updated>
+    <category term="Discussion"/>
+    <category term="Featured"/>
+  </entry>
   <entry>
     <title>Puritans promote porn</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/02/28/puritans-promote-porn/" type="text/html"/>
@@ -238,7 +253,6 @@
     <published>2023-02-01T09:46:27Z</published>
     <updated>2023-02-01T09:46:27Z</updated>
     <category term="Discussion"/>
-    <category term="Featured"/>
   </entry>
   <entry>
     <title>Hocus Pocus: New book!</title>
@@ -295,20 +309,6 @@ PLUS, pick up your copy from Vanishing Inc and you’ll also receive a copy of t
     <updated>2023-01-01T10:40:58Z</updated>
     <category term="Featured"/>
     <category term="Special Topic"/>
-  </entry>
-  <entry>
-    <title>Secular Rescue – Saving Freedom, Saving Lives</title>
-    <link rel="alternate" href="https://richarddawkins.net/2022/12/secular-rescue-saving-freedom-saving-lives/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Supporter, December 10 is recognized around the world as Human Rights Day. The theme this year is “Dignity, Freedom, and Justice for All.” Those are wonderful ideals, enjoyed by far too few across the globe. Secular Rescue works to improve (and often to save) the lives of atheists and nonbelievers living in places that would …</div>
-    </content>
-    <author>
-      <name>Moderator</name>
-    </author>
-    <id>https://richarddawkins.net/?p=978469</id>
-    <published>2022-12-12T14:57:27Z</published>
-    <updated>2022-12-12T14:57:27Z</updated>
-    <category term="Original"/>
   </entry>
   <entry>
     <title>New Book: Why Psychology Matters</title>
