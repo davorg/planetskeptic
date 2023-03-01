@@ -16,28 +16,28 @@ feed:
 cache_dir: /tmp/skeptic
 google_ga: G-D2YESV1XLK
 feeds:
-  - url: https://www.badscience.net/feed/
+  - feed: https://www.badscience.net/feed/
     title: bad science
     web: https://www.badscience.net/
-  - url: https://teenatheist.wordpress.com/feed/
+  - feed: https://teenatheist.wordpress.com/feed/
     title: diary of a teenage atheist
     web: https://teenatheist.wordpress.com
-  - url: https://feeds.feedburner.com/RaBlogFull
+  - feed: https://feeds.feedburner.com/RaBlogFull
     title: new humanist blog
     web: https://newhumanist.org.uk/
-  - url: https://freethoughtblogs.com/pharyngula/feed/
+  - feed: https://freethoughtblogs.com/pharyngula/feed/
     title: pharyngula
     web: https://freethoughtblogs.com/pharyngula
-  - url: https://www.richarddawkins.net/feed/
+  - feed: https://www.richarddawkins.net/feed/
     title: richard dawkins foundation
     web: https://richarddawkins.net/
-  - url: https://samharris.org/feed/
+  - feed: https://samharris.org/feed/
     title: sam harris
     web: https://www.samharris.org/
-  - url: https://feeds.feedburner.com/Skepchick
+  - feed: https://feeds.feedburner.com/Skepchick
     title: skepchick
     web: https://skepchick.org/
-  - url: https://richardwiseman.wordpress.com/feed/
+  - feed: https://richardwiseman.wordpress.com/feed/
     title: richard wiseman
     web: https://richardwiseman.wordpress.com/
 
