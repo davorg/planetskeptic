@@ -7,9 +7,26 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-03-08T18:32:49Z</updated>
+  <updated>2023-03-08T19:29:03Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Science Cannot Be Tongue-Tied</title>
+    <link rel="alternate" href="https://richarddawkins.net/2023/03/science-cannot-be-tongue-tied/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">From the Richard Dawkins Foundation Newsletter. Subscribe here. Hello! It might be funny, if it weren’t so worrisome. Recent weeks have seen some absurd new instances of science beset by would-be censors operating under the banner of “inclusion.” Examples are many, and they come from all over the globe. We’ll look at an ongoing controversy in …</div>
+    </content>
+    <author>
+      <name>Jeff Dellinger</name>
+    </author>
+    <id>https://richarddawkins.net/?p=978517</id>
+    <published>2023-03-08T19:06:35Z</published>
+    <updated>2023-03-08T19:06:35Z</updated>
+    <category term="Original"/>
+    <category term="Politics"/>
+    <category term="Religion"/>
+    <category term="Science"/>
+  </entry>
   <entry>
     <title>A new podcast episode this weekend…</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/03/08/a-new-podcast-episode-this-weekend/" type="text/html"/>
@@ -277,21 +294,6 @@ PLUS, pick up your copy from Vanishing Inc and you’ll also receive a copy of t
     <published>2023-01-01T10:47:01Z</published>
     <updated>2023-01-01T10:47:01Z</updated>
     <category term="Discussion"/>
-  </entry>
-  <entry>
-    <title>BOOK CLUB 2023</title>
-    <link rel="alternate" href="https://richarddawkins.net/2023/01/book-club-2023/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">This is the 2023 follow-on from the 2022 BOOK CLUB thread, which is now closed, though you can easily refer back to earlier discussions by clicking on the link. BOOK CLUB 2023 has been created to provide a dedicated space for the discussion of books. Pretty much any kind of book – it doesn’t have …</div>
-    </content>
-    <author>
-      <name>Moderator</name>
-    </author>
-    <id>https://richarddawkins.net/?p=978479</id>
-    <published>2023-01-01T10:40:58Z</published>
-    <updated>2023-01-01T10:40:58Z</updated>
-    <category term="Featured"/>
-    <category term="Special Topic"/>
   </entry>
   <entry>
     <title>New Book: Why Psychology Matters</title>
