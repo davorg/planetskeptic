@@ -7,9 +7,26 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-03-10T22:29:57Z</updated>
+  <updated>2023-03-10T23:28:38Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Coming up!</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/03/10/coming-up/" type="text/html"/>
+    <content type="html">&lt;p class="lead"&gt;I&amp;#8217;ll be streaming in less than an hour, if all goes well. See you then!&lt;/p&gt;
+&lt;div class="center"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/E0Jftq-ZXRU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/p&gt;
+</content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">I’ll be streaming in less than an hour, if all goes well. See you then!</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=69525</id>
+    <published>2023-03-10T23:10:44Z</published>
+    <updated>2023-03-10T23:10:44Z</updated>
+    <category term="Miscellaneous and Meta"/>
+  </entry>
   <entry>
     <title>Glinner evokes the mob!</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/03/10/glinner-evokes-the-mob/" type="text/html"/>
@@ -117,27 +134,6 @@
     <published>2023-03-09T13:28:05Z</published>
     <updated>2023-03-09T13:28:05Z</updated>
     <category term="Art, Culture, and Humor"/>
-  </entry>
-  <entry>
-    <title>FREEEEEDOOOOMMM! For a few days, anyway</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/03/09/freeeeedoooommm-for-a-few-days-anyway/" type="text/html"/>
-    <content type="html">&lt;p class="lead"&gt;Today is my last day of classes before Spring break, and it&amp;#8217;s going to be a busy one. After I finish up lab today, I&amp;#8217;m free! Except for grading an exam and lab reports, and having to tend the students&amp;#8217; flies until they get back, and feeding my own monstrous swarm of arachnids every day. Other than that, I get to sit back and take it easy.&lt;/p&gt;
-&lt;p&gt;So let&amp;#8217;s do a live stream tomorrow! I&amp;#8217;ve got some rage bottled up in me about idiots denying evolution and climate change, plus maybe I&amp;#8217;ll reveal some spider breeding tricks. Live! On air!&lt;/p&gt;
-&lt;div class="center"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/E0Jftq-ZXRU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-&lt;p&gt;I do have to get through the rest of this day, though.&lt;/p&gt;
-</content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Today is my last day of classes before Spring break, and it’s going to be a busy one. After I finish up lab today, I’m free! Except for grading an exam and lab reports, and having to tend the students’ flies until they get back, and feeding my own monstrous swarm of arachnids every day. […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=69511</id>
-    <published>2023-03-09T13:12:09Z</published>
-    <updated>2023-03-09T13:12:09Z</updated>
-    <category term="Bad science"/>
-    <category term="Science"/>
-    <category term="Spiders"/>
   </entry>
   <entry>
     <title>Book review: Cocoon by Zhang Yueran</title>
