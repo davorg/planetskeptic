@@ -7,9 +7,42 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-03-13T12:38:52Z</updated>
+  <updated>2023-03-13T13:31:51Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>CAM and credulity</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/03/13/cam-and-credulity/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p><a href="https://freethoughtblogs.com/pharyngula/files/2023/03/prayer.jpeg"><img src="https://freethoughtblogs.com/pharyngula/files/2023/03/prayer-113x150.jpeg" alt="" width="113" height="150" class="alignright size-thumbnail wp-image-69548" srcset="https://freethoughtblogs.com/pharyngula/files/2023/03/prayer-113x150.jpeg 113w, https://freethoughtblogs.com/pharyngula/files/2023/03/prayer-225x300.jpeg 225w, https://freethoughtblogs.com/pharyngula/files/2023/03/prayer.jpeg 450w" sizes="(max-width: 113px) 100vw, 113px"/></a></p>
+<p class="lead">I was asked by a <a href="https://twitter.com/YTGGFI">friend</a> to take a look at this paper which he was surprised to see in a science journal. It’s a weird and unconvincing paper, a <a href="https://www.sciencedirect.com/science/article/pii/S1550830720300926?via%3Dihub">Case report of instantaneous resolution of juvenile macular degeneration blindness after proximal intercessory prayer</a>. It’s actually a case of rummaging around in old medical files in order to report a “miracle” in 1972.</p>
+<p>Here’s the story: an 18 year old girl lost her vision in 1959 over the course of a few months, with no identified cause. She was diagnosed with 7/200 vision, attended a school for the blind, and lived as a blind person for 12 years. Then, even more suddenly, her vision recovered fully after her husband prayed for her.</p>
+<blockquote><p>When the couple went to bed later than normal (after midnight), her husband performed a hurried spiritual devotional practice (reading two Bible verses) and got on his knees to pray. She describes that they both began to cry as he began to pray, with a hand on her shoulder while she laid on the bed, and with great feeling and boldness he prayed: “Oh, God! You can restore […] eyesight tonight, Lord. I know You can do it! And I pray You will do it tonight.” At the close of the prayer, his wife opened her eyes and saw her husband kneeling in front of her, which was her first clear visual perception after almost 13 years of blindness.</p></blockquote>
+<p>An examination in 2001 revealed that she had 20/40 vision, and that her retinas looked normal.</p>
+<p>I can’t debunk this account, if that’s what you’re looking for. I could speculate about possible ways the story is misleading us, but we know nothing about the causes of the blindness or its cure, we don’t even know that there was a physical basis for the blindness, and I’m not going to diagnose an old medical condition — that’s what the authors of the paper are doing. All we’ve got are old records, and modern evidence that she can see, and no way to trace the actual history of her vision. It’s an anecdote. Maybe she was actually cured by a miracle! Unfortunately, there’s no way to analyze what actually happened.</p>
+<p>I’m skeptical that prayer is actually effective, though. This woman was devout, came from a very religious family and community, and you’re telling me that the onset of blindness did not trigger a flurry of intense prayers from the woman, her family, and her church? Was that the first time her husband begged his god to restore her sight? It’s awfully hard to believe that something that was certainly done to no effect for years can be assigned a causal role in her abrupt recovery. But OK, I just have to shrug and say that’s some story.</p>
+<p>How did it get published in a science journal? Well, it’s not a science journal, for one thing. It got published in <a href="https://www.sciencedirect.com/journal/explore"><i>Explore</i></a>.</p>
+<blockquote><p>EXPLORE: The Journal of Science &amp; Healing addresses the scientific principles behind, and applications of, evidence-based healing practices from a wide variety of sources, including conventional, alternative, and cross-cultural medicine. It is an interdisciplinary journal that explores the healing arts, consciousness, spirituality, eco-environmental issues, and basic science as all these fields relate to health.</p></blockquote>
+<p>It’s one of those alternative journals with standards so wide open the editors’ brains have fallen out. I’ll also note that the paper concludes with an empty statement.</p>
+<blockquote><p>The PIP [proximal intercessory prayer] may have been associated with a response in the ANS [autonomic nervous system] of the patient. However, research on the potential for PIP to affect the ANS and/or reverse vision loss associated with JMD is limited. Findings from this report and others like it warrant investment in future research to ascertain whether and how PIP experiences may play a role in apparent spontaneous resolution of lifelong conditions having otherwise no prognosis of recovery.</p></blockquote>
+<p>“warrant investment in future research”…how? You’ve got one poorly understood, anecdotal observation, so how do you propose to do “research”? By gathering more anecdotal self-reports from believers in this phenomenon, and looking at more half-century old medical records? I’m also concerned that the authors now want to find people with “lifelong conditions having otherwise no prognosis of recovery” and tell them to pray for a cure. Most of those people will say they’ve already been praying for years, so…pray harder? Pray to the right god? Pray with the right magic words? It’s not as if they’ve identified a repeatable treatment or specific mechanism that they can test and refine.</p>
+<p>I do note one admission that they authors make.</p>
+<blockquote><p>Prayer is one of the most common complementary and alternative medicine (CAM) therapies.</p></blockquote>
+<p>That’s a confession that most of CAM is useless.</p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">I was asked by a friend to take a look at this paper which he was surprised to see in a science journal. It’s a weird and unconvincing paper, a Case report of instantaneous resolution of juvenile macular degeneration blindness after proximal intercessory prayer. It’s actually a case of rummaging around in old medical files […]</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=69547</id>
+    <published>2023-03-13T13:23:11Z</published>
+    <updated>2023-03-13T13:23:11Z</updated>
+    <category term="Atheism and Skepticism"/>
+    <category term="Bad science"/>
+  </entry>
   <entry>
     <title>A tiny scrap of good news</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/03/13/a-tiny-scrap-of-good-news/" type="text/html"/>
@@ -112,33 +145,6 @@
     <id>https://freethoughtblogs.com/pharyngula/?p=69534</id>
     <published>2023-03-12T13:40:00Z</published>
     <updated>2023-03-12T13:40:00Z</updated>
-    <category term="Bad science"/>
-  </entry>
-  <entry>
-    <title>What do others think of Evolutionary Psychology?</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/03/11/what-do-others-think-of-evolutionary-psychology/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p><a href="https://freethoughtblogs.com/pharyngula/files/2023/03/ep_monkeys.jpeg"><img src="https://freethoughtblogs.com/pharyngula/files/2023/03/ep_monkeys-150x107.jpeg" alt="" width="150" height="107" class="alignright size-thumbnail wp-image-69532" srcset="https://freethoughtblogs.com/pharyngula/files/2023/03/ep_monkeys-150x107.jpeg 150w, https://freethoughtblogs.com/pharyngula/files/2023/03/ep_monkeys-300x214.jpeg 300w, https://freethoughtblogs.com/pharyngula/files/2023/03/ep_monkeys-500x357.jpeg 500w, https://freethoughtblogs.com/pharyngula/files/2023/03/ep_monkeys.jpeg 600w" sizes="(max-width: 150px) 100vw, 150px"/></a></p>
-<p class="lead">Over there on Reddit, there is a subreddit called <a href="https://www.reddit.com/r/evolution/">r/evolution</a> for the discussion of evolutionary questions and issues. There is now <a href="https://www.reddit.com/r/evolution/comments/11oai0v/proposed_rule_addition_evolutionary_psychology/">consideration of a rule to clarify their stance on evolutionary psychology</a>. It’s a good one.</p>
-<blockquote><p>As you know, the moderator team has been considering the possibility of new rules to help improve things around here. And of course, we wanted to get the community’s feedback on the matter before we pulled the trigger. Please, just remember to voice your disagreements peacefully.</p>
-<ul>
-<li>Rule #X: Evolutionary Psychology. The moderation team takes the stance that evolutionary psychology is pseudoscience. Like any pseudoscience, it starts with a conclusion rather than drawing that conclusion from data; it also tends to ignore or even demonize other fields of science that already provide information about the topics it addresses; and tends to boil personal behaviors and preferences (as well as complicated sociocultural and developmental phenomena) down to a handful of terms it uses as buzzwords to craft adaptationist/bioessentialist just-so stories that are often untested, untestable, or even wildly incorrect. It’s also frequently used to justify everything from preexisting biases all the way to dehumanizing rhetoric. These posts also tend to attract a lot of baseless speculation and experts on these topics are often drowned out by negativity and downvotes, all of which is antithetical to the climate we’re trying to cultivate.</li>
-<li>Please note that while we discourage evolutionary psychology and pseudoscience in general, simply asking questions about the evolutionary basis for certain human behaviors or cognitive traits isn’t necessarily an issue: there are legitimate scientists in various fields (eg, anthropology, especially evolutionary anthropology, ethnography, behavioral genetics, etc), who study these topics with proper, physical data, and so there is information out there. However, if we feel that a question is better suited for other academics (eg, regular psychologists, historians, sociologists, philosophers, etc), if things start getting pseudoscientific, or if certain lines are crossed, we may choose to intervene.</li>
-</ul>
-</blockquote>
-<p>More pithily, they say the “problem is that evolutionary psychology is science in the same way that Taco Bell is authentic Mexican food.” There is some polite agreement with the statement (I’m not saying anything, because I’d only provide loud impolite agreement) and some polite disagreement. The disagreeable all seem to be quoting Tooby &amp; Cosmides, which to me is just another sign that it’s a cult. EP has existed for decades, and all you’ve got to show for it is a pair of aging, founding authorities and a swarm of lunatics and bad publications? Cut your losses. Treat EP as crackpottery.</p>
-<p>As far as I’m concerned, the statement is fair and judicious.</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Over there on Reddit, there is a subreddit called r/evolution for the discussion of evolutionary questions and issues. There is now consideration of a rule to clarify their stance on evolutionary psychology. It’s a good one. As you know, the moderator team has been considering the possibility of new rules to help improve things around […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=69530</id>
-    <published>2023-03-11T14:11:48Z</published>
-    <updated>2023-03-11T14:11:48Z</updated>
     <category term="Bad science"/>
   </entry>
   <entry>
