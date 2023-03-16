@@ -7,9 +7,29 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-03-16T12:38:40Z</updated>
+  <updated>2023-03-16T13:34:50Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Another anniversary!</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/03/16/another-anniversary/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p class="lead">Today I learned from <a href="https://www.goominet.com/unspeakable-vault/vault/696/">webcomic</a> that yesterday was the anniversary of the death of HP Lovecraft in 1937.</p>
+<p><a href="https://freethoughtblogs.com/pharyngula/files/2023/03/lovecraft-obituary.jpg"><img src="https://freethoughtblogs.com/pharyngula/files/2023/03/lovecraft-obituary.jpg" alt="" width="481" height="583" class="aligncenter size-full wp-image-69576" srcset="https://freethoughtblogs.com/pharyngula/files/2023/03/lovecraft-obituary.jpg 481w, https://freethoughtblogs.com/pharyngula/files/2023/03/lovecraft-obituary-124x150.jpg 124w, https://freethoughtblogs.com/pharyngula/files/2023/03/lovecraft-obituary-248x300.jpg 248w" sizes="(max-width: 481px) 100vw, 481px"/></a></p>
+<p>That all caps subhead, “WROTE ABOUT ASTRONOMY,” cracks me up, although apparently it was true, he wrote a regular column for a newspaper. I guess “WROTE WEIRDLY RACIST AND NIHILISTIC COSMIC HORROR” didn’t fit the column width.</p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Today I learned from webcomic that yesterday was the anniversary of the death of HP Lovecraft in 1937. That all caps subhead, “WROTE ABOUT ASTRONOMY,” cracks me up, although apparently it was true, he wrote a regular column for a newspaper. I guess “WROTE WEIRDLY RACIST AND NIHILISTIC COSMIC HORROR” didn’t fit the column width.</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=69575</id>
+    <published>2023-03-16T12:56:12Z</published>
+    <updated>2023-03-16T12:56:12Z</updated>
+    <category term="Politics, History, and Law"/>
+  </entry>
   <entry>
     <title>43</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/03/16/43/" type="text/html"/>
@@ -108,24 +128,6 @@
     <published>2023-03-15T11:28:23Z</published>
     <updated>2023-03-15T11:28:23Z</updated>
     <category term="Race, Society, and Social Justice"/>
-  </entry>
-  <entry>
-    <title>I appreciate a short, simple summary of the current banking chaos</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/03/14/i-appreciate-a-short-simple-summary-of-the-current-banking-chaos/" type="text/html"/>
-    <content type="html">&lt;p class="lead"&gt;I&amp;#8217;m not a money person, so I like an 8-minute description of what&amp;#8217;s going on this week. Let me know if any of this is wrong!&lt;/p&gt;
-&lt;div class="center"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/oHjDCC6Vigc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-&lt;p&gt;When will we learn that big money needs to be more tightly regulated, not less, and that the advocates for deregulation are worse than bank robbers?&lt;/p&gt;
-</content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">I’m not a money person, so I like an 8-minute description of what’s going on this week. Let me know if any of this is wrong! When will we learn that big money needs to be more tightly regulated, not less, and that the advocates for deregulation are worse than bank robbers?</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=69559</id>
-    <published>2023-03-14T13:24:01Z</published>
-    <updated>2023-03-14T13:24:01Z</updated>
-    <category term="Miscellaneous and Meta"/>
   </entry>
   <entry>
     <title>The case for drug consumption rooms is crystal clear</title>
