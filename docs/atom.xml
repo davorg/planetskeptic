@@ -7,9 +7,35 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-03-23T11:28:27Z</updated>
+  <updated>2023-03-23T12:38:40Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Rising, so far</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/03/23/rising-so-far/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p><a href="https://freethoughtblogs.com/pharyngula/files/2023/03/up.png"><img src="https://freethoughtblogs.com/pharyngula/files/2023/03/up-150x95.png" alt="" width="150" height="95" class="alignright size-thumbnail wp-image-69635" srcset="https://freethoughtblogs.com/pharyngula/files/2023/03/up-150x95.png 150w, https://freethoughtblogs.com/pharyngula/files/2023/03/up.png 300w" sizes="(max-width: 150px) 100vw, 150px"/></a></p>
+<p class="lead">I woke up this morning, dreading the day — I have so much work I need to get done, and I have doubts that I can get it all done. But I must! I fired up iTunes while I was getting ready, and the first random song is Bauhaus’s “Bela Lugosi is Dead”, which calmed me right down. Second song: Patti Smith, “Horses,” which fired me up and I’m ready get things done.</p>
+<p>Then I opened up the Washington Post, and there on the front page is an honest, positive article about trans people, <a href="https://www.washingtonpost.com/dc-md-va/2023/03/23/transgender-adults-transitioning-poll/">“Most trans adults say transitioning made them more satisfied with their lives”</a>. Yeah, obviously. About time a national paper was brave enough to say it.</p>
+<blockquote><p>Transgender Americans experience stigma and systemic inequality in many aspects of their lives, including education, work and health-care access, a wide-ranging Washington Post-KFF poll finds.</p>
+<p>Many have been harassed or verbally abused. They’ve been kicked out of their homes, denied health care and accosted in bathrooms. A quarter have been physically attacked, and about 1 in 5 have been fired or lost out on a promotion because of their gender identity. They are more than twice as likely as the population at large to have experienced serious mental health struggles such as depression.</p>
+<p>Yet most trans adults say transitioning has made them more satisfied with their lives.</p>
+<p>“Living doesn’t hurt anymore,” said TC Caldwell, a 37-year-old Black nonbinary person from Montgomery, Ala. “It feels good to just breathe and be myself.”</p></blockquote>
+<p>That’s what we should want, that people feel good about being themselves, and that we should be aware of the discrimination some people suffer. Let’s fix that. It’s especially welcome to see that kind of recognition after the embarrassing, awful Richard Dawkins/Piers Morgan interview (I’ll have more to say about that later, after I get an exam assembled and after I figure out how to recover from a disastrous turn in my genetics lab.)</p>
+<p>Good morning! It doesn’t take a lot to get a little uplift to start the day.</p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">I woke up this morning, dreading the day — I have so much work I need to get done, and I have doubts that I can get it all done. But I must! I fired up iTunes while I was getting ready, and the first random song is Bauhaus’s “Bela Lugosi is Dead”, which calmed […]</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=69634</id>
+    <published>2023-03-23T12:04:43Z</published>
+    <updated>2023-03-23T12:04:43Z</updated>
+    <category term="Miscellaneous and Meta"/>
+  </entry>
   <entry>
     <title>Famous person found to have ordinary genetic history</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/03/22/famous-person-found-to-have-ordinary-genetic-history/" type="text/html"/>
@@ -103,34 +129,6 @@
     <published>2023-03-21T13:27:46Z</published>
     <updated>2023-03-21T13:27:46Z</updated>
     <category term="Miscellaneous and Meta"/>
-  </entry>
-  <entry>
-    <title>Florida of the North!</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/03/21/florida-of-the-north/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><div id="attachment_69620" style="width: 160px" class="wp-caption alignright"><a href="https://freethoughtblogs.com/pharyngula/files/2023/03/state-seal-of-iowa-208374796.png"><img src="https://freethoughtblogs.com/pharyngula/files/2023/03/state-seal-of-iowa-208374796-150x150.png" alt="" width="150" height="150" class="size-thumbnail wp-image-69620" srcset="https://freethoughtblogs.com/pharyngula/files/2023/03/state-seal-of-iowa-208374796-150x150.png 150w, https://freethoughtblogs.com/pharyngula/files/2023/03/state-seal-of-iowa-208374796-298x300.png 298w, https://freethoughtblogs.com/pharyngula/files/2023/03/state-seal-of-iowa-208374796.png 500w" sizes="(max-width: 150px) 100vw, 150px"/></a><p class="wp-caption-text">“We prize and our rights our liberties we will maintain”? What? No wonder Iowa is screwed up.</p></div>
-<p class="lead">The <a href="https://www.washingtonpost.com/nation/2023/03/20/iowa-trump-gay-rights/">Washington Post noticed</a>. Even as Minnesota has been progressing and enacting common sense legislation to improve the life of its citizens, our neighbor to the South, Iowa, has been going insane.</p>
-<blockquote><p>Republicans in the Iowa legislature, empowered by the state’s recent “red wave,” have embarked on an ambitious new agenda that includes a costly school choice bill and legislation targeting the LGBTQ community, a historic divergence from Iowa’s history as a civil rights bastion.</p>
-<p>Even as teens draped in rainbow flags crowded into the Capitol rotunda chanting “We say gay” on March 8, Iowa lawmakers quickly passed three bills related to gay and transgender rights, culminating with a measure to ban gender-affirming care for transgender youth that is awaiting Republican Gov. Kim Reynolds’s signature.</p>
-<p>The votes were not only emphatic but were also a sharp reversal for the state: Iowa has veered so far to the right in recent years that its political landscape is virtually unrecognizable from the centrist place that chose Barack Obama in 2008 and 2012 and was one of the earliest states in the country to affirm same-sex marriage. A joke among statehouse reporters is that Iowa is becoming the “Florida of the North” — without the beaches.</p></blockquote>
-<p>Once you let Republicans get a toe-hold in your state, they start screaming and fostering a climate of hatred and paranoia that takes over, and next thing you know you’re getting compared to Florida. I don’t understand this transformation myself, but somehow, working class people in Iowa have absorbed a lot of Republican propaganda and have gotten the idea that Trump was a hero.</p>
-<blockquote><p>Political analysts in the state say that Iowa’s swing has solidified over the past seven years as reliably Democratic working-class voters abandoned the party in favor of Donald Trump’s message, and the state’s large percentage of independent voters also moved toward the Republicans.</p></blockquote>
-<p>Trump’s message? What the fuck <em>is</em> Trump’s message? And why does it appeal to anyone? The article doesn’t say. If that “message” is represented by Governor Kim Reynolds, well yuck — it’s all hate and ignorance.</p>
-<blockquote><p>At a February appearance at a raucous town hall co-sponsored by Moms for Liberty — the Florida-based group that has campaigned for book bans across the country — Reynolds celebrated her school choice victory and portrayed herself both as a grandma of 11 and a warrior against the “radical left.”</p>
-<p>“They think patriotism is racist and pornographic library books are education,” Reynolds said, speaking over shouting protesters and supporters chanting “U.S.A., U.S.A.” “They believe that the content of our character is less important than the color of our skin. They believe that children should be encouraged to pick their gender and the parents, well, they’re just in the way.”</p></blockquote>
-<p>Love how the one thing Republicans have stolen from Martin Luther King Jr. is that one line, and they’ve twisted it to support their assertion that white people are discriminated against. She’s got everything backwards, though: Republicans think racism is patriotism and education is pornography.</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">The Washington Post noticed. Even as Minnesota has been progressing and enacting common sense legislation to improve the life of its citizens, our neighbor to the South, Iowa, has been going insane. Republicans in the Iowa legislature, empowered by the state’s recent “red wave,” have embarked on an ambitious new agenda that includes a costly […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=69619</id>
-    <published>2023-03-21T11:57:24Z</published>
-    <updated>2023-03-21T11:57:24Z</updated>
-    <category term="Politics, History, and Law"/>
   </entry>
   <entry>
     <title>Why are we still obsessed with witches?</title>
