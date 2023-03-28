@@ -7,9 +7,28 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-03-28T16:38:00Z</updated>
+  <updated>2023-03-28T17:29:34Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>The snow is getting crusty</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/03/28/the-snow-is-getting-crusty/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p class="lead">It’s icy and melting in strange random ways — not uniformly at all, but the surface is getting spiky with odd shapes appearing. Like this example outside my door:</p>
+<p><a href="https://freethoughtblogs.com/pharyngula/files/2023/03/snowsculpture.jpeg"><img src="https://freethoughtblogs.com/pharyngula/files/2023/03/snowsculpture-500x375.jpeg" alt="" width="500" height="375" class="aligncenter size-large wp-image-69678" srcset="https://freethoughtblogs.com/pharyngula/files/2023/03/snowsculpture-500x375.jpeg 500w, https://freethoughtblogs.com/pharyngula/files/2023/03/snowsculpture-150x113.jpeg 150w, https://freethoughtblogs.com/pharyngula/files/2023/03/snowsculpture-300x225.jpeg 300w, https://freethoughtblogs.com/pharyngula/files/2023/03/snowsculpture-768x576.jpeg 768w, https://freethoughtblogs.com/pharyngula/files/2023/03/snowsculpture.jpeg 1500w" sizes="(max-width: 500px) 100vw, 500px"/></a></p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">It’s icy and melting in strange random ways — not uniformly at all, but the surface is getting spiky with odd shapes appearing. Like this example outside my door:</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=69677</id>
+    <published>2023-03-28T16:57:07Z</published>
+    <updated>2023-03-28T16:57:07Z</updated>
+    <category term="Miscellaneous and Meta"/>
+  </entry>
   <entry>
     <title>Eradicate the guns, not the people</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/03/28/eradicate-the-guns-not-the-people/" type="text/html"/>
@@ -119,30 +138,6 @@ Index case could not be explained on obsessions and compulsions or habit and imp
     <published>2023-03-28T13:08:05Z</published>
     <updated>2023-03-28T13:08:05Z</updated>
     <category term="Science"/>
-  </entry>
-  <entry>
-    <title>Genius investor!</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/03/28/genius-investor/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p><a href="https://freethoughtblogs.com/pharyngula/files/2023/03/bluecheckmark.jpeg"><img src="https://freethoughtblogs.com/pharyngula/files/2023/03/bluecheckmark.jpeg" alt="" width="150" height="144" class="alignright size-full wp-image-69662"/></a></p>
-<p class="lead">I admit, I’m impressed. <a href="https://news.yahoo.com/elon-musk-says-twitter-worth-205428763.html">Elon Musk has thrown away $24 billion in less than half a year</a>. That takes real money savvy.</p>
-<blockquote><p>Elon Musk has revealed that he believes Twitter is currently worth $20 billion, or less than half the $44 billion he purchased it for just five months ago.</p>
-<p>In a companywide email Friday obtained by the New York Times about employee stock grants, Musk admitted that the company’s value since going private, in his estimation, is roughly $20 billion; in the aftermath of Musk’s acquisition, many advertisers — the social network’s main source of income — fled the service, and as Vox reported earlier this week, haven’t returned.</p></blockquote>
-<p>That’s not the punch line, though. This is the punch line:</p>
-<blockquote><p>Elsewhere in the email, Musk said that at one point Twitter was four months away from running out of money, which sparked the need for mass layoffs and other cuts. However, an optimistic Chief Twit also told the employees that still remain there that “I see a clear, but difficult, path to a &gt;$250B valuation,” and that he now views Twitter as an “inverse start-up.”</p></blockquote>
-<p>As ever, Elon Musk is the master of hype and self-delusion. No, he doesn’t have a plan to increase the value to $250 billion. Right now, he’s playing games with checkmarks that people can buy. I never saw the point of getting verified and getting blue checkmark on my twitter account back in the day, when the company was run by only <em>semi</em>-incompetent management, and now that Musk is imposing weird arbitrary rules to get people to pay for it, I have even less interest. He thinks this will help him increase the value of the company by $230 billion? That’s nuts.</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">I admit, I’m impressed. Elon Musk has thrown away $24 billion in less than half a year. That takes real money savvy. Elon Musk has revealed that he believes Twitter is currently worth $20 billion, or less than half the $44 billion he purchased it for just five months ago. In a companywide email Friday […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=69661</id>
-    <published>2023-03-28T12:21:57Z</published>
-    <updated>2023-03-28T12:21:57Z</updated>
-    <category term="Miscellaneous and Meta"/>
   </entry>
   <entry>
     <title>The one rule that binds them all</title>
