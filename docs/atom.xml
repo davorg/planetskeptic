@@ -7,9 +7,31 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-03-30T11:28:46Z</updated>
+  <updated>2023-03-30T12:38:44Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>They’re getting closer</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/03/30/theyre-getting-closer/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p><a href="https://freethoughtblogs.com/pharyngula/files/2023/03/raymond-train.jpeg"><img src="https://freethoughtblogs.com/pharyngula/files/2023/03/raymond-train-300x225.jpeg" alt="" width="300" height="225" class="alignright size-medium wp-image-69694" srcset="https://freethoughtblogs.com/pharyngula/files/2023/03/raymond-train-300x225.jpeg 300w, https://freethoughtblogs.com/pharyngula/files/2023/03/raymond-train-150x113.jpeg 150w, https://freethoughtblogs.com/pharyngula/files/2023/03/raymond-train.jpeg 768w, https://freethoughtblogs.com/pharyngula/files/2023/03/raymond-train-500x375.jpeg 500w" sizes="(max-width: 300px) 100vw, 300px"/></a></p>
+<p class="lead">The latest <a href="https://www.washingtonpost.com/nation/2023/03/30/minnesota-train-derailment-raymond/">train derailment is only an hour away from me</a>.</p>
+<blockquote>
+<p>A train carrying ethanol derailed and sparked a fire in Raymond, Minn., authorities said Thursday, urging nearby residents to evacuate.</p>
+</blockquote>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">The latest train derailment is only an hour away from me. A train carrying ethanol derailed and sparked a fire in Raymond, Minn., authorities said Thursday, urging nearby residents to evacuate.</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=69693</id>
+    <published>2023-03-30T12:25:38Z</published>
+    <updated>2023-03-30T12:25:38Z</updated>
+    <category term="Miscellaneous and Meta"/>
+  </entry>
   <entry>
     <title>Florida. Charter school. Principal a fan of Elon Musk. Need I say more?</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/03/29/florida-charter-school-principal-a-fan-of-elon-musk-need-i-say-more/" type="text/html"/>
@@ -119,25 +141,6 @@
     <published>2023-03-29T12:45:04Z</published>
     <updated>2023-03-29T12:45:04Z</updated>
     <category term="Feminism, Gender, and Equality"/>
-  </entry>
-  <entry>
-    <title>The snow is getting crusty</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/03/28/the-snow-is-getting-crusty/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p class="lead">It’s icy and melting in strange random ways — not uniformly at all, but the surface is getting spiky with odd shapes appearing. Like this example outside my door:</p>
-<p><a href="https://freethoughtblogs.com/pharyngula/files/2023/03/snowsculpture.jpeg"><img src="https://freethoughtblogs.com/pharyngula/files/2023/03/snowsculpture-500x375.jpeg" alt="" width="500" height="375" class="aligncenter size-large wp-image-69678" srcset="https://freethoughtblogs.com/pharyngula/files/2023/03/snowsculpture-500x375.jpeg 500w, https://freethoughtblogs.com/pharyngula/files/2023/03/snowsculpture-150x113.jpeg 150w, https://freethoughtblogs.com/pharyngula/files/2023/03/snowsculpture-300x225.jpeg 300w, https://freethoughtblogs.com/pharyngula/files/2023/03/snowsculpture-768x576.jpeg 768w, https://freethoughtblogs.com/pharyngula/files/2023/03/snowsculpture.jpeg 1500w" sizes="(max-width: 500px) 100vw, 500px"/></a></p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">It’s icy and melting in strange random ways — not uniformly at all, but the surface is getting spiky with odd shapes appearing. Like this example outside my door:</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=69677</id>
-    <published>2023-03-28T16:57:07Z</published>
-    <updated>2023-03-28T16:57:07Z</updated>
-    <category term="Miscellaneous and Meta"/>
   </entry>
   <entry>
     <title>Book review: Still Pictures by Janet Malcolm</title>
