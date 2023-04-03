@@ -7,9 +7,48 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-04-03T13:29:25Z</updated>
+  <updated>2023-04-03T14:28:57Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Truth, but funny</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/04/03/truth-but-funny/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p class="lead">Trudy and Doug (of Oglaf fame) post amusing sketches on their <a href="https://www.patreon.com/posts/rollerskates-80952882">Patreon</a> sometimes. This one is high art, it made me laugh and cry at the same time.</p>
+<p><a href="https://freethoughtblogs.com/pharyngula/files/2023/04/welcome-to-the-gig-economy.png"><img src="https://freethoughtblogs.com/pharyngula/files/2023/04/welcome-to-the-gig-economy.png" alt="" width="434" height="471" class="aligncenter size-full wp-image-69727" srcset="https://freethoughtblogs.com/pharyngula/files/2023/04/welcome-to-the-gig-economy.png 434w, https://freethoughtblogs.com/pharyngula/files/2023/04/welcome-to-the-gig-economy-138x150.png 138w, https://freethoughtblogs.com/pharyngula/files/2023/04/welcome-to-the-gig-economy-276x300.png 276w" sizes="(max-width: 434px) 100vw, 434px"/></a></p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Trudy and Doug (of Oglaf fame) post amusing sketches on their Patreon sometimes. This one is high art, it made me laugh and cry at the same time.</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=69726</id>
+    <published>2023-04-03T14:03:03Z</published>
+    <updated>2023-04-03T14:03:03Z</updated>
+    <category term="Art, Culture, and Humor"/>
+  </entry>
+  <entry>
+    <title>I think I’ll avoid the news for a few days</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/04/03/i-think-ill-avoid-the-news-for-a-few-days/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p class="lead">Trump is supposed to be ‘arrested’ tomorrow (which probably means he shows up at a courthouse, is photographed mercilessly while treated with great deference, then retires to a luxurious hotel room to scribble on Truth Social about his martyrdom). Nothing much of substance will happen, but all the networks will be full of false piety and claims that this is an exceptional and significant event, which it isn’t. And of course all the morons will be raging with their battery of flimsy rationalizations.</p>
+<div id="attachment_69724" style="width: 510px" class="wp-caption aligncenter"><a href="https://freethoughtblogs.com/pharyngula/files/2023/04/psychopathology.png"><img src="https://freethoughtblogs.com/pharyngula/files/2023/04/psychopathology-500x468.png" alt="" width="500" height="468" class="size-large wp-image-69724" srcset="https://freethoughtblogs.com/pharyngula/files/2023/04/psychopathology-500x468.png 500w, https://freethoughtblogs.com/pharyngula/files/2023/04/psychopathology-150x140.png 150w, https://freethoughtblogs.com/pharyngula/files/2023/04/psychopathology-300x281.png 300w, https://freethoughtblogs.com/pharyngula/files/2023/04/psychopathology-768x719.png 768w, https://freethoughtblogs.com/pharyngula/files/2023/04/psychopathology.png 915w" sizes="(max-width: 500px) 100vw, 500px"/></a><p class="wp-caption-text"><a href="https://www.dailykos.com/stories/2023/3/27/2160196/-Cartoon-The-persecution-of-Donald-John-Trump">Tom Tomorrow</a></p></div>
+<p>Sadly, all our news sources will take these excuses very, very seriously and parrot them continuously. Which is why I’ll be ignoring the news for a few days. I hope no catastrophes that might affect me happen! Zombies, please stay dead until next week, maybe. We’re getting another blizzard tomorrow so you’re not going to be getting around very well anyway.</p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Trump is supposed to be ‘arrested’ tomorrow (which probably means he shows up at a courthouse, is photographed mercilessly while treated with great deference, then retires to a luxurious hotel room to scribble on Truth Social about his martyrdom). Nothing much of substance will happen, but all the networks will be full of false piety […]</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=69723</id>
+    <published>2023-04-03T13:43:09Z</published>
+    <updated>2023-04-03T13:43:09Z</updated>
+    <category term="Politics, History, and Law"/>
+  </entry>
   <entry>
     <title>What the heck is sociogenomics?</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/04/03/what-the-heck-is-sociogenomics/" type="text/html"/>
@@ -120,26 +159,6 @@
     <category term="Creationism"/>
   </entry>
   <entry>
-    <title>How AI will destroy us</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/04/01/how-ai-will-destroy-us/" type="text/html"/>
-    <content type="html">&lt;p class="lead"&gt;Adam Conover sums up the state of AI.&lt;/p&gt;
-&lt;div class="center"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/ro130m-f_yk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-&lt;p&gt;I agree with him, mostly. What all the AI hype is about is finding a way to sneakily glean the products of human intelligence from their babbling on the internet, scrape it up into a goulash without paying any people for it, and use it as a marketing tool &amp;#8212; a &lt;em&gt;bad&lt;/em&gt; marketing tool. Tell me, does anyone seriously believe that claiming there&amp;#8217;s &amp;#8220;AI&amp;#8221; in your search engine is a great selling point? People are starting to catch on that it&amp;#8217;s all annoying nonsense. It&amp;#8217;s &amp;#8220;the algorithm,&amp;#8221; that excuse marketers were using previously to justify unwanted behind-the-scenes rules on Twitter or Facebook that they claimed were there to increase the likelihood you would see stuff you wanted to see, but was actually an excuse to make sure you got served up lots of ads and spam.&lt;/p&gt;
-&lt;p&gt;The only advantage to AI is that it does cut out direct human intervention and gives the companies the means to circumvent paying authors and artists, so it might be cheaper. For now. Until the companies kill off their competition and starts gouging customers again, as they inevitably will.&lt;/p&gt;
-&lt;p&gt;Behind the AI facade, of course, is the real villain of the story, capitalism. Skynet isn&amp;#8217;t going to kill us all, we&amp;#8217;re instead going to be drowned in a glurge of computer-generated bullshit that will temporarily bring great profit to the techbros of silicon valley, all the Elon Musks of the world.&lt;/p&gt;
-</content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Adam Conover sums up the state of AI. I agree with him, mostly. What all the AI hype is about is finding a way to sneakily glean the products of human intelligence from their babbling on the internet, scrape it up into a goulash without paying any people for it, and use it as a […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=69713</id>
-    <published>2023-04-01T12:18:40Z</published>
-    <updated>2023-04-01T12:18:40Z</updated>
-    <category term="Miscellaneous and Meta"/>
-  </entry>
-  <entry>
     <title>OPEN DISCUSSION APRIL 2023</title>
     <link rel="alternate" href="https://richarddawkins.net/2023/04/open-discussion-april-2023/" type="text/html"/>
     <content type="xhtml">
@@ -153,34 +172,6 @@
     <updated>2023-04-01T11:51:35Z</updated>
     <category term="Discussion"/>
     <category term="Featured"/>
-  </entry>
-  <entry>
-    <title>Gerrymandering as a Republican instinct</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/03/31/gerrymandering-as-a-republican-instinct/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p class="lead">Today I learned that the far right in the upper midwest is clamoring to secede from those lefties in the Twin Cities to form a Republic of East Dakota. They’ve been doing the same thing in Washington state and Oregon, all the conservative farmers living on the relatively barren lands of the eastern part of the states begging to join Idaho. It’s not going to work.</p>
-<p>The first thing I saw that inspired their rage here in the midwest was this map:</p>
-<p><a href="https://freethoughtblogs.com/pharyngula/files/2023/03/dakota-population.png"><img src="https://freethoughtblogs.com/pharyngula/files/2023/03/dakota-population-500x325.png" alt="" width="500" height="325" class="aligncenter size-large wp-image-69709" srcset="https://freethoughtblogs.com/pharyngula/files/2023/03/dakota-population-500x325.png 500w, https://freethoughtblogs.com/pharyngula/files/2023/03/dakota-population-150x97.png 150w, https://freethoughtblogs.com/pharyngula/files/2023/03/dakota-population-300x195.png 300w, https://freethoughtblogs.com/pharyngula/files/2023/03/dakota-population-768x499.png 768w" sizes="(max-width: 500px) 100vw, 500px"/></a></p>
-<p>That’s reality. Most of the population of the Dakotas live in the cities like Fargo and Sioux Falls, that hug the eastern edge of the state bordering on Minnesota. Everything else is the Great Empty. They’ve still got 4 senators to Minnesota’s 2, though, and most rational people would look at that and say they’re over-represented in Congress. For that matter, most of Minnesota’s population is localized to the eastern part of our state — it’s like a big gradient of people, getting thinner and thinner the farther west you go.</p>
-<p>Far right loons looked at that map and said it doesn’t go far enough, we ought to consolidate all that emptiness and low population density into one grand state, the Republic of East Dakota.</p>
-<p><a href="https://freethoughtblogs.com/pharyngula/files/2023/03/east-dakota.jpeg"><img src="https://freethoughtblogs.com/pharyngula/files/2023/03/east-dakota-500x344.jpeg" alt="" width="500" height="344" class="aligncenter size-large wp-image-69710" srcset="https://freethoughtblogs.com/pharyngula/files/2023/03/east-dakota-500x344.jpeg 500w, https://freethoughtblogs.com/pharyngula/files/2023/03/east-dakota-150x103.jpeg 150w, https://freethoughtblogs.com/pharyngula/files/2023/03/east-dakota-300x207.jpeg 300w, https://freethoughtblogs.com/pharyngula/files/2023/03/east-dakota-768x529.jpeg 768w, https://freethoughtblogs.com/pharyngula/files/2023/03/east-dakota.jpeg 1044w" sizes="(max-width: 500px) 100vw, 500px"/></a></p>
-<p>Why they think that would help, I don’t know. That would be a very Republican state, for sure, but it would be underpopulated and devoid of any significant economic power. It would be a collection of dairy farms and tiny towns where all the children dream of growing up and moving away to the big city.</p>
-<p>Some went even further and created an imaginary state of East Dakota by carving out the cities of Minneapolis, St Paul, and Duluth and, I don’t know, throwing them away? </p>
-<p><a href="https://freethoughtblogs.com/pharyngula/files/2023/03/east-dakota-counties.jpeg"><img src="https://freethoughtblogs.com/pharyngula/files/2023/03/east-dakota-counties-500x667.jpeg" alt="" width="500" height="667" class="aligncenter size-large wp-image-69711" srcset="https://freethoughtblogs.com/pharyngula/files/2023/03/east-dakota-counties-500x667.jpeg 500w, https://freethoughtblogs.com/pharyngula/files/2023/03/east-dakota-counties-113x150.jpeg 113w, https://freethoughtblogs.com/pharyngula/files/2023/03/east-dakota-counties-225x300.jpeg 225w, https://freethoughtblogs.com/pharyngula/files/2023/03/east-dakota-counties-768x1024.jpeg 768w, https://freethoughtblogs.com/pharyngula/files/2023/03/east-dakota-counties.jpeg 1536w" sizes="(max-width: 500px) 100vw, 500px"/></a></p>
-<p>Don’t they realize that that is where most of the people, and money, live? My little county of Stevens, population 10,000 (optimistically) benefits immensely from the state money flowing out of the counties of Hennepin, population 1,300,000, and Ramsey, population 550,000,  and we’re just going to sever ourselves from those funds and make common cause with even more destitute yokels to our east? That’s crazy talk, man.</p>
-<p>If we really want to get serious about radical reorganization, I suggest fusing North and South Dakota, stripping them of two senators, and giving most of it back to the Lakota. That makes more sense than creating another state out of a vacuum.</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Today I learned that the far right in the upper midwest is clamoring to secede from those lefties in the Twin Cities to form a Republic of East Dakota. They’ve been doing the same thing in Washington state and Oregon, all the conservative farmers living on the relatively barren lands of the eastern part of […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=69708</id>
-    <published>2023-03-31T13:19:13Z</published>
-    <updated>2023-03-31T13:19:13Z</updated>
-    <category term="Politics, History, and Law"/>
   </entry>
   <entry>
     <title>A festival of big ideas</title>
