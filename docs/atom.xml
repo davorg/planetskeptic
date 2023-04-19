@@ -7,9 +7,28 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-04-19T15:28:59Z</updated>
+  <updated>2023-04-19T16:32:31Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>URS!</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/04/19/urs/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p><a href="https://freethoughtblogs.com/pharyngula/files/2023/04/urslogo.jpg"><img src="https://freethoughtblogs.com/pharyngula/files/2023/04/urslogo-500x281.jpg" alt="" width="500" height="281" class="aligncenter size-large wp-image-69883" srcset="https://freethoughtblogs.com/pharyngula/files/2023/04/urslogo-500x281.jpg 500w, https://freethoughtblogs.com/pharyngula/files/2023/04/urslogo-150x84.jpg 150w, https://freethoughtblogs.com/pharyngula/files/2023/04/urslogo-300x169.jpg 300w, https://freethoughtblogs.com/pharyngula/files/2023/04/urslogo.jpg 580w" sizes="(max-width: 500px) 100vw, 500px"/></a></p>
+<p class="lead">The Morris <a href="https://morris.umn.edu/opportunities/undergraduate-research-symposium">Undergraduate Research Symposium</a> is taking place this afternoon, so you can guess where I’ll be immediately after my classes. You could be here, too — it’s open to the public, so <a href="https://2023urs.zohobackstage.com/UndergraduateResearchSymposium#/speakers?lang=en">come on over and see what we’ve all been up to</a>!</p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">The Morris Undergraduate Research Symposium is taking place this afternoon, so you can guess where I’ll be immediately after my classes. You could be here, too — it’s open to the public, so come on over and see what we’ve all been up to!</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=69882</id>
+    <published>2023-04-19T16:11:51Z</published>
+    <updated>2023-04-19T16:11:51Z</updated>
+    <category term="Science"/>
+  </entry>
   <entry>
     <title>All sheriffs are bad, too</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/04/19/all-sheriffs-are-bad-too/" type="text/html"/>
@@ -135,30 +154,6 @@
     <id>https://newhumanist.org.uk/articles/6105/in-a-word-memoir#utm_source=rss</id>
     <published>2023-04-18T06:00:00Z</published>
     <updated>2023-04-18T06:00:00Z</updated>
-  </entry>
-  <entry>
-    <title>You can’t teach this</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/04/17/you-cant-teach-this/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p class="lead">It might make someone <a href="https://freethoughtblogs.com/pharyngula/2023/04/17/things-you-wont-be-able-to-teach-in-tennessee/">uncomfortable about racism in America</a>.</p>
-<p><a href="https://freethoughtblogs.com/pharyngula/files/2023/04/ralph-yarl.jpg"><img src="https://freethoughtblogs.com/pharyngula/files/2023/04/ralph-yarl-150x95.jpg" alt="" width="150" height="95" class="alignright size-thumbnail wp-image-69868" srcset="https://freethoughtblogs.com/pharyngula/files/2023/04/ralph-yarl-150x95.jpg 150w, https://freethoughtblogs.com/pharyngula/files/2023/04/ralph-yarl-300x191.jpg 300w, https://freethoughtblogs.com/pharyngula/files/2023/04/ralph-yarl-500x318.jpg 500w, https://freethoughtblogs.com/pharyngula/files/2023/04/ralph-yarl.jpg 688w" sizes="(max-width: 150px) 100vw, 150px"/></a>It’s a crime to <a href="https://kansascitydefender.com/justice/kansas-city-black-family-demands-justice-white-man-shoots-black-boy-ralph-yarl/">ring a doorbell while black in America</a>.</p>
-<blockquote><p>Ralph Yarl, a 16 year old Black boy, was shot twice by a white man in North Kansas City after accidentally ringing the doorbell of the wrong home while attempting to pick up his sibling. The white man reportedly shot Ralph in the head through the glass door, then when Yarl was already bleeding out on the ground, shot him again. The family has described it as a hate crime, and community members are calling for justice for the young victim.</p></blockquote>
-<p>The perpetrator of this vicious crime is in jail, at least. He is in jail, right? Right?</p>
-<blockquote><p>Reports indicate that the white man was taken to the police headquarters briefly to provide a statement but was released shortly after without charge. Yarl’s family is outraged that the perpetrator has not been held accountable.</p></blockquote>
-<p>Unbelievable. He shot an unarmed boy who only rang his doorbell, and put a second bullet in him while he was lying on the ground, and the police didn’t recognize that he committed an act of attempted murder? Let me guess: <a href="https://www.superlawyers.com/resources/criminal-defense/missouri/what-stand-your-ground-laws-mean-in-missouri/">Missouri has a ‘stand your ground’ law</a>.</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">It might make someone uncomfortable about racism in America. It’s a crime to ring a doorbell while black in America. Ralph Yarl, a 16 year old Black boy, was shot twice by a white man in North Kansas City after accidentally ringing the doorbell of the wrong home while attempting to pick up his sibling. […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=69867</id>
-    <published>2023-04-17T13:34:06Z</published>
-    <updated>2023-04-17T13:34:06Z</updated>
-    <category term="Crime"/>
-    <category term="Race, Society, and Social Justice"/>
   </entry>
   <entry>
     <title>How have the protests changed Iran?</title>
