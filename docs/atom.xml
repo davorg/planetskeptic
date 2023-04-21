@@ -7,9 +7,32 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-04-21T19:28:42Z</updated>
+  <updated>2023-04-21T20:28:38Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Tower of Spiders</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/04/21/tower-of-spiders/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p><a href="https://freethoughtblogs.com/pharyngula/files/2023/04/spider-tower.jpg"><img src="https://freethoughtblogs.com/pharyngula/files/2023/04/spider-tower-288x1024.jpg" alt="" width="288" height="1024" class="alignright size-large wp-image-69900" srcset="https://freethoughtblogs.com/pharyngula/files/2023/04/spider-tower-288x1024.jpg 288w, https://freethoughtblogs.com/pharyngula/files/2023/04/spider-tower-42x150.jpg 42w, https://freethoughtblogs.com/pharyngula/files/2023/04/spider-tower-84x300.jpg 84w, https://freethoughtblogs.com/pharyngula/files/2023/04/spider-tower.jpg 500w" sizes="(max-width: 288px) 100vw, 288px"/></a></p>
+<p class="lead">We’re currently isolating all freshly laid egg sacs and tagging them with the date so that we know exactly how old the embryos are. This week I started scanning all the adult containers and setting aside those who had produced an egg sac.</p>
+<p>It started out well: one on Sunday, one on Tuesday, one on Thursday, and I’m thinking this is perfect — a fresh batch of 30+ embryos every other day is what we can handle easily. Then then this morning, Friday, I come in and…5 new egg sacs for 21 April.</p>
+<p>Then I realize…Thursday is quarter taps night at the Met Lounge downtown. Have they been sneaking out for a wild party night, and then coming back to the lab all primed for reproduction? That’s the only rational explanation.</p>
+<p>I could be concerned that I’m going to be in another situation where the lab is drowning in more spiders than we know what to do with, but we’re about to switch paradigms a little bit. Next week we start plunking lots of embryos into fixative, then the week after we start doing embryo dissections and staining with propidium iodide. None of these spiders are going to live to adulthood. Sorry.</p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">We’re currently isolating all freshly laid egg sacs and tagging them with the date so that we know exactly how old the embryos are. This week I started scanning all the adult containers and setting aside those who had produced an egg sac. It started out well: one on Sunday, one on Tuesday, one on […]</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=69899</id>
+    <published>2023-04-21T19:59:00Z</published>
+    <updated>2023-04-21T19:59:00Z</updated>
+    <category term="Science"/>
+    <category term="Spiders"/>
+  </entry>
   <entry>
     <title>I was wondering what that stench was</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/04/21/i-was-wondering-what-that-stench-was/" type="text/html"/>
@@ -134,24 +157,6 @@
     <updated>2023-04-20T14:16:49Z</updated>
     <category term="Feminism, Gender, and Equality"/>
     <category term="Politics, History, and Law"/>
-  </entry>
-  <entry>
-    <title>Starship tries again</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/04/20/starship-tries-again/" type="text/html"/>
-    <content type="html">&lt;p class="lead"&gt;The launch was aborted a few days ago, and now it resumes. Will it continue? Will it launch? Will it explode? You&amp;#8217;ll have to watch to find out.&lt;/p&gt;
-&lt;div class="center"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/-1wcilQ58hI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-&lt;p&gt;Or you can just check back later this morning.&lt;/p&gt;
-</content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">The launch was aborted a few days ago, and now it resumes. Will it continue? Will it launch? Will it explode? You’ll have to watch to find out. Or you can just check back later this morning.</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=69885</id>
-    <published>2023-04-20T13:07:26Z</published>
-    <updated>2023-04-20T13:07:26Z</updated>
-    <category term="Science"/>
   </entry>
   <entry>
     <title>Reality is dead, long live reason</title>
