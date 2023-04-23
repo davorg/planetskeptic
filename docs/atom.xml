@@ -7,9 +7,30 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-04-23T11:28:36Z</updated>
+  <updated>2023-04-23T12:36:54Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Starship post-mortem</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/04/23/starship-post-mortem/" type="text/html"/>
+    <content type="html">&lt;p class="lead"&gt;After the biggest rocket in the world exploded shortly after launch, it&amp;#8217;s time to figure out what went wrong. &lt;a href="https://www.dailykos.com/stories/2023/4/22/2165317/-A-Starship-Post-mortem-Why-the-giant-rocket-failed-and-why-it-s-Elon-Musk-s-fault"&gt;Mark Sumner provides the long detailed analysis&lt;/a&gt;, while Scott Manley gives us a video.&lt;/p&gt;
+&lt;div class="center"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/w8q24QLXixo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;p&gt;I&amp;#8217;m not a space guy or engineer, but here&amp;#8217;s my shorter summary: an important piece of the starship technology was the launch pad, or Stage 0. The rocket was so powerful that it destroyed Stage 0, sending massive lumps of concrete flying everywhere that smashed the engines. You&amp;#8217;d think that the engineers would have been aware of these potential dangers, but &lt;em&gt;someone&lt;/em&gt; decided they didn&amp;#8217;t need flame diverters or water cooling jets. That someone was Elon Musk himself.&lt;/p&gt;
+&lt;p&gt;Even shorter summary: Elon Musk&amp;#8217;s incompetence blew it up.&lt;/p&gt;
+&lt;p&gt;Now I really want to look on the bright side, so I have a suggestion. Elon Musk really likes money, so he should sell tickets for the next flight &amp;#8212; big money tickets that only billionaires could afford. Promise them a grand party in space, with Elon Musk at the helm to show that he&amp;#8217;s confident it&amp;#8217;ll work. Pack it with a dozen billionaires as passengers. Then launch it. I&amp;#8217;ll cheer the entire duration of its flight, and cheer even louder at the end.&lt;/p&gt;
+&lt;p&gt;It could be a glorious Billionaire Disposal System, but don&amp;#8217;t call it that. Don&amp;#8217;t want to tip them off.&lt;/p&gt;
+</content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">After the biggest rocket in the world exploded shortly after launch, it’s time to figure out what went wrong. Mark Sumner provides the long detailed analysis, while Scott Manley gives us a video. I’m not a space guy or engineer, but here’s my shorter summary: an important piece of the starship technology was the launch […]</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=69918</id>
+    <published>2023-04-23T12:17:05Z</published>
+    <updated>2023-04-23T12:17:05Z</updated>
+    <category term="Science"/>
+  </entry>
   <entry>
     <title>The argument from “my piece of wood hasn’t evolved eyeballs”</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/04/22/the-argument-from-my-piece-of-wood-hasnt-evolved-eyeballs/" type="text/html"/>
@@ -128,29 +149,6 @@ But the earth abides forever.&amp;#8221;&lt;/p&gt;
     <id>https://freethoughtblogs.com/pharyngula/?p=69902</id>
     <published>2023-04-21T20:37:29Z</published>
     <updated>2023-04-21T20:37:29Z</updated>
-    <category term="Science"/>
-    <category term="Spiders"/>
-  </entry>
-  <entry>
-    <title>Tower of Spiders</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/04/21/tower-of-spiders/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p><a href="https://freethoughtblogs.com/pharyngula/files/2023/04/spider-tower.jpg"><img src="https://freethoughtblogs.com/pharyngula/files/2023/04/spider-tower-288x1024.jpg" alt="" width="288" height="1024" class="alignright size-large wp-image-69900" srcset="https://freethoughtblogs.com/pharyngula/files/2023/04/spider-tower-288x1024.jpg 288w, https://freethoughtblogs.com/pharyngula/files/2023/04/spider-tower-42x150.jpg 42w, https://freethoughtblogs.com/pharyngula/files/2023/04/spider-tower-84x300.jpg 84w, https://freethoughtblogs.com/pharyngula/files/2023/04/spider-tower.jpg 500w" sizes="(max-width: 288px) 100vw, 288px"/></a></p>
-<p class="lead">We’re currently isolating all freshly laid egg sacs and tagging them with the date so that we know exactly how old the embryos are. This week I started scanning all the adult containers and setting aside those who had produced an egg sac.</p>
-<p>It started out well: one on Sunday, one on Tuesday, one on Thursday, and I’m thinking this is perfect — a fresh batch of 30+ embryos every other day is what we can handle easily. Then then this morning, Friday, I come in and…5 new egg sacs for 21 April.</p>
-<p>Then I realize…Thursday is quarter taps night at the Met Lounge downtown. Have they been sneaking out for a wild party night, and then coming back to the lab all primed for reproduction? That’s the only rational explanation.</p>
-<p>I could be concerned that I’m going to be in another situation where the lab is drowning in more spiders than we know what to do with, but we’re about to switch paradigms a little bit. Next week we start plunking lots of embryos into fixative, then the week after we start doing embryo dissections and staining with propidium iodide. None of these spiders are going to live to adulthood. Sorry.</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">We’re currently isolating all freshly laid egg sacs and tagging them with the date so that we know exactly how old the embryos are. This week I started scanning all the adult containers and setting aside those who had produced an egg sac. It started out well: one on Sunday, one on Tuesday, one on […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=69899</id>
-    <published>2023-04-21T19:59:00Z</published>
-    <updated>2023-04-21T19:59:00Z</updated>
     <category term="Science"/>
     <category term="Spiders"/>
   </entry>
