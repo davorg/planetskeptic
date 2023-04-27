@@ -7,9 +7,29 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-04-27T17:28:52Z</updated>
+  <updated>2023-04-27T18:30:13Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>A good and lively conversation about bad, tired AI</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/04/27/a-good-and-lively-conversation-about-bad-tired-ai/" type="text/html"/>
+    <content type="html">&lt;p class="lead"&gt;Adam Conover talks with Emily Bender and Timnit Gebru about stochastic parrots (an excellent label for the surge of interest in &amp;#8220;AI,&amp;#8221; which really isn&amp;#8217;t intelligent).&lt;/p&gt;
+&lt;div class="center"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/jAHRbFetqII" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;p&gt;What I found most interesting was the discussion of TESCREAL, the blanket term for &amp;#8220;transhumanism, extropy, singularitarianism, cosmism, rationalism, effective altruism, and longtermism&amp;#8221; &amp;#8212; and what a muddled, vague, pretentious mess all those topics are. Skip ahead to the 53 minute mark for some horrifying revelations: they talk about the recent letter from the gung-ho Open AI people suggesting a &amp;#8220;pause&amp;#8221; in development, and an opinion piece that starts out by discussing a definition for &amp;#8220;intelligence&amp;#8221;. Bender &amp;amp; Gebru looked at the footnotes and what they cited for that &amp;#8212; it&amp;#8217;s an op-ed &lt;em&gt;defending&lt;/em&gt; &lt;i&gt;The Bell Curve&lt;/i&gt;! It&amp;#8217;s written (or signed) by a bunch of researchers at Microsoft who are using this information as the foundation of their understanding of what intelligence is. They cite a paper that says,&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;IQ is real, the measures of it are good, they are not racist, and yes, there are group level differences in IQ where Jews and Asians are the smartest but we don&amp;#8217;t know exactly how much, and then you&amp;#8217;ve got the white people centered around 100, and then they say but the black people are centered around 85.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Jesus. The bad ideas of eugenics and scientific racism have sunk very deep roots. Nineteenth century biology/natural history has significantly tainted all of the sciences with their ugly colonialist/imperialist beliefs, and it&amp;#8217;s going to take a long time to dig them out.&lt;/p&gt;
+</content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Adam Conover talks with Emily Bender and Timnit Gebru about stochastic parrots (an excellent label for the surge of interest in “AI,” which really isn’t intelligent). What I found most interesting was the discussion of TESCREAL, the blanket term for “transhumanism, extropy, singularitarianism, cosmism, rationalism, effective altruism, and longtermism” — and what a muddled, vague, […]</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=69972</id>
+    <published>2023-04-27T17:30:01Z</published>
+    <updated>2023-04-27T17:30:01Z</updated>
+    <category term="Race, Society, and Social Justice"/>
+  </entry>
   <entry>
     <title>How can anyone find this to be a bad idea?</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/04/27/how-can-anyone-find-this-to-be-a-bad-idea/" type="text/html"/>
@@ -111,37 +131,6 @@
     <published>2023-04-26T14:20:53Z</published>
     <updated>2023-04-26T14:20:53Z</updated>
     <category term="Science"/>
-  </entry>
-  <entry>
-    <title>Two losers having a perfectly normal conversation</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/04/26/two-losers-having-a-perfectly-normal-conversation/" type="text/html"/>
-    <content type="html">&lt;p class="lead"&gt;Tucker Carlson has been fired, Elon Musk has been exposed as an incompetent twit, so let&amp;#8217;s look back at those heady, long-ago (a bit more than a week) times when the two of them would sit down as equals and solemnly discuss the important stuff &amp;#8212; like how birth control is &lt;em&gt;destroying civilization&lt;/em&gt;.&lt;/p&gt;
-&lt;blockquote class="twitter-tweet" data-width="500" data-dnt="true"&gt;
-&lt;p lang="en" dir="ltr"&gt;annnnd it turned into an aside about how birth control and abortion are dooming the human race &lt;a href="https://t.co/MgZeE3cWlZ"&gt;pic.twitter.com/MgZeE3cWlZ&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&amp;mdash; Kat Abu (@abughazalehkat) &lt;a href="https://twitter.com/abughazalehkat/status/1648490511827873792?ref_src=twsrc%5Etfw"&gt;April 19, 2023&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;&lt;/p&gt;
-&lt;blockquote class="creationist"&gt;&lt;p&gt;CARLSON: I mean, the urge to have sex and to procreate is – after breathing and eating – the most basic urge. How has it been subverted?&lt;/p&gt;
-&lt;p&gt;MUSK: Well, it’s just, in the past we could rely upon, you know, simple limbic system rewards in order to procreate. But once you have birth control and abortions and whatnot, now you can still satisfy limbic instinct, but not procreate.&lt;/p&gt;
-&lt;p&gt;So we haven’t yet evolved to deal with that because this is all fairly recent, the last 50 years or so for birth control. I’m sort of worried that hey, civilization, if we don’t make enough people to at least sustain our numbers, perhaps increase a little bit, then civilization’s going to crumble. The old question of like, will civilization end with a bang or a whimper? Well, it’s currently trying to end with a whimper in adult diapers, which is depressing as hell.&lt;/p&gt;
-&lt;p&gt;CARLSON: The most depressing.&lt;/p&gt;
-&lt;p&gt;MUSK: I mean, seriously, yeah.&lt;/p&gt;
-&lt;p&gt;CARLSON: War is less depressing.&lt;/p&gt;
-&lt;p&gt;MUSK: Yeah, I’d rather go out with a bang.&lt;/p&gt;
-&lt;p&gt;CARLSON: With your shoes on, not with your diaper on.&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;I&amp;#8217;m really curious to know how he thinks we would &amp;#8220;evolve&amp;#8221; to deal with birth control. We seem to be reproducing just fine, population numbers are generally going up, and voluntarily reducing child birth seems to be a good way to deal with the other &amp;#8220;problem,&amp;#8221; the radical reduction in infant mortality rates, thanks to modern medicine and hygiene. I would think environmental stressors, gross economic inequities, and the assault on successful institutions, like education and democracy, are going to be a far bigger problem for civilization than the fact that the growth curve is flattening. Maybe what he&amp;#8217;s worrying about is more that capitalism is crumbling, not civilization. Those aren&amp;#8217;t synonyms for each other, you know.&lt;/p&gt;
-&lt;p&gt;Also really revolting is the idea that &lt;em&gt;war&lt;/em&gt; is less depressing than reproductive freedom. Please, Elon, if you find it so horrible, do &amp;#8220;go out with a bang.&amp;#8221; The sooner the better.&lt;/p&gt;
-&lt;p&gt;Hey, maybe Carlson getting fired is how &amp;#8220;evolution&amp;#8221; is dealing with it, and Musk&amp;#8217;s rapid erosion of reputation and wealth is simply Darwin&amp;#8217;s invisible hand.&lt;/p&gt;
-</content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Tucker Carlson has been fired, Elon Musk has been exposed as an incompetent twit, so let’s look back at those heady, long-ago (a bit more than a week) times when the two of them would sit down as equals and solemnly discuss the important stuff — like how birth control is destroying civilization. annnnd it […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=69954</id>
-    <published>2023-04-26T13:08:13Z</published>
-    <updated>2023-04-26T13:08:13Z</updated>
-    <category term="Politics, History, and Law"/>
   </entry>
   <entry>
     <title>When voters get it wrong</title>
