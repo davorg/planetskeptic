@@ -7,9 +7,26 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-05-04T15:28:39Z</updated>
+  <updated>2023-05-04T16:36:24Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>The Pit!</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/05/04/the-pit/" type="text/html"/>
+    <content type="html">&lt;p class="lead"&gt;I set up a simple pit trap in my garden. It worked! Got some spiders!&lt;/p&gt;
+&lt;div class="center"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Y6qAcqhnR3c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+</content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">I set up a simple pit trap in my garden. It worked! Got some spiders!</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=70028</id>
+    <published>2023-05-04T16:13:08Z</published>
+    <updated>2023-05-04T16:13:08Z</updated>
+    <category term="Spiders"/>
+  </entry>
   <entry>
     <title>One more day, I think</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/05/04/one-more-day-i-think/" type="text/html"/>
@@ -114,27 +131,6 @@
     <published>2023-05-03T12:30:52Z</published>
     <updated>2023-05-03T12:30:52Z</updated>
     <category term="Politics, History, and Law"/>
-  </entry>
-  <entry>
-    <title>One class done (mostly)</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/05/02/one-class-done-mostly/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p><a href="https://freethoughtblogs.com/pharyngula/files/2023/05/finish-line.jpeg"><img src="https://freethoughtblogs.com/pharyngula/files/2023/05/finish-line.jpeg" alt="" width="150" height="150" class="alignright size-full wp-image-70013"/></a></p>
-<p class="lead">I just finished grading all those exams and lab reports for genetics. It is finished!</p>
-<p>OK, almost. There is an <em>optional</em> final exam next week — it replaces any low exam grade they might have received over the course of the term, and I expect that very few of the students will bother.</p>
-<p>I still have the other course to wrap up, though, so it’s still going to be a busy couple of days.</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">I just finished grading all those exams and lab reports for genetics. It is finished! OK, almost. There is an optional final exam next week — it replaces any low exam grade they might have received over the course of the term, and I expect that very few of the students will bother. I still […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=70012</id>
-    <published>2023-05-03T02:25:50Z</published>
-    <updated>2023-05-03T02:25:50Z</updated>
-    <category term="Miscellaneous and Meta"/>
   </entry>
   <entry>
     <title>See you in Hell</title>
