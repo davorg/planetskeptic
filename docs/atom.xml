@@ -7,9 +7,35 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-05-16T15:28:46Z</updated>
+  <updated>2023-05-16T16:31:55Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>They grow up too fast</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/05/16/they-grow-up-too-fast/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><div id="attachment_70142" style="width: 126px" class="wp-caption alignright"><a href="https://freethoughtblogs.com/pharyngula/files/2023/05/skatje.jpeg"><img src="https://freethoughtblogs.com/pharyngula/files/2023/05/skatje-116x150.jpeg" alt="" width="116" height="150" class="size-thumbnail wp-image-70142" srcset="https://freethoughtblogs.com/pharyngula/files/2023/05/skatje-116x150.jpeg 116w, https://freethoughtblogs.com/pharyngula/files/2023/05/skatje-231x300.jpeg 231w, https://freethoughtblogs.com/pharyngula/files/2023/05/skatje.jpeg 265w" sizes="(max-width: 116px) 100vw, 116px"/></a><p class="wp-caption-text">She might have growed up a little since this photo was taken.</p></div>
+<p class="lead">My daughter, Skatje, is doing her PhD defense on Thursday, and Mary and I will be attending over Zoom. Naturally, not wanting to look like a dope, I thought I’d look up <a href="http://ska.tjemye.rs/">her work</a> (finally) and get a little hint of what I’m going to hear. I’m already lost.</p>
+<blockquote><p>Hallo, I’m Skatje Myers, a PhD student in Computer Science (joint degree in Cognitive Science) at the University of Colorado at Boulder, advised by Martha Palmer.</p>
+<p>My research focus is in accelerating development of new corpora for semantic role labels (SRL).</p>
+<p>I’m investigating techniques for conducting active learning for semantic role labeling: How can we determine which sentences will most improve the model when annotated and added to our training data? This methodology enables us to improve annotation efficiency by selecting only the most informative sentences to annotate.</p>
+<p>Additionally, I’m examining approaches for projecting semantic annotation cross-lingually: If we know what the semantic roles are in an English sentence, and we know the translation of that sentence, can we figure out which words to assign those roles to in the target language? These projected annotations may serve either as a starting point for manual annotation that will expedite the process, or as training data themselves.</p>
+<p>I’m presently exploring these techniques specifically in regards to developing and expanding a Russian PropBank corpus.</p></blockquote>
+<p><a href="https://freethoughtblogs.com/pharyngula/files/2015/12/skatjeinmoscow.jpg"><img src="https://freethoughtblogs.com/pharyngula/files/2015/12/skatjeinmoscow-500x808.jpg" alt="" width="500" height="808" class="aligncenter size-large wp-image-26488" srcset="https://freethoughtblogs.com/pharyngula/files/2015/12/skatjeinmoscow-500x808.jpg 500w, https://freethoughtblogs.com/pharyngula/files/2015/12/skatjeinmoscow-93x150.jpg 93w, https://freethoughtblogs.com/pharyngula/files/2015/12/skatjeinmoscow-186x300.jpg 186w, https://freethoughtblogs.com/pharyngula/files/2015/12/skatjeinmoscow-768x1241.jpg 768w, https://freethoughtblogs.com/pharyngula/files/2015/12/skatjeinmoscow.jpg 1267w" sizes="(max-width: 500px) 100vw, 500px"/></a></p>
+<p>I suspect that plunging right into a thesis defense in this field is going to be bewildering, but we’ll try.</p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">My daughter, Skatje, is doing her PhD defense on Thursday, and Mary and I will be attending over Zoom. Naturally, not wanting to look like a dope, I thought I’d look up her work (finally) and get a little hint of what I’m going to hear. I’m already lost. Hallo, I’m Skatje Myers, a PhD […]</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=70141</id>
+    <published>2023-05-16T15:37:02Z</published>
+    <updated>2023-05-16T15:37:02Z</updated>
+    <category term="Miscellaneous and Meta"/>
+  </entry>
   <entry>
     <title>Brain bleach, stat</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/05/16/brain-bleach-stat/" type="text/html"/>
@@ -116,27 +142,6 @@ videoconferences. </p></blockquote>
     <published>2023-05-15T12:36:25Z</published>
     <updated>2023-05-15T12:36:25Z</updated>
     <category term="Academics"/>
-  </entry>
-  <entry>
-    <title>Ball o’ spiders</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/05/15/ball-o-spiders/" type="text/html"/>
-    <content type="html">&lt;p class="lead"&gt;Isn&amp;#8217;t technology wonderful?&lt;/p&gt;
-&lt;blockquote class="twitter-tweet" data-width="500" data-dnt="true"&gt;
-&lt;p lang="en" dir="ltr"&gt;Here it is, the aforementioned CT scan of a living spider egg sac (probably a theridiid of some kind)! 18 second scan taken at &lt;a href="https://twitter.com/BeckmanInst?ref_src=twsrc%5Etfw"&gt;@BeckmanInst&lt;/a&gt;. I&amp;#39;ll keep the sac to see if the babies hatch okay after x-ray exposure before releasing them back into the wild. &lt;a href="https://t.co/uebbeD0lCC"&gt;https://t.co/uebbeD0lCC&lt;/a&gt; &lt;a href="https://t.co/9fnJdbtQ6l"&gt;pic.twitter.com/9fnJdbtQ6l&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&amp;mdash; Josh Gibson, Ph.D. (@DrStrangeAnt) &lt;a href="https://twitter.com/DrStrangeAnt/status/1656686584580788225?ref_src=twsrc%5Etfw"&gt;May 11, 2023&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;&lt;/p&gt;
-&lt;p&gt;That reminds me, I have many balls of spiders to tend to this morning.&lt;/p&gt;
-</content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Isn’t technology wonderful? Here it is, the aforementioned CT scan of a living spider egg sac (probably a theridiid of some kind)! 18 second scan taken at @BeckmanInst. I'll keep the sac to see if the babies hatch okay after x-ray exposure before releasing them back into the wild. https://t.co/uebbeD0lCC pic.twitter.com/9fnJdbtQ6l — Josh Gibson, Ph.D. […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=70129</id>
-    <published>2023-05-15T12:09:26Z</published>
-    <updated>2023-05-15T12:09:26Z</updated>
-    <category term="Spiders"/>
   </entry>
   <entry>
     <title>Malaria vaccine: A scientific victory</title>
