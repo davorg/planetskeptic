@@ -7,9 +7,55 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-05-18T12:06:13Z</updated>
+  <updated>2023-05-18T18:05:39Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>For the birds</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/05/18/for-the-birds/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p><a href="https://freethoughtblogs.com/pharyngula/files/2023/05/gull-screech.jpeg"><img src="https://freethoughtblogs.com/pharyngula/files/2023/05/gull-screech-150x100.jpeg" alt="" width="150" height="100" class="alignright size-thumbnail wp-image-70151" srcset="https://freethoughtblogs.com/pharyngula/files/2023/05/gull-screech-150x100.jpeg 150w, https://freethoughtblogs.com/pharyngula/files/2023/05/gull-screech-300x200.jpeg 300w, https://freethoughtblogs.com/pharyngula/files/2023/05/gull-screech.jpeg 400w" sizes="(max-width: 150px) 100vw, 150px"/></a></p>
+<p class="lead">The Washington Post is claiming that <a href="https://www.washingtonpost.com/wellness/interactive/2023/birds-song-nature-mental-health-benefits/?itid=hp-top-table-main_p001_f005">listening to bird songs is good for you</a>.</p>
+<blockquote><p>Looking to improve your mental health? Pay attention to birds.</p>
+<p>Two studies published last year in Scientific Reports said that seeing or hearing birds could be good for our mental well-being.</p>
+<p>So give them a listen as you learn why they may help.</p>
+<p>Research has consistently shown that more contact and interaction with nature are associated with better body and brain health.</p>
+<p>Birds appear to be a specific source of these healing benefits. They are almost everywhere and provide a way to connect us to nature. And even if they are hidden in trees or in the underbrush, we can still revel in their songs.</p></blockquote>
+<p>OK, fine, I will believe that going on regular walks in the park, paying attention to your environment, and living in a place compatible with other living things, is beneficial. I object to the idea that the effect is specific to birds. Why not spiders? A stroll in the park and checking out the trees and underbrush is something you can do while spidering, too.</p>
+<p>You aren’t going to hear spider songs unless you have much better ears than I’ve got, but on the plus side, spiders don’t start shrieking and screeching and whistling outside your bedroom window at 5am.</p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">The Washington Post is claiming that listening to bird songs is good for you. Looking to improve your mental health? Pay attention to birds. Two studies published last year in Scientific Reports said that seeing or hearing birds could be good for our mental well-being. So give them a listen as you learn why they […]</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=70150</id>
+    <published>2023-05-18T12:41:38Z</published>
+    <updated>2023-05-18T12:41:38Z</updated>
+    <category term="Science"/>
+  </entry>
+  <entry>
+    <title>Summer plans</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/05/18/summer-plans/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><div id="attachment_70148" style="width: 510px" class="wp-caption aligncenter"><a href="https://freethoughtblogs.com/pharyngula/files/2023/05/lio-films.png"><img src="https://freethoughtblogs.com/pharyngula/files/2023/05/lio-films-500x165.png" alt="" width="500" height="165" class="size-large wp-image-70148" srcset="https://freethoughtblogs.com/pharyngula/files/2023/05/lio-films-500x165.png 500w, https://freethoughtblogs.com/pharyngula/files/2023/05/lio-films-150x49.png 150w, https://freethoughtblogs.com/pharyngula/files/2023/05/lio-films-300x99.png 300w, https://freethoughtblogs.com/pharyngula/files/2023/05/lio-films-768x253.png 768w, https://freethoughtblogs.com/pharyngula/files/2023/05/lio-films.png 901w" sizes="(max-width: 500px) 100vw, 500px"/></a><p class="wp-caption-text"><a href="https://www.gocomics.com/lio/2023/05/18">Lio</a></p></div>
+<p class="lead">I have turned in all my grades, and it’s beginning to sink in that there will not be a relaxing summer of relaxation. We’ve got an arachnology conference coming up at the end of June — the core data is all done, but we’ve got some details to fill in and lots of pretty photos to take, and we have an ongoing project in putting together a staging series. We’re also going to make some field trips throughout the summer to get out of the lab and see some sunshine and more exotic spiders. I’m also reviving my course in developmental ecology next spring, so I’ve got to do all the prep work for that this summer.</p>
+<p>I just want to take a nap.</p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">I have turned in all my grades, and it’s beginning to sink in that there will not be a relaxing summer of relaxation. We’ve got an arachnology conference coming up at the end of June — the core data is all done, but we’ve got some details to fill in and lots of pretty photos […]</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=70147</id>
+    <published>2023-05-18T12:15:10Z</published>
+    <updated>2023-05-18T12:15:10Z</updated>
+    <category term="Spiders"/>
+  </entry>
   <entry>
     <title>Poor Peterson, beset on all sides</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/05/17/poor-peterson-beset-on-all-sides/" type="text/html"/>
@@ -103,51 +149,12 @@ videoconferences. </p></blockquote>
     <category term="Politics, History, and Law"/>
   </entry>
   <entry>
-    <title>Feeling blue</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/05/16/feeling-blue/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p class="lead">Way to go, Weinersmith. You got me to stick the knife in, do I also have to do my own twisting?</p>
-<div id="attachment_70136" style="width: 510px" class="wp-caption aligncenter"><a href="https://freethoughtblogs.com/pharyngula/files/2023/05/feeling-blue.png"><img src="https://freethoughtblogs.com/pharyngula/files/2023/05/feeling-blue-500x512.png" alt="" width="500" height="512" class="size-large wp-image-70136" srcset="https://freethoughtblogs.com/pharyngula/files/2023/05/feeling-blue-500x512.png 500w, https://freethoughtblogs.com/pharyngula/files/2023/05/feeling-blue-147x150.png 147w, https://freethoughtblogs.com/pharyngula/files/2023/05/feeling-blue-293x300.png 293w, https://freethoughtblogs.com/pharyngula/files/2023/05/feeling-blue.png 684w" sizes="(max-width: 500px) 100vw, 500px"/></a><p class="wp-caption-text"><a href="https://www.smbc-comics.com/comic/gifted">SMBC</a></p></div>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Way to go, Weinersmith. You got me to stick the knife in, do I also have to do my own twisting?</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=70135</id>
-    <published>2023-05-16T12:35:50Z</published>
-    <updated>2023-05-16T12:35:50Z</updated>
-    <category term="Miscellaneous and Meta"/>
-  </entry>
-  <entry>
     <title>Criminalisation of abortion endangers women and girls - including in the UK</title>
     <link rel="alternate" href="https://newhumanist.org.uk/articles/6117/criminalisation-of-abortion-endangers-women-and-girls-including-in-the-uk#utm_source=rss" type="text/html"/>
     <content type="html">&lt;p&gt;&lt;img title="Image credit: Bret Kavanaugh/Unsplash" src="https://newhumanist.org.uk/images/bret-kavanaugh-MIfUp3FA5ek-unsplash.jpg" height="912" alt="An empty hospital bed" width="1368"&gt;&lt;/p&gt; &lt;p&gt;The reversal of Roe v Wade in the United States last year sent shockwaves throughout the world. As some states moved to criminalise abortion, there was outcry against the idea of pregnant women being treated as criminals for exerting agency over their own bodies. But, as a new report from researchers at the World Health Organization (WHO) makes clear, criminalisation of abortion is the norm, not the exception, globally. Of the 182 countries for which there was data as of October 2022, abortion was completely decriminalised in just one: Canada. Penalties range from fines to, in a handful of countries, life imprisonment. &lt;/p&gt; &lt;p&gt;In the UK there is a widespread belief that abortion is not a crime. In England, Scotland and Wales, the procedure is legal if authorised by two doctors before 24 weeks&amp;rsquo; gestation, or in cases where there are serious health risks to continuing the pregnancy. But it remains criminalised outside these parameters under legislation passed in 1861.&lt;/p&gt; &lt;p&gt;Last year, at least two women were charged with abortion-related offences in England, both for allegedly taking abortion pills after the 24-week limit. One of the cases was dropped after prosecutors agreed it was not in the public interest to pursue it; the other woman pled guilty to unlawfully administering a poison or noxious thing with intent to procure a miscarriage, an offence under the 1861 law, and is awaiting sentencing. This year, already, at least two more people have been charged. &lt;/p&gt; &lt;p&gt;Dozens of women have also been investigated over the past decade, according to a recent report in the &lt;em&gt;Observer&lt;/em&gt;. Some were arrested in their hospital beds; at least one was jailed. A girl as young as 15 had her phone and laptop confiscated, for investigation, during her GCSE exams. Police produced text exchanges with her boyfriend, where she expressed doubt over having the baby, as evidence against her, before a coroner concluded that the pregnancy had ended due to natural causes. &lt;/p&gt; &lt;p&gt;Meanwhile, Northern Ireland maintained a near-total ban on abortions until 2020, when Westminster took advantage of the collapse of Stormont&amp;rsquo;s power-sharing deal to intervene. There are still 11 countries &amp;ndash; including Andorra and Malta &amp;ndash; where abortion is prohibited in all circumstances.&lt;/p&gt; &lt;p&gt;The great irony of these laws is that they don&amp;rsquo;t reduce abortions. A study in 2020 from researchers at the Guttmacher Institute and WHO found that the abortion rate was the same in countries where it was &amp;ldquo;broadly legal&amp;rdquo; as in those where it was completely banned. Meanwhile, even partial criminalisation can be dangerous, because it can discourage or delay women from seeking safe abortions and cause health workers to be overly cautious, even to the point of denying legal forms of care.&lt;/p&gt; &lt;p&gt;The evidence is clear: criminalisation only serves to limit safe and regulated abortions, while putting women and girls at risk.&lt;/p&gt; &lt;p&gt;&lt;em&gt;This is a preview from New Humanist's summer 2023 issue. &lt;a href="/subscribe"&gt;Subscribe here&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;</content>
     <id>https://newhumanist.org.uk/articles/6117/criminalisation-of-abortion-endangers-women-and-girls-including-in-the-uk#utm_source=rss</id>
     <published>2023-05-16T06:00:00Z</published>
     <updated>2023-05-16T06:00:00Z</updated>
-  </entry>
-  <entry>
-    <title>Where’s my Big Carrot money?</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/05/15/wheres-my-big-carrot-money/" type="text/html"/>
-    <content type="html">&lt;p class="lead"&gt;Big Meat is training up influencers to propagandize meat eating.&lt;/p&gt;
-&lt;div class="center"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/OoEJqKuxK30" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-&lt;p&gt;This has been around for a while. Several years ago, a student at our local high school talked up vegetarianism &amp;#8212; I think he even got an op-ed in the local paper &amp;#8212; and almost immediately the Cattlemen&amp;#8217;s Association showed up at the school to give away free steak sandwiches. I think they&amp;#8217;re running scared.&lt;/p&gt;
-&lt;p&gt;We&amp;#8217;ve mostly* given up on red meat for a number of reasons, but one of them is that the meat industry is incredibly wasteful and damaging to the environment. It&amp;#8217;s very sad that the Lettuce Industry or Bean Corp. isn&amp;#8217;t knocking on my door offering big bucks to chat up their delicious vegetarian items. Moderation doesn&amp;#8217;t pay as much as indulgence.&lt;/p&gt;
-&lt;p&gt;*&amp;#8221;Mostly&amp;#8221; because we&amp;#8217;re not fanatical about it. If we&amp;#8217;re out visiting friends or family and they serve a lunch with meat in it, we&amp;#8217;ll say thank you and consume it &amp;#8212; we&amp;#8217;re mainly just trying to cut way, way back on it. Heck, if the Cattlemen&amp;#8217;s Association shows up at my front door and hands me a steak, I&amp;#8217;ll say thanks and include it in that night&amp;#8217;s dinner, and also tell them I won&amp;#8217;t ever be &lt;em&gt;buying&lt;/em&gt; their dead cows, or encouraging others to order it.&lt;/p&gt;
-</content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Big Meat is training up influencers to propagandize meat eating. This has been around for a while. Several years ago, a student at our local high school talked up vegetarianism — I think he even got an op-ed in the local paper — and almost immediately the Cattlemen’s Association showed up at the school to […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=70133</id>
-    <published>2023-05-15T16:44:00Z</published>
-    <updated>2023-05-15T16:44:00Z</updated>
-    <category term="Miscellaneous and Meta"/>
   </entry>
   <entry>
     <title>Malaria vaccine: A scientific victory</title>
