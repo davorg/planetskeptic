@@ -7,9 +7,119 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-05-27T12:06:02Z</updated>
+  <updated>2023-05-27T18:05:34Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>A few more raptors would reduce the noise</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/05/27/a-few-more-raptors-would-reduce-the-noise/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p><a href="https://freethoughtblogs.com/pharyngula/files/2023/05/dickcissel.jpeg"><img src="https://freethoughtblogs.com/pharyngula/files/2023/05/dickcissel-140x150.jpeg" alt="" width="140" height="150" class="alignright size-thumbnail wp-image-70237" srcset="https://freethoughtblogs.com/pharyngula/files/2023/05/dickcissel-140x150.jpeg 140w, https://freethoughtblogs.com/pharyngula/files/2023/05/dickcissel.jpeg 200w" sizes="(max-width: 140px) 100vw, 140px"/></a></p>
+<p class="lead">My wife was working in the garden this morning, while I was vegetating in front of the computer. One of the things Mary does is listen and fire up <a href="https://merlin.allaboutbirds.org/">Merlin Bird ID</a> as she works — <a href="https://wapo.st/45A2qLJ">paying attention to bird song is supposed to be good for you</a>, you know. This is what she identified in our back yard this morning: Chipping Sparrow, Dark-eyed Junco, House Finch, Black-capped Chickadee, Common Grackle, Rock Pigeon, Grey Catbird, American Crow, American Robin, Northern Cardinal, White-breasted Nuthatch, Red-eyed Vireo, Willow Flycatcher, Alder Flycatcher, Blue Jay, Common Raven, Eastern Towhee, Black-and-White Warbler, Philadelphia Vireo, House Sparrow, Red-bellied Woodpecker, Great Crested Flycatcher, Great Horned Owl, European Starling, Eastern Phoebe, House Wren, American Goldfinch, Downy Woodpecker, Chimney Swift, Dickcissel, American Redstart, Ruby-throated Hummingbird, Mourning Dove, Yellow-rumped warbler, Cedar Waxwing, and Yellow-bellied Flycatcher.</p>
+<p>I thought she made up “Dickcissel,” but apparently it’s a real bird living in the Midwest. I know we’ve got owls in the neighborhood, and also hawks, since this is clearly a great feeding ground.</p>
+<p>This does explain why I’m getting up early every morning — the cacophony is tremendous around here.</p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">My wife was working in the garden this morning, while I was vegetating in front of the computer. One of the things Mary does is listen and fire up Merlin Bird ID as she works — paying attention to bird song is supposed to be good for you, you know. This is what she identified […]</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=70236</id>
+    <published>2023-05-27T14:53:50Z</published>
+    <updated>2023-05-27T14:53:50Z</updated>
+    <category term="Organisms"/>
+  </entry>
+  <entry>
+    <title>Another reason I won’t get Neuralink</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/05/27/another-reason-i-wont-get-neuralink/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p><a href="https://freethoughtblogs.com/pharyngula/files/2023/05/amazon-basics-mouse.jpg"><img src="https://freethoughtblogs.com/pharyngula/files/2023/05/amazon-basics-mouse-123x150.jpg" alt="" width="123" height="150" class="alignright size-thumbnail wp-image-70234" srcset="https://freethoughtblogs.com/pharyngula/files/2023/05/amazon-basics-mouse-123x150.jpg 123w, https://freethoughtblogs.com/pharyngula/files/2023/05/amazon-basics-mouse.jpg 179w" sizes="(max-width: 123px) 100vw, 123px"/></a></p>
+<p class="lead">I was wondering what Neuralink is good for — it must be for treating some serious medical condition, since it involves serious surgery. But no! <a href="https://www.msn.com/en-us/health/other/elon-musk-s-brain-implant-company-neuralink-announces-fda-approval-of-in-human-clinical-study/ar-AA1bJ0Aj">It’s just techdude fantasies</a>.</p>
+<blockquote><p>Neuralink’s BCI will require patients to undergo invasive brain surgery. Its system centers around the Link, a small circular implant that processes and translates neural signals. The Link is connected to a series of thin, flexible threads inserted directly into the brain tissue where they detect neural signals.</p>
+<p>Patients with Neuralink devices will learn to control it using the Neuralink app. Patients will then be able to control external mice and keyboards through a Bluetooth connection, according to the company’s website.</p></blockquote>
+<p>An app. Bluetooth. Controlling computer mice.</p>
+<p>It absolutely did not help that I am currently using a computer mouse, a cheap wired optical mouse, that has an intermittent fault. Every once in a while, but not often enough to motivate me to get a replacement, the LED cuts out and the buttons stop responding. The fix is to shake the cable or unplug and re-insert the USB cable. It’s a bit annoying, I really should just get a new mouse, they’re only about $7.</p>
+<p>But now imagine that your Neuralink device has a less than perfect connection: scar tissue builds up, an electrode gets jostled out of position. Every once in a while, the app drops the Bluetooth connection. The artificial limb you’re controlling becomes unresponsive, or even worse, you miss a kill shot in <i>Call of Duty</i> (worse, because I’ve seen how gamers can explode in fury at the most trivial stuff). There’s no easy cable-jiggling you can do, you’re going in for <em>major brain surgery</em>.</p>
+<p>Or more likely, you’ll make do as I am with my mouse…you let it slide, 99% function is good enough. The only thing is, your brain doesn’t like wires stuck in it — there will be a gradual accumulation of scar tissue and localized damage, the performance of the device will inevitably incrementally deteriorate, and Neuralink doesn’t have a good replacement strategy.</p>
+<p>“Right to repair” acquires a new urgency when it’s a gadget imbedded in your brain. Musk doesn’t seem the type to allow outsourcing of his profitable toy, and is probably anticipating making lots of money from obsolescence.</p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">I was wondering what Neuralink is good for — it must be for treating some serious medical condition, since it involves serious surgery. But no! It’s just techdude fantasies. Neuralink’s BCI will require patients to undergo invasive brain surgery. Its system centers around the Link, a small circular implant that processes and translates neural signals. […]</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=70233</id>
+    <published>2023-05-27T14:29:57Z</published>
+    <updated>2023-05-27T14:29:57Z</updated>
+    <category term="Technology"/>
+  </entry>
+  <entry>
+    <title>There’d have to be something wrong with your brain to sign up for a Neuralink trial</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/05/27/thered-have-to-be-something-wrong-with-your-brain-to-sign-up-for-a-neuralink-trial/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p><a href="https://freethoughtblogs.com/pharyngula/files/2023/05/terminal-man.jpeg"><img src="https://freethoughtblogs.com/pharyngula/files/2023/05/terminal-man-150x119.jpeg" alt="" width="150" height="119" class="alignright size-thumbnail wp-image-70231" srcset="https://freethoughtblogs.com/pharyngula/files/2023/05/terminal-man-150x119.jpeg 150w, https://freethoughtblogs.com/pharyngula/files/2023/05/terminal-man.jpeg 300w" sizes="(max-width: 150px) 100vw, 150px"/></a></p>
+<p class="lead">Has anybody read <a href="https://en.wikipedia.org/wiki/The_Terminal_Man"><i>The Terminal Man</i></a> by Michael Crichton? It’s about a man who gets a brain implant to correct his epilepsy, but then it starts triggering increasingly violent crimes. I strongly dislike everything Crichton ever wrote — he was a Luddite who doesn’t know what he’s talking about, while the press and the public fawn over his bad science — but for the first time, I feel like he might have been onto something.</p>
+<p>Reportedly, <a href="https://www.reuters.com/science/elon-musks-neuralink-gets-us-fda-approval-human-clinical-study-brain-implants-2023-05-25/">Elon Musk has gotten FDA approval to stick chronic electrodes into people’s brains</a>. Why you’d want anything associated with that incompetent boob permanently wired into your brain is a mystery.</p>
+<blockquote><p>The FDA acknowledged in a statement that the agency cleared Neuralink to use its brain implant and surgical robot for trials on patients but declined to provide more details.</p>
+<p>Neuralink and Musk did not respond to Reuters requests for comment.</p></blockquote>
+<p>The story has triggered my internal Michael Crichton and now I’m wondering what horror will result from this decision.</p>
+<ul>
+<li>Patients will start murdering people ala <i>The Terminal Man</i> (or Musk’s self-driving software) as Neuralink misfires.</li>
+<li>Neuralink will catch fire and burn down to the patient’s basicranium.</li>
+<li>Neuralink will explode when it’s switched on, cratering the patient’s head.</li>
+<li>Neuralink will attract Nazis who will fill the patient’s brain with bad ideas.</li>
+<li>Neuralink will do nothing at all, but it will distract the patient from investing in better treatments.</li>
+</ul>
+<p>My imagination fails. You’ll have to think of all the likely horrible consequences of getting a Neuralink implant.</p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Has anybody read The Terminal Man by Michael Crichton? It’s about a man who gets a brain implant to correct his epilepsy, but then it starts triggering increasingly violent crimes. I strongly dislike everything Crichton ever wrote — he was a Luddite who doesn’t know what he’s talking about, while the press and the public […]</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=70230</id>
+    <published>2023-05-27T13:44:57Z</published>
+    <updated>2023-05-27T13:44:57Z</updated>
+    <category term="Atheism and Skepticism"/>
+    <category term="Technology"/>
+  </entry>
+  <entry>
+    <title>I hope you choke on your birthday cake, Henry</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/05/27/i-hope-you-choke-on-your-birthday-cake-henry/" type="text/html"/>
+    <content type="html">&lt;p&gt;&lt;a href="https://freethoughtblogs.com/pharyngula/files/2023/05/poison-birthday-cake.png"&gt;&lt;img src="https://freethoughtblogs.com/pharyngula/files/2023/05/poison-birthday-cake-150x150.png" alt="" width="150" height="150" class="alignright size-thumbnail wp-image-70227" srcset="https://freethoughtblogs.com/pharyngula/files/2023/05/poison-birthday-cake-150x150.png 150w, https://freethoughtblogs.com/pharyngula/files/2023/05/poison-birthday-cake.png 200w" sizes="(max-width: 150px) 100vw, 150px" /&gt;&lt;/p&gt;
+&lt;p class="lead"&gt;Today is an evil birthday, a reminder that &lt;a href="https://www.motherjones.com/politics/2023/05/henry-kissinger-at-100-still-a-war-criminal/"&gt;the universe is not fair and just&lt;/a&gt;.&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;Henry Kissinger is turning 100 this week, and his centennial is prompting assorted hosannas about perhaps the most influential American foreign policymaker of the 20th century. The Economist observed that “his ideas have been circling back into relevancy for the last quarter century.” The Times of London ran an appreciation: “Henry Kissinger at 100: What He Can Tell Us About the World.” Policy shops and think tanks have held conferences to mark this milestone. CBS News aired a mostly fawning interview veteran journalist Ted Koppel conducted with Kissinger that included merely a glancing reference to the ignoble and bloody episodes of his career. Kissinger is indeed a monumental figure who shaped much of the past 50 years. He brokered the US opening to China and pursued detente with the Soviet Union during his stints as President Richard Nixon’s national security adviser and secretary of state. Yet it is an insult to history that he is not equally known and regarded for his many acts of treachery—secret bombings, coup-plotting, supporting military juntas—that resulted in the death of hundreds of thousands. &lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;The news, as usual, was sickening. Kissinger is generally treated as distinguished, honorable statesman, and his crimes are glossed over because, obviously, he&amp;#8217;s a very old man and he&amp;#8217;s celebrating a birthday. You don&amp;#8217;t want to ruin his birthday, do you? (Yes, I do.) So the Washington Post runs a piece written by Kissinger&amp;#8217;s son, David, that &lt;/p&gt;
+&lt;p&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.washingtonpost.com/opinions/2023/05/25/henry-kissinger-100th-birthday-appreciation/"&gt;tells us all about his secret for living so long&lt;/a&gt; &amp;#8212; &lt;q&gt;a diet heavy on bratwurst and Wiener schnitzel, a career of relentlessly stressful decision-making, and a love of sports purely as a spectator, never a participant.&lt;/q&gt; He forgets never having a speck of empathy for others, and never ever facing the consequences of his decisions. He has seen some of those consequences, but they do not deter him.&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;As a refugee from Nazi Germany, he had lost 13 family members and countless friends to the Holocaust. He returned to his native Germany as an American soldier, participating in the liberation of the Ahlem concentration camp near Hannover. There, he witnessed the depths to which mankind can sink unconstrained by international structures of peace and justice. Next month, we will return to Fürth, where he will lay a wreath at the grave of his grandfather, who did not escape.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;That&amp;#8217;s so sad. If only the lesson he&amp;#8217;d learned from his personal experience that murdering civilians is an evil act. At least the Intercept has a lengthy &lt;a href="https://theintercept.com/2023/05/23/henry-kissinger-cambodia-bombing-survivors/"&gt;article on the civilian experience in Cambodia and Kissinger&amp;#8217;s war crimes&lt;/a&gt;.&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;To Nixon and Kissinger, Cambodia was a sideshow: a tiny war waged in the shadow of the larger conflict in Vietnam and entirely subsumed to U.S. objectives there. To Cambodians on the front lines of the conflict — farming folk living hardscrabble lives — the war was a shock and a horror. At first, people were awed by the aircraft that began flying above their thatched-roof homes. They called Huey Cobra attack helicopters “lobster legs” for their skids, which resembled crustacean limbs, while small bubble-like Loaches became “coconut shells” in local parlance. But Cambodians quickly learned to fear the aircraft’s machine guns and rockets, the bombs of F-4 Phantoms, and the ground-shaking strikes of B-52s. Decades later, survivors still had little understanding of why they were attacked and why so many loved ones were maimed or killed. They had no idea that their suffering was due in large part to a man named Henry Kissinger and his failed schemes to achieve his boss’s promised “honorable end to the war in Vietnam” by expanding, escalating, and prolonging that conflict.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Kissinger doesn&amp;#8217;t understand the meaning of &amp;#8220;honor.&amp;#8221; He&amp;#8217;s a butcher who promoted the impersonal use of technology to lay waste to villages &amp;#8212; he established an American tradition continued to this day, using drone strikes to wage bloody war with no clear idea &lt;em&gt;how&lt;/em&gt; flattening farms and blowing up children will end a war.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.motherjones.com/politics/2023/05/henry-kissinger-at-100-still-a-war-criminal/"&gt;Mother Jones summarizes Kissinger&amp;#8217;s place in history&lt;/a&gt;.&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;It’s easy to cast Kissinger as a master geostrategist, an expert player in the game of nations. But do the math. Hundreds of thousands of dead in Bangladesh, Cambodia, and East Timor, perhaps a million in total. Tens of thousands dead in Argentina’s Dirty War. Thousands killed and tens of thousands tortured by the Chilean military dictatorship, and a democracy destroyed. His hands are drenched in blood. &lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Yet he will be feted today, and every simpering politician who praises this man is an accomplice.&lt;/p&gt;
+&lt;p&gt;I wish there were a grave that they could lay a wreath on, and that the rest of us could piss on.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://freethoughtblogs.com/pharyngula/files/2023/05/kissinger-doctrine.jpeg"&gt;&lt;img src="https://freethoughtblogs.com/pharyngula/files/2023/05/kissinger-doctrine-500x397.jpeg" alt="" width="500" height="397" class="aligncenter size-large wp-image-70228" srcset="https://freethoughtblogs.com/pharyngula/files/2023/05/kissinger-doctrine-500x397.jpeg 500w, https://freethoughtblogs.com/pharyngula/files/2023/05/kissinger-doctrine-150x119.jpeg 150w, https://freethoughtblogs.com/pharyngula/files/2023/05/kissinger-doctrine-300x238.jpeg 300w, https://freethoughtblogs.com/pharyngula/files/2023/05/kissinger-doctrine.jpeg 512w" sizes="(max-width: 500px) 100vw, 500px" /&gt;&lt;/a&gt;&lt;/p&gt;
+</content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Today is an evil birthday, a reminder that the universe is not fair and just. Henry Kissinger is turning 100 this week, and his centennial is prompting assorted hosannas about perhaps the most influential American foreign policymaker of the 20th century. The Economist observed that “his ideas have been circling back into relevancy for the […]</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=70226</id>
+    <published>2023-05-27T13:06:42Z</published>
+    <updated>2023-05-27T13:06:42Z</updated>
+    <category term="Evil"/>
+    <category term="Politics, History, and Law"/>
+  </entry>
   <entry>
     <title>You call this news?</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/05/26/you-call-this-news/" type="text/html"/>
@@ -28,110 +138,6 @@
     <published>2023-05-26T12:48:50Z</published>
     <updated>2023-05-26T12:48:50Z</updated>
     <category term="News"/>
-  </entry>
-  <entry>
-    <title>Another example of why I despise Christianity</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/05/25/another-example-of-why-i-despise-christianity/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p class="lead">It leads stupid people like Ray Comfort to say things like this:</p>
-<div id="attachment_70221" style="width: 510px" class="wp-caption aligncenter"><a href="https://freethoughtblogs.com/pharyngula/files/2023/05/comfort-is-scum.jpg"><img src="https://freethoughtblogs.com/pharyngula/files/2023/05/comfort-is-scum-500x575.jpg" alt="" width="500" height="575" class="size-large wp-image-70221" srcset="https://freethoughtblogs.com/pharyngula/files/2023/05/comfort-is-scum-500x575.jpg 500w, https://freethoughtblogs.com/pharyngula/files/2023/05/comfort-is-scum-130x150.jpg 130w, https://freethoughtblogs.com/pharyngula/files/2023/05/comfort-is-scum-261x300.jpg 261w, https://freethoughtblogs.com/pharyngula/files/2023/05/comfort-is-scum-768x884.jpg 768w, https://freethoughtblogs.com/pharyngula/files/2023/05/comfort-is-scum.jpg 1133w" sizes="(max-width: 500px) 100vw, 500px"/></a><p class="wp-caption-text">The Queen of rock ‘n’ roll passed into eternity today. All the money that Tina Turner possessed, all her fame, all her awards, and accolades now mean nothing. The only thing that matters, is “Were her sins forgiven?”</p></div>
-<p>OK, I forgive her sins. Done.</p>
-<p>Maybe better questions to ask when someone dies are: “Did they make the world a better place? Did they create beauty? Did they inspire? Did they speak truth to the world?”</p>
-<p>Tina Turner gets a yes to each question. Ray Comfort gets a slow, sad shake of the head.</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">It leads stupid people like Ray Comfort to say things like this: OK, I forgive her sins. Done. Maybe better questions to ask when someone dies are: “Did they make the world a better place? Did they create beauty? Did they inspire? Did they speak truth to the world?” Tina Turner gets a yes to […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=70220</id>
-    <published>2023-05-25T17:06:26Z</published>
-    <updated>2023-05-25T17:06:26Z</updated>
-    <category term="Atheism and Skepticism"/>
-    <category term="Fools, Tools, Kooks, and Goons"/>
-  </entry>
-  <entry>
-    <title>Texas rides again!</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/05/25/texas-rides-again/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p><a href="https://freethoughtblogs.com/pharyngula/files/2023/05/chaplain.jpeg"><img src="https://freethoughtblogs.com/pharyngula/files/2023/05/chaplain-150x109.jpeg" alt="" width="150" height="109" class="alignright size-thumbnail wp-image-70218" srcset="https://freethoughtblogs.com/pharyngula/files/2023/05/chaplain-150x109.jpeg 150w, https://freethoughtblogs.com/pharyngula/files/2023/05/chaplain-300x218.jpeg 300w, https://freethoughtblogs.com/pharyngula/files/2023/05/chaplain-768x559.jpeg 768w, https://freethoughtblogs.com/pharyngula/files/2023/05/chaplain-500x364.jpeg 500w, https://freethoughtblogs.com/pharyngula/files/2023/05/chaplain.jpeg 800w" sizes="(max-width: 150px) 100vw, 150px"/></a></p>
-<p class="lead">After their <a href="https://freethoughtblogs.com/pharyngula/2023/05/24/they-tried-they-failed/">attempt to stuff the ten commandments into classrooms failed</a>, the Texas legislature rebounds and succeeds in <a href="https://www.texastribune.org/2023/05/24/texas-legislature-chaplains-schools/">stuffing chaplains into the schools</a>.</p>
-<blockquote><p>Senate Bill 763 was approved in an 84-60 vote in the Texas House, one day after it passed the Texas Senate. It allows Texas schools to use safety funds to pay for unlicensed chaplains to work in mental health roles. Volunteer chaplains will also be allowed in schools.</p></blockquote>
-<p>Note: they want to use <em>safety</em> fund for this futile effort, in a misguided belief that this will keep kids safe. But then the bill specifically allows <em>unlicensed</em> chaplains, that is, the local Baptist minister with no training in education or safety is going to get paid to come in and pester the kids. And they’re expected to provide <em>mental health assistance! Like mental health care is just something anyone can do adequately.</em></p>
-<p>Wow, but that one sentence — “It allows Texas schools to use safety funds to pay for unlicensed chaplains to work in mental health roles” — is doing a lot of work.</p>
-<p>The Democrats made an effort to reduce the harm this bill is going to do to no avail.</p>
-<blockquote><p>Earlier this month, House Democrats also offered amendments to bar proselytizing or attempts to convert students from one religion to another; to require chaplains to receive consent from the parents of school children; and to make schools provide chaplains from any faith or denomination requested by students. All of those amendments failed.</p></blockquote>
-<p>Those are reasonable requirements, but they don’t go far enough. In particular, you need <em>training</em> to do counseling. Republicans think it’s going to help, for their usual ignorant reasons.</p>
-<blockquote><p>As with other faith-driven legislation this session — including a bill to require the Ten Commandments in classrooms that failed to reach a crucial vote on Tuesday — conservative Christians argued that religious chaplains could help prevent school shootings, drug use, suicide and other societal ills by returning God to classrooms.</p></blockquote>
-<p>My experience with most religious nutcases is that they’re only going to increase the sense of futility and despair. Not to mention the increase in <a href="https://apnews.com/article/catholic-clergy-sexual-abuse-illinois-investigation-a298133cec9486c2e51172316bfe7b4b">sexual abuse by priests</a>, which always seems to follow.</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">After their attempt to stuff the ten commandments into classrooms failed, the Texas legislature rebounds and succeeds in stuffing chaplains into the schools. Senate Bill 763 was approved in an 84-60 vote in the Texas House, one day after it passed the Texas Senate. It allows Texas schools to use safety funds to pay for […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=70217</id>
-    <published>2023-05-25T13:21:27Z</published>
-    <updated>2023-05-25T13:21:27Z</updated>
-    <category term="Religion and Government"/>
-  </entry>
-  <entry>
-    <title>How’s that war in Ukraine going, anyway?</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/05/25/hows-that-war-in-ukraine-going-anyway/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p><a href="https://freethoughtblogs.com/pharyngula/files/2023/05/bakhmut-destroyed.jpeg"><img src="https://freethoughtblogs.com/pharyngula/files/2023/05/bakhmut-destroyed-150x89.jpeg" alt="" width="150" height="89" class="alignright size-thumbnail wp-image-70215" srcset="https://freethoughtblogs.com/pharyngula/files/2023/05/bakhmut-destroyed-150x89.jpeg 150w, https://freethoughtblogs.com/pharyngula/files/2023/05/bakhmut-destroyed-300x178.jpeg 300w, https://freethoughtblogs.com/pharyngula/files/2023/05/bakhmut-destroyed-500x297.jpeg 500w, https://freethoughtblogs.com/pharyngula/files/2023/05/bakhmut-destroyed.jpeg 584w" sizes="(max-width: 150px) 100vw, 150px"/></a></p>
-<p class="lead">It seems to have settled into a long deadly grind, with Russia committed to capturing the city of Bakhmut and Ukraine committed to defending it, with both sides pouring troops into the months-long battle, and what they’re getting out of it is a lot of dead people and a bombed out city. <a href="https://www.reuters.com/world/europe/ukraine-claims-foothold-part-bakhmut-aims-encircle-city-2023-05-21/">Russia says they’ve finally succeeded</a>, while Ukraine says they’ve still got a toe-hold and are busy encircling the city. It sounds to me like they both lost.</p>
-<p>Even if I grant the Russians their “triumph,” it <a href="https://www.washingtonpost.com/world/2023/05/24/yevgeniy-prigozhin-war-backfired-revolution/">doesn’t seem to have been worth it</a>.</p>
-<blockquote><p>In a lengthy interview with Konstantin Dolgov, a political operative and pro-war blogger, Prigozhin, the founder and leader of the Wagner mercenary group, also asserted that the war has backfired spectacularly by failing to “demilitarize” Ukraine, one of President Vladimir Putin’s stated aims of the invasion. He also called for totalitarian policies.</p>
-<p>“We are in a situation where we can simply lose Russia,” Prigozhin said, using an expletive to hammer his point. “We must introduce martial law. We unfortunately … must announce new waves of mobilization; we must put everyone who is capable to work on increasing the production of ammunition,” he said. “Russia needs to live like North Korea for a few years, so to say, close the borders … and work hard.”</p></blockquote>
-<p>Yikes. Russia started a war of aggression, and that’s what victory means — they have to become like North Korea? That’s a complete failure. Sure, close your borders, enslave your own population, alienate the rest of the world, and claim you won.</p>
-<p>Of course, the people in charge will still get to live luxurious lives.</p>
-<blockquote><p>Citing public anger at the lavish lifestyles of Russia’s rich and powerful, Prigozhin warned that their homes could be stormed by people with “pitchforks.” He singled out Ksenia Shoigu, the daughter of Defense Minister Sergei Shoigu, who was spotted vacationing in Dubai with her fiancé, Alexei Stolyarov, a fitness blogger.</p>
-<p>“The children of the elite shut their traps at best, and some allow themselves a public, fat, carefree life,” Prigozhin said in the interview, which was released Wednesday on video. “This division might end as in 1917, with a revolution — when first the soldiers rise up, and then their loved ones follow.”</p></blockquote>
-<p>I guess a Russian would know. Of course, Putin would know this too, and would know that he’s got to keep the pressure on, and that losing the war in Ukraine would possibly be the real trigger for revolution, more so than spoiled rich kids flaunting their wealth.</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">It seems to have settled into a long deadly grind, with Russia committed to capturing the city of Bakhmut and Ukraine committed to defending it, with both sides pouring troops into the months-long battle, and what they’re getting out of it is a lot of dead people and a bombed out city. Russia says they’ve […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=70214</id>
-    <published>2023-05-25T12:31:09Z</published>
-    <updated>2023-05-25T12:31:09Z</updated>
-    <category term="Politics, History, and Law"/>
-  </entry>
-  <entry>
-    <title>The Republican brand: incompetence and ideology</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/05/25/the-republican-brand-incompetence-and-ideology/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p><a href="https://freethoughtblogs.com/pharyngula/files/2023/05/twitter-politics.jpeg"><img src="https://freethoughtblogs.com/pharyngula/files/2023/05/twitter-politics-150x98.jpeg" alt="" width="150" height="98" class="alignright size-thumbnail wp-image-70212" srcset="https://freethoughtblogs.com/pharyngula/files/2023/05/twitter-politics-150x98.jpeg 150w, https://freethoughtblogs.com/pharyngula/files/2023/05/twitter-politics-300x196.jpeg 300w, https://freethoughtblogs.com/pharyngula/files/2023/05/twitter-politics-768x501.jpeg 768w, https://freethoughtblogs.com/pharyngula/files/2023/05/twitter-politics-500x326.jpeg 500w, https://freethoughtblogs.com/pharyngula/files/2023/05/twitter-politics.jpeg 800w" sizes="(max-width: 150px) 100vw, 150px"/></a></p>
-<p class="lead">Ron DeSantis announced his presidential run yesterday, with Elon Musk at his side, using that technological marvel called Twitter. <a href="https://www.cnn.com/2023/05/24/tech/twitter-desantis-meltdown/index.html">It did not go well</a>.</p>
-<blockquote><p>Twitter’s livestream event with Florida Gov. Ron DeSantis crashed and was delayed on Wednesday as hundreds of thousands of users logged on to hear DeSantis announce his bid for the White House.</p>
-<p>Sound from the livestream event — which was held on Twitter Spaces and hosted by owner Elon Musk and tech entrepreneur David Sacks — cut in and out in the first minutes after starting.</p>
-<p>“We’ve got so many people here that we are kind of melting the servers,” Sacks said at one point.</p>
-<p>Florida Gov. Ron DeSantis at his election night party in Tampa, Florida, in November 2022.<br/>
-Florida Gov. Ron DeSantis announces he’s running for president in 2024<br/>
-More than 500,000 Twitter users joined the event, which was ultimately ended and then restarted, delaying DeSantis’ announcement by nearly half an hour. When the event was relaunched using Sacks’ account, only around 250,000 users ultimately listened in.</p>
-<p>Twitter has faced a variety of outages and technical issues since Musk took over the platform late last year. Shortly after acquiring the company, Musk laid off large numbers of technical and other staff and reduced Twitter’s server capacity in an effort to cut costs.</p></blockquote>
-<p>Oh please oh please oh please. May the right wing continue to rely on Elon Musk on technical issues. It’s like a perfect model of how Republican policies work. Errm, <em>don’t</em> work, that is.</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Ron DeSantis announced his presidential run yesterday, with Elon Musk at his side, using that technological marvel called Twitter. It did not go well. Twitter’s livestream event with Florida Gov. Ron DeSantis crashed and was delayed on Wednesday as hundreds of thousands of users logged on to hear DeSantis announce his bid for the White […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=70211</id>
-    <published>2023-05-25T12:04:54Z</published>
-    <updated>2023-05-25T12:04:54Z</updated>
-    <category term="Politics, History, and Law"/>
   </entry>
   <entry>
     <title>Laughing at old ladies</title>
