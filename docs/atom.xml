@@ -7,9 +7,24 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-06-01T06:05:39Z</updated>
+  <updated>2023-06-01T12:06:53Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>OPEN DISCUSSION JUNE 2023</title>
+    <link rel="alternate" href="https://richarddawkins.net/2023/06/open-discussion-june-2023/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">This thread has been created for thoughtful, rational discussion on subjects for which there are not currently any dedicated threads. Please note that our Comment Policy applies as usual. There is a link to this at the foot of the page. If you would like to refer back to previous open discussion threads, the most …</div>
+    </content>
+    <author>
+      <name>Moderator</name>
+    </author>
+    <id>https://richarddawkins.net/?p=978548</id>
+    <published>2023-06-01T08:02:31Z</published>
+    <updated>2023-06-01T08:02:31Z</updated>
+    <category term="Discussion"/>
+    <category term="Featured"/>
+  </entry>
   <entry>
     <title>We hunted the rabbit</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/05/31/we-hunted-the-rabbit/" type="text/html"/>
@@ -210,7 +225,6 @@
     <published>2023-05-01T10:11:05Z</published>
     <updated>2023-05-01T10:11:05Z</updated>
     <category term="Discussion"/>
-    <category term="Featured"/>
   </entry>
   <entry>
     <title>Agree to Disagree</title>
@@ -283,20 +297,6 @@
     <category term="Politics"/>
     <category term="Religion"/>
     <category term="Science"/>
-  </entry>
-  <entry>
-    <title>OPEN DISCUSSION MARCH 2023</title>
-    <link rel="alternate" href="https://richarddawkins.net/2023/03/open-discussion-march-2023/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">This thread has been created for thoughtful, rational discussion on subjects for which there are not currently any dedicated threads. Please note that our Comment Policy applies as usual. There is a link to this at the foot of the page. If you would like to refer back to previous open discussion threads, the most …</div>
-    </content>
-    <author>
-      <name>Moderator</name>
-    </author>
-    <id>https://richarddawkins.net/?p=978514</id>
-    <published>2023-03-01T09:44:26Z</published>
-    <updated>2023-03-01T09:44:26Z</updated>
-    <category term="Discussion"/>
   </entry>
   <entry>
     <title>My new podcast!</title>
