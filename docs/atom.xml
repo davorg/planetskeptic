@@ -7,9 +7,28 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-06-03T06:05:24Z</updated>
+  <updated>2023-06-03T12:06:01Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>We’re in the Spider-Verse now</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/06/03/were-in-the-spider-verse-now/" type="text/html"/>
+    <content type="html">&lt;p class="lead"&gt;We&amp;#8217;re in summer research training mode. Mary &amp;#038; I took one of our students to see &lt;i&gt;Spider-Man: Across the Spider-Verse&lt;/i&gt; so that she could learn what the life of an arachnologist is like.&lt;/p&gt;
+&lt;div class="center"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/shW9i6k8cB0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;p&gt;It was a little more kinetic and colorful than I expected. But good! These spider-verse movies are spectacular and intense.&lt;/p&gt;
+&lt;p&gt;To bring us back down to earth, this morning we&amp;#8217;re headed out to &lt;a href="https://www.dnr.state.mn.us/state_parks/park.html?id=spk00166#homepage"&gt;Glacial Lakes State Park&lt;/a&gt; for some real spidering, which is a little more sedate.&lt;/p&gt;
+</content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">We’re in summer research training mode. Mary &amp; I took one of our students to see Spider-Man: Across the Spider-Verse so that she could learn what the life of an arachnologist is like. It was a little more kinetic and colorful than I expected. But good! These spider-verse movies are spectacular and intense. To bring […]</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=70310</id>
+    <published>2023-06-03T11:33:17Z</published>
+    <updated>2023-06-03T11:33:17Z</updated>
+    <category term="Miscellaneous and Meta"/>
+  </entry>
   <entry>
     <title>Tom Morello is too mean to Nazis</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/06/02/tom-morello-is-too-mean-to-nazis/" type="text/html"/>
@@ -106,23 +125,6 @@
     <published>2023-06-02T13:04:11Z</published>
     <updated>2023-06-02T13:04:11Z</updated>
     <category term="Technology"/>
-  </entry>
-  <entry>
-    <title>BCE/CE is older than I thought</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/06/01/bce-ce-is-older-than-i-thought/" type="text/html"/>
-    <content type="html">&lt;p class="lead"&gt;And it&amp;#8217;s not anti-religious. Useful to know.&lt;/p&gt;
-&lt;div class="center"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/sNuWesPGHoY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-</content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">And it’s not anti-religious. Useful to know.</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=70296</id>
-    <published>2023-06-01T15:48:27Z</published>
-    <updated>2023-06-01T15:48:27Z</updated>
-    <category term="Atheism and Skepticism"/>
   </entry>
   <entry>
     <title>OPEN DISCUSSION JUNE 2023</title>
