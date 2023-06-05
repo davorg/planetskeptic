@@ -7,9 +7,61 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-06-05T06:05:45Z</updated>
+  <updated>2023-06-05T12:06:57Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>The good little robot</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/06/05/the-good-little-robot/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p class="lead">Look at that thing. It’s beautiful.</p>
+<p><a href="https://freethoughtblogs.com/pharyngula/files/2023/06/ingenuity.jpeg"><img src="https://freethoughtblogs.com/pharyngula/files/2023/06/ingenuity-500x372.jpeg" alt="" width="500" height="372" class="aligncenter size-large wp-image-70326" srcset="https://freethoughtblogs.com/pharyngula/files/2023/06/ingenuity-500x372.jpeg 500w, https://freethoughtblogs.com/pharyngula/files/2023/06/ingenuity-150x112.jpeg 150w, https://freethoughtblogs.com/pharyngula/files/2023/06/ingenuity-300x223.jpeg 300w, https://freethoughtblogs.com/pharyngula/files/2023/06/ingenuity.jpeg 691w" sizes="(max-width: 500px) 100vw, 500px"/></a></p>
+<p>That’s <a href="https://www.washingtonpost.com/nation/2023/06/02/mars-helicopter-ingenuity-nasa-disappear/">Ingenuity</a>, the drone that was sent to Mars on the Perseverance mission. It was intended to be a proof-of-concept test, expected to fly for only a couple of excursions, and then fail under the hellish Martian conditions. Instead, it has survived for <em>two years</em>.</p>
+<blockquote><p>Ingenuity defied the odds the day it first lifted off from Martian soil. The four-pound aircraft stands about 19 inches tall and is little more than a box of avionics with four spindly legs on one end and two rotor blades and a solar panel on the other. But it performed the first powered flight by an aircraft on another planet — what NASA billed a “Wright brothers moment” — after arriving on Mars in April 2021.</p></blockquote>
+<p>It’s made over 50 flights. Apparently it’s a bit wonky, losing radio connection to the rover when it flies out of line of sight, or when the cold shuts it down, but when it warms up, or the rover drives closer, it gets right up again.</p>
+<p>NASA has still got good engineering. It might be because of all the redundancy they build into every gadget — this little drone cost $80 million dollars! — but I have a hypothesis that the real secret to its success is what they left out. There’s no narcissistic and incompetent billionaire attached to the project, just a lot of engineers who take pride in their work.</p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Look at that thing. It’s beautiful. That’s Ingenuity, the drone that was sent to Mars on the Perseverance mission. It was intended to be a proof-of-concept test, expected to fly for only a couple of excursions, and then fail under the hellish Martian conditions. Instead, it has survived for two years. Ingenuity defied the odds […]</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=70325</id>
+    <published>2023-06-05T11:31:00Z</published>
+    <updated>2023-06-05T11:31:00Z</updated>
+    <category term="Technology"/>
+  </entry>
+  <entry>
+    <title>The problem isn’t artificial intelligence, it’s natural stupidity</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/06/05/the-problem-isnt-artificial-intelligence-its-natural-stupidity/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p><a href="https://freethoughtblogs.com/pharyngula/files/2023/06/professor-robot.jpeg"><img src="https://freethoughtblogs.com/pharyngula/files/2023/06/professor-robot-72x150.jpeg" alt="" width="72" height="150" class="alignright size-thumbnail wp-image-70323" srcset="https://freethoughtblogs.com/pharyngula/files/2023/06/professor-robot-72x150.jpeg 72w, https://freethoughtblogs.com/pharyngula/files/2023/06/professor-robot-144x300.jpeg 144w, https://freethoughtblogs.com/pharyngula/files/2023/06/professor-robot.jpeg 433w" sizes="(max-width: 72px) 100vw, 72px"/></a></p>
+<p class="lead">A Texas A&amp;M professor flunked all of his students <a href="https://www.rollingstone.com/culture/culture-features/texas-am-chatgpt-ai-professor-flunks-students-false-claims-1234736601/">because ChatGPT told him to</a>.</p>
+<blockquote><p>Dr. Jared Mumm, a campus rodeo instructor who also teaches agricultural classes,</p></blockquote>
+<p>He legitimately wrote a PhD thesis on pig farming, but really — a “rodeo instructor”? I guess that’s like the coaches we have working in athletic programs at non-Ag colleges.</p>
+<blockquote><p>sent an email on Monday to a group of students informing them that he had submitted grades for their last three essay assignments of the semester. Everyone would be receiving an “X” in the course, Mumm explained, because he had used “Chat GTP” (the OpenAI chatbot is actually called “ChatGPT”) to test whether they’d used the software to write the papers — and the bot claimed to have authored every single one.</p>
+<p>“I copy and paste your responses in [ChatGPT] and [it] will tell me if the program generated the content,” he wrote, saying he had tested each paper twice. He offered the class a makeup assignment to avoid the failing grade — which could otherwise, in theory, threaten their graduation status.</p></blockquote>
+<p>Wow. He doesn’t know what he’s doing at all. ChatGPT is an artificial expert at confabulation — it will assemble a plausible-sounding mess of words that looks like other collections of words it finds in its database, and that’s about it. It’s not TurnItIn, a service professors have been using for at least a decade that compares submitted text to other texts in it’s database, and reports similarities. ChatGPT will happily make stuff up. You can’t use it the way he thinks.</p>
+<p>Mumm was unwarrantedly aggressive in his ignorance.</p>
+<blockquote><p>Students claim they supplied him with proof they hadn’t used ChatGPT — exonerating timestamps on the Google Documents they used to complete the homework — but that he initially ignored this, commenting in the school’s grading software system, “I don’t grade AI bullshit.” (Mumm did not return Rolling Stone‘s request for comment.)</p></blockquote>
+<p>Unfortunately for him, Mumm was cursed with smarter spectators to <em>his</em> AI bullshit. One of them ran Mumm’s PhD thesis through ChatGPT in the same inappropriate, invalid way.</p>
+<blockquote><p>In an amusing wrinkle, Mumm’s claims appear to be undercut by a simple experiment using ChatGPT. On Tuesday, redditor Delicious_Village112 found an abstract of Mumm’s doctoral dissertation on pig farming and submitted a section of that paper to the bot, asking if it might have written the paragraph. “Yes, the passage you shared could indeed have been generated by a language model like ChatGPT, given the right prompt,” the program answered. “The text contains several characteristics that are consistent with AI-generated content.” At the request of other redditors, Delicious_Village112 also submitted Mumm’s email to students about their presumed AI deception, asking the same question. “Yes, I wrote the content you’ve shared,” ChatGPT replied. Yet the bot also clarified: “If someone used my abilities to help draft an email, I wouldn’t have a record of it.”</p></blockquote>
+<p>On the one hand, I am relieved to see that ChatGPT can’t replace <em>me</em>. On the other hand, there is an example of someone who thinks it can, to disastrous effect. Maybe it could at least replace the Jared Mumm’s of the world, except I bet it sucks at bronco bustin’ and lassoing calves.</p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">A Texas A&amp;M professor flunked all of his students because ChatGPT told him to. Dr. Jared Mumm, a campus rodeo instructor who also teaches agricultural classes, He legitimately wrote a PhD thesis on pig farming, but really — a “rodeo instructor”? I guess that’s like the coaches we have working in athletic programs at non-Ag […]</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=70322</id>
+    <published>2023-06-05T11:00:18Z</published>
+    <updated>2023-06-05T11:00:18Z</updated>
+    <category term="Technology"/>
+  </entry>
   <entry>
     <title>Will my Mac fly?</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/06/04/will-my-mac-fly/" type="text/html"/>
@@ -82,52 +134,6 @@
     <published>2023-06-04T12:16:49Z</published>
     <updated>2023-06-04T12:16:49Z</updated>
     <category term="Organisms"/>
-  </entry>
-  <entry>
-    <title>We’re in the Spider-Verse now</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/06/03/were-in-the-spider-verse-now/" type="text/html"/>
-    <content type="html">&lt;p class="lead"&gt;We&amp;#8217;re in summer research training mode. Mary &amp;#038; I took one of our students to see &lt;i&gt;Spider-Man: Across the Spider-Verse&lt;/i&gt; so that she could learn what the life of an arachnologist is like.&lt;/p&gt;
-&lt;div class="center"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/shW9i6k8cB0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-&lt;p&gt;It was a little more kinetic and colorful than I expected. But good! These spider-verse movies are spectacular and intense.&lt;/p&gt;
-&lt;p&gt;To bring us back down to earth, this morning we&amp;#8217;re headed out to &lt;a href="https://www.dnr.state.mn.us/state_parks/park.html?id=spk00166#homepage"&gt;Glacial Lakes State Park&lt;/a&gt; for some real spidering, which is a little more sedate.&lt;/p&gt;
-</content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">We’re in summer research training mode. Mary &amp; I took one of our students to see Spider-Man: Across the Spider-Verse so that she could learn what the life of an arachnologist is like. It was a little more kinetic and colorful than I expected. But good! These spider-verse movies are spectacular and intense. To bring […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=70310</id>
-    <published>2023-06-03T11:33:17Z</published>
-    <updated>2023-06-03T11:33:17Z</updated>
-    <category term="Miscellaneous and Meta"/>
-  </entry>
-  <entry>
-    <title>Tom Morello is too mean to Nazis</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/06/02/tom-morello-is-too-mean-to-nazis/" type="text/html"/>
-    <content type="html">&lt;p&gt;&lt;a href="https://freethoughtblogs.com/pharyngula/files/2023/06/rage-against-the-machine.jpeg"&gt;&lt;img src="https://freethoughtblogs.com/pharyngula/files/2023/06/rage-against-the-machine-150x150.jpeg" alt="" width="150" height="150" class="alignright size-thumbnail wp-image-70308" srcset="https://freethoughtblogs.com/pharyngula/files/2023/06/rage-against-the-machine-150x150.jpeg 150w, https://freethoughtblogs.com/pharyngula/files/2023/06/rage-against-the-machine.jpeg 200w" sizes="(max-width: 150px) 100vw, 150px" /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p class="lead"&gt;The &lt;a href="https://www.msn.com/en-us/news/world/rage-against-the-machine-s-tom-morello-ripped-for-anti-nazi-post/ar-AA1c0BFy"&gt;NY Post claims&lt;/a&gt; &amp;#8212; consider the source, and be skeptical &amp;#8212; that Tom Morello is being canceled by his fans for being against Nazis. Tom Morello! &lt;i&gt;Rage Against the Machine&lt;/i&gt; Morello! He said something on Twitter.&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;Rage Against The Machine rocker Tom Morello, 59, is getting blasted on Twitter for sharing an anti-Nazi quote…&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;Wait for it, &amp;nbsp;w&amp;nbsp;a&amp;nbsp;i&amp;nbsp;t&amp;nbsp; for it…&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;…with fans accusing him of fascism and intolerance.&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;&amp;#8220;Fans.&amp;#8221; I don&amp;#8217;t think actual fans would be mad at &lt;em&gt;Tom Morello&lt;/em&gt; for being aggressively anti-Nazi. Have they listened to any of his music? Especially since this is the quote they found offensive.&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;German saying: If 9 people sit down at a table with 1 Nazi without protest, there are 10 Nazis at the table&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;Uh, yeah? That&amp;#8217;s right. The people who are complaining are the &amp;#8220;change my mind&amp;#8221; folks. The debate bros.&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;“While that sounds principled, it isn’t,” one Twitter user wrote. “It’s a mechanism to stop conversation. 9 people can sit down at a table with 1 Nazi and talk and educate said single Nazi on the issues and the truth with evidence and convert that Nazi. It’s called diplomacy.”&lt;/p&gt;
-&lt;p&gt;“So do you think it’s impossible to politely converse with someone to change their mind?” another asked.&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;You can&amp;#8217;t debate Nazis, full stop.&lt;/p&gt;
-&lt;p&gt;Hey, man, shouldn&amp;#8217;t you go back to listening to Hootie &amp;#038; the Blowfish? Rage Against the Machine isn&amp;#8217;t your jam.&lt;/p&gt;
-</content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">The NY Post claims — consider the source, and be skeptical — that Tom Morello is being canceled by his fans for being against Nazis. Tom Morello! Rage Against the Machine Morello! He said something on Twitter. Rage Against The Machine rocker Tom Morello, 59, is getting blasted on Twitter for sharing an anti-Nazi quote… […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=70307</id>
-    <published>2023-06-02T16:04:44Z</published>
-    <updated>2023-06-02T16:04:44Z</updated>
-    <category term="Politics, History, and Law"/>
   </entry>
   <entry>
     <title>OPEN DISCUSSION JUNE 2023</title>
