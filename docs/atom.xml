@@ -7,9 +7,28 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-06-05T18:05:20Z</updated>
+  <updated>2023-06-06T00:19:36Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Only Apple could pull this off</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/06/05/only-apple-could-pull-this-off/" type="text/html"/>
+    <content type="html">&lt;p class="lead"&gt;Apple unveiled a shiny new gadget today: Apple Vision Pro.&lt;/p&gt;
+&lt;div class="center"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/c5w-FK6fj3s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;p&gt;This looks really good! I want one. But as the summary of the glorious widget went on, it was clear I was not in their market. It&amp;#8217;s a complete wearable computer, with a whole new interface &amp;#8212; it&amp;#8217;s everything Microsoft and all those cyberpunk authors dreamed of, integrating the real world (it&amp;#8217;s transparent) with virtual reality. As I listened to the WWDC presentation, though, every glowing adjective and every new tech toy built into it made me cringe. The price was climbing by the second. Then at the end, they broke the news: &lt;strong&gt;$3500&lt;/strong&gt;. Nope, not for me. It&amp;#8217;s about what we ought to expect in something so shiny and new and packed with every bit of advanced technology they could pack into an extremely small space, though.&lt;/p&gt;
+&lt;p&gt;That price is not going to stop Apple, I&amp;#8217;m sure. This is going to be the new must-have technological marvel that every techbro and marketingbro and rich person with ludicrous amounts of surplus wealth is going to want. Apple is going to clean up, I predict.&lt;/p&gt;
+</content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Apple unveiled a shiny new gadget today: Apple Vision Pro. This looks really good! I want one. But as the summary of the glorious widget went on, it was clear I was not in their market. It’s a complete wearable computer, with a whole new interface — it’s everything Microsoft and all those cyberpunk authors […]</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=70328</id>
+    <published>2023-06-05T19:17:45Z</published>
+    <updated>2023-06-05T19:17:45Z</updated>
+    <category term="Technology"/>
+  </entry>
   <entry>
     <title>The good little robot</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/06/05/the-good-little-robot/" type="text/html"/>
@@ -112,28 +131,6 @@
     <updated>2023-06-04T12:43:54Z</updated>
     <category term="Bad science"/>
     <category term="Skepticism"/>
-  </entry>
-  <entry>
-    <title>A night visitor</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/06/04/a-night-visitor/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p class="lead">Last night, a bat got into my office and was flying around in circles. It got tired eventually and landed, very conveniently, in a wastebasket. I put a piece of paper over it and carried it outside. Fly free, little bat!</p>
-<p>Then we discovered this morning that it was still in the wastebasket. We dumped it out on the porch but otherwise left it alone — we put a box over it, very loosely, with plenty of gaps for escape, and left it a little bit of water, but otherwise, it’s on it’s own.</p>
-<p>All we got for our care was some weird little clicky growls.</p>
-<p><a href="https://freethoughtblogs.com/pharyngula/files/2023/06/bat.jpeg"><img src="https://freethoughtblogs.com/pharyngula/files/2023/06/bat-500x284.jpeg" alt="" width="500" height="284" class="aligncenter size-large wp-image-70313" srcset="https://freethoughtblogs.com/pharyngula/files/2023/06/bat-500x284.jpeg 500w, https://freethoughtblogs.com/pharyngula/files/2023/06/bat-150x85.jpeg 150w, https://freethoughtblogs.com/pharyngula/files/2023/06/bat-300x170.jpeg 300w, https://freethoughtblogs.com/pharyngula/files/2023/06/bat-768x436.jpeg 768w" sizes="(max-width: 500px) 100vw, 500px"/></a></p>
-<p>We might have a bat ‘problem’. They nest above our garage, and their exit is right above our mailbox, which I’ve noticed is getting covered with a lot of bat poop. I’m not complaining — I’ve always wanted to live in a house full of bats and spiders.</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Last night, a bat got into my office and was flying around in circles. It got tired eventually and landed, very conveniently, in a wastebasket. I put a piece of paper over it and carried it outside. Fly free, little bat! Then we discovered this morning that it was still in the wastebasket. We dumped […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=70312</id>
-    <published>2023-06-04T12:16:49Z</published>
-    <updated>2023-06-04T12:16:49Z</updated>
-    <category term="Organisms"/>
   </entry>
   <entry>
     <title>OPEN DISCUSSION JUNE 2023</title>
