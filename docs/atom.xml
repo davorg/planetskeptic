@@ -7,9 +7,26 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-06-20T18:05:36Z</updated>
+  <updated>2023-06-21T00:19:24Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Do you like blowflies?</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/06/20/do-you-like-blowflies/" type="text/html"/>
+    <content type="html">&lt;p class="lead"&gt;Because we have &lt;em&gt;so many&lt;/em&gt; blowflies.&lt;/p&gt;
+&lt;div class="center"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/1LegqoZuu5w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+</content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Because we have so many blowflies.</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=70472</id>
+    <published>2023-06-20T19:29:55Z</published>
+    <updated>2023-06-20T19:29:55Z</updated>
+    <category term="Organisms"/>
+  </entry>
   <entry>
     <title>The debate bros are getting wound up again</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/06/20/the-debate-bros-are-getting-wound-up-again/" type="text/html"/>
@@ -133,26 +150,6 @@ RFK Jr.: Now you’ve gone beyond my expertise.</p></blockquote>
     <published>2023-06-19T23:16:11Z</published>
     <updated>2023-06-19T23:16:11Z</updated>
     <category term="Technology"/>
-  </entry>
-  <entry>
-    <title>Chess shark</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/06/19/chess-shark/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p class="lead">I’ve seen that chess movie with Anya Taylor-Joy, and now I have lived it.</p>
-<p><a href="https://freethoughtblogs.com/pharyngula/files/2023/06/PZ-DESTROYED.png"><img src="https://freethoughtblogs.com/pharyngula/files/2023/06/PZ-DESTROYED.png" alt="" width="482" height="623" class="aligncenter size-full wp-image-70456" srcset="https://freethoughtblogs.com/pharyngula/files/2023/06/PZ-DESTROYED.png 482w, https://freethoughtblogs.com/pharyngula/files/2023/06/PZ-DESTROYED-116x150.png 116w, https://freethoughtblogs.com/pharyngula/files/2023/06/PZ-DESTROYED-232x300.png 232w" sizes="(max-width: 482px) 100vw, 482px"/></a></p>
-<p>It’s true. She totally crushed me. I could say that I haven’t played chess in 30 years, but it won’t help, since Iliana had never played it before at all.</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">I’ve seen that chess movie with Anya Taylor-Joy, and now I have lived it. It’s true. She totally crushed me. I could say that I haven’t played chess in 30 years, but it won’t help, since Iliana had never played it before at all.</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=70455</id>
-    <published>2023-06-19T15:48:06Z</published>
-    <updated>2023-06-19T15:48:06Z</updated>
-    <category term="Miscellaneous and Meta"/>
   </entry>
   <entry>
     <title>Book review: Surrender by Bono</title>
