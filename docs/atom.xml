@@ -7,9 +7,26 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-06-27T18:05:28Z</updated>
+  <updated>2023-06-28T00:21:41Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Science Cannot Protect Itself. It Needs Our Help.</title>
+    <link rel="alternate" href="https://richarddawkins.net/2023/06/science-cannot-protect-itself-it-needs-our-help/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">From the Richard Dawkins Foundation Newsletter. Subscribe here. Hello! It can be easy to take science for granted, to mistakenly believe there is a universal understanding of its importance and agreement about its value and function. Of course, we know that isn’t true. In the new issue of Skeptical Inquirer, Jerry Coyne and Luana Maroja deliver …</div>
+    </content>
+    <author>
+      <name>Jeff Dellinger</name>
+    </author>
+    <id>https://richarddawkins.net/?p=978555</id>
+    <published>2023-06-27T18:41:11Z</published>
+    <updated>2023-06-27T18:41:11Z</updated>
+    <category term="Original"/>
+    <category term="Politics"/>
+    <category term="Religion"/>
+    <category term="Science"/>
+  </entry>
   <entry>
     <title>A genuinely evil guy</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/06/27/a-genuinely-evil-guy/" type="text/html"/>
@@ -255,23 +272,6 @@
     <published>2023-04-01T11:51:35Z</published>
     <updated>2023-04-01T11:51:35Z</updated>
     <category term="Discussion"/>
-  </entry>
-  <entry>
-    <title>Science Cannot Be Tongue-Tied</title>
-    <link rel="alternate" href="https://richarddawkins.net/2023/03/science-cannot-be-tongue-tied/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">From the Richard Dawkins Foundation Newsletter. Subscribe here. Hello! It might be funny, if it weren’t so worrisome. Recent weeks have seen some absurd new instances of science beset by would-be censors operating under the banner of “inclusion.” Examples are many, and they come from all over the globe. We’ll look at an ongoing controversy in …</div>
-    </content>
-    <author>
-      <name>Jeff Dellinger</name>
-    </author>
-    <id>https://richarddawkins.net/?p=978517</id>
-    <published>2023-03-08T19:06:35Z</published>
-    <updated>2023-03-08T19:06:35Z</updated>
-    <category term="Original"/>
-    <category term="Politics"/>
-    <category term="Religion"/>
-    <category term="Science"/>
   </entry>
   <entry>
     <title>My new podcast!</title>
