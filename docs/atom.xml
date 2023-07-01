@@ -7,9 +7,24 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-07-01T06:05:49Z</updated>
+  <updated>2023-07-01T12:06:28Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>OPEN DISCUSSION JULY 2023</title>
+    <link rel="alternate" href="https://richarddawkins.net/2023/07/open-discussion-july-2023/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">This thread has been created for thoughtful, rational discussion on subjects for which there are not currently any dedicated threads. Please note that our Comment Policy applies as usual. There is a link to this at the foot of the page. If you would like to refer back to previous open discussion threads, the most …</div>
+    </content>
+    <author>
+      <name>Moderator</name>
+    </author>
+    <id>https://richarddawkins.net/?p=978562</id>
+    <published>2023-07-01T08:00:01Z</published>
+    <updated>2023-07-01T08:00:01Z</updated>
+    <category term="Discussion"/>
+    <category term="Featured"/>
+  </entry>
   <entry>
     <title>All I ever got off my comic books were sea monkeys</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/06/30/all-i-ever-got-off-my-comic-books-were-sea-monkeys/" type="text/html"/>
@@ -230,7 +245,6 @@
     <published>2023-06-01T08:02:31Z</published>
     <updated>2023-06-01T08:02:31Z</updated>
     <category term="Discussion"/>
-    <category term="Featured"/>
   </entry>
   <entry>
     <title>OPEN DISCUSSION MAY 2023</title>
@@ -286,20 +300,6 @@
     <published>2023-04-07T10:47:06Z</published>
     <updated>2023-04-07T10:47:06Z</updated>
     <category term="Quirky stuff"/>
-  </entry>
-  <entry>
-    <title>OPEN DISCUSSION APRIL 2023</title>
-    <link rel="alternate" href="https://richarddawkins.net/2023/04/open-discussion-april-2023/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">This thread has been created for thoughtful, rational discussion on subjects for which there are not currently any dedicated threads. Please note that our Comment Policy applies as usual. There is a link to this at the foot of the page. If you would like to refer back to previous open discussion threads, the most …</div>
-    </content>
-    <author>
-      <name>Moderator</name>
-    </author>
-    <id>https://richarddawkins.net/?p=978526</id>
-    <published>2023-04-01T11:51:35Z</published>
-    <updated>2023-04-01T11:51:35Z</updated>
-    <category term="Discussion"/>
   </entry>
   <entry>
     <title>My new podcast!</title>
