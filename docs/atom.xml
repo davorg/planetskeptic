@@ -7,9 +7,35 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-07-01T18:05:34Z</updated>
+  <updated>2023-07-02T00:23:05Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Twitter: The End</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/07/01/twitter-the-end/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p class="lead">This morning, I discovered that my Twitter account is “rate-limited”. Actually, <em>everyone’s</em> account is rate-limited.</p>
+<p><a href="https://freethoughtblogs.com/pharyngula/files/2023/07/twitter-is-dead.png"><img src="https://freethoughtblogs.com/pharyngula/files/2023/07/twitter-is-dead.png" alt="" width="451" height="404" class="aligncenter size-full wp-image-70597" srcset="https://freethoughtblogs.com/pharyngula/files/2023/07/twitter-is-dead.png 451w, https://freethoughtblogs.com/pharyngula/files/2023/07/twitter-is-dead-150x134.png 150w, https://freethoughtblogs.com/pharyngula/files/2023/07/twitter-is-dead-300x269.png 300w" sizes="(max-width: 451px) 100vw, 451px"/></a></p>
+<p>So I’m only allowed to read 600 tweets per day. What that means in practical terms, since I follow about 800 people, when I first log in Twitter will access all the tweets made by those people overnight, and then…I’ve reached my limit within minutes, and I’m done. That’s all it takes, Twitter is over for me before I take my first sip of coffee.</p>
+<p>I pity all those people who are paying $8 a month to get privileged access — now nobody is going to read their prioritized tweets, except other blue check users, and even then, only until they <em>finish</em> their breakfast, and then they’ll be done, too.</p>
+<p>Brilliant move, Elon. Just shut it down.</p>
+<p>Meanwhile, I’m on <a href="https://octodon.social/@pzmyers">@pzmyers@octodon.social</a>.</p>
+<hr/>
+<p>I don’t follow Elon Musk, but does he even realize that he’s just effectively blocked people who do? Probably not.</p>
+<p><a href="https://freethoughtblogs.com/pharyngula/files/2023/07/elon-about-to-do-something-stupid.jpeg"><img src="https://freethoughtblogs.com/pharyngula/files/2023/07/elon-about-to-do-something-stupid-500x355.jpeg" alt="" width="500" height="355" class="aligncenter size-large wp-image-70600" srcset="https://freethoughtblogs.com/pharyngula/files/2023/07/elon-about-to-do-something-stupid-500x355.jpeg 500w, https://freethoughtblogs.com/pharyngula/files/2023/07/elon-about-to-do-something-stupid-150x106.jpeg 150w, https://freethoughtblogs.com/pharyngula/files/2023/07/elon-about-to-do-something-stupid-300x213.jpeg 300w, https://freethoughtblogs.com/pharyngula/files/2023/07/elon-about-to-do-something-stupid.jpeg 640w" sizes="(max-width: 500px) 100vw, 500px"/></a></p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">This morning, I discovered that my Twitter account is “rate-limited”. Actually, everyone’s account is rate-limited. So I’m only allowed to read 600 tweets per day. What that means in practical terms, since I follow about 800 people, when I first log in Twitter will access all the tweets made by those people overnight, and then…I’ve […]</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=70596</id>
+    <published>2023-07-01T22:11:08Z</published>
+    <updated>2023-07-01T22:11:08Z</updated>
+    <category term="Miscellaneous and Meta"/>
+  </entry>
   <entry>
     <title>Anyone else feeling panicky?</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/07/01/anyone-else-feeling-panicky/" type="text/html"/>
@@ -120,25 +146,6 @@
     <published>2023-06-30T15:04:44Z</published>
     <updated>2023-06-30T15:04:44Z</updated>
     <category term="Politics, History, and Law"/>
-  </entry>
-  <entry>
-    <title>Learn something about Steatoda!</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/06/30/learn-something-about-steatoda/" type="text/html"/>
-    <content type="html">&lt;p class="lead"&gt;Here you go, an excellent introduction to the spiders I work on, the false widows.&lt;/p&gt;
-&lt;div class="center"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/FLTYLYwijtI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-&lt;p&gt;I should probably require all my students to watch it, because it strikes a good balance on something I struggle with: venom. I tell my students it&amp;#8217;s medically significant, a bite can hurt, and the venom can make you sick, but at the same time I tell them I&amp;#8217;ve never been bitten, I handle them all the time, and as long as you&amp;#8217;re gentle, there&amp;#8217;s no real danger.&lt;/p&gt;
-&lt;p&gt;Also interesting is the geographical difference. I&amp;#8217;ve never seen &lt;i&gt;Steatoda grossa&lt;/i&gt; or &lt;i&gt;S. nobilis&lt;/i&gt; around here &amp;#8212; it&amp;#8217;s all &lt;i&gt;Parasteatoda&lt;/i&gt; (I know, different genus), with some &lt;i&gt;S. triangulosa&lt;/i&gt; and rare &lt;i&gt;S. borealis&lt;/i&gt; in specific habitats. McEnery makes the interesting hypothesis that it may be the venom, that &lt;i&gt;Steatoda&lt;/i&gt; generally makes a venom that&amp;#8217;s significantly more potent against invertebrates than the venoms of native species, allowing them to thrive and take over.&lt;/p&gt;
-</content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Here you go, an excellent introduction to the spiders I work on, the false widows. I should probably require all my students to watch it, because it strikes a good balance on something I struggle with: venom. I tell my students it’s medically significant, a bite can hurt, and the venom can make you sick, […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=70582</id>
-    <published>2023-06-30T13:55:43Z</published>
-    <updated>2023-06-30T13:55:43Z</updated>
-    <category term="Spiders"/>
   </entry>
   <entry>
     <title>A history of women's desire</title>
