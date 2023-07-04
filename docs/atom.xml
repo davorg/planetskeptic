@@ -7,9 +7,26 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-07-03T18:05:43Z</updated>
+  <updated>2023-07-04T00:22:36Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Aww, baby spiders!</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/07/03/aww-baby-spiders/" type="text/html"/>
+    <content type="html">&lt;p class="lead"&gt;One of our goals this summer is to map out the developmental stages of our embryonic spiders, and to that end we made our first crude, short timelapse recording this afternoon. Aren&amp;#8217;t twitching baby animals so cute?&lt;/p&gt;
+&lt;div class="center"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/MKo9SEsr7cE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+</content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">One of our goals this summer is to map out the developmental stages of our embryonic spiders, and to that end we made our first crude, short timelapse recording this afternoon. Aren’t twitching baby animals so cute?</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=70618</id>
+    <published>2023-07-03T23:28:32Z</published>
+    <updated>2023-07-03T23:28:32Z</updated>
+    <category term="Spiders"/>
+  </entry>
   <entry>
     <title>If Galton invented it, it must be true</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/07/03/if-galton-invented-it-it-must-be-true/" type="text/html"/>
@@ -108,27 +125,6 @@
     <published>2023-07-02T13:52:02Z</published>
     <updated>2023-07-02T13:52:02Z</updated>
     <category term="Politics, History, and Law"/>
-  </entry>
-  <entry>
-    <title>No cheese, no tomato sauce? That’s not a pizza</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/07/02/no-cheese-no-tomato-sauce-thats-not-a-pizza/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p class="lead">But it still looks delicious. This is a <a href="https://www.washingtonpost.com/world/2023/06/28/pompeii-pizza-fresco-italy/">fresco found in the ruins of Pompeii</a>.</p>
-<p><a href="https://freethoughtblogs.com/pharyngula/files/2023/07/pompeiian-pizza.jpeg"><img src="https://freethoughtblogs.com/pharyngula/files/2023/07/pompeiian-pizza-500x334.jpeg" alt="" width="500" height="334" class="aligncenter size-large wp-image-70603" srcset="https://freethoughtblogs.com/pharyngula/files/2023/07/pompeiian-pizza-500x334.jpeg 500w, https://freethoughtblogs.com/pharyngula/files/2023/07/pompeiian-pizza-150x100.jpeg 150w, https://freethoughtblogs.com/pharyngula/files/2023/07/pompeiian-pizza-300x200.jpeg 300w, https://freethoughtblogs.com/pharyngula/files/2023/07/pompeiian-pizza-768x512.jpeg 768w, https://freethoughtblogs.com/pharyngula/files/2023/07/pompeiian-pizza.jpeg 916w" sizes="(max-width: 500px) 100vw, 500px"/></a></p>
-<p>I stared at that image trying to figure out what’s in it: focaccio bread, was easy enough, seasoned with pesto, but what’s on it? Is it all dried fruit, which would make it rather sweeter than I’d like, or are there onions and mushrooms in there? There’s not enough information in the picture, I’d have to free wheel it.</p>
-<p>The more I stared, the hungrier I got. I could probably make the focaccio, since I won’t find it in the markets around here, and I make pesto all the time. But what to top it with? I’d want something more savory, with dried fruit on the side, and of course I’d need a cup of red wine. This could be an all day project.</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">But it still looks delicious. This is a fresco found in the ruins of Pompeii. I stared at that image trying to figure out what’s in it: focaccio bread, was easy enough, seasoned with pesto, but what’s on it? Is it all dried fruit, which would make it rather sweeter than I’d like, or are […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=70602</id>
-    <published>2023-07-02T13:16:06Z</published>
-    <updated>2023-07-02T13:16:06Z</updated>
-    <category term="Miscellaneous and Meta"/>
   </entry>
   <entry>
     <title>OPEN DISCUSSION JULY 2023</title>
