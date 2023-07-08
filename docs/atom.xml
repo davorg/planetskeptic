@@ -7,9 +7,70 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-07-08T06:05:42Z</updated>
+  <updated>2023-07-08T12:06:36Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Variation is wonderful</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/07/08/variation-is-wonderful/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p><a href="https://freethoughtblogs.com/pharyngula/files/2023/07/vitruvian-man.jpeg"><img src="https://freethoughtblogs.com/pharyngula/files/2023/07/vitruvian-man-108x150.jpeg" alt="" width="108" height="150" class="alignright size-thumbnail wp-image-70665" srcset="https://freethoughtblogs.com/pharyngula/files/2023/07/vitruvian-man-108x150.jpeg 108w, https://freethoughtblogs.com/pharyngula/files/2023/07/vitruvian-man-216x300.jpeg 216w, https://freethoughtblogs.com/pharyngula/files/2023/07/vitruvian-man.jpeg 474w" sizes="(max-width: 108px) 100vw, 108px"/></a></p>
+<p class="lead">I’m stealing a <a href="https://twitter.com/KathleenDePlume/status/1677584017556922368">fascinating thread on Twitter from Kathleen DePlume</a>. In some ways, it’s unsurprising: if you compound the natural variation in enough parameters, you’ll discover that everyone is unique. It’s a question of including broad tolerances, and the real question is…how broad do they have to be to accommodate 99% of humanity? And another question would be…don’t the remaining 1% deserve a place as well? The math is nifty but it isn’t the whole of human reality.</p>
+<blockquote><p>So, did you ever wonder why car seats and seatbelts are so wonderfully adjustable? It all goes back to cockpit manufacture.</p>
+<p>The USAF wanted to make aircraft with seats and belts fitted to the “normal” airman; the tolerances weren’t too wide, but lots of fellas are normal, right?</p>
+<p>Wrong.</p>
+<p>As it turned out, hilariously wrong.</p>
+<p>You see, they measured several thousand enlisted men (just men – these were the dark times before women were people) on just a few things.</p>
+<p>Leg length, knee to ankle, hip to knee, various seat measurements. Seating height to shoulder.</p>
+<p>Shoulder width. Arm length. Shoulder to elbow, elbow to wrist.</p>
+<p>You get the point.</p>
+<p>Measurements that would allow the cockpit and belts to be correct and safe, as long as they were “close enough” to the normal specifications.</p>
+<p>So, after taking these measurements – a great undertaking, the measures got so good at it that they could do all 38* measurements in under 2 minutes – they analysed the data.</p>
+<p>*I might be misremembering the exact number</p>
+<p>They figured if every measurement had tolerances that fit 30% or so “normal” men, then they’d lose a few percent to the abnormally shaped weirdos (you know the ones – people whose arms are way longer than their height, or who have tiny hands compared to their feet?) they’d still fit at least 20% of their potential pilots into the custom measured Everyman cockpits, right?</p>
+<p>Wrong.</p>
+<p>So, so very wrong.</p>
+<p>How many pilots do you think fit in the normal measurements on all 38 metrics?</p>
+<p>Go on, take a guess. I’ll wait.</p>
+<p>Actually, no I won’t, because I’m writing this as a thread.</p>
+<p>Zero. The answer is zero.</p>
+<p>Not a single soldier was within tolerances on all measurements.</p>
+<p>Out of thousands and thousands of airmen measured, every last man was abnormal on at least one.</p>
+<p>It turns out that while yes, arm length and leg length aren’t exactly independent (if you’re tall you probably have long arms AND long legs), their r-value isn’t anything like high enough for the purposes the Air Force had in mind. They’re probably long by different amounts.</p>
+<p>So it isn’t as simple as going 0.3^38 (a number so small it should be obvious it’ll round to 0), it also wasn’t what they assumed (0.3x [almost 1]^37).</p>
+<p>It was somewhere in between.</p>
+<p>Okay, so where did that leave them?</p>
+<p>It left them knowing with utter certainty that they could not design a static cockpit and recruit airmen to fit it.</p>
+<p>They had to go the other way. Broaden the tolerances – make it so they could account for broad differences in measurements.</p>
+<p>They had to invent adjustable seats. Adjustable straps for the safety harnesses, seats that could travel back and forth a little bit, that sort of thing.</p>
+<p>Okay, but how does this relate to cars?</p>
+<p>Well, there’s the obvious: once it’s been invented, why not use it in cars? But the older folk among us probably remember bench seats, and maybe even a time when you didn’t put your seatbelt on because you were insulting the driver if you did.</p>
+<p>What changed?</p>
+<p>Funnily enough, another clever statistician.</p>
+<p>This one was tasked with keeping very expensive pilots alive after the Air Force had spent so much money training them up. He was supposed to be looking at the safety equipment within planes, but this was after the war, so…</p>
+<p>…pilots weren’t actually dying in the air that much.</p>
+<p>Mostly what killed dashing young men back in those days was car crashes.</p>
+<p>So the statistician came back with the findings that pilots would live longer if they were forced to wear their damned seatbelts when driving.</p>
+<p>Funnily enough, this was a huge part of the impetus to make it law that all passengers have to wear belts in cars.</p>
+<p>It’s only sensible – but humans seldom do sensible things unless forced. And pilots are very much human.</p>
+<p>So we all wear seatbelts now because pilots are expensive.</p>
+<p>The moral of all this?</p>
+<p>Mostly that maths is interesting; but also that if someone is jumping up and down demanding their right to call themself “normal”, they are full of sh*t and don’t know what they’re talking about.</p>
+<p>Mathematically speaking.</p></blockquote>
+<p>Unfortunately, the thread lacks any mention of sources. I’d want to know a lot more about it before I could cite it as interesting history without any caveats.</p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">I’m stealing a fascinating thread on Twitter from Kathleen DePlume. In some ways, it’s unsurprising: if you compound the natural variation in enough parameters, you’ll discover that everyone is unique. It’s a question of including broad tolerances, and the real question is…how broad do they have to be to accommodate 99% of humanity? And another […]</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=70664</id>
+    <published>2023-07-08T11:49:59Z</published>
+    <updated>2023-07-08T11:49:59Z</updated>
+    <category term="Science"/>
+  </entry>
   <entry>
     <title>Well, that’s going to ruin the weekend</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/07/07/well-thats-going-to-ruin-the-weekend/" type="text/html"/>
@@ -104,26 +165,6 @@
     <published>2023-07-07T12:34:29Z</published>
     <updated>2023-07-07T12:34:29Z</updated>
     <category term="Science"/>
-  </entry>
-  <entry>
-    <title>Social media confusion!</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/07/07/social-media-confusion/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p class="lead">There are too many options for social media so far. Twitter is dying of a surfeit of Nazis and an incompetent overlord; Bluesky I haven’t tried, but I don’t trust it, since it’s run by the <em>old</em> overlord, and will probably follow the same trajectory; I’ve been on Mastodon for a while, and am comfortable with it; the new kid on the block is Threads, which is owned by the repulsive Zuckerberg. Let’s see what the First Dog on the Moon has to say about it!</p>
-<div id="attachment_70649" style="width: 510px" class="wp-caption aligncenter"><a href="https://freethoughtblogs.com/pharyngula/files/2023/07/social-media-choices.jpg"><img src="https://freethoughtblogs.com/pharyngula/files/2023/07/social-media-choices-500x864.jpg" alt="" width="500" height="864" class="size-large wp-image-70649" srcset="https://freethoughtblogs.com/pharyngula/files/2023/07/social-media-choices-500x864.jpg 500w, https://freethoughtblogs.com/pharyngula/files/2023/07/social-media-choices-87x150.jpg 87w, https://freethoughtblogs.com/pharyngula/files/2023/07/social-media-choices-174x300.jpg 174w, https://freethoughtblogs.com/pharyngula/files/2023/07/social-media-choices.jpg 686w" sizes="(max-width: 500px) 100vw, 500px"/></a><p class="wp-caption-text"><a href="https://www.theguardian.com/commentisfree/2023/jul/07/twitter-is-burning-bluesky-is-smug-where-is-the-best-place-to-do-your-pathetic-doomscrolling">First Dog on the Moon</a></p></div>
-<p>I think the final category, “Owner seeks dominion over the Earth,” is definitive, which means I’ll stick with the distributed community of federated websites that lacks an owner.</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">There are too many options for social media so far. Twitter is dying of a surfeit of Nazis and an incompetent overlord; Bluesky I haven’t tried, but I don’t trust it, since it’s run by the old overlord, and will probably follow the same trajectory; I’ve been on Mastodon for a while, and am comfortable […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=70648</id>
-    <published>2023-07-07T11:57:51Z</published>
-    <updated>2023-07-07T11:57:51Z</updated>
-    <category term="Miscellaneous and Meta"/>
   </entry>
   <entry>
     <title>How neo-Nazis are radicalising gamers</title>
