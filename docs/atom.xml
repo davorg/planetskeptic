@@ -7,9 +7,30 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-07-28T18:05:40Z</updated>
+  <updated>2023-07-29T00:18:24Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Beauty and pain</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/07/28/beauty-and-pain/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p class="lead">Tomorrow, we go on a field trip to the <a href="https://morris.umn.edu/sustainability-umn-morris/sustainability-goals-initiatives/ecostation">UMM EcoStation</a>.</p>
+<p>Today, I suffer with an Achilles tendon flare-up — I have nasty bone spurs on my heels that sometimes stab my tendon, triggering inflammation, and I’m reduced to hobbling about. I’m still going! I may end up just sitting under a tree and looking at ground spiders, while the students range about. It’ll still be good.<br/>
+<a href="https://freethoughtblogs.com/pharyngula/files/2023/07/viewfromvikingvalleyhill_0.jpg"><img src="https://freethoughtblogs.com/pharyngula/files/2023/07/viewfromvikingvalleyhill_0-500x225.jpg" alt="" width="500" height="225" class="aligncenter size-large wp-image-70847" srcset="https://freethoughtblogs.com/pharyngula/files/2023/07/viewfromvikingvalleyhill_0-500x225.jpg 500w, https://freethoughtblogs.com/pharyngula/files/2023/07/viewfromvikingvalleyhill_0-150x68.jpg 150w, https://freethoughtblogs.com/pharyngula/files/2023/07/viewfromvikingvalleyhill_0-300x135.jpg 300w, https://freethoughtblogs.com/pharyngula/files/2023/07/viewfromvikingvalleyhill_0-768x346.jpg 768w, https://freethoughtblogs.com/pharyngula/files/2023/07/viewfromvikingvalleyhill_0.jpg 1000w" sizes="(max-width: 500px) 100vw, 500px"/></a></p>
+<p>Right now, it’s ibuprofen and ice.</p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Tomorrow, we go on a field trip to the UMM EcoStation. Today, I suffer with an Achilles tendon flare-up — I have nasty bone spurs on my heels that sometimes stab my tendon, triggering inflammation, and I’m reduced to hobbling about. I’m still going! I may end up just sitting under a tree and looking […]</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=70846</id>
+    <published>2023-07-28T20:59:21Z</published>
+    <updated>2023-07-28T20:59:21Z</updated>
+    <category term="Environment"/>
+  </entry>
   <entry>
     <title>A natural experiment in policing</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/07/28/a-natural-experiment-in-policing/" type="text/html"/>
@@ -132,29 +153,6 @@
     <id>https://newhumanist.org.uk/articles/6149/every-year-i-forget#utm_source=rss</id>
     <published>2023-07-27T06:00:00Z</published>
     <updated>2023-07-27T06:00:00Z</updated>
-  </entry>
-  <entry>
-    <title>Violent weather</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/07/26/violent-weather/" type="text/html"/>
-    <content type="html">&lt;p class='lead'&gt;We had a tough time getting sleep last night &amp;#8212; a severe thunderstorm slammed into us. &lt;em&gt;Literally&lt;/em&gt; slammed us, since the doors to our house, which we had open to encourage air circulation, suddenly all banged shut and then banged open and closed again as we got a little more circulation than we wanted. We were running around the house sealing everything up while the wind howled at us. I had a window open in my office, and I got soaked just walking into close it. Then, for the next several hours, there was a freight train roaring overhead, with constant flashes of lightning. It was not exactly conducive to rest.&lt;/p&gt;
-&lt;p&gt;The cat disappeared, too. She does not respond well to thunderstorms.&lt;/p&gt;
-&lt;p&gt;Anyway, our garden was well-watered!&lt;/p&gt;
-&lt;p&gt;These kinds of fierce storms have been getting more common in recent years. Will people wake up to the reality of climate change someday?&lt;/p&gt;
-&lt;p&gt;Meanwhile, down south where Republicans rule, the ocean off the Florida coast hit 38°C (101°F if you persist in that clumsy temperature scheme) this week. Imagine a whole seacoast at greater than body temperature! You wouldn&amp;#8217;t go to the beach to cool off, you&amp;#8217;d go to witness the fish kills washing up on the shore.&lt;/p&gt;
-&lt;div class="center"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/obnyj26GMMg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-&lt;p&gt;Also meanwhile, &lt;a href="https://www.theguardian.com/world/2023/jul/25/italy-wildfires-palermo-temperatures-sicily-airport-heatwave"&gt;Sicily is on fire&lt;/a&gt;. Temperatures hit 47°C. Much of the island is without power because powerlines have burned down, and underground cables under the roadways have melted.&lt;/p&gt;
-&lt;p&gt;We&amp;#8217;re relatively lucky up here in the north, except for the fact that Canada is occasionally reduced to airborne particulates. People have to figure this out sometime. Right? They will, won&amp;#8217;t they?&lt;/p&gt;
-</content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">We had a tough time getting sleep last night — a severe thunderstorm slammed into us. Literally slammed us, since the doors to our house, which we had open to encourage air circulation, suddenly all banged shut and then banged open and closed again as we got a little more circulation than we wanted. We […]</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=70832</id>
-    <published>2023-07-26T12:24:40Z</published>
-    <updated>2023-07-26T12:24:40Z</updated>
-    <category term="Environment"/>
   </entry>
   <entry>
     <title>The Barbie movie: Is everything worthy of cultural critique?</title>
