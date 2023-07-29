@@ -7,9 +7,28 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-07-29T12:05:34Z</updated>
+  <updated>2023-07-29T18:05:20Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>It’s EcoStation day!</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/07/29/its-ecostation-day/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p class="lead">I’m taking my students on a field trip to the <a href="https://morris.umn.edu/sustainability-umn-morris/sustainability-goals-initiatives/ecostation">UMM EcoStation</a> this morning. It’s a relatively perfect day: temperature will be in the low 20s (C; 70s F) and a bit cloudy, so cool. Unfortunately…97% humidity? It’s perfect spider weather, anyway. We’ll just wander around a bit, see what we can see, maybe find some interesting spiders (wait, what am I saying? All spiders are interesting) and get a spot of lunch before coming home.</p>
+<p>Achilles is feeling somewhat better this morning, though, so I’d better not push it too hard. He’s sensitive and is likely to retire to his tent in a snit, you know.</p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">I’m taking my students on a field trip to the UMM EcoStation this morning. It’s a relatively perfect day: temperature will be in the low 20s (C; 70s F) and a bit cloudy, so cool. Unfortunately…97% humidity? It’s perfect spider weather, anyway. We’ll just wander around a bit, see what we can see, maybe find […]</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=70850</id>
+    <published>2023-07-29T12:50:34Z</published>
+    <updated>2023-07-29T12:50:34Z</updated>
+    <category term="Miscellaneous and Meta"/>
+  </entry>
   <entry>
     <title>Beauty and pain</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/07/28/beauty-and-pain/" type="text/html"/>
@@ -127,24 +146,6 @@
     <published>2023-07-28T11:49:19Z</published>
     <updated>2023-07-28T11:49:19Z</updated>
     <category term="Atheism and Skepticism"/>
-  </entry>
-  <entry>
-    <title>This young person gets it better than some senior scientists</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/07/27/this-young-person-gets-it-better-than-some-senior-scientists/" type="text/html"/>
-    <content type="html">&lt;p class="lead"&gt;He&amp;#8217;s right, you know: you can&amp;#8217;t define sex by a single parameter in a multifactorial constellation of interrelated phenomena.&lt;/p&gt;
-&lt;div class="center"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/cnshnUk-UKU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-&lt;p&gt;It&amp;#8217;s weird how some people are desperate to reduce complex stuff to a single binary. All you have to do is look at people and see that can&amp;#8217;t possibly work.&lt;/p&gt;
-</content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">He’s right, you know: you can’t define sex by a single parameter in a multifactorial constellation of interrelated phenomena. It’s weird how some people are desperate to reduce complex stuff to a single binary. All you have to do is look at people and see that can’t possibly work.</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=70834</id>
-    <published>2023-07-27T13:50:49Z</published>
-    <updated>2023-07-27T13:50:49Z</updated>
-    <category term="Feminism, Gender, and Equality"/>
   </entry>
   <entry>
     <title>Every year, I forget!</title>
