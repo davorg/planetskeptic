@@ -7,9 +7,26 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-08-09T18:05:54Z</updated>
+  <updated>2023-08-10T00:19:47Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>The Conflict between Fact and Feeling</title>
+    <link rel="alternate" href="https://richarddawkins.net/2023/08/the-conflict-between-fact-and-feeling/" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">From the Richard Dawkins Foundation Newsletter. Subscribe here. Hello! Bertha Vazquez, CFI’s director of education, is a tireless advocate for science education (and science educators). Her love for science and sense of wonder are contagious. In a recent interview discussing the launch of CFI’s new Generation Skeptics education program, she said, “science doesn’t try to prove …</div>
+    </content>
+    <author>
+      <name>Jeff Dellinger</name>
+    </author>
+    <id>https://richarddawkins.net/?p=978573</id>
+    <published>2023-08-09T20:09:54Z</published>
+    <updated>2023-08-09T20:09:54Z</updated>
+    <category term="Original"/>
+    <category term="Politics"/>
+    <category term="Religion"/>
+    <category term="Science"/>
+  </entry>
   <entry>
     <title>Are all TERFs this stupid?</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/08/09/are-all-terfs-this-stupid/" type="text/html"/>
@@ -268,20 +285,6 @@
     <id>https://richarddawkins.net/?p=978548</id>
     <published>2023-06-01T08:02:31Z</published>
     <updated>2023-06-01T08:02:31Z</updated>
-    <category term="Discussion"/>
-  </entry>
-  <entry>
-    <title>OPEN DISCUSSION MAY 2023</title>
-    <link rel="alternate" href="https://richarddawkins.net/2023/05/open-discussion-may-2023/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">This thread has been created for thoughtful, rational discussion on subjects for which there are not currently any dedicated threads. Please note that our Comment Policy applies as usual. There is a link to this at the foot of the page. If you would like to refer back to previous open discussion threads, the most …</div>
-    </content>
-    <author>
-      <name>Moderator</name>
-    </author>
-    <id>https://richarddawkins.net/?p=978543</id>
-    <published>2023-05-01T10:11:05Z</published>
-    <updated>2023-05-01T10:11:05Z</updated>
     <category term="Discussion"/>
   </entry>
   <entry>
