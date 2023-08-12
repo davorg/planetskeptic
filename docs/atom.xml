@@ -7,9 +7,28 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-08-11T18:05:42Z</updated>
+  <updated>2023-08-12T00:15:43Z</updated>
   <link rel="self" href="https://skeptic.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://skeptic.theplanetarium.org/</id>
+  <entry>
+    <title>Skepticon NOW!</title>
+    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/08/11/skepticon-now/" type="text/html"/>
+    <content type="html">&lt;p class="lead"&gt;I&amp;#8217;m missing my first &lt;a href="https://skepticon.org/"&gt;Skepticon&lt;/a&gt;, which is going on this weekend. Unfortunately, I can&amp;#8217;t travel at all. My son has tickets and invited me to the &lt;a href="https://www.ticketmaster.com/grand-funk-railroad-jefferson-starship-waite-park-minnesota-08-12-2023/event/06005E6918D2AC9F"&gt;Grand Funk Railroad &amp;#038; Jefferson Starship concert&lt;/a&gt; tomorrow, and I had to turn that down, too. This old age thing is really crimping my style.&lt;/p&gt;
+&lt;p&gt;Skepticon stuff is happening online, at least.&lt;/p&gt;
+&lt;div class="center"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/lTrJf83SqNQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;p&gt;I guess I&amp;#8217;m reduced to doing everything virtually for now. See you there!&lt;/p&gt;
+</content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">I’m missing my first Skepticon, which is going on this weekend. Unfortunately, I can’t travel at all. My son has tickets and invited me to the Grand Funk Railroad &amp; Jefferson Starship concert tomorrow, and I had to turn that down, too. This old age thing is really crimping my style. Skepticon stuff is happening […]</div>
+    </summary>
+    <author>
+      <name>PZ Myers</name>
+    </author>
+    <id>https://freethoughtblogs.com/pharyngula/?p=70930</id>
+    <published>2023-08-11T22:55:10Z</published>
+    <updated>2023-08-11T22:55:10Z</updated>
+    <category term="Conferences"/>
+  </entry>
   <entry>
     <title>Sherri Tenpenny is not a doctor</title>
     <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/08/11/sherri-tenpenny-is-not-a-doctor/" type="text/html"/>
@@ -146,26 +165,6 @@
     <category term="Politics"/>
     <category term="Religion"/>
     <category term="Science"/>
-  </entry>
-  <entry>
-    <title>Are all TERFs this stupid?</title>
-    <link rel="alternate" href="https://freethoughtblogs.com/pharyngula/2023/08/09/are-all-terfs-this-stupid/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p class="lead">The common prefix “trans” seems to discombobulate them. Here’s a cis woman who mentioned she’s getting a <a href="https://twitter.com/_celia_bedelia_/status/1686845174339489793">trans vaginal ultrasound</a>, outraging the usual mob of baying buffoons:</p>
-<p><a href="https://freethoughtblogs.com/pharyngula/files/2023/08/transvaginal-ultrasound.jpg"><img src="https://freethoughtblogs.com/pharyngula/files/2023/08/transvaginal-ultrasound-500x697.jpg" alt="" width="500" height="697" class="aligncenter size-large wp-image-70916" srcset="https://freethoughtblogs.com/pharyngula/files/2023/08/transvaginal-ultrasound-500x697.jpg 500w, https://freethoughtblogs.com/pharyngula/files/2023/08/transvaginal-ultrasound-108x150.jpg 108w, https://freethoughtblogs.com/pharyngula/files/2023/08/transvaginal-ultrasound-215x300.jpg 215w, https://freethoughtblogs.com/pharyngula/files/2023/08/transvaginal-ultrasound-768x1071.jpg 768w, https://freethoughtblogs.com/pharyngula/files/2023/08/transvaginal-ultrasound.jpg 952w" sizes="(max-width: 500px) 100vw, 500px"/></a></p>
-<p>Are we really expected to take these ignorant clowns seriously?</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">The common prefix “trans” seems to discombobulate them. Here’s a cis woman who mentioned she’s getting a trans vaginal ultrasound, outraging the usual mob of baying buffoons: Are we really expected to take these ignorant clowns seriously?</div>
-    </summary>
-    <author>
-      <name>PZ Myers</name>
-    </author>
-    <id>https://freethoughtblogs.com/pharyngula/?p=70915</id>
-    <published>2023-08-09T15:33:56Z</published>
-    <updated>2023-08-09T15:33:56Z</updated>
-    <category term="Feminism, Gender, and Equality"/>
   </entry>
   <entry>
     <title>How advances in organ donation are saving lives</title>
