@@ -14,14 +14,14 @@ jobs:
 
     steps:
     - name: Checkout
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
 
     - name: Create pages
       run: |
         perlanet > perlanet.log 2>&1
 
     - name: Archive perlanet logs
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         name: perlanet.log
         path: ./perlanet.log
@@ -34,7 +34,7 @@ jobs:
         key: ${{ secrets.GITBOARD_KEY }}
 
     - name: Update pages artifact
-      uses: actions/upload-pages-artifact@v2
+      uses: actions/upload-pages-artifact@v3
       with:
         path: docs/
 
@@ -50,5 +50,5 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v2
+        uses: actions/deploy-pages@v4
     
